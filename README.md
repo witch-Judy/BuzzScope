@@ -1,6 +1,15 @@
-# 🔍 BuzzScope - Keyword Tracking Across Tech Communities
+# BuzzScope - Keyword Tracking Across Tech Communities
 
 BuzzScope is a comprehensive keyword tracking application that monitors keyword popularity across multiple tech communities including Hacker News, Reddit, Discord, and YouTube. It provides detailed analytics, trend analysis, and cross-platform insights.
+
+## Current Status
+
+✅ **Fully Functional** - The application is ready for use with:
+- Pre-processed historical data for 4 keywords (ai, iot, mqtt, unified_namespace)
+- Optimized Streamlit frontend with cached results
+- Discord special display with channel distribution charts
+- Cross-platform comparison and trend analysis
+- All major features working and tested
 
 ## ✨ Features
 
@@ -26,6 +35,18 @@ BuzzScope is a comprehensive keyword tracking application that monitors keyword 
 
 ## 🚀 Quick Start
 
+### Option 1: Use Pre-processed Data (Recommended)
+
+The application comes with pre-processed data for 4 keywords. Simply run:
+
+```bash
+streamlit run app_simple_historical.py --server.port 8501
+```
+
+Then visit http://localhost:8501 to see the analysis results.
+
+### Option 2: Full Installation
+
 ### 1. Installation
 
 ```bash
@@ -42,7 +63,7 @@ pip install -r requirements.txt
 Copy the environment template and configure your API keys:
 
 ```bash
-cp env.template .env
+cp env.example .env
 ```
 
 Edit `.env` with your API credentials:
