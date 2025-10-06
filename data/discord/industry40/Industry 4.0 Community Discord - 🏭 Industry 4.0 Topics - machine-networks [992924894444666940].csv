@@ -1,0 +1,1004 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"756247672637358181","sherylmccrary","2022-07-03T06:54:08.7460000+08:00","Great channel idea, @MParris .","",""
+"794020366536146977","mparris","2022-07-03T07:40:24.4470000+08:00","Moving here under Automation Stack Discussions","",""
+"794020366536146977","mparris","2022-07-03T07:40:47.6530000+08:00","A great resource for network gear recommendations is Josh at Traceroute. (@varghesejm )
+
+https://www.traceroutellc.com/blog","","👍 (6)"
+"794020366536146977","mparris","2022-08-04T20:38:43.6060000+08:00","Industrial Automation and Control System Taxonomy
+Definitions of Terms
+(cyber-security glossary)
+
+https://gca.isa.org/hubfs/21-29%20-%20ISAGCA/ISAGCA-IACS%20Taxonomy%20Definitions%20of%20Terms.pdf","","👍 (2)"
+"1003237589421137992","gregory.g.","2022-08-04T22:11:27.7760000+08:00","Do you know if ISAGCA shared an update of the well-known perdue model integrating the iiot/broker technologies? I'm wondering in what network segmentation layer they would put it. DMZ?","",""
+"745796393855352953","thedavidschultz","2022-08-04T23:44:46.5220000+08:00","Commonly goes in DMZ. I have also seen a broker at every layers that bridges to the one at a higher level.","","👍 (1)"
+"794020366536146977","mparris","2022-08-04T23:59:58.3840000+08:00","I think the Purdue model for network architectures is slowly dying in favor of the ISA/IEC 62443 Zones & Conduits concept.
+
+Even being discussed back in 2016...
+https://www.isa.org/intech-home/2016/march-april/features/new-integration-architectures-for-federated-system","",""
+"1003237589421137992","gregory.g.","2022-08-05T00:58:03.7640000+08:00","Good article. Thanks @MParris .
+The old model makes it quite complex if we want to keep its restrictions at every segmentation level 1,2,3.. in order to get connections or info from all levels to feed a data historian or mqtt broker. In my previous company we were struggling a bit to make the transition. I guess many companies will struggle to converge from perdue to the IEC62443 concept. 🤓","",""
+"817835202746253344","IIoT#4707","2022-08-05T00:58:04.0530000+08:00","GG @Gregory G., you just advanced to level 1!","",""
+"891563487241842699","jbonhage155","2022-08-05T05:11:34.8970000+08:00","Anyone set up networking between cloud and plant floor? 
+I'm curious on the best way to set up which reduces the number of hops / latency.","","👍 (3)"
+"867075936054149191","rickbullotta","2022-08-05T21:51:00.8920000+08:00","You're opening up a can of worms here.  Which cloud?  Firewalling? VPN? Private or hybrid cloud config?  I would STRONGLY recommend choosing your application/SaaS vendors/cloud vendor, then hiring an experienced integrator/expert to do the setup.","",""
+"891563487241842699","jbonhage155","2022-08-06T01:00:53.2300000+08:00","ha, I agree with the can of worms. AWS cloud specifically. The application is MES but I don't see any expertise/involved from the vendor on the network implementation side of things. Specifically curious how to most directly map VLANs defined in AWS to the plant. I see can a lot of hops/latency if the traffic needs to go though corporate firewalls.","",""
+"867075936054149191","rickbullotta","2022-08-06T01:08:50.0270000+08:00","You’ll want some kind of firewalls or you’ll be opening up big safety and security risks.","",""
+"528668306690015284","vatsalshah","2022-08-07T02:09:47.2940000+08:00","As Rick suggested, you might want to get an experienced SI to design the layout. There are some new ""hybrid Purdue"" concepts out there for lower latency OT to Cloud configs. Not advisable to connect PLCs or Controllers to the cloud directly to achieve latency - ideally, there should be some gateway or aggregation layer at the plant level.","","💯 (2)"
+"867075936054149191","rickbullotta","2022-08-08T01:53:26.0950000+08:00","Know any good edge platforms? 😉","",""
+"528668306690015284","vatsalshah","2022-08-08T02:46:24.2670000+08:00","Know the best one out there - Ideal for the use case but didn't want to plug it before 😉 
+https://litmus.io/litmus-edge/ if @Joe Bonhage would like to try it. Wouldn't solve the networking / SDN layers but will create a secure bridge to cloud.","","👍🏼 (3)"
+"571815818308878347","binyameen_980","2022-08-12T17:14:31.5890000+08:00","Question:
+How do you know that the company or a Business unit fulfills the basic network infrastructure requirements before starting DT journey?","",""
+"571815818308878347","binyameen_980","2022-08-12T17:15:03.8480000+08:00","How do I calculate the the basic requirements if I want to connect everything to the ecosystem?","",""
+"571815818308878347","binyameen_980","2022-08-12T17:15:27.1750000+08:00","Any guideline out there I can refer to?","",""
+"766684226455207996","bright_hummingbird_31342","2022-08-12T23:20:34.9540000+08:00","Ask for the network topology or a description of the network. It’s not necessarily important to see every node. It’s important to know what makes up the core, distribution, access, etc. 
+
+Are there layer 3 managed switches? Are they connected with aggregated or multi-gig links? Are they practicing segmentation? Is there a WAN or dedicated internet circuit in place? If so and it was not difficult to get a hold of someone who could answer this, they’re probably ready.
+
+If you can’t get a descriptive answer or it’s just unmanaged switches and residential-grade broadband, they’re probably not ready.","",""
+"571815818308878347","binyameen_980","2022-08-13T01:50:57.4560000+08:00","This is great!","",""
+"571815818308878347","binyameen_980","2022-08-13T01:54:47.3690000+08:00","this is exactly what I was looking for. Is there some critical requirements checklist or reference framework for network infrastructure required?","",""
+"817835202746253344","IIoT#4707","2022-08-13T01:54:47.6990000+08:00","GG @Binyameen A, you just advanced to level 9!","",""
+"898217314741280828","hobbes1069","2022-08-13T02:35:04.5610000+08:00","So I'm ready to go at the house! 🤣  
+I've got all Ubiquity hardware and I have both a trusted and untrusted VLANs and and untrusted guest Wifi. Alexa's, other ""smart"" things are all on the untrusted network EXCEPT the Roku's. Being able to authenticate or remote control from my phone is too convenient. USG for Gigabit internet (currently cable but waiting for C-Spire fiber to get to my neighborhood), managed 24 port switch in the ""data"" closet in the office, two managed 5 port switches for where I needed a few more connections, and two UAP AC Lite's for Wifi access.","","👍 (3)"
+"766684226455207996","bright_hummingbird_31342","2022-08-13T05:34:19.1030000+08:00","I don't want to give a lazy ""it depends"" answer, but there is no hard-and-fast rule.  With networks, companies tend to invest in them or not invest in them.  In terms of readiness, you're basically looking to avoid a situation in which a company has big, flat, unmanaged network with no technical expertise available to do things you may need done (e.g., whitelist ports, setup VLANs).  The approach required for a small office network is completely different to that of a plant with hundreds or thousands of devices.  If it's completely brand new territory, it may not be bad idea to get consult with a local network engineer on a few projects.  Reach out to a partner of one of the large networking tech companies.
+
+If you'd like to be thorough, read up on the Industrial Control System (ICS) reference architectures prescribed by NIST and the major network vendors (e.g., Cisco, Palo Alto Networks).  Because some of the vendor-specific reference architectures push their own solutions, read them with a ""grain of salt"".  Focus on understanding the concepts and themes (e.g., redundancy, topology, minimize broadcast domains, segmentation, determinism, QoS, NAT, access policies).  
+
+Also, as a side note, you will likely encounter a lot of the ""Purdue"" security model in these architecture.  This prescribes DMZ'ing each level of ISA95.  Many in this community, for good reasons, are critical of this approach.  It can unwieldy in UNS and more contemporary IIoT architectures.  But, in basically every project, there will be a ton of unsecure devices with unsecure networks.  There has to be special consideration for this.  While MQTT is an ""outbound"" protocol with transport security, it's not a ""silver bullet"" for security.  Not every device has MQTT and not every device has a dedicated interface for it.  That same interface may be shared with a native protocol, fieldbus, http, ssh, etc to support other features.","","💯 (2),👍 (1)"
+"766684226455207996","bright_hummingbird_31342","2022-08-13T05:34:20.9160000+08:00","Links:
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r1.pdf
+https://www.cisco.com/c/en/us/td/docs/solutions/Verticals/Solution_Briefs/IA_Networking_Solution_Brief.html
+https://www.cisco.com/c/en/us/td/docs/solutions/Verticals/Industrial_Automation/IA_Horizontal/DG/Industrial-AutomationDG/Industrial-AutomationDG.html
+https://www.paloaltonetworks.com/apps/pan/public/downloadResource?pagePath=/content/pan/en_US/resources/whitepapers/ot-and-Iot-device-security-in-industrial-control-systems
+https://hub.dragos.com/on-demand/ot-cyber-best-practices-for-manufacturing","","👌 (1),👍 (1)"
+"571815818308878347","binyameen_980","2022-08-13T13:14:31.3380000+08:00","Thank you for the great answer. super helpful.","",""
+"1003237589421137992","gregory.g.","2022-08-13T15:05:54.9270000+08:00","It would be great to have ISA or any other standard coming out with a formal ""updated perdue model"". It creates a lot of fuzz at the moment without any good standardized guidelines. Many attempt to have a view on IIoT and its network architecture. But personally, I still can't say which one of the standards is clear and well defined, as a go to reference. Thanks for the links @js","",""
+"867075936054149191","rickbullotta","2022-08-13T20:27:36.1990000+08:00","Except those Alexas...I banned them from our house!","",""
+"898217314741280828","hobbes1069","2022-08-13T20:53:23.5990000+08:00","Yeah I resisted having them in the house until we got one during a Dirty Santa game, and then when COVID hit, we got the ""Show"" so we could easily video chat with family while we were all locked down. The wife loves using it to play Pandora.","",""
+"745796393855352953","thedavidschultz","2022-08-13T20:56:28.3650000+08:00","I have my home and work networks segmented with VLANs. We have all kinds of connected devices. And then there is the crap the kids sometime download.","",""
+"867075936054149191","rickbullotta","2022-08-13T20:59:51.5530000+08:00","I just don't like ""open mike night"" running 24x7x365 between my house and Amazon's cloud...","",""
+"745796393855352953","thedavidschultz","2022-08-13T21:00:20.0710000+08:00","ISA standards grow out of companies coalescing around a center architecture. The 2 best known (ISA-88 and ISA-95) were meant to be informative not directive. What many people overlook is the ""Purdue Model"" is actually the Purdue Enterprise *Reference* Architecture. Once the dust settles, the standards will emerge.","",""
+"745796393855352953","thedavidschultz","2022-08-13T21:00:40.0200000+08:00","Understood. But that is the price of convenience.","",""
+"867075936054149191","rickbullotta","2022-08-13T21:02:09.5220000+08:00","Actually, it's not.  Apple is aggressively working towards 100% edge processing.  Amazon has no excuses for not doing the same.  They do some, but could also be 100% for voice processing.","",""
+"745796393855352953","thedavidschultz","2022-08-13T22:10:44.2220000+08:00","Agreed. When the assistants first came out, we found that Amazon best suited our needs. I am a huge fan of Apple, but found Siri to not be as performant. Over time, the market will force Amazon to change.","","👍🏼 (1)"
+"745796393855352953","thedavidschultz","2022-08-13T23:23:31.1270000+08:00","I am reminded of a behavioral economics example of how much people would be willing to pay to not share data within an app. For example, if Amazon offered a service that did edge processing, how much would I pay for that service. Or, if I was already paying for a service that did edge processing, how much of a discount would I want for cloud processing (i.e., sharing data). As in most cases, the price I am willing to pay and the discount I would want were not the same (endowment bias).","",""
+"1000180138325065800","bender_unit","2022-08-27T02:42:15.2130000+08:00","What is the normal IP scope size you use on the machine side?  /24 /25 /26?  Class c?","",""
+"1000180138325065800","bender_unit","2022-08-27T02:43:47.6640000+08:00","Should each machine have its own range?  Do you combine systems based on area in the plant to the same IP?  Trying to get a feel for how most people do it.","",""
+"740383178279354388","mriiot","2022-08-27T06:28:06.0550000+08:00","/24, the best setups I have see  have plc, hmi, etc carry the same last octet from cell to cell","",""
+"740383178279354388","mriiot","2022-08-27T06:28:48.7140000+08:00","Consistency is 80% of the battle","",""
+"766684226455207996","bright_hummingbird_31342","2022-08-30T01:29:32.0940000+08:00","I’ll usually plan on a /24 for each unique machine or operation in a cell/line.
+
+Five identical CNCs fed by a gantry robot? They go into a /24 for the whole op.
+
+Four very different operations (broach, wash, drill, balance) fed by two robots? And each asset has its own field network of I/O, motion, safety, etc? Too much complexity and too much complexity if something needs to change. Each asset will get its own /24. Asset-to-asset fieldbus communications will  get routed.
+
+For the last octet, I’ll reserve the first 10 for gateways (typically only need one). For the rest, every block of twenty represents a different device type (e.g., 11-30 PLC, 31-40 HMI).
+
+10.1[cell/line no].[op no].[device type and instance].
+
+Normally, this is kind of cumbersome to setup any other network like this, but industrial nodes are very simple. They don’t do much more than IPv4. DNS is not consistently available or implemented. There isn’t as much network orchestration magic that can utilized.
+
+Also, as MRIIOT mentioned, consistency is key. When the setup is consistent and there is no overlap, the less people have to think about routing or nat’ing or any complexity. It just works. It also makes segmentation and troubleshooting much easier.","",""
+"1000180138325065800","bender_unit","2022-08-30T03:49:19.8050000+08:00","So if you had 50 machines, you would have 50 subnets?","",""
+"766684226455207996","bright_hummingbird_31342","2022-08-30T04:15:52.6200000+08:00","Depends on the exact use-case, but yeah, sometimes.  If there were a small cell with of machines working together (e.g., machine + material handling robot) or multiple machines for multi-piece flow in a bottle neck operation, those machines as a collective operation may be grouped into one subnet.  
+
+Basically, the goal is to logically segment to make things consistent and minimize broadcast domains.","",""
+"794020366536146977","mparris","2022-08-30T08:32:22.2390000+08:00","So using 10.0.0.1 and Windows default 255.0.0.0 isn't right?","","🤣 (1)"
+"898217314741280828","hobbes1069","2022-08-30T11:51:34.7410000+08:00","Haha... That's like a flat Earth society flat network...","","🤣 (1)"
+"740383178279354388","mriiot","2022-08-30T19:06:11.7920000+08:00","Just set everything to 169.254.x.x.   It will work when the cable is plugged in.","",""
+"794020366536146977","mparris","2022-08-31T05:07:38.1970000+08:00","I just tried 169.254.x.x and Windows said invalid IP Address...","","🤣 (6)"
+"1023339351834370089","rehenley","2022-09-27T06:59:12.7700000+08:00","I would need to know more about your application, factory, operation, unit, topology, number of nodes, etc. to give specific advise but I have been setting OT networks up for over 25 years and currently oversee multiple OT networks. If the application is a large process where there is a lot of IO I usually set every thing running off the same controller on its own vlan.  Subnetting is just a function of network nodes on a private network.  The real segmentation is done with vlans at any given location. In my opinion it is all about setting up a robust network topology with dependable Industrial switches capable of vlan routing with fast convergence.","",""
+"817835202746253344","IIoT#4707","2022-09-28T21:48:52.3730000+08:00","GG @benderunit, you just advanced to level 1!","",""
+"1000180138325065800","bender_unit","2022-09-28T21:49:22.7680000+08:00","The plant is made up of a bunch of small machines.  So the idea was to give each system it's own vlan.  Its turned into that each port on the switch is it's own vlan.  We now have 48 different vlans on 1 switch.  Also this site has 5 switches so we have close to 200 vlans.  Some machines span over different vlans because they did the subnet as a /29 and the ran out of space.  Also the controls group has to plug in locally so an IP has to be saved in each subnet for access.  I know how to make this better, what I'm looking for is this setup common because my last place where I did the networking as well, we didn't do anything close to this and I'm starting to sense the frustration from IT and OT that the network is really hard to use.","","🤯 (2)"
+"1023339351834370089","rehenley","2022-09-29T06:17:39.1040000+08:00","Wow, that is horrible. No, I have never heard of anyone doing that.   It doesn’t make any sense to me.   Are the switches full? How often do you have maintenance periods?     How many total devices are there ?  Is there a lot of multi-cast traffic on the segments or something ?","",""
+"794020366536146977","mparris","2022-09-29T11:27:04.3750000+08:00","Yeah, that seems like an IT guy with OCD / micromanager tendencies set up that architecture.
+
+IT must set up a system that gives OT a sandbox to work within. Only having 7 IP addresses within each subnet is too restrictive.
+
+I'd be interested to know why IT was so stingy with IP Addresses.","",""
+"1023339351834370089","rehenley","2022-09-30T17:53:50.4830000+08:00","I have only recently started to realize IT folks have a tendency to look at OT as just a subset of IT that people who aren’t smart enough to go all the way to the top and become an IT professional have no choice but to work at the sub-level and require tight control to keep from harming themselves.  It’s hilarious.  I guess this IT / OT convergence has put brought it too light for me.","","👏 (2)"
+"1023339351834370089","rehenley","2022-09-30T18:09:29.9160000+08:00","I also think there is a tendency at the executive level to lean in that direction.  Which has caused a lot of well-intentioned corporate level people to make very bad decisions and waste excessive capital with regard to top down software implementations. Which ends up having little value, zero scalability and data silos.","",""
+"781859476994392084","ak4803","2022-09-30T22:35:34.6990000+08:00","I totally agree! IT folks usually are detached from OT. Also have a tendency to be behind on technology. And definitely lack of process awareness.  It's a battle really.","",""
+"894527802316046366","nickn5549","2022-10-01T08:54:31.6790000+08:00","sh*t happens all the time...and IT executives are rewarded for some of these failed projects....the difference between Good and Bad is just a matter of perception and spin...sometimes","",""
+"657361690379288596","du5tins","2022-10-14T00:38:53.3030000+08:00","I work in O&G mainly and we have tons of devices spread out over huge wide area networks with thousands of sites. Clients often have the sites connected together with private cellular APNs or nice VPN setups that enable us to direct route to networks on site. We are targeting /27 sized subnets for smaller sites as our usual best practice. /24 for larger facilities. Some sites get two or more /27 or /24 networks if they need to have 'corporate' or other vlans in the office. /27 usually gives us enough local addresses to do what we need with a few spares but not so many that we run out of subnets.","",""
+"657361690379288596","du5tins","2022-10-14T00:39:45.2620000+08:00","Typically customers run 5-6 VLANs on the larger sites; DMZ, corporate, printers/cameras, SCADA, HMI, PLC/IO.","",""
+"579012995154182163","stuxnetza","2022-10-20T16:56:58.8150000+08:00","Hi everyone, not sure I am in the correct channel, but here goes my question: Does anyone have any experience and can recommend a thin client management solution? I know Rockwell has the ThinClient manager with their hardware, but looking for something cheaper? Any reco would be appreciated ! Thanks","","👍 (1)"
+"756247672637358181","sherylmccrary","2022-10-21T03:20:37.2170000+08:00","@here Recommendations for a thin client network management solution?","",""
+"890244048739270656","brianpribe","2022-10-21T03:33:10.9380000+08:00","What are you trying to achieve using thin clients? Best applications I've seen are for HMIs and Workstations on the plant floor (PLC IDEs like Studio5000).","",""
+"691060084763263107","brantwiederholt","2022-10-21T23:43:28.5650000+08:00","Just an idea. You might want to reach out to Onlogic. They have ThinClient and IGEL as options. Maybe IGEL is cheaper. https://www.onlogic.com/solutions/igel-ready-thin-clients/","",""
+"766684226455207996","bright_hummingbird_31342","2022-10-22T02:36:48.9360000+08:00","@Brian Pribe makes a great point about the desired applications and purpose.
+
+Due to all the various browser plugins (e.g., labeling, files) and peripherals (e.g., gages, instrumentation), I generally prefer to stick with ""fat"" clients.  Additionally, it's easier for vendors to validate.  It can be challenging to get support when the vendors assumptions on deployments are a Windows PC and they don't know what VDI is.
+
+My favorite VDI solution is VMware Horizon Cloud on Azure.  This solutions pairs the economical Windows licensing and scaling of Azure with the backplane management of VMware's Horizon.  It's integrated with VMware Workspace One.  Workspace One is a Mobile Device Manager (MDM) / Unified Endpoint Management (UEM) solution.  In addition to managing devices and such, it offers a portal for end users of all their compute resources.  This could be everything from single sign on into SaaS apps to virtual apps and virtual desktops.  VMware markets this as a ""digital workspace"".  It's accessible from any device.
+
+VMware's WS1 + Horizon offering can be accessed on any device.  Given VMware's historical ties with Dell, WYSE and Optiplex micro hardware is the go-to hardware offering.  But, one can use anything.  My favorite is on an iPad Pro with the magic keyboard trackpad.  It basically enables an iPad to runs everything it can't natively.","","👍 (3)"
+"890244048739270656","brianpribe","2022-10-22T02:40:57.5000000+08:00","WOAH, you're using your ipad as a thin client and streaming the applications to it? Are you able to use Windows applications?","",""
+"890244048739270656","brianpribe","2022-10-22T02:45:56.0990000+08:00","You wanna know what would be awesome if that^ were true? Plug a ETH to Wifi adapter into the programming port, host a Studio5000 instance, and stream it to the ipad thin client.","",""
+"766684226455207996","bright_hummingbird_31342","2022-10-22T02:58:06.8230000+08:00","Generally, it's a virtual desktops, but you can use virtualized apps through the client.  I have not played around with the virtual apps as much.  I've only really used with IE for legacy portals.
+
+At this point, there aren't too many old-school Windows apps that need be accessed on mobile device.  Either their underlying data can be viewed through browser interface or in reporting.  A tablet is more like a consumption device.  If power use or admin is going to do serious work in one of the apps, they're going to want to do so on a normal desktop OS with much larger monitor anyways.
+
+I've seen similar use cases involving Studio 5000 at other firms.  Typically there are engineering environments hosted on server VMs with access to the industrial networks.  Users remote in with some sort of laptop or rugged tablet.","",""
+"1031851908043915295","siraj4974","2022-10-28T16:30:20.0420000+08:00","Is there any difference between the #Cisco IE 3000 line & the Rockwell #Stratix 8000 series? We are going to use them for networking purposes within the plant, not for any other purpose. Looking for some light on this topic.","",""
+"766684226455207996","bright_hummingbird_31342","2022-10-29T06:47:49.0300000+08:00","The difference between these two product series is generally the firmware. 
+
+The Rockwell version will have their browser-based config GUI. This version can also can exposed as a CIP endpoint to be managed over the EtherNet/IP fieldbus like one would with, say, a drive. This allows the switch to be configured with an AOI/AOP within Studio 5000. So, basically, a ControlLogix or CompactLogix could control the switch. Personally, I find this use case somewhat unusual. I have not played around with it or encountered it. Perhaps it’s for monitoring diagnostics if there is not something like SNMP in use.
+
+The Cisco versions will be managed through IOS/IOS-XE. If I recall, some versions of the Cisco have a GUI. I wouldn’t be surprised if the GUIs are similar or the same.
+
+In either case, I’ve seen scenarios where IOS and TFTP were required for provisioning. There are some limitations in the GUI for some functionality (e.g., some L3 features and routing) and they can be sluggish.
+
+In the typical automation network, it’s the same product.","","👍 (1)"
+"877337143742197810","karltbraun","2022-11-04T06:15:44.0440000+08:00","Not sure if the Rockwell version is Cybervision compatible; we're planning on using that to allow more integration between IT and OT while providing necessary security by using Cisco's security line to baseline normal activity and alert (by exception!) on abnormal activity.","",""
+"766684226455207996","bright_hummingbird_31342","2022-11-05T15:21:37.1950000+08:00","Here's a reference architecture:
+https://www.cisco.com/c/en/us/products/collateral/se/internet-of-things/datasheet-c78-743222.html
+
+For in-panel (IP20) switching, the Cybervision reference architecture includes the Cisco IE3300 and IE3400 series.  The Rockwell equivalent of this is the Stratix 5800 series.  These have more in common with the current generation Catalyst 9300/9400 feature set.  These have the newer IOS (i.e., IOS-XE) and software-defined networking (i.e., DNA) features.
+
+If would recommend looking into the protocol dependencies of Cybersion (e.g., SNMP, Netflow, SPAN).  This will ultimately determine what products and firmware levels are compatible.
+
+At the end of the day, the Rockwell versions run the same ""Catalyst"" hardware and IOS software under the hood.  The differences are in the interfaces (e.g., Web GUI, Studio 5000 integration).  The feature set of each product line is largely a function of the generation of IOS it was built on.
+
+The very popular Stratix 5700 / IE2000 and Stratix 5400 / IE4000 lines do not appear in the reference architecture.  These generally work with most network management tools, but not necessarily the latest software-defined networking tools.  These are more like the older Catalyst 2900 and 3700.  These run the older IOS (pre IOS-XE).
+
+It's also worth mentioning that you may not necessarily need native Cybervision compatibility at the access layer in every machine panel.  You may get away with deploying through a Catalyst 9300 or VM further up in your distribution and core layers.  Industrial networks, at least in discrete manufacturing, tend to scale out at the distribution layer.  They have many, smaller networks in the access layer.","",""
+"877337143742197810","karltbraun","2022-11-06T01:02:07.4000000+08:00","Excellent post, @js.  Especially valuable: the note on the Stratix <-> Cisco information.  I also agree you don't necessarily need the Cybervision at the very edge - some of the brown-field infrastructures in which I muck about have multiple clustering switches - a hierarchy if star-topologies if you will, and we could even do most of this at the MDF; but I'm looking at various design options and benefits and want to consume as much info as I can on this.  Thanks again for your post.","",""
+"891563487241842699","jbonhage155","2022-11-08T01:23:40.8770000+08:00","anyone use NAT to expose local IPs into different VLAN? We have other systems connected to plant floor equipment but would like to put a new system in parallel to it. The existing system is networked via old switches/IPs. Thought would to put a NAT router at each line which then would put all the isolated manufacturing lines on a common VLAN.","",""
+"794542235676180500","akoscs","2022-11-09T03:33:00.4850000+08:00","PLCGurus.net did something similar. Does this help you? https://youtu.be/tbzlGXNNbfY","",""
+"766684226455207996","bright_hummingbird_31342","2022-11-09T04:24:31.2510000+08:00","NAT is useful if the nodes are ""pure"" layer 2 and routing is too much latency.  
+
+I usually approach something like this with a layer 3 switching.  All the various field networks uplink to an aggregation network.  This is typically a series of managed layer 3 switches in the MDF or IDFs of a plant.  These function as the ""plant backbone"" of sorts.  As connections need to be made between different industrial networks, the connections will route through this backbone.","",""
+"898217314741280828","hobbes1069","2022-11-09T09:37:17.3210000+08:00","To expand on @js 's explanation... We are 90%+ a CNC house with some PLC controlled systems. In the case of the latter it's my preference to have the automated system on a private network and use a NAT router (Moxa EDR series or similar) to only expose the IP addresses of the components I need to access for remote monitoring (typically KepserverEX). In the future I hope to use MQTT gateways were I really won't have to expose anything since the connection will be outbound only*
+
+So the last part is a little tongue in cheek in that I would still want to expose the gateway for configuration updates, but you get the idea.","",""
+"891563487241842699","jbonhage155","2022-11-10T07:27:55.8400000+08:00","That's exactly it! We would use Stratix (our company standard is Cisco IE series) -- but these ideas is exactly what I'm looking for. We leave the original IP's alone. I did find another good video along those lines from Cisco
+https://www.youtube.com/watch?v=-3ah_PrCykY","","👍🏻 (1)"
+"891563487241842699","jbonhage155","2022-11-10T07:33:48.8740000+08:00","Thanks.  So do you do something like this picture? The NAT is done at the MDF/IDF, then the results are send up to your larger layer 3 switch?","",""
+"891563487241842699","jbonhage155","2022-11-10T07:33:50.4330000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1040046590745911316/image.png?ex=68df0bde&is=68ddba5e&hm=66ea3067ed8a80841adabebe4cd0ac873534e82c37bf35cb24d7cdccf8f8207b&",""
+"891563487241842699","jbonhage155","2022-11-10T07:37:21.1950000+08:00","this is another layout from the video which shows their proposed setup. I guess there can still be an issue of duplicate IPs so seperate VLANs need for each line.","https://cdn.discordapp.com/attachments/992924894444666940/1040047474976497684/image.png?ex=68df0cb1&is=68ddbb31&hm=f9ee904e33e7cc52209f2bc0e214f790e3708920699efbbd2c7c23e74e3f0c88&",""
+"766684226455207996","bright_hummingbird_31342","2022-11-10T07:41:04.2780000+08:00","Basically, yeah.  Except for the NAT part.  The field devices in 'Machine 1' would be addressed into the 10.0.0.1/24 subnet.  While it can be hassle to update all those addresses, it's so much more intuitive for personnel to have one address for the node regardless of the network.","","👍 (1)"
+"766684226455207996","bright_hummingbird_31342","2022-11-10T09:13:45.1120000+08:00","Also, if you must have NAT, pay close to attention to what gets deployed in the MDF/IDF.  Surprisingly, a lot of Catalyst models do not support NAT.  I've seen scenarios where well-featured (and definitely not cheap) models lack this - especially in the previous-generation ""UADP 1.0"" ASIC like the 3650 and 3850.  You might need those IE switches with the NAT firmware or standalone NAT device.","",""
+"766684226455207996","bright_hummingbird_31342","2022-11-10T09:20:29.6660000+08:00","If the desire is consistency in the addressing, this could be done in the last octet.
+
+For example,
+
+Gateways:  .1 -.10
+PLCs:  .11 - .30
+HMIs:  .31 - .50
+Drives:  .51 - .70
+IO:  .71 - .90
+
+Machine 1 Controller:  10.0.1.11
+Machine 2 Controller:  10.0.2.11
+Machine 3 Controller:  10.0.3.11","",""
+"766684226455207996","bright_hummingbird_31342","2022-11-30T06:47:24.5060000+08:00","https://aws.amazon.com/blogs/hpc/in-the-search-for-performance-theres-more-than-one-way-to-build-a-network/","","👍 (1)"
+"891563487241842699","jbonhage155","2022-11-30T12:52:09.9530000+08:00","Yeah I was reading that today, pretty impressive.","",""
+"891563487241842699","jbonhage155","2022-11-30T13:01:49.4350000+08:00","https://ieeexplore.ieee.org/document/9167399","",""
+"891563487241842699","jbonhage155","2022-11-30T13:02:42.7970000+08:00","Never in my lifetime I thought someone would speak poorly of TCP 🤣 
+
+""Why Not TCP
+TCP is the primary means of reliable data transfer in IP networks, which has served the Internet well since its inception and continues to be the optimal protocol for the majority of the communication. However, it is ill-suited for latency-sensitive processing. For TCP in a data center, while best-case round-trip latency could be as good as 25 μs, the latency outliers under congestion (or link faults) can be anywhere between 50 ms and several seconds, even when alternative noncongested network paths are available. One of the main reasons for these outliers is a retransmission of lost TCP packets: TCP implementations are forced to keep retransmission timeout high, to account for OS delays.""","",""
+"867075936054149191","rickbullotta","2022-11-30T22:38:57.8540000+08:00","I'm curious why they didn't compare SRD to UDP, rather than TCP.  That seems like a closer analogy to what SRD offers.","","🧐 (1)"
+"224307162254540801","a13d","2022-12-03T08:24:57.6410000+08:00","^ didn't hear of SRD until this week's podcast but I was thinking this too","",""
+"1037906398534713394","mathew.66","2022-12-15T22:19:22.4430000+08:00","As part of collecting data to put in the UNS, what device would you use today to pull out voltage data from a machine and how would you connect that device to the rest of your system?","",""
+"745796393855352953","thedavidschultz","2022-12-15T22:30:53.7960000+08:00","Would need a little more information but products like the Opto 22 RIO or Maple Systems SVR-cMT do this quite well.","",""
+"1037906398534713394","mathew.66","2022-12-15T22:44:14.3190000+08:00","Hi David! So these devices would be for connecting and sending the voltage data from machine to the rest of the system, is that right? but what would you use to actually collect the actual voltage values. For example the voltage at the power source of the machine.","",""
+"745796393855352953","thedavidschultz","2022-12-15T23:05:40.9760000+08:00","Yes, this is correct. The best place to connect is in a control cabinet or MCC. Since this is I/O, you will need a RIO or similar device.","","👍 (1)"
+"898217314741280828","hobbes1069","2022-12-15T23:44:31.9490000+08:00","What kind of voltages are you trying to measure? Up to 24V DC or 120V split phase or 480V 3-phase?","",""
+"1037906398534713394","mathew.66","2022-12-16T14:53:38.6600000+08:00","It would be for measuring the voltages of a 3-phase 480V supply","",""
+"1037906398534713394","mathew.66","2022-12-16T14:54:16.6490000+08:00","Thanks David","",""
+"898217314741280828","hobbes1069","2022-12-16T20:47:34.5080000+08:00","https://www.opto22.com/products/product-container/grv-r7-i1vapm-3","",""
+"898217314741280828","hobbes1069","2022-12-16T21:09:52.8390000+08:00","If you want more I/O then there's an EPIC version as well.","",""
+"891563487241842699","jbonhage155","2023-01-07T12:45:33.4110000+08:00","Anyone know the best way to optimize network path (reduce hops) from cloud (AWS) to ground. (Plant IIoT servers)
+
+We are implementing an MES solutions which runs in EKS but I really want to make sure our packets don’t go to Istanbul and back. I did a tracert and it looked pretty ugly recently. 
+
+Not sure if there’s way to optimize routes to reduce the amount of latency.","",""
+"894527802316046366","nickn5549","2023-01-07T15:35:08.1550000+08:00","use Tor and then they will hop twice around the Globe...🤣 even Antartica...","","🤣 (1)"
+"833941249362493450","sammysevens777","2023-01-16T11:07:33.3670000+08:00","Did you find a solution to this Joe? I'm surprised AWS doesn't offer users the ability to limit its services to only operate in certain geographic regions...","",""
+"891563487241842699","jbonhage155","2023-01-16T11:46:38.3500000+08:00","Yeah AWS does offer geographic regions. (We are using Virginia while based in a Colorado) — though I think most our hops come from inside the corporate network. I’m asking around for to get the most direct path from plant floor to AWS.
+
+I’m trying to think the best way to monitor traffic flow as manufacturing will now be depending on a cloud system I would like to monitor all the hops along the way to know which switch is taking us down.","",""
+"867035383509024778","mattmigchelbrink","2023-01-18T03:52:31.1490000+08:00","check out Direct Connect or Global Accelerator","","👍 (1)"
+"766684226455207996","bright_hummingbird_31342","2023-01-22T01:41:31.0100000+08:00","First off, make sure you're using a true, commercial-grade internet circuit with a tier 1 carrier.  This will make the biggest difference.  This service is often marketed as Dedicated Internet Access (DIA).  It's typically characterized by having single mode fiber, symmetrical bandwidth, lower latency, service level agreement (SLA), and costs more than what anything that involves a cable modem.  
+
+Internet circuits that are marketed to small businesses are typically the same ""best-effort"" networks used for residential customers.  They just have a separate sales and support channels.  Operationally, it's the same.  This is usually not a dedicated internet access product.
+
+In an ideal world, a site should have at least two dedicated internet circuits from different carriers.  That is, carriers that are diverse physically and how they route your traffic.  Otherwise, it's not helpful to have a second carrier that is merely handing off to your first carrier up stream.  From there, you can creating routing policies to choose the optimal path.  Or, you can even multi-home the circuits with BGP routing. 
+
+You could also explore SD-WAN.  This involves deploying SD-WAN nodes at your site and in your AWS tenant.  These use ""overlay"" protocols (typically IPSec tunnels) across the various connections available between your site and AWS.  Based on the policies you define, it will optimize traffic across the connections.  It will actively use all connections and seamlessly remediate anytime performance degrades with the underlying transport.
+
+If you have exceptional challenges, you could contract your carrier to setup a dedicated WAN circuit (e.g., MPLS, Carrier Ethernet) between your site and AWS.  It's costly.  It also requires an AWS service to terminate the connections.  Some partners will terminate at the edge for a lower cost.","","👍 (1)"
+"891563487241842699","jbonhage155","2023-01-27T15:09:12.6110000+08:00","This is great, thanks for the feedback. I need to look into exactly what type of circuit we have the plants. My assumption it's the 'basic' with nothing above and beyond.
+As we are standing up the AWS infrastructure, I'm noticing AWS has a great monitoring tool in CloudWatch. Route 53 (DNS) will ping endpoints and also log latency times. I think this will help evaluate how well the cloud-to-ground connection is. I know the dreaded ticket of 'MES is slow' will come in day 1. (only 100 things that can cause this) --- so quickly we could see how the WAN is performning.","",""
+"891563487241842699","jbonhage155","2023-01-27T15:13:34.7170000+08:00","Also we recently had high 'initial connection' time loads on the MES (from the Chrome browser) and put logging on the ALB load balancer / ingress controller and could troubleshoot the inital delay was coming from the client session and never reaching AWS. I feel like non-cloud based systems getting logs from networking ingress / DNS was almost an impossible process from all the various internal corporate teams but AWS exposes this fairly nicely which I was not expecting.","",""
+"877337143742197810","karltbraun","2023-01-31T03:55:07.0500000+08:00","Not sure if this is the right forum, but:  Anyone experienced with Bacnet/IP?  We've got a brown field HVAC system that uses this protocol, and the devices can be reached if on the same subnet, but the traffic doesn't seem to make it across the firewall to the OPC server.  The (very little bit of) documentation I've read isn't clear and implies there are broadcast type traffic and non-broadcast type traffic (the former obviously won't cross the router).","",""
+"794542235676180500","akoscs","2023-01-31T08:12:46.5390000+08:00","You can get the broadcast messages across networks with avahi. Here is a tutorial, which is not quite your usecase, but you might get inspires: https://blog.christophersmart.com/2020/03/30/resolving-mdns-across-vlans-with-avahi-on-openwrt/","",""
+"877337143742197810","karltbraun","2023-01-31T21:44:15.6970000+08:00","Thanks for the reply @akos","",""
+"944630646821773392","m_r_mccormick","2023-03-03T22:29:21.2040000+08:00","I'm working on a line with 8 cells, each cell with a PLC, which was configured by someone else, and I'm not familiar with what is standard practice for OT. The network does not have a DHCP server and all of the PLCs are configured to use static IP addresses, which seems sensible to maintain persistent IP addresses for connections such as OPC UA. However, I would like to add a number of edge-driven IIoT devices and development computers (engineer laptops) which I won't really care what the IP address is for each, and would prefer to add a DHCP server to auto-assign IP addresses and manage address reservations for specific IIoT devices as needed. Two questions: 1) Is it standard practice for OT networks to use only static IP addresses, and 2) what are the tradeoffs (or is it a bad idea and why) inherent in adding a DHCP server to an OT network for this purpose?","",""
+"1073312001788477471","sparkylarks","2023-03-03T22:57:21.4720000+08:00","A lot of field bus protocols need an IP address so static is needed. Some/many types of OT equipment cant use DHCP either. I have configured networks.with a static set of addresses and a.DHCP.portion, so x.x.x.1 to 50 might be DHCP and 51 to 255 for static.
+
+I don't see any major problem  as long as you don't end up giving an address out by DHCP that is being used by legacy static device that was powered off for maintenance.","",""
+"1073312001788477471","sparkylarks","2023-03-03T23:22:22.3870000+08:00","Or you could keep the static on 1 VLan put the DHCP on  another and set up the relevant forwarding and firewalling. That might work well if the smart sensors don't want to communicate with the legacy equipment,  I.e. they are publishing tonthe UNS.
+
+For engineers, I would set up a VM workstation and allow engineers remote on to it. Allowing the practice of laptops being plugged into the OT network is not something I would allow. The engineering station can be in a DMZ and you allow access for the engineering.","",""
+"745009912160976977","marioishikawa","2023-03-03T23:57:43.7220000+08:00","Hello, I missed Sparkplug 3.0 document coming out. I did not read it yet but by the change log it seems that it is just a reorganization in the document. Am I right? Or has anything new or changed regarding specification?","",""
+"944630646821773392","m_r_mccormick","2023-03-04T00:15:49.9630000+08:00","Thank you. I anticipated having a range of IPs dedicated to dynamic IPs, and all the static IPs would be outside that range so they DHCP doesn't interfere with existing static devices. This seems consistent with what you are saying. What is the driver for not allowing engineers to connect directly to the OT network? Access control, security, or something else? And if I have a hypervisor acting as a bridge between IT and OT networks, with IT behind a firewall and OT 'soft'-airgapped, what advantages does a VM afford me, as well as specifically the DMZ?","",""
+"1073312001788477471","sparkylarks","2023-03-04T00:24:00.2650000+08:00","Any cyber incident I have come across on the OT network was caused either by a vendor plugging in an infected machine, or a OT Machine to a thin client having access to a website and inappropriate viewing late at night. I am assuming that theses days the internet is locked down, so if there is a practice of connecting Laptops on the plant floor, over time vendors will start plugging in. Having an Engineering station that engineers can remote into allows a better level of control. Not using an Engineering station can lead to ""Version creep"". If I am using V11 of the programming software on my laptop , then another engineer using 12, upgrades the project on the PLC to version 12. when I come back I have top upgrade my software to allow me to access the PLC so I download V13, which is not the lates version. that happens at a time when production is stopped and backing up through the plant and It takes me an hour to get the new version set up, and I then find I need top upgrade the firmware on the PLC to allow V13 to view the   software. With an Engineering Station I can remote to it also allows people to log on from outside the plant to either take over in major issues, or even just log on to review the code. the Engineering Statin doesn't have to be a VM, I have used physical machines and VMs.","","👍 (1)"
+"794542235676180500","akoscs","2023-03-04T03:05:50.4710000+08:00","DHCP on an IP based OT network is OK, some will be static some can be dynamic. In many cases I find this helpful. For added security you can whitelist MAC addresses (firewall, not DHCP function), I used whitelisted USB-ETH convertors in some cases, only those could be used to program stuff on the network, not as rigid as only one engineering PC, not as permissive as any laptop. 
+
+Also there might be networks which have no IP layer, if you have motion control, Profinet, sercos or EtherCAT should not be mixed with IP networks.","","👍 (1)"
+"794020366536146977","mparris","2023-03-04T11:37:18.9510000+08:00","DHCP is alright for devices acting as clients that are connecting to servers with static IPs to get data.
+
+Using DHCP for servers could lead to IP Addresses changing, which will make all the users mad when they have to change their setups.
+
+Another route is to use DHCP with static reservations, where you can bind a Mac address to a fixed IP. the device still uses DHCP to get an address, but the assignment is deterministic.
+
+Another option is DHCP assignments to switch ports, where a device connected to a specific port will get the same address every time. This helps speed up replacement of devices that support DHCP.
+
+then there is also DHCP with dynamic update to a DNS server, where the device has a static hostname and advertises it to the DHCP server, then the DHCP server feeds it to a DNS server, so devices that support connecting via FQDN can reference the hostname without caring about what the IP address is","","👍 (4)"
+"745009912160976977","marioishikawa","2023-03-07T01:27:10.5270000+08:00","I've seen also companies that wanted to have complete control over the IP address, so to guarantee the IP even if by some mistake it was added as DHCP instead of static, it would provide the same IP based on MAC.","",""
+"745009912160976977","marioishikawa","2023-03-07T01:49:42.6410000+08:00","Now I saw that Matt already wrote it also 🙂","",""
+"833941249362493450","sammysevens777","2023-04-11T11:16:18.5540000+08:00","How did everyone learn about networking? I remember learning about the OSI model in college....and i found it conceptually easy. Layer after layer, from physical to application....for years i always set my subnets to 192.168.1.xxx - and when people asked why, i'd say that's a ""local address""...not knowing about the root of that term and Class-C IP addresses....😆😆😆 grown a lot since then, and more confused than ever!
+
+I have to assume the next frontier is containerized networks? It seems clunky and messy now, but relatively secure otherwise.","","😂 (1)"
+"794542235676180500","akoscs","2023-04-12T04:32:33.4280000+08:00","Did you plug the cable in? yes. So why can't I see the {Aliens vs Predator, Need For Speed, NBA 2k, CounterStrike, StarCraft} server you just created? Welll.. I do not know, maybe something to do with the network? We should figur it out, I really wann aplay...","","😆 (2)"
+"269098651886813185","mellexpro","2023-04-13T19:20:21.0220000+08:00","Hi people, has anyone worked with IE4000 CISCO switches and smart ports? I want know if they are mandatory to setup when using them on a production line.","",""
+"766684226455207996","bright_hummingbird_31342","2023-04-13T21:01:41.7010000+08:00","They are not mandatory.  Smart ports are like a bundle of settings that one commonly would employ for certain device types (e.g., PLC, HMI, VM, layer 3 switch).  For example, they'll set QoS, trunk/access, spanning tree / ring, etc.  They just make it easier to configure with the web-based GUI.  They're not required.  You can still manually configure port settings in the GUI or CLI.","","👍 (1)"
+"1097853808605937784","andrew.nell","2023-04-18T23:28:53.3770000+08:00","Hi Guys, hoping I’m asking under the right topic. I’m trying to implement EMQX on my server. Struggling to keep it running. It runs for a couple hours and then stops and I have to restart it. Could it be a server resourcing issue? Any advice would be helpful.","",""
+"898217314741280828","hobbes1069","2023-04-19T02:13:23.7920000+08:00","I had EMQx working great for a long time but never upgraded. Finally got around to it and it looks like the configuration structure had changed and it would crash on startup. Even tried wiping all the config and couldn't get it to work again. Gave up and installed Mosquitto.","",""
+"898217314741280828","hobbes1069","2023-04-19T02:13:43.3120000+08:00","This was on a RHEL server with EMQx (and mosquitto) installed from RPM packages.","",""
+"898217314741280828","hobbes1069","2023-04-19T02:14:05.8430000+08:00","I'm not pushing it that hard so mosquitto is sufficient for my needs.","",""
+"971081662979002470","powellt77_ty","2023-04-25T22:55:14.0960000+08:00","Hi There, on a recent podcast Walker mentioned how providing remote access for vendors/partners to manage OT devices by way of a client VPN and a  jump server is not a great approach (This is exactly how our IT Security Team have this implemented). He mentioned using some form of industrial VPN device something like a ""Tarsy or Tossy Box"". Apologies for the spelling, but does anyone happen to know the name of the device he was referring to. Many thanks","",""
+"740975015247478946","chrisgele","2023-04-26T03:55:30.8880000+08:00","Tosibox","",""
+"891563487241842699","jbonhage155","2023-04-26T04:20:08.4810000+08:00","I'm curious about this. Assuming client VPN isn't that secure as if the local host PC is compromised while being on a VPN then it's easy to infect others on the enterprise. What about VDI (Horizon Client) or remote viewing applications that lock down local file shares and only allow control via mouse/keyboard?","",""
+"890244048739270656","brianpribe","2023-04-26T05:27:40.0480000+08:00","Most don't get to that point. Yes it's possible that could happen, but likelihood is fairly low if you've implemented a secure VPN service or utilize a 3rd party platform like Tosibox.","","👍 (1)"
+"971081662979002470","powellt77_ty","2023-04-26T14:11:40.7180000+08:00","Thanks for rhe quick response, appreciated","",""
+"794542235676180500","akoscs","2023-04-27T02:54:21.0970000+08:00","Excuse my ingorance, I did not see the video and do not know tosibox. What makes it spacial, compared to Siemens Scalance or Tailscale or ZeroTier or WireGuard?","",""
+"1031940518730543106","thunt.career","2023-04-27T03:16:11.5370000+08:00","It's a hardware appliance that creates a tunnel over outbound TCP 80/443 (assumed to be open to the internet from where ever) and there are Wireless and Cellular versions. Clients must have a ""key"" which can be either a hardware USB key or a shared token. The Key application then allows access to exposed IP:Port (RDP, Webpage, etc). Looks similar to Scalance S but have not used it.","",""
+"794542235676180500","akoscs","2023-04-27T03:43:58.4030000+08:00","Thankds for the clarification!","",""
+"1031940518730543106","thunt.career","2023-04-27T07:49:19.0240000+08:00","eWon is another similar solution. Both are suitable as temporary access for integrators/OEMs but not ideal for long term.","",""
+"1096818722976563320","jpt5","2023-04-28T13:26:16.2580000+08:00","Could you use certificate based authentication with a VPN to achieve the same result? Is the key only used to establish the connection and then removed so the key is not stored locally or is the usb key installed for the duration of the connection ?","",""
+"1096818722976563320","jpt5","2023-04-28T13:32:52.8800000+08:00","Does anyone here know the current lead times on the Cisco IE switches?","",""
+"1031940518730543106","thunt.career","2023-04-28T21:27:13.6010000+08:00","Depends on the network architecture of your OT systems. If your VPN landing zone gives you access to those servers then yes. Otherwise, you would be looking at a jump host solution which is what Walker    argues against in the linked video. Comparable solutions in my mind would be Zscaler Private Access or Akamai EAA.","",""
+"1031940518730543106","thunt.career","2023-04-28T21:32:27.1870000+08:00","I can't speak to the hardware key. I believe the ""Key"" software requires either the digital secret or the hardware key on install. My experience is with the digital secret. From then on you only need your user and password when logging in. The software only works with a specific user on the specific machine after initialization. To open on a new machine you have to disassociate your user and generate a new key. I assume the hardware key is needed every time you launch the software and/or connect to a ""Lock"" but not needed the entirety of the session.","",""
+"1031940518730543106","thunt.career","2023-04-28T21:35:11.3100000+08:00","I've only worked with it for one client so don't have the most experience. The ""Key"" is the client software. The ""Lock"" is the hardware server/appliance that you can connect to. I believe you can have multiple ""Lock""s associated to your ""Key"".","",""
+"891563487241842699","jbonhage155","2023-04-29T05:20:54.3390000+08:00","Look at this beauty 👍","https://cdn.discordapp.com/attachments/992924894444666940/1101619073642680450/IMG_1869.jpg?ex=68deecb6&is=68dd9b36&hm=8e92955d04755fb80b81766b21117041e1d3b5249a42e77c0e1c9e224d9db759&","👍 (3),❤️ (1)"
+"891563487241842699","jbonhage155","2023-04-30T02:01:43.3460000+08:00","Anyone use TwinGate? 
+
+https://www.twingate.com/","",""
+"891563487241842699","jbonhage155","2023-04-30T02:02:29.8690000+08:00","Uses Nat Traversal. NetworkChuck on YouTube was pretty pumped about it. Seems slick.","",""
+"833941249362493450","sammysevens777","2023-05-01T03:54:56.8470000+08:00","Oh man....pretty sure I used the exact same one. Those are pricey, totally underutilized them when I used em, but nice grab!!","",""
+"1096818722976563320","jpt5","2023-05-02T01:02:25.8770000+08:00","So jealous.  I miss the comfort of an IOS CLI.   Not to mention how you can deploy all of them with Ansible.","",""
+"817835202746253344","IIoT#4707","2023-05-02T01:02:26.1220000+08:00","GG @JPT-5, you just advanced to level 1!","",""
+"708093072117989388","varghesejm","2023-05-06T12:11:53.0460000+08:00","Our post on Tosibox:
+
+https://www.traceroutellc.com/blog-collection/cellular-in-ot-6","",""
+"708093072117989388","varghesejm","2023-05-06T12:13:08.4740000+08:00","A handful of posts on Secomea, another in the crowded category:
+
+https://www.traceroutellc.com/blog#Secomea","",""
+"708093072117989388","varghesejm","2023-05-06T12:14:15.3070000+08:00","A good questionnaire for anyone looking to deploy and of the dozen+ solutions in the dedicated industrial secure remote access space at any meaningful scale:
+
+https://www.traceroutellc.com/blog-collection/remote-access-for-ics-2","",""
+"708093072117989388","varghesejm","2023-05-06T12:18:17.7540000+08:00","I saw the Network Chuck video ok it. Seemed like just “another” in a growing list of good options from the video. If you have ever seen Tailscale or Nebula or Zero Tier (Tom Lawrence of Lawrence Systems has tons of YouTube videos on these) you might feel similar, and you might be particularly put off by their coordination servers and admin not having any self hosted options. IMO if that doesn’t bother you it looks pretty good!","","👍 (1)"
+"708093072117989388","varghesejm","2023-05-06T12:24:37.9230000+08:00","Definitely good looking but while you’ll find a few in these lab wall pics I still struggle to like them outside the mentioned CLI / Ansible / IT management domain. 
+
+https://raindrop.io/1682978813107/lab-wall-34103180","",""
+"817835202746253344","IIoT#4707","2023-05-06T12:24:38.2210000+08:00","GG @varghesejm, you just advanced to level 4!","",""
+"708093072117989388","varghesejm","2023-05-06T12:25:35.3390000+08:00","Case in point 🤣
+
+https://www.linkedin.com/posts/varghesejm_industrialnetworking-otnetworking-askforbetter-activity-7033948827799732224-DAFr?utm_source=share&utm_medium=member_ios","",""
+"708093072117989388","varghesejm","2023-05-06T12:31:26.5380000+08:00","If we’re talking pure aesthetics I have to give my vote to the new Moxa EDS-G4000 series although from a Moxa being Moxa standpoint the jury is still out on whether they have changed their stripes with NxOS. We have an two open tickets and an RMA in progress and I am curious how they respond vs how they have historically before this 5 year in the making launch)
+
+https://www.linkedin.com/posts/meberly_networkrefresh-moxa-edsg400-activity-6957896168739618816-HBnh?utm_source=share&utm_medium=member_ios","",""
+"708093072117989388","varghesejm","2023-05-06T12:32:25.7200000+08:00","https://youtu.be/r_To5RxZAiY","",""
+"708093072117989388","varghesejm","2023-05-06T12:32:42.2930000+08:00","Yes at 40 seconds the power supply DOES rotate 🤣","",""
+"708093072117989388","varghesejm","2023-05-06T12:33:08.3300000+08:00","Ok I have sufficiently spammed the channel for one night ✌🏽","","👍 (1)"
+"891563487241842699","jbonhage155","2023-05-06T12:39:05.0010000+08:00","Moxa looks sweet. Not sure why my company picked the IE3400 for “standard” for L2NAT functionality. That’s all we are using them for","",""
+"708093072117989388","varghesejm","2023-05-09T01:17:39.4490000+08:00","That probably answers the question itself. L2NAT is a pretty rare feature; personally I have only ever seen it on IOS products (Cisco IE and the white labeled Stratix). Personally I prefer L3 NAT (I have a whole deck on why 🤣) but I also say “smoke em if you got em”…so…it’s all good as long as all of the constraints are understood.","",""
+"891563487241842699","jbonhage155","2023-05-09T01:24:18.6250000+08:00","woah L3 NAT?! I need to google that asap. We are using L2NAT to give new IPs to plant floor equipment to stand up a new IIoT network. Then we can leave the existing equipment/PLCs and legacy apps running as-is until data is flow on the new network.","",""
+"708093072117989388","varghesejm","2023-05-09T01:28:03.0490000+08:00","Well L3 is what I would consider the default -  what you typically find on routers, firewall, industrial security appliances, dedicated NAT appliances etc - and how this issue has been solved more often over the last 15 years. L2 NAT is kind of the ""weirdo"" 🤣  Even Pascal Ackerman (author of the two massive volume ICS Cybersec books) who worked at Rockwell at the time this was staring to roll out seems to agree its a bit of a mess and would never do it.","",""
+"708093072117989388","varghesejm","2023-05-09T01:28:07.1170000+08:00","https://www.traceroutellc.com/blog-collection/nothing-but-nat-1","",""
+"708093072117989388","varghesejm","2023-05-09T01:29:03.5120000+08:00","We do a ton of smaller projects with these","",""
+"708093072117989388","varghesejm","2023-05-09T01:29:06.8450000+08:00","https://raindrop.io/1682978813107/moxa-nat-102-33987470","",""
+"708093072117989388","varghesejm","2023-05-09T01:29:36.5620000+08:00","Some with these","",""
+"708093072117989388","varghesejm","2023-05-09T01:29:38.5870000+08:00","https://www.linkedin.com/posts/varghesejm_industrialnetworking-otnetworking-activity-6965666981698035712-kv5t?utm_source=share&utm_medium=member_ios","",""
+"708093072117989388","varghesejm","2023-05-09T01:30:04.4390000+08:00","https://www.linkedin.com/posts/varghesejm_firewalls-automation-industrialnetworking-activity-6822717546152681472-0zsh?utm_source=share&utm_medium=member_desktop","",""
+"708093072117989388","varghesejm","2023-05-09T01:30:14.2800000+08:00","And here lately a lot of this","",""
+"708093072117989388","varghesejm","2023-05-09T01:30:17.1910000+08:00","https://www.linkedin.com/posts/varghesejm_industrialnetworking-otnetworking-virtualizeallthethings-activity-7041433241832083456-lahl?utm_source=share&utm_medium=member_ios","",""
+"708093072117989388","varghesejm","2023-05-09T01:30:25.8810000+08:00","https://www.linkedin.com/posts/varghesejm_industrialnetworking-otnetworking-networkaddresstranslation-activity-7059351741984604160-DPSS?utm_source=share&utm_medium=member_ios","",""
+"708093072117989388","varghesejm","2023-05-09T01:36:14.1460000+08:00","Feel free to ping me if we can ever be a resource. I feel like we do multiple NAT projects a month at this point, probably in part because of how much I yap about it on LI.","",""
+"833941249362493450","sammysevens777","2023-05-16T11:17:58.2690000+08:00","Great content, and breakdown of NAT. In your article ""nothing but NAT"" you mention not being able to use a router....but isnt the Moxa NAT a router? I understand its for a specific use case, but it still treats data at layer 3 like a router would right? 
+
+At $600 - other than being industrial, what does it offer that a $150 router with NAT off the shelf wouldnt? Nat is part of layer 3 - so trying to understand why you would subset functionality, and pay more? (Other than moxa = industrial grade, din mountable, etc.)","",""
+"708093072117989388","varghesejm","2023-05-16T11:24:30.3640000+08:00","Are you referring to this sentence?","","👍 (1)"
+"708093072117989388","varghesejm","2023-05-16T11:24:34.7660000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1107871189000523817/IMG_6730.png?ex=68df41f2&is=68ddf072&hm=26fc266e5073d57e662e4d40c0ca989ecc7fb6fa274015e535acac06c4f0efce&",""
+"833941249362493450","sammysevens777","2023-05-16T11:25:00.5500000+08:00","Yes!","",""
+"708093072117989388","varghesejm","2023-05-16T11:26:09.4080000+08:00","Ok so let me separate this response into two parts. 1) In that sentence I am mainly distinguishing deploying NAT as a technology vs deploying routing as a technology to solve the application. So in that bullet I am explaining reasons why routing alone might not work. I would agree that in general, the NAT-102 is a router, albeit what I would consider a specialty with particular NAT capabilities meant to tackle all various NAT needs.","",""
+"708093072117989388","varghesejm","2023-05-16T11:29:37.1900000+08:00","2) As to your $150 router question, I would need to evaluate a specific model but a) assuming we are talking about consumer/residential or even SMB I am typically accustomed to those having SOME of my NAT knobs but not all. What are all my NAT knobs? Covered well here in the SECOND post in the NAT series:
+
+https://www.traceroutellc.com/blog-collection/nothing-but-nat-2","",""
+"708093072117989388","varghesejm","2023-05-16T11:31:43.9790000+08:00","b) and yes the NAT-102 is industrial for form factor, temp spec, input power spec etc so yes industrial always comes with additional cost. That said having used over a dozen industrial NAT appliances over the last decade the NAT-102 interestingly is among the LEAST expensive options and that’s while it has all my knobs while others costing more often miss one or more","","🔥 (1)"
+"708093072117989388","varghesejm","2023-05-16T11:39:12.0760000+08:00","To the NAT is Layer 3 comment, while I agree it is a Layer 3 function you likely will find, at least across industrial network vendors is that annoyingly NAT is NOT a function offered on their l3 switch product line and specifically something reserved for their firewall/security appliance product line. Over the last few years some vendors have mixed things up with more combo appliances that they label NAT switches and even L2 NAT switches but most still don’t offer NAT in their straight L3 switch platforms.","",""
+"708093072117989388","varghesejm","2023-05-16T11:43:04.1950000+08:00","If you do have a desire to collapse NAT and additional switch ports I would still take a Moxa EDR-G9010 or maybe begrudgingly a PxC NAT 2008 before I would want to consider L2 NAT on a Cisco IE or AB Stratix. Personally I would prefer a Dynics ICS Defender, Fortinet Fortigate etc. full on firewall with sufficient port density before any of these though but that’s because as you may have gathered from all this babbling, I am EXTREMELY picky about NAT 🤣","","😆 (1)"
+"833941249362493450","sammysevens777","2023-05-16T13:14:22.8150000+08:00","Well when you know what you're working with, and trust it, that makes a big difference! No point reinventing the wheel, so I appreciate a good review when i read one!","",""
+"833941249362493450","sammysevens777","2023-05-16T13:36:39.7060000+08:00","Do you have any books on ""advanced networking"" concepts you would suggest? I spent most of my career automating the assembly of servers, switches, etc.....but had never used an industrial grade one. Now, in my recent role, i was the understudy of a network engineer (20+ years) - and we setup our factory network with fortigate + ubiquiti. I learned a ton....but i also began to realize why this network hardware is so in demand....what used to be an arduous command line interface has now been abstracted to GUIs and relatively easy to use interfaces. The complexity is there (and command line acces too sure), but the appliances have made the experience a lot ""easier"" than they used to be....and someone with decent IT fundamentals can do what a 10+ year network engineer was needed to do as of a decade go....is this a fair assessment to the boom of network appliances? (Firewall, managed switch)","",""
+"708093072117989388","varghesejm","2023-05-16T21:00:41.7100000+08:00","I keep meaning to turn this into a blog post. When we get asked about OT Networking training this is what I share:
+
+Traceroute’s Networking Assessments (meant to identify if our training would be helpful)
+
+https://www.traceroutellc.com/s/Networking-Fundamentals-Assessment.pdf
+
+https://www.traceroutellc.com/s/Network-Training-Advanced-Assessment.pdf
+ 
+Non-Industrial Specific Networking Resources (a good amount free)
+
+https://www.practicalnetworking.net/series/
+
+https://www.professormesser.com/
+ 
+Barry Baker / Black Shirt Networking (paid training)
+
+https://www.linkedin.com/feed/update/urn:li:activity:6796149557899214848/
+ 
+From Vendors (mix of free and paid, and mix of general industrial networking vs. mfr/product-specific)
+
+https://academy.etherwan.com/course/index.php?categoryid=23
+
+https://beldensolutions.com/en/Service/Training_/Grundlagenvermittlung/Ethernet/index.phtml
+
+https://beldensolutions.com/en/Service/Training_/Produkteinweisung/index.phtml
+
+https://www.westermo.us/support/academy","","👍🏻 (3),🔥 (1)"
+"708093072117989388","varghesejm","2023-05-16T21:04:11.2650000+08:00","Completely agree that good GUIs can make network admin more “accessible”. In part 1 of this series where I talk about product/platform selection for IT vs OT, this point about GUIs is touched on. In part 2 I get into the features/characteristics likely worth paying the most attention to for industrial deployments.
+
+https://www.traceroutellc.com/blog#WhichManagedSwitch","",""
+"833941249362493450","sammysevens777","2023-06-17T00:25:48.9250000+08:00","Hey guys - if i wanted to better understand the tools one would use to remotely connect to a machine, in a secured facility, and what considerations are required (everything from opening ports, NAT, routing, servers to manage communication between my remote pc and the target machine.....what are the key tools, platforms, or even standard application considerations id need to consider? Both from facility, and from the remote user side","",""
+"898217314741280828","hobbes1069","2023-06-17T01:04:52.5040000+08:00","https://dispel.com/","",""
+"898217314741280828","hobbes1069","2023-06-17T01:05:13.6930000+08:00","The use a VM approach with EVERYTHING logged, even screen recording.","","💯 (1)"
+"708093072117989388","varghesejm","2023-06-30T07:47:00.3440000+08:00","HIGHLY suggest going through this exercise","",""
+"708093072117989388","varghesejm","2023-06-30T07:47:03.1550000+08:00","https://www.traceroutellc.com/blog-collection/remote-access-for-ics-2","","🔥 (4)"
+"708093072117989388","varghesejm","2023-06-30T07:48:14.0250000+08:00","That was written from my experience deploying eWon, Secomea, Tosi, mGuard, Moxa SRC and testing Ixon/AD, defunct Bayshore, Dispel, Xona, on and on","",""
+"708093072117989388","varghesejm","2023-06-30T07:49:21.3520000+08:00","If you’d by some freak chance prefer to listen to those questions, I hit them during this pod:","",""
+"708093072117989388","varghesejm","2023-06-30T07:49:33.8320000+08:00","https://www.linkedin.com/posts/varghesejm_ot-cyber-security-podcast-episode-5-just-activity-6657065232239783937-agCQ?utm_source=share&utm_medium=member_ios","","👍 (1)"
+"833941249362493450","sammysevens777","2023-06-30T13:38:11.6180000+08:00","Always on point - thank you!","",""
+"769397045579481129","donpancoe","2023-06-30T22:18:20.0620000+08:00","Geez, how did I miss that there was a whole #machine-networks channel? Oh well, we had a good networking discussion in the #💬-general channel. Thanks again @varghesejm.","","😀 (1)"
+"708093072117989388","varghesejm","2023-06-30T22:19:30.1320000+08:00","You bet; holler if we can ever help.","",""
+"794020366536146977","mparris","2023-07-01T07:53:22.8330000+08:00","It's the layer of the automation stack that has received the least attention in this community...
+
+Most discussions assume well architected networks, but I wonder how many are that way...","","👍 (5)"
+"1073632885153730621","vaughnturner","2023-07-02T22:07:54.3470000+08:00","That's a very good point @MParris. The last manufacturer I worked for their network was almost not exisitent. Even the different buildings of the campus weren't connected. It was a nightmare.","",""
+"794542235676180500","akoscs","2023-07-03T16:16:17.7420000+08:00","I bet they did not have any network downtime problems :)))","","😂 (1)"
+"1073632885153730621","vaughnturner","2023-07-03T18:56:46.1850000+08:00","Not one lol","",""
+"756247672637358181","sherylmccrary","2023-07-14T04:26:56.5380000+08:00","Anyone have a suggestion for a simple network mapping tool? @Pete Larochelle Pete's question is here https://discord.com/channels/738470295056416930/1040035658187669504/1129083927345234071","",""
+"708093072117989388","varghesejm","2023-07-14T06:19:32.9070000+08:00","Well my last ~15 years and >1000 customers engaged in some manner or another in regards to their OT network says very very few. I suppose I don't hear from the customers that are setup well but I can certainly account for droves and droves that are not and surprisingly (to me anyway) that includes all the way up to Fortune 5s. #jobsecurity","",""
+"708093072117989388","varghesejm","2023-07-14T06:23:23.7500000+08:00","It's 2023, we've been doing more foundational OT networking training than ever and the training is on the same basics we were talking to customers about 15 years ago. It's no one's ""fault"" but the increased demand for more data has exposed the fact that the OT network has never really been anyone's (the SI, the end user, the engineering firm) job to design and architect for reliability and scale. It's all just been some variaton of ""plug and pray"".","","👍 (4)"
+"708093072117989388","varghesejm","2023-07-14T06:25:07.6840000+08:00","I'll hop over there and do some yapping.","",""
+"756247672637358181","sherylmccrary","2023-07-14T06:25:17.8280000+08:00","Ty","",""
+"817835202746253344","IIoT#4707","2023-07-14T06:25:18.1560000+08:00","GG @SherylM, you just advanced to level 20!","",""
+"794020366536146977","mparris","2023-07-14T07:07:21.4190000+08:00","Most OT networks have been the equivalent of running 24VDC wires to devices needing power.
+
+Now as we get smarter, talking about VLANs for segmentation is the equivalent of starting to deploy these devices 😆
+
+https://products.pulspower.com/us/pisa-b-8cl2-b1.html","","😆 (1)"
+"568913935147728896","zeratall","2023-07-26T05:48:31.7630000+08:00","Thats exactly why I try to educate myself to be both the Data/Application architect but also the network architect. Knowing the full tech stack is a super power for getting things done, no one can BS you anymore lol","","👍 (2)"
+"1073312001788477471","sparkylarks","2023-08-12T00:22:17.1450000+08:00","A jack of all trades is master of none, but oftentimes better than master of one.","",""
+"568913935147728896","zeratall","2023-08-12T00:28:23.8820000+08:00","That’s why you have a team of SMEs that work in a dedicated domain that you rely on for details, I’m an architect so it pays to know  about all domains","",""
+"568913935147728896","zeratall","2023-08-19T04:43:53.7260000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1142197200697446490/image.png?ex=68dee409&is=68dd9289&hm=678bedd72fd766a30f6acb0f1fb4791e36443f3f879f12df4ea2f9b95c100870&",""
+"568913935147728896","zeratall","2023-08-19T04:44:20.9260000+08:00","And the homelab grows, will have multisite SDA fabric once these come in lol.","",""
+"766684226455207996","bright_hummingbird_31342","2023-08-19T06:05:09.6230000+08:00","This screenshot got me curious.  On eBay, that C3850 is going for <$300.  It wasn't that long ago that I remember paying >$20k for these with most options and SmartNet.  It's crazy how much these depreciate.","",""
+"568913935147728896","zeratall","2023-08-19T06:08:23.4200000+08:00","hahah yep, they are dirt cheap now. In my home lab I have a DNAC and ISE Appliance, then 2 3850's running as Fabric Border and Control Nodes, and then 2 3650's running as Fabric Edge nodes. Before I only had 1 of the 3650 and 1 of the 3850, so I could only simulate 1 fabric, but now I can do a multi fabric.","",""
+"766684226455207996","bright_hummingbird_31342","2023-08-19T06:11:02.8050000+08:00","ISE in a home lab.  Wow.  I would have never thought that technology was even remotely accessible.  How do you deal with licensing and software downloads?  When this stuff gets EoL, it's costly to keep under SLA and it gets migrated.  I always wondered what could be done with this stuff.","",""
+"568913935147728896","zeratall","2023-08-19T06:12:57.3800000+08:00","Yeah at work we are deploying Cisco's SDA solution for virtualized mfg networks, so I started the home lab to get more familiar with the tech. So that's the catch with the licensing, because you need licensing on the appliance and the hw itself, which these wont, they end up going into a throttled mode, it's still full featured but I think its only only like 2.5 Mbps, which basically means you can't use them for anything other then a home lab.","",""
+"766684226455207996","bright_hummingbird_31342","2023-08-19T06:13:21.9880000+08:00","Have you played around with any of the newer Cat9k and DNA center stuff?","",""
+"568913935147728896","zeratall","2023-08-19T06:13:45.7440000+08:00","Also the DNAC and ISE Appliance from Cisco is like $80k for the 70 vCPU model. But you can technically install ISE and DNAC on any ESXi server that has the hw resources in a VM its just not ""supported"" by cisco lol","",""
+"568913935147728896","zeratall","2023-08-19T06:14:25.5920000+08:00","Yeah that's what we are deploying at work 9500, 9300s IE3400's with DNA-C, ISE, Cybervision, etc. That's why I built this home lab.","",""
+"568913935147728896","zeratall","2023-08-19T06:15:06.7600000+08:00","with the 3850 and 3650 you can still do a full fabric, just dont get some of the fancier options you would normally get with the Cat9k's like being able to do FiaB and obviously the bandwidth the 9ks have.","",""
+"568913935147728896","zeratall","2023-08-19T06:15:48.6310000+08:00","but 3850s and 3650 are dirt cheap, and give you the ability to build your own fabrics, and use all the SDA stuff like SGT's, SGACLs, etc to do things like microsegmentation, and auto deployment of the overlay architecture etc.","",""
+"568913935147728896","zeratall","2023-08-19T06:17:00.9980000+08:00","but yeah I have DNAC and ISE running on a Dell PowerEdge R630 which has 77 VCPUs, 368 DDR4, and 4 TB of memory.","",""
+"568913935147728896","zeratall","2023-08-19T06:17:26.6720000+08:00","I think I have something like 60 vCPUs dedicated for the DNAC VM which hasn't given me any issues for home labbing","",""
+"568913935147728896","zeratall","2023-08-28T22:44:10.2280000+08:00","@js","","👏 (1)"
+"568913935147728896","zeratall","2023-08-28T22:44:26.1130000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1145730617850478642/IMG_7615.jpg?ex=68df3889&is=68dde709&hm=edd03da67a187cd3ee29cf13b2e74af69d01ef8dc31d922dbc5e63892220d192&,https://cdn.discordapp.com/attachments/992924894444666940/1145730618215370762/IMG_7617.jpg?ex=68df388a&is=68dde70a&hm=c62d85804c94e48ce43fde96c3337cddfc6341bbf3087f67756d4da45ff489b5&",""
+"568913935147728896","zeratall","2023-08-28T22:48:28.1160000+08:00","Excuse the cable management, my rack and cabling/jacks haven’t came in so just using what I have on had lol, but you can see my SDA fabric is up and running in the home lab.","","👍🏻 (2)"
+"794020366536146977","mparris","2023-08-29T08:30:04.5540000+08:00","How loud is it sitting next to that poweredge?","",""
+"568913935147728896","zeratall","2023-08-29T08:30:14.4510000+08:00","Very lol","",""
+"794542235676180500","akoscs","2023-08-29T18:22:36.7590000+08:00","nice!!! did the energy meter go brrr?","",""
+"568913935147728896","zeratall","2023-08-29T21:41:35.7730000+08:00","Not to bad, but I do have something like 62 vCPUs dedicated just to DNAC lol","",""
+"794542235676180500","akoscs","2023-08-29T23:13:48.0570000+08:00","taht sounds like a lab not a homelab :))","",""
+"568913935147728896","zeratall","2023-08-30T05:30:49.2410000+08:00","Hahah nah I think the poweredge only cost me like $2k on eBay, 88 VCPUs, 368GB DDR4 and 4 TB of ssd.","",""
+"894527802316046366","nickn5549","2023-08-30T10:20:09.8270000+08:00","cool","",""
+"898217314741280828","hobbes1069","2023-08-30T21:28:46.9430000+08:00","https://tenor.com/view/star-wars-harrison-ford-hans-solo-thats-no-moon-its-a-space-station-gif-4764160","","😂 (4)"
+"568913935147728896","zeratall","2023-09-16T01:17:37.3490000+08:00","Not sure if this belongs here because more about racks, but has anyone used a product like this for a home lab? I'm thinking about getting some Arduino Optas and maybe a RIO for the home lab, thinking maybe something like this would be ideal? Curious what others have done for their home lab. https://www.amazon.com/Rackmount-Din-Rail-Panel-6U/dp/B00SG3PGWK/ref=sr_1_15?crid=1NEXD9QHKF0IW&keywords=din+rail+for+rack&qid=1694797779&sprefix=din+rail+for+rack%2Caps%2C128&sr=8-15","",""
+"751492163233382430","andyott33","2023-09-16T01:39:18.9220000+08:00","I used pegboard from home depot and wire duct from automation direct. I just have a small lab at the moment.
+https://www.tritonproducts.com/wall-ready
+https://www.automationdirect.com/adc/shopping/catalog/wiring_solutions/wire_duct#Brand_Name_ms=%22Iboco%22&start=0&Color_ms=%22White%22","",""
+"568913935147728896","zeratall","2023-09-16T01:40:05.6080000+08:00","Yeah that makes a lot of sense, I think a lot of people use some type of board to mount their home lab PLCs, I'm kind of thinking I want to keep it all together in a single rack though.","",""
+"751492163233382430","andyott33","2023-09-16T01:40:49.7820000+08:00","Ya, that looks like it would be a nice solution","",""
+"568913935147728896","zeratall","2023-09-16T01:41:16.2770000+08:00","Yeah just trying to keep the wife aggro low, if its a single rack my home servers, cisco switches, plcs, etc, think might be a little easier to convince the wife lol","","💯 (1)"
+"751492163233382430","andyott33","2023-09-16T01:41:31.4870000+08:00","This is what mine looks but has been wired up since this picture was taken","",""
+"568913935147728896","zeratall","2023-09-16T01:42:22.5710000+08:00","sec have to download the heic codec lol","",""
+"751492163233382430","andyott33","2023-09-16T01:42:39.7000000+08:00","lol, iphones. I will get a normal format","",""
+"751492163233382430","andyott33","2023-09-16T01:43:49.3580000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1152298744163880990/andyslab.png?ex=68df6295&is=68de1115&hm=334aab0e894fd785c96c1c3be5dcf0f46f4e599bfbc7c203d8cca4c6768d16e4&",""
+"568913935147728896","zeratall","2023-09-16T01:44:11.9330000+08:00","damn that's clean man!","","👍 (1)"
+"568913935147728896","zeratall","2023-09-16T01:44:22.8430000+08:00","lol same power supplys and distribution blocks I was looking at as well hahah","",""
+"751492163233382430","andyott33","2023-09-16T01:44:23.5730000+08:00","Just ordered a few more items but those will need to be installed in a separate location","",""
+"751492163233382430","andyott33","2023-09-16T01:45:22.3100000+08:00","Thanks, ya I like automation direct for terminals and wire ducts","",""
+"568913935147728896","zeratall","2023-09-16T01:46:32.1160000+08:00","Thanks for sharing, I love seeing others setups!","",""
+"751492163233382430","andyott33","2023-09-16T01:47:20.6810000+08:00","For sure! You should share pictures of your setup when it's completed","",""
+"751492163233382430","andyott33","2023-09-16T01:48:02.4070000+08:00","I need to add managed switches to my setup and start building up that skillset","",""
+"794020366536146977","mparris","2023-09-16T11:22:48.2440000+08:00","That's a fancy one.  I've used ones like this, just to get DIN-rail components into a rack:
+https://www.amazon.com/Adjustable-Rackmount-Aluminum-Din-Rail-Installed/dp/B0CD84PXVQ/","",""
+"794542235676180500","akoscs","2023-09-17T15:47:10.8390000+08:00","Nice! all you need is...room for extentions 🙂","",""
+"898217314741280828","hobbes1069","2023-09-19T05:48:26.8380000+08:00","I attached DIN rail to the standard grade peg board on my Harbor Freight workbench. 
+
+At work I attached it to heavy gauge metal peg board of my Uline work bench. Enough of the holes lined up. Then I put in several self tapping screws so I could ground the peg board using grounding din terminal blocks.","",""
+"833941249362493450","sammysevens777","2023-09-20T14:35:47.4950000+08:00","I came across some switches that a cloud provider uses, and learned that their switches dont have any persistent storage, and are remotely configured from a host server. 
+
+While this makes sense (more flexibility to change configs centrally based on networking needs), what it also means is that there is no disk drive in the switch, and its settings get reset everytime it power cycles. Using a product like this - outside of its intended use case is a bad idea....
+
+Its opened my eyes up to the major trends in the internet, data centers, etc. With MaaS being more common, treating end devices as fully programmable nodes that can change behavior based on upstream demands....sounds very I4.0 like - but i have never seen an automation controls/network product that (for example) - could convert from linux to windows without major inconveniences and manual work.
+
+I wonder if networking concepts like this will ever make its way to industrial equipment.....im seeing NIC and network technology in general gain more influence in data center control structures","",""
+"769397045579481129","donpancoe","2023-09-20T19:30:42.4180000+08:00","Although I've never used them, I seem to recall industrial components, like PLCs and switches, have offered netboot features for quite a while. It may be a case where early implementations were not reliable enough to depend on. But with the new focus on version control and ""devops for OT,"" I think this idea is definitely regaining ground.","","👍 (1)"
+"769397045579481129","donpancoe","2023-09-20T19:33:44.3650000+08:00","When your MES reconfigures your line from making widgets to making gadgets, it could load entirely new programs to your PLCs and other equipment. Check out what they're doing at Software Defined Automation.","",""
+"873009180938743828","sim_sam3","2023-09-22T05:29:45.6750000+08:00","Cisco just bought Splunk - for 28B! https://www.cnbc.com/amp/2023/09/21/cisco-acquiring-splunk-for-157-a-share-in-cash.html","",""
+"568913935147728896","zeratall","2023-09-22T10:27:16.6040000+08:00","Lol I was talking to our infosec guys about it today at work, they are not excited hahah.  One said “great Cisco is going to ruin splunk” lol, personally I’m excited to see what they do with it","","😅 (3)"
+"873009180938743828","sim_sam3","2023-09-23T03:29:49.1500000+08:00","yeah certainly an opportunity for innovation.. but also opportunity for soul crushing deconstruction of splunk into pieces","",""
+"873009180938743828","sim_sam3","2023-09-23T03:29:52.7970000+08:00","but hey, ill be optimistic","",""
+"716460470957244467","j2dal","2023-09-23T03:35:20.6290000+08:00","coming from Splunk here! after a day of digesting the news I'm optimistic on the synergy it will bring! we recently started focusing more on IIoT and developing software at Splunk to specifically help I4.0. 
+
+At least until close (which they expect will take 9-12months) we will continue to operate as an independant company so get your I4.0 product/feature requests in now!","",""
+"873009180938743828","sim_sam3","2023-09-23T04:17:17.7350000+08:00","awesome! and didn't mean to throw negativity at your day to day, just love your company and your software (though i do wish kepware could have delivered your edge protocol conversion layer with some nice new linux/arm support..)","",""
+"873009180938743828","sim_sam3","2023-09-23T04:17:48.4600000+08:00","i love the move to deploy devices to collect (even though it hurts my bottom line right now)","",""
+"817835202746253344","IIoT#4707","2023-09-23T05:07:01.1120000+08:00","GG @Sam.E, you just advanced to level 3!","",""
+"568913935147728896","zeratall","2023-09-23T09:03:04.2490000+08:00","We’re getting ready to deploy SDA for I4.0 networks. Hoping some cool integrations there, that’s why I was saying I’m excited hahah. Our CISO uses Armis  but some native integration with some of the SDA services would be really cool","",""
+"817835202746253344","IIoT#4707","2023-09-23T09:03:04.6400000+08:00","GG @Zach E, you just advanced to level 14!","",""
+"666121790610735110",".dmays","2023-10-10T00:24:21.6430000+08:00","For a message broker, are MQTT and RabbitMQ used together or one or the other?
+And if used together, which should be learned first?","",""
+"873009180938743828","sim_sam3","2023-10-10T00:31:11.3690000+08:00","rabbitmq is a message broker that supports multiple, pure publish-subscribe protocols including MQTT and AMQP","",""
+"666121790610735110",".dmays","2023-10-10T01:41:04.8650000+08:00","Thanks!","",""
+"666121790610735110",".dmays","2023-10-12T21:21:26.3350000+08:00","I've been going through a HiveMQ introduction to MQTT. In the intro to MQTT topics it says never to use spaces, but later in the course it says ""Topic strings can include empty spaces to allow for more readable or descriptive topics.""
+
+Are spaces allowed but just not recommended in MQTT topic strings?","",""
+"817835202746253344","IIoT#4707","2023-10-12T21:21:26.8430000+08:00","GG @dave mays, you just advanced to level 1!","",""
+"745796393855352953","thedavidschultz","2023-10-12T22:34:39.2520000+08:00","Spaces are less of a problem than they once were. But there are still systems that don't do well with them. I wouldn't say not recommended, but I would be mindful of them. PascalCase and camelCase to me are still readable.","",""
+"666121790610735110",".dmays","2023-10-13T00:04:53.7580000+08:00","thank you","",""
+"149998744899813376","borkovic321","2023-10-16T19:39:50.1640000+08:00","Hi guys,
+Does anyone have any practical knowledge in setting up and creating private 5G networks for manufacturing plants?
+I cant seem to find too many examples besides Korea/China here in the West. Any information regarding this topic would be appreciated.","",""
+"898217314741280828","hobbes1069","2023-10-17T20:57:03.8460000+08:00","I will sometimes use underscores as well in place of spaces.","",""
+"145740388303503360","industry4.0","2023-10-20T07:38:38.4480000+08:00","Hi Kovich, I have some people I can connect you with.  Are you still looking for info?","",""
+"666121790610735110",".dmays","2023-10-21T14:22:40.3180000+08:00","If anyone has experience using the MQTT.js library in the browser, I'm struggling to figure out what format the payload of the will should be for the options passed into mqtt.connect(url,options).
+
+I'm able to connect until I add something to the payload. Encoding as UTF8 doesn't seem to work. The Node.JS version of MQTT.js expects a buffer type for the payload, but the browser doesn't support buffer. Tried a library called ""buffer"" but still no go.
+
+Anyone have an example of how they fill out the options object in MQTT.js in the browser for the LWT?
+
+        clientId: client_id_input.value,
+        username: user_input.value,
+        password: password_input.value,
+        will: {topic: lwt_topic_input.value,
+              //  payload: utf_encoder.encode(lwt_message_input.value),
+               payload: Buffer.from(utf_encoder.encode(lwt_message_input.value)), // Tried using ""buffer"" library
+               qos: lwt_qos_input.value as mqtt.QoS
+              }","",""
+"149998744899813376","borkovic321","2023-10-21T19:40:59.9960000+08:00","Oh man I would love to get any information from people directly 🙂
+Definitly still looking for info.","",""
+"456226577798135808","Deleted User","2023-10-27T09:22:16.8190000+08:00","Is anyone familiar with MTConnect?
+If yes, are there any learning sources or testing applications recommended?","",""
+"873009180938743828","sim_sam3","2023-10-28T02:24:54.8140000+08:00","www.mtconnect.org for orienting info and specifications
+
+http://mtconnect.mazakcorp.com for demo agents (thank you Mazak)","","💯 (1)"
+"766684226455207996","bright_hummingbird_31342","2023-10-28T04:11:52.8040000+08:00","Meet @Russ from the Internet","",""
+"329780110704246790","rkwadd","2023-10-28T05:31:35.8700000+08:00","Almost all installs use the open source C++ agent at https://github.com/mtconnect/cppagent","","🙏 (1)"
+"898217314741280828","hobbes1069","2023-10-31T06:57:29.2360000+08:00","Yup, and it supports MQTT which has been a lifesaver for some old waterjets that Kepserver refused to talk to.","",""
+"329780110704246790","rkwadd","2023-10-31T07:12:18.3650000+08:00","MQTT support is pretty new and was mostly a volunteer effort. Tip your github contributors and maintainers (aka comment, fork, open, and resolve issues)","",""
+"898217314741280828","hobbes1069","2023-10-31T07:14:19.6500000+08:00","I'm not much of a coder, but I did provide quite a bit of input on the MQTT support which was eventually added, and I read the release notes every release. Just keeps getting better.","","😍 (1),👍 (2)"
+"456226577798135808","Deleted User","2023-11-05T00:03:11.6220000+08:00","@Sam.E @Russ from the Internet Thank you!! I will read through this. I appreciate the resources","",""
+"708093072117989388","varghesejm","2023-11-06T14:20:58.9850000+08:00","More metal pegboard (and totally overkill led light strips), din rail, and panduit here:
+
+https://www.linkedin.com/posts/varghesejm_industrialnetworking-otnetworking-leagueofitsown-activity-6982348431646236672-3u2O?utm_source=share&utm_medium=member_ios","","🔥 (3)"
+"1112555629924601857","caltiger","2023-11-10T03:16:28.4000000+08:00","Hi everyone,  I am wondering if there are any Solumina MES professionals here. If anyone is working with Solumina MES in a discrete manufacturing environment with ERP, PLM and MES, pls DM me me. Hope this is not considered as marketing solicitation. Thanks","",""
+"794020366536146977","mparris","2023-11-10T07:06:51.2310000+08:00","Maybe you would have better luck posting this to #mes","",""
+"1112555629924601857","caltiger","2023-11-10T07:11:24.5780000+08:00","Sure. But want to.make sure this wasn't an issue. Thanks","",""
+"740383178279354388","mriiot","2023-11-16T19:24:39.2180000+08:00","Ask questions here too.  Its a bit of a thinking shift to grasp the goal of mtconnect that most miss and treat it as another protocol","",""
+"794020366536146977","mparris","2023-11-16T20:04:27.3990000+08:00","I'm thinking that MTConnect's protocol is the weakest part of the definition","",""
+"740383178279354388","mriiot","2023-11-16T21:13:54.1310000+08:00","Omg","",""
+"794020366536146977","mparris","2023-11-16T21:26:01.6490000+08:00","Polling an HTTP endpoint seems too 2000s.
+
+I believe they had plans to map their dictionary across a publish/subscribe mechanism","",""
+"456226577798135808","Deleted User","2023-11-16T22:07:09.8510000+08:00","I lightly brushed over the docs. Seems similar to an OPC UA model but with REST API and XML, perhaps?","",""
+"740383178279354388","mriiot","2023-11-17T00:48:38.8990000+08:00","Yup MQTT out is working in v2","",""
+"740383178279354388","mriiot","2023-11-17T00:49:27.1590000+08:00","Spb out coming soon","",""
+"740383178279354388","mriiot","2023-11-17T00:51:31.4810000+08:00","Xml is one of the representations of the model. Json another.","",""
+"740383178279354388","mriiot","2023-11-17T00:52:07.4540000+08:00","Same vocabulary across assets is the key.","",""
+"708093072117989388","varghesejm","2023-12-14T07:19:58.3170000+08:00","Ubiquiti out here doing Ubiquiti things:","",""
+"708093072117989388","varghesejm","2023-12-14T07:20:00.1510000+08:00","https://www.linkedin.com/feed/update/urn:li:activity:7140836489046691840/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A7140836489046691840%2C7140841725928841216)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7140841725928841216%2Curn%3Ali%3Aactivity%3A7140836489046691840)&dashReplyUrn=urn%3Ali%3Afsd_comment%3A(7140842031911690241%2Curn%3Ali%3Aactivity%3A7140836489046691840)&replyUrn=urn%3Ali%3Acomment%3A(activity%3A7140836489046691840%2C7140842031911690241)","",""
+"917925131261718558","jpmoniz","2023-12-14T07:30:13.3410000+08:00","Love their stuff. They just keep pushing the envelope on user experience and functionality.","",""
+"708093072117989388","varghesejm","2023-12-14T07:40:29.4460000+08:00","They seem to leave some customers by the wayside with a trail of broken dreams and promises but then they do things like this and","","😂 (3)"
+"708093072117989388","varghesejm","2023-12-14T07:40:48.1930000+08:00","https://tenor.com/view/just-when-i-thought-i-was-out-they-pull-me-back-in-michael-corleone-al-pacino-the-godfather-gif-19249100","",""
+"898217314741280828","hobbes1069","2023-12-16T07:30:57.8580000+08:00","I'm all in on Ubiquiti at the house. Have a 24 port managed switch, UGS, and two UAP-AC Lite's for Wifi. I REALLY want a Dream Machine Pro SE (with some PoE ports) but may settle for the UXG Lite for the short term. The UGS is getting very long in the tooth and can't handle gigabit internet with any advanced filtering turned on.","","👍🏻 (1)"
+"898217314741280828","hobbes1069","2023-12-16T07:32:53.9310000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1185363887734923284/IMG_0262.jpg?ex=68df0ba5&is=68ddba25&hm=2ea0683128d1b373ec6e2eeedf1db3a442176e11a2579ef91380d36a0b963654&","🔥 (1)"
+"568913935147728896","zeratall","2023-12-16T07:34:38.8010000+08:00","Looks amazing man!","",""
+"898217314741280828","hobbes1069","2023-12-16T07:36:17.5880000+08:00","Thanks! When the house was being built (don't get excited, not a custom build, more of a pick your plot, pick your plan) I got in and pulled Cat 5E before the drywall was up. I wire everything I can and save the WiFi for mobile devices. Got a couple of boxes of Cat 6 and plan to repull everything to support 10GB Ethernet in the not too distant future.","",""
+"898217314741280828","hobbes1069","2023-12-16T07:36:56.0950000+08:00","The two patch panels are because one is 5E and one is Cat 6. Once I re-pull everything the 5E one will be removed.","",""
+"898217314741280828","hobbes1069","2023-12-16T07:39:15.9760000+08:00","As far as what everything is, top to bottom, left to right, the computer is a $99 Ebay special I use as a backup server. It's running BackupPC and I just rebuilt it because I had a hard drive going bad on Fedora Sever 39, then the patch panels, then the 24 port managed Unifi switch. The lower shelf there's a network based HD Homerun ATSC TV tuner with recordings going to MythTV/Plex, the C-Spire fiber box, an the Ubiquiti UGS.","",""
+"898217314741280828","hobbes1069","2023-12-16T07:40:40.6510000+08:00","It's off the picture to the upper right but I have an Intel NUC running Home Assistant. Haven't done much with home automation YET, but plan to do more in the coming year. It's also running Mosquitto in a container (via Home Assistant) and talks to my Opto 22 groov Rio in the office to get temperature from a Honeywell thermistor.","",""
+"740383178279354388","mriiot","2023-12-16T09:56:33.4050000+08:00","Omg this is so cool https://github.com/siemens/edgeshark","","🔥 (2)"
+"794020366536146977","mparris","2023-12-16T12:26:51.4330000+08:00","MythTV??? Now, that's a throw-back!  It really was a full-featured application, but hard to get the backend running on embedded systems (like a NAS)
+
+To replace a PC running Windows Media Center, I bought a QNAP NAS and ran TVHeadend on that to record from a couple HDHomerun Extends (set to encode OTA MPEG-2 into h.264). To get channel data, I utilized ""mc2xml"" and ended up dontating to the developer to create a unique binary to run on the ARM architecture for the QNAP.
+
+Then used a SolidRun Cubox-i4Pro running XMBC to watch the recordings and the video library.
+
+Then bought into the HDHomeRun DVR kickstarter run that on a new QNAP NAS and use NVIDIA Shield running the HDHomerun DVR app.  Haven't used TVHeadend since....","",""
+"898217314741280828","hobbes1069","2023-12-16T20:57:27.1630000+08:00","Yup! I was also the package maintainer on RPM Fusion for Fedora for about 10 years or so but now I'm just running the backend now for the recordings so I handed it over to someone else. I use Plex on my Roku Ultra for playback. I just use a desktop computer since I have space inside the entertainment center.
+
+I never worried about converting the MPEG2 streams to H.264 since hard drives were cheap enough, although I do have the horsepower now. It's running my old Ryzen 5 3600 system. I went ahead and paid for the schedule data, it's like $24/year.","",""
+"456226577798135808","Deleted User","2024-01-06T06:31:10.5030000+08:00","Finally starting to work on my assigned MTConnect project. I have a few questions if you don't mind?
+First, thank you for this website! It has great content and very helpful.
+My questions:
+1. Is MTConnect an entire data structure standard? So, could I expect every OEM/vendor to provide the same informational hierarchy in a similar structure? (For instance: Equipment = Device -> Controller = Component -> Some Value = Device or something like this)
+2. Was the intent of MTConnect to create an HTTP endpoint for external system to capture data? If yes, does this mean the external systems also need to 'poll' the HTTP endpoint to get 'realtime' data updates?
+     Or, is there a way for the MTConnect Agents to publish the data externally?
+3. I am not sure I understand the difference between the ""probe"" data and ""current"" data in the sample data provided? Is this also an MTConnect standard?
+Reason I am asking is because I am considering following the link below, to create OEE metrics from a MTConnect enabled CNC machine. But, I am wondering if the data structure is consistent enough to be able to follow the same. (I have not had access to the CNC machine data yet, so I am not sure what it will look like.)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5497518/table/T1/?report=objectonly","",""
+"740383178279354388","mriiot","2024-01-07T02:13:23.3630000+08:00","1. The consistency is in the component hierarchy, vocabulary.  https://model.mtconnect.org","",""
+"740383178279354388","mriiot","2024-01-07T02:14:43.6730000+08:00","2. Agent 2.0 provides MQTT in and out.  HTTP and MQTT are available  transports and XML/JSON available representations.","",""
+"740383178279354388","mriiot","2024-01-07T02:16:16.8850000+08:00","3. “Probe” is the device model. “Current” is the snapshot of the data that fills the model as of right now. “Sample” is a stream of observations.","",""
+"740383178279354388","mriiot","2024-01-07T02:18:11.5460000+08:00","You want to look at Availability, Execution, Functional Mode, Controller Mode Events.","",""
+"150477489427185664","av8or1ab","2024-01-08T03:56:55.7590000+08:00","I'm running a Unifi stack as well. I'm lucky and have access to symmetrical 5Gb fiber for what feels like highway robbery. So I have the DreamMachine-Pro, 10Gb Aggregation, and a bunch of switches. We have an ADU that we use as a home office, so when they buried the fiber, I gave the crew some extra funds and bought them lunch to drop in my own fiber between structures. 
+
+As for other fun devices, I have a 120TB Unraid system for backups and media serving, dual NUCs running PiHole, and everything on dedicated UPSs to maintain uptime. 
+
+Is it excessive? Absolutely. Do I love it? Even more","https://cdn.discordapp.com/attachments/992924894444666940/1193644458340790352/image.png?ex=68df81c7&is=68de3047&hm=42629cf686549265ca054ac0ca33ceb28c9d57c537f39cf127dc3148b955633d&",""
+"817835202746253344","IIoT#4707","2024-01-08T03:56:56.1540000+08:00","GG @av8or1ab, you just advanced to level 3!","",""
+"898217314741280828","hobbes1069","2024-01-08T06:45:53.4600000+08:00","Yeah, I'm jealous 🙂","",""
+"1129435706285101076","ted.garrison","2024-01-13T00:37:46.5140000+08:00","nice unifi setups.  I've got 1 AC-Pro LR in the house, an AC-Pro in the barn that meshes to the house for it's connection.  Plus an AC-Pro in the shop that gets it's connection via a Nanostation loco bridge, and an AC-Lite up at the other house that also uses a Nanostation loco bridge for it's connection.  The nanostation locos make for some rocksolid connections.  I just wish Unifi OS supported them as a device rather than a client as it truly screws up my topology map.","",""
+"890244048739270656","brianpribe","2024-01-13T00:59:01.6990000+08:00","Y’all making me jealous. I just got fiber ran to my house. Was holding off on networking gear till that was installed, but now I got other obligations to pay for first.","",""
+"1129435706285101076","ted.garrison","2024-01-13T01:00:59.2660000+08:00","fiber would be nice.. but my connection is T-Mobile's 5G Home Internet.  I'm too far out in the sticks for anything else.  We in theory have fiber-to-the-road available now with phone, but our local telco is garbage, so I don't trust it to maintain a connection.  Hence Google Voice over the internet connection to a OBI200 which switches it to our house phone system.","",""
+"882157452748017664","runeston3","2024-01-19T19:07:34.0350000+08:00","Anyone have experience using Ubiqiti edgerouter as gateway for OPC-UA? I have a siemens s7-1200 controller running a local profinet for HMI and IO and i have enabled the OPC-UA server. The server works fine and i can connect when hooked up to the cabinet switch, i need however to expose the UPA-UA to our factory network and S7-1200 only have one ethernet interface so i am trying to use Edgerouter configured with a static IP on wan and the rest of the ports as a switch. No dhcp and a portforward from WAN on 4840 to the IP of the PLC but i can not connect to the server using UA expert.","",""
+"794020366536146977","mparris","2024-01-21T00:26:18.8970000+08:00","Did you configure the PLC's gateway address to be equal to the LAN address of your Edge router?","",""
+"882157452748017664","runeston3","2024-01-21T01:13:21.6080000+08:00","No. The plc is configured without gateway","",""
+"794020366536146977","mparris","2024-01-21T01:42:52.9490000+08:00","That's likely your problem.
+
+These videos will explain why...
+
+Destination NAT:
+https://youtu.be/WFowKYo5ZPQ?si=1zrppvxsyzhVxkha
+
+Default Gateway:
+https://youtu.be/pCcJFdYNamc?si=AcqAxlvgF9az4Ggp","",""
+"882157452748017664","runeston3","2024-01-22T03:53:29.8580000+08:00","yes. i know how networks work. The problem is probably as you said, that i did not configure the router address in the PLC. The system was build without the router from the beginning so i totally forgot to add it.. I will test it next week and see. Thank you.","",""
+"1063829764164563026","mariano.beracochea","2024-01-24T03:28:20.2110000+08:00","Hello, someone have a guide of how to implement ISA 95? Im trying to make a MQTT server my UNS and use ISA 95 to make it standard over different sites we have","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-26T07:11:13.3660000+08:00","Hi guys, I have 3 PLCs S7-300. I used node red to communicate via s7 communication but third plc is online but giving that data blocks don't exist","",""
+"882157452748017664","runeston3","2024-01-26T21:22:17.3830000+08:00","Finally had time to fix the communication. It was the gateway setting in the PLC.. Changed it now and the rest of my config worked as expected. Now i get data externally. Thanks.","",""
+"1063829764164563026","mariano.beracochea","2024-01-26T21:28:36.1570000+08:00","You need to use the S7 node for this. You have an OPC in plant or you plan to collect the data directly with node red?","",""
+"794020366536146977","mparris","2024-01-26T22:32:18.7050000+08:00","Great news!
+
+FYI...there are other Network Address Translation appliances out there that would not require you to change your PLC's gateway configuration...
+
+More to come in the next couple months 😉","","🔥 (1)"
+"884206002566754356","ahmedmahmoud5529","2024-01-28T16:47:24.1710000+08:00","Yes, I'm using s7 node in node red. I succedded to connect 2 s7-300 PLCs but third one the s7 node is online but not read the data","",""
+"1073312001788477471","sparkylarks","2024-01-28T17:24:15.0930000+08:00","Do you need to enable the Get Put comms. 
+
+It might be not ticked on one PLC config","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-28T19:23:48.8990000+08:00","Already Enabled and plc connected to scada since along time","",""
+"817835202746253344","IIoT#4707","2024-01-28T19:23:49.4640000+08:00","GG @Ahmed Mahmoud, you just advanced to level 1!","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-28T19:29:53.8270000+08:00","Wire shark Analysis","https://cdn.discordapp.com/attachments/992924894444666940/1201127004628590654/IMG-20240128-WA0017.jpg?ex=68df0af1&is=68ddb971&hm=44b09cbe8b99a7c6896b3600a9a339cbdf0f7f1dbd4bad030ccebb197b8ef665&",""
+"1063829764164563026","mariano.beracochea","2024-01-29T19:04:59.9560000+08:00","Check on the documentation, if the node have some type of limitation, i have used just on one PLC at a time. You could double check your IP configuration and the amount of devices conected to the PLC, i remember the CP 434(i think) Lean, only allows 4 conections, so maybe there is your limitation","",""
+"817835202746253344","IIoT#4707","2024-01-29T19:05:00.3600000+08:00","GG @Mariano B, you just advanced to level 4!","",""
+"1073312001788477471","sparkylarks","2024-01-29T20:31:40.5810000+08:00","Is optimised block access enabled in the PLC that does not work?
+If you disconnect the SCADA from the PLC that is not working, can you connect to the S7 
+If you try to just connect to the once that does not connect, is it the same?
+
+are the s7-300 CPU's all the same model with the same config? Are you connected to the CPU or a ethernet card
+Is the firmware the same on all the PLC's","",""
+"817835202746253344","IIoT#4707","2024-01-29T20:31:40.8610000+08:00","GG @Mark O'Donovan, you just advanced to level 14!","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-30T06:51:55.0390000+08:00","Optimized block disabled. S7-300 CPUs are same config and firmware","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-30T06:57:52.9480000+08:00","I don't try to disconnect scada. Because of production. I'm connected to Ethernet card","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-30T07:00:34.6050000+08:00","I'll check","",""
+"884206002566754356","ahmedmahmoud5529","2024-01-30T07:01:05.8250000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1201663338644521022/IMG-20240128-WA0017.jpg?ex=68df0431&is=68ddb2b1&hm=49711f36f9404cac005c6b322951df9a7ca9fc07b954af8a2db229cae430f181&",""
+"884206002566754356","ahmedmahmoud5529","2024-01-30T07:01:27.6670000+08:00","I got that on wireshark","",""
+"568913935147728896","zeratall","2024-02-17T01:39:14.5730000+08:00","I think I might be in my own boat here since I’m trying to do some small self hosting, but DO NOT use Verizon business for an ISP, their tier 2 support is worthless","","👍 (1)"
+"456226577798135808","Deleted User","2024-03-07T13:08:44.1990000+08:00","I'm grateful for your assistance.  However, I hate MTConnect now lol Nothing against your help, of course, your help was great.
+But, for whatever reason, MTConnect has not been intuitive for me. Seems like a great, strong data model. But I just keep facing a challenges sanitizing the data.
+I finally captured the concept of Probe & Current data, and found there is an XPath endpoint I can use to filter data easier. But then, it seems like the XPath query is based on the /probe data structure and not the /current data structure, despite being used on the /current endpoint, which threw me for a loop. 
+Finally, leveraging this XPath approach and I keep getting query errors from the Haas machine I am working with. Starting to think some XPath parsing logic is missing in that agent maybe?
+So, now, trying to essentially use Json query to manually pick the data I want, but reading these huge data sets and writing these long paths is tedious. 
+I will note, I am not a programmer by education, so maybe theres a bit of learning curve/gap for me in this area.","",""
+"740383178279354388","mriiot","2024-03-07T20:09:24.4200000+08:00","MTConnect is a paradigm shift for sure.   And hate Haas, they didn’t implement the standard correctly.","",""
+"740383178279354388","mriiot","2024-03-07T20:10:21.3680000+08:00","Working groups are open to everyone.  I would suggest joining the Agent group on Fridays.","",""
+"740383178279354388","mriiot","2024-03-07T20:12:56.9360000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1215270965727068180/image0.jpg?ex=68df1508&is=68ddc388&hm=92da7dcf18f76f5bda56e38687368dcfb4a0c1b2e107812b946adbc94866af8a&",""
+"456226577798135808","Deleted User","2024-03-08T00:57:26.1390000+08:00","Omg this makes me feel so much better haha","",""
+"456226577798135808","Deleted User","2024-03-08T00:58:27.2890000+08:00","Sure how do I access these working groups?","",""
+"740383178279354388","mriiot","2024-03-08T11:48:01.9110000+08:00","@Russ from the Internet","",""
+"1217441928581349417","war3n_","2024-04-05T17:53:26.6450000+08:00","Our company is currently trying to acquire data from our PLCs and HMIs. We are already able to extract data throuh some of our machines through modbus TCP or even serial communication. But currently we are facing difficulty with 1 machine, where the supplier is blocking us access to extract the data. Can anyone help me to acquire the data, through any other please?","",""
+"740383178279354388","mriiot","2024-04-05T20:09:06.0520000+08:00","What kind of machine?","",""
+"1217441928581349417","war3n_","2024-04-05T20:09:29.9070000+08:00","It's a proface GP4501TW","",""
+"1217441928581349417","war3n_","2024-04-05T20:09:44.4180000+08:00","It's an HMI","",""
+"740383178279354388","mriiot","2024-04-05T21:17:49.3220000+08:00","Find out its IP and see what you can get by connecting to it with an Ethernet/IP driver","",""
+"1057737574287945899","xamp4248","2024-04-05T23:20:29.9820000+08:00","Query is not clear. Supplier is blocking means..how?","",""
+"1217441928581349417","war3n_","2024-04-06T00:14:47.9820000+08:00","That's the issue, I connected it to the Ethernet port and used the GP software to try and extract data, but the software of the supplier asks for a password to transfer the data to my computer, and we do not have that password","",""
+"1217441928581349417","war3n_","2024-04-06T00:15:17.5160000+08:00","The supplier has set a password that prevents us to transfer data, from the HMI to my computer","",""
+"1063829764164563026","mariano.beracochea","2024-04-06T00:49:37.6920000+08:00","was the program part of the quote?","",""
+"740383178279354388","mriiot","2024-04-06T09:46:14.5980000+08:00","You dont need the program, you need the tags.   Try Kepware","",""
+"475955754788978688","jdingus","2024-04-06T22:10:08.9850000+08:00","So MQTT is coming to MtConnect?  Is anyone using this today?  Would be great if I could convert my Okuma’s to transmit directly to the broker.","",""
+"740383178279354388","mriiot","2024-04-06T22:38:42.0150000+08:00","Yeah it is already here.   The easiest way is to setup a master 2.3 agent and set its adapters to point at your existing okuma agents.  This is called agent-adapter.","",""
+"740383178279354388","mriiot","2024-04-06T22:39:49.6460000+08:00","On the other side, you can feed whatever mqtt data into agent as well.  I am supplementing an existing fanuc agent with observations from external sensors","",""
+"475955754788978688","jdingus","2024-04-06T22:41:05.7450000+08:00","Thank you for that.  Where can I go to learn more about this?","",""
+"740383178279354388","mriiot","2024-04-06T22:42:23.7220000+08:00","Mtconnect/cppagent oh github, mtcup.org, join the mtconnect agent wg, or you can talk to me.","","👍 (1)"
+"697134502148964423","trentc","2024-04-06T23:22:05.1390000+08:00","Have you successfully done this with any proface hmi? Most of them don’t have tag servers…they typically have drivers designed for reading from other devices, but not other devices reading from them.","",""
+"697134502148964423","trentc","2024-04-06T23:23:09.3890000+08:00","If this is part of the project that you and I discussed, can you get the PLC program?","",""
+"697134502148964423","trentc","2024-04-06T23:25:00.8860000+08:00","@war3n_  it’s a difficult road if we do not have a tag list or the programs, but we could utilize wire shark and attempt to collect which registers are being read but we will not know the meaning of each register being read, it will have to be implied based on the value being received","",""
+"740383178279354388","mriiot","2024-04-06T23:26:29.9600000+08:00","I have not. I was assuming","",""
+"697134502148964423","trentc","2024-04-06T23:28:50.3400000+08:00","OK thanks I was just checking to see if someone had success trying to do that, because I looked at kepwares driver list and it didn’t have anything with ProFace and Pro face specifications did not have any thing promising.","",""
+"817835202746253344","IIoT#4707","2024-04-06T23:28:50.6710000+08:00","GG @trentc - 4.0 Hero LLC, you just advanced to level 8!","",""
+"1073312001788477471","sparkylarks","2024-04-10T06:03:21.0150000+08:00","Can you get the password? 
+Sometimes asking nicely works. 
+Sometimes, asking if they want to keep supplying works too.","","❤️ (1),😂 (1)"
+"898217314741280828","hobbes1069","2024-04-10T06:21:21.7450000+08:00","Sometimes a password cracker and time works 🙂","","🔥 (1)"
+"1217441928581349417","war3n_","2024-04-10T14:36:26.5800000+08:00","Yeah, that's true, but what kind of password crackers can I use?","",""
+"898217314741280828","hobbes1069","2024-04-10T19:38:17.6710000+08:00","That I haven't looked into for a while...","",""
+"1217441928581349417","war3n_","2024-04-10T19:39:59.9450000+08:00","Could you please, try and check out for ways that maybe you used long ago to crack them.","",""
+"1217441928581349417","war3n_","2024-04-10T19:40:08.8370000+08:00","It would be of a great help","",""
+"856983394859352124","espen7732","2024-05-07T05:43:02.9120000+08:00","Is there any other good programs then Optigo Visual Networks or Wireguard that can monitor larger bacnet networks that are spread over multiple networks?","",""
+"456226577798135808","Deleted User","2024-05-15T05:48:35.6280000+08:00","Does anyone know of any open source library for the MT-SICS protocol over ethernet?","",""
+"197089670822100992","spicy4529","2024-05-22T09:12:44.4960000+08:00","Hi All,
+
+I am very new to this server and networking in general but I would love to ask you guys a few questions relating to the AXIS API and its relation to networks and access (I also wasn't sure where the best place to ask this question was, so, if this is out of place please forgive me) 
+
+I am working with an AXIS camera and this AXIS camera is running an Apache webserver which is what allows me to access it via HTTP calls through its API. But there are also apparently other portions of this server I have not utilized, specifically the RTSP API. The only issue is I dont know how to make a call that could interact with this API in python. I am working with some older stuff so I am trying to mostly (if not exclusively) work with the 'urlib2' python library as its given me the best results thus far. The call I would like to make is something along these lines: <Picture> (To hopefully find a way to stream in my browser with good ol HTTP)
+
+
+The reason I'm asking this in the networking section is because once I can make this call properly I was hoping to ask:  how will the traffic to this server suffer in a negative way if I go about it using this portion of the API.
+
+In recap: how on earth do I make this type of a call in python and what are the consequences of this action.
+(Also, I am certain this is a fairly simple call but the more detail the better as this is still very new to me) 
+
+Thank you 😄","https://cdn.discordapp.com/attachments/992924894444666940/1242646297056382986/image.png?ex=68df230c&is=68ddd18c&hm=cc230c732a6cedebced8e725370f9b343496cfcb9c651a66ae9e57c1c7f1019e&",""
+"161671622166577153","aphexddb","2024-06-25T09:33:03.8340000+08:00","Can you hit the RTSP endpoint with VideoLAN (or another client) to make sure it’s working? Once you open a connection from anything RTSP is just a video stream like Netflix - depends on the bitrate (resolution, FPS, etc.) on how much bandwidth and CPU it will eat. Using a client like VideoLAN can help you smoke test your setup to see if that impacts anything before writing any code","",""
+"442331638727311370","giulianog_","2024-06-27T03:18:15.6950000+08:00","@everyone does anyone know how to make a RFID box scanner I need it to connect to our software","https://cdn.discordapp.com/attachments/992924894444666940/1255603052300341329/bf078b07-2d24-4a37-89d0-27d4a50207c9.jpg?ex=68df78b7&is=68de2737&hm=1d45c95ac49b3c9f6a021bd848894ebc49f0ba9dfef0e4bee0b6bba6b7ad0222&",""
+"873009180938743828","sim_sam3","2024-06-27T08:59:26.8280000+08:00","Took me a minute to recall why I remembered VideoLAN - VLC Player!
+
+https://www.videolan.org/vlc/","","😄 (1)"
+"889018741743026217","pranjit.parasar","2024-08-06T15:04:41.9100000+08:00","Any Job opening for experienced DCS/Instrumentation engineer . Any leadwill be highly appreciated.","",""
+"1088631859509989426","jpmac.s","2024-08-06T20:18:29.3150000+08:00","Post in the jobs channel plenty of people here might be able to help 👌. I believe this channel is for networks, confusing name.","",""
+"794020366536146977","mparris","2024-08-06T20:20:26.1450000+08:00","@Zack Scriven can we rename this channel to ""machine networks"" or other equivalent, to differentiate from people networking?","","💯 (1),👍 (1)"
+"766684226455207996","bright_hummingbird_31342","2024-08-06T21:54:14.9320000+08:00","Post here:  https://discord.com/channels/738470295056416930/1174403276767236106","",""
+"1160083906004004924","bachan1868_11442","2024-08-07T03:31:02.9960000+08:00","Yes! that makes more sense.","",""
+"1214242167640424619","zack.scriven","2024-08-07T07:51:30.4000000+08:00","done","",""
+"794020366536146977","mparris","2024-08-07T08:00:54.5030000+08:00","🙏","",""
+"568913935147728896","zeratall","2024-08-09T23:41:48.0030000+08:00","Was anyone else surprised by Walker's overview of their DTMA for Networks? If you missed it, here's the video: https://www.youtube.com/watch?v=nb6GlTmER44, if you have' t I would highly recommend, its an excellent video on DTMA, Platforms, and DT for MFG in general. 
+
+That being said, I was surprised on the network section when Walker was going over their DTMA. Analyzing just coverage seemed a bit shallow to me. In my view, the ability for Network Operations to facilitate rapid iteration is absolutely critical for digital transformation and assessing digital maturity. When I conduct my own DTMA assessments for manufacturing sites, I make it a point to include a thorough evaluation of Network Operations activities. The reason is that while most of our sites may have 100% coverage, the real differentiator lies in how agile and responsive the Network Operations teams are.
+
+Some sites are leveraging modern network technology that allows us to make network changes in minutes, which is essential for supporting the fast-paced, iterative nature of digital initiatives. On the other hand, some sites are still using outdated technology and have understaffed Network Operations teams, where even minor changes become a cumbersome and time-consuming process. This disparity can significantly impact the overall digital maturity of a site and its ability to adapt to new digital tools and processes.
+
+In my opinion, for a DTMA to truly reflect the digital readiness of an organization, it should encompass not only network coverage but also the agility and capability of Network Operations to drive and support rapid transformation. I'm curious if anyone else had similar thoughts. I really appreciate Walker's DTMA, but the network section didn't fully resonate with me.","","👍 (1)"
+"1129435706285101076","ted.garrison","2024-08-10T01:23:43.3170000+08:00","It is a good video.   
+
+I agree on your statement about the DTMA.  We went thru ours back in February.  It was good, and opened some folks eyes.  But  I felt that they relied too much on what they were told by the different groups.  I'm used to the ISO 9001/27001 audit methodology of Tell Me, now Show Me.  Some of the stuff I heard (especially from IT) just made me chuckle.  ""We're agile"" - sure, that's why I've been waiting 6 months for you to figure out how your going to get the data I need from SAP into Snowflake.....","",""
+"568913935147728896","zeratall","2024-08-10T01:28:56.9080000+08:00","Oh, I hadn't even considered that angle, but it's a really good point. I run into similar issues during my site surveys—people tend to get nervous when DT efforts bring more transparency, especially when it comes to analyzing how effective their processes really are. It’s one thing to claim a certain level of maturity, but actually being at that level is another story altogether. I've seen this issue crop up a lot back when cloud adoption was first becoming popular. Many sites would say, ""Yeah, we're leveraging the cloud,"" but in reality, all they were doing was spinning up a few EC2 instances. They weren’t taking advantage of managed services or using cloud-native design patterns, which is really what leveraging the cloud is all about, in my opinion.
+
+That said, I think the issue you’re bringing up is a little different from my point about network maturity. I just believe there's so much more to network maturity than just L1 coverage. Network Operations is a big factor, as I mentioned earlier, but there are definitely other aspects that need to be considered as well.","",""
+"1129435706285101076","ted.garrison","2024-08-10T02:05:34.1880000+08:00","Absolutely. Stuff like are they using SDN, or are they still having to go around and individually configure switches, firewalls, etc.  Do they have VLAN segmentation, and is it more than just OT on one VLAN, and everything else on another..","","💯 (1)"
+"568913935147728896","zeratall","2024-08-10T02:05:46.6950000+08:00","Bingo!","",""
+"1063829764164563026","mariano.beracochea","2024-08-10T03:25:10.5510000+08:00","I want to get your experience on this, are VLANs a bad practice? at my work we have Vlans for different systems and for me is easy to have a VM and just add a new interface on the Vlan i need, part of the reason we need the vlans is because of IP duplication on some systems. The idea is to change all the IPs to an specific range and build subnets using the mask(a water management system with 10 devices get a mask 28 that give you 14 host address), then the firewall will route systems that are needed(to collect data from each system). I see this kind of more organice if you can make all the configurations, but dont see the need for all the work it will be needed(OEM quotes included)","",""
+"1129435706285101076","ted.garrison","2024-08-10T03:36:20.7210000+08:00","VLANS are VERY GOOD.  We use them the same.  They also provide segmentation, so you can control access to only those that need it.  We've even got a VLAN that is inaccessible by anyone inside our network. It allows the devices on it to talk to an Azure endpoint (outbound connections only),  The devices on it belong to a 3rd party, so there's no need for any of our folks to be able to access that VLAN, nor for any of the devices to talk to anything else on our network.  So being able to drop them all into a VLAN makes it simple.","",""
+"1129435706285101076","ted.garrison","2024-08-10T03:38:07.1100000+08:00","I'm looking at further expanding their use here so that different brand machines are segmented on to their own VLANs.  That way when the OEM tech is in doing service, they're constrained to only their machines, which further reduces risk.  We've got some of that already, but it's not standardized yet.","",""
+"568913935147728896","zeratall","2024-08-10T03:42:46.2380000+08:00","VLANs aren't inherently bad, but issues arise when dealing with large, complex, multi-layered (subnetted) networks. In these environments, making a single network change often requires modifications across multiple layers, which not only slows down Network Operations but also increases the risk of introducing errors (like typos) when updating configurations. This is why Software-Defined Networking (SDN) solutions the implement ""Intent Based Networking"", such as Cisco SDA, are becoming increasingly attractive. They can significantly reduce the time it takes to implement network changes and improve overall agility","",""
+"568913935147728896","zeratall","2024-08-10T03:44:30.6770000+08:00","VLANs are not bad, they are just becoming the legacy way of doing networks that can slow down Network Ops, which is an area a lot of these newer network technology stacks are trying to solve. Which is especially important when you start to look at the future demand to connect more machines to the network as digital maturity increases.","",""
+"1129435706285101076","ted.garrison","2024-08-10T03:54:10.7930000+08:00","I have asked and never got the answer as to if we've moved/moving to SDA yet (we are a Cisco house).  But I know we definitely are still using VLANs..","",""
+"568913935147728896","zeratall","2024-08-10T03:56:00.4700000+08:00","I'm actually leading that move for our company atm, imho its a pretty big move, and definitely not a cheap one (I mean we are talking about cisco, no surprise there lol), but there are some serious benefits to be gained imho, not only from Network Ops but also from Cyber POV.","",""
+"1063829764164563026","mariano.beracochea","2024-08-10T04:23:33.0170000+08:00","What I understand as VLAN is a level 2  segregation, a particular interface of a switch that is configured as access have only one VLAN, What i understand is they are switching from level 2 segregation to level 3 segregation, dont understand the gain there","",""
+"568913935147728896","zeratall","2024-08-10T04:29:44.2110000+08:00","It all comes down to Flexbility, but here is some ref material:","",""
+"568913935147728896","zeratall","2024-08-10T04:32:44.3820000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1271566861716291684/image.png?ex=68dee16c&is=68dd8fec&hm=992e196cbf5b0fe5dbfc45c6eea14ccc410214169e1d76a8f40eea55aacdda8f&",""
+"568913935147728896","zeratall","2024-08-10T04:34:34.6890000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1271567324071071754/image.png?ex=68dee1da&is=68dd905a&hm=8c77381de298851989c1d52b9fe1c7c7e4865af296756adeeb6cc25e903878b2&",""
+"794020366536146977","mparris","2024-08-10T10:25:10.9370000+08:00","Consider a house as an analogy. 
+
+VLANs are like rooms... All people in the room may freely talk.
+
+Hallways are routes, and people in rooms connected by hallways may talk.
+
+Doors in the rooms are firewalls, allowing selection of who may enter one or more VLANs.
+
+It's good to have VLANs and routes between VLANs, and firewalls to control traffic between VLANs.","","❤️ (2),👌 (2)"
+"1203453953115693159","stephenbryant_89711","2024-08-10T19:40:53.2080000+08:00","> a particular interface of a switch that is configured as access have only one VLAN
+It doesn't have to be limited to only one.  We're doing this with TSN: a disciplined endpoint talks to its PLC (in deterministic real time) over one VLAN, and sends IIoT data over another using ""best effort"" prioritisation.  More VLANs can be added as required.  The endpoint can proactively throttle throughput as required before packets even go onto the wire.
+Of course, undisciplined endpoints are stuck with whatever the router gives them, and can't actively use multiple VLANs.","",""
+"794020366536146977","mparris","2024-08-10T20:05:39.1980000+08:00","By ""disciplined endpoint"" are you meaning devices that can tag their packets with VLAN info?","",""
+"1203453953115693159","stephenbryant_89711","2024-08-10T20:24:55.1710000+08:00","Yes, exactly that.  We're talking about the physical endpoint with the MAC address (and not the IP endpoints used by the VLANs themselves).","",""
+"894527802316046366","nickn5549","2024-08-11T05:50:02.6750000+08:00","Agile like a sloth","","👍 (1)"
+"769397045579481129","donpancoe","2024-08-30T23:42:31.9750000+08:00","I am designing a distributed network onboard a vehicle where we want power distributed to downstream devices over PoE while the vehicle alternator is running. When the vehicle is off, however, we want the downstream devices to run on their own batteries, so we want to turn the PoE *off* while the Ethernet switching still functions (at least until that battery runs out). I know many switches have the ability to turn port PoE on or off in the NMS, or even based on a schedule, but I want to do this locally with a relay contact or similar. Does anyone know of a switch that can do this? I've used Cisco IE 2000 switches before that had a separate power input for the PoE, so I could have easily disconnected that supply,  but that family has been discontinued.
+
+The less elegant option would be to use a separate Ethernet switch and PoE injector, killing power to the injector as needed as long as the data still passes through.
+
+Thank you for the help.","",""
+"769397045579481129","donpancoe","2024-08-30T23:43:04.8960000+08:00","BTW, ChatGPT loves to tell me about models of swtich that can do this, but under further investigation, they cannot.","",""
+"1129435706285101076","ted.garrison","2024-08-31T02:07:14.0490000+08:00","any reason you wouldn't just provide the battery power to the switch instead of the individual devices, and remove the complexity?","",""
+"769397045579481129","donpancoe","2024-08-31T02:31:29.7930000+08:00","Client / design inertia. The batteries at each end deice were suggested early on as a possibility to consider, but it was popularly adopted as ""the way."" At the next design review call, I will be prepared to show them ""this is what it takes to support the distributed batteries, and this is what it looks like with a central battery,"" then discuss from there.","",""
+"1248229600853758073","sptha_27377","2024-09-02T17:03:02.6710000+08:00","I guess you have some plc or computer running somewhere, maybe you can run a script which connection to your switch using ssh and turns off and back on the PoE when needed, based on the alternator power. This should be easily script-able with  cisco or juniper switches.","",""
+"817835202746253344","IIoT#4707","2024-09-02T17:03:03.0730000+08:00","GG @Herbert, you just advanced to level 3!","",""
+"769397045579481129","donpancoe","2024-09-03T21:59:09.6510000+08:00","Thank you for the additional suggestion. I will include that in my options to present.","",""
+"721401184715276290","durinwinter","2024-09-04T18:58:18.2360000+08:00","@Don Pancoe  you are looking for a packetflux midspan. That will give you what you are looking for. You can even switch each individual port.","",""
+"769397045579481129","donpancoe","2024-09-04T21:01:40.7380000+08:00","Thank you for the info. Here's a link if anyone else is interested.
+https://store.packetflux.com/sitemonitor-4-channel-gigabit-poe-injector-controller/","",""
+"319005945864781834","therighthonourable_gordonreid","2024-09-11T10:57:15.5590000+08:00","Hi all, I am a former control system engineer and I'm now doing product R&D. Given my background I've been tasked with getting one of our products to talk directly to SCADA (Citect is the business case 🤢). I'm just wondering what protocol you all see the most of with devices talking directly to SCADA (no PLC in the middle)? I'm thinking OPC UA could be worth a shot, but I'm not entirely convinced yet","",""
+"1073312001788477471","sparkylarks","2024-09-11T17:36:38.6840000+08:00","The protocol I see most devices communicate directly to SCADA is Modbus
+
+If I was you I would start with MQTT SpB,  then expand to OPC UA.
+
+I have never made a product communication module, but from the conversations here, OPC UA looks to be an order of magnitude higher.
+
+Not sure if Citech supports MQTT, what version might be critical. I think all the Aveva SCADA's shoudl use the same communicatiosn package, and MQTT is availible in InTouch so there may be hope for newer PlantSCADA versions.
+
+Do your devices, need to read and write?","","💯 (1)"
+"319005945864781834","therighthonourable_gordonreid","2024-09-11T17:53:53.2810000+08:00","Hi Mark, thank you very much for the response 🙂
+
+Citect 2016 is still the prominent version in our target industries unfortunately. So MQTT support is limited, but I'll still look into it.
+
+We've done a lot of Modbus, but hoping to diversify a bit. There is Modbus downstream from our products, but hoping to use a different protocol upstream.
+
+We do need read and write capability","",""
+"319005945864781834","therighthonourable_gordonreid","2024-09-11T17:54:39.3030000+08:00","To add another layer of difficulty the driver development kit from Citect has also been discontinued, so there's no chance to attack the problem from the other direction either","",""
+"890244048739270656","brianpribe","2024-09-11T22:32:24.0890000+08:00","MQTT SpB if you want a better protocol than modbus. OPC UA if you are looking to connect multiple machines to one EoN gateway for machine to machine. Not a big fan of OPC-UA for getting data to the cloud, because of how bloated it is.","",""
+"306756239604318208","avret","2024-09-12T00:11:17.1230000+08:00","modbus, dnp3, mqtt","",""
+"390585053664641024","greg.fr","2024-10-19T17:45:46.1280000+08:00","Hello,
+
+I don’t know if it’s the rights channel or not.
+
+In our multiples Pharma sites we are currently facing a challenge. Mots of our assets (line / tank…) are not connected to any network. 
+
+This challenge is the first step  before  moving to any IIOT platform…
+
+Do you know any way to streamline this process of connection ? (5g..Wifi…) instead of just wired them? 
+
+Just remember we need to qualify maybe the infrastructure and we are working into pressure area / white area due to Pharma regulation.
+
+(Alignement with cybersec best practice) could be also good 
+
+Open to any advices, thanks a lot.","",""
+"1073312001788477471","sparkylarks","2024-10-19T19:40:00.4670000+08:00","I have not done a huge amount in Pharma but I would caution on WiFi and 5g. 
+
+Anytime I have arrived in to wireless networks, there are always connectivity issues.
+
+Especially if Fieldbus protocols are used.
+
+
+
+It doable. But I would suggest an approach where if possible you put an edge device at the asset, and design a system so you can store and forward from there in the event of interruptions.
+
+But it might be less work to put in an Ethernet cable.","",""
+"898217314741280828","hobbes1069","2024-10-19T19:57:49.2430000+08:00","I'm in Med Device, so kind of Pharma adjacent. We hardwire everything we can. But I'm also on a large campus and we have a Proscan truck and guy on site every day. He literally only works for us.","",""
+"390585053664641024","greg.fr","2024-10-19T22:47:46.2200000+08:00","Depends maybe u find the best way to do it. 
+
+Use edge device to buffer and 5g or Wifi.","",""
+"390585053664641024","greg.fr","2024-10-19T22:48:09.8060000+08:00","Hardwire is hard because we have to stop for long time maybe the equipment and to some « civil engineering «","",""
+"1073312001788477471","sparkylarks","2024-10-19T23:00:47.2740000+08:00","If you are just reporting that can work.
+
+If you are looking to do control. wired will be simpler and possible cheaper in the long run.
+
+But get a proper WiFi survey done, and a proper design by someone who knows what they are doing 
+
+But I would keep any eye out for other jobs or downtime that would allow me run a cable, or a bunch of them.","",""
+"390585053664641024","greg.fr","2024-10-19T23:07:16.9800000+08:00","Thanks a lot for u interesting! 
+
+Everytime this discord help me a lot to rethink","","💯 (1)"
+"1214242167640424619","zack.scriven","2024-10-25T12:55:08.8500000+08:00","Glad it could be helpful! Thank you @Mark O'Donovan 🫡 & @Richard Shaw","",""
+"759289958644580362","greg_eu","2024-11-30T15:38:03.3530000+08:00","Hello everyone, I'm facing issue with connect Brother C00 CNC machine into IOT platform (I need to read basic data as cycles and current status). Do you have any advice for me how to achieve this? I know that machine has ftp server. But I heard about CN - is it something that could be useful to read data? Or it's dedicated to send ""programs"" on CNC machine? 🙏 Thanks","",""
+"740383178279354388","mriiot","2024-12-04T22:06:45.3010000+08:00","Brother has a pretty simple ASCII exchange on port 10000.  Their Data Operation Manual goes into more detail.","",""
+"740383178279354388","mriiot","2024-12-04T22:10:03.7560000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1313869937722261565/image.png?ex=68df307b&is=68dddefb&hm=4879c13c10ee8afd0cc5874bcdce585a51463a73df96b8688fe5050c3d54c0be&",""
+"1073312001788477471","sparkylarks","2024-12-17T04:32:12.8040000+08:00","Anybody have experience in configuring Profinet Comms over Siemens Managed switches.
+Looking for a crash course or someone to come in and do a review.","",""
+"794020366536146977","mparris","2024-12-17T11:02:08.4050000+08:00","@varghesejm ?","",""
+"708093072117989388","varghesejm","2024-12-17T11:06:43.2630000+08:00","On more Hirschmann than Siemens but I would expect an even easier time on Siemens. This assumes of the three tiers of Profinet we are talking standard and not RT or iRT. And I should clarify I am just the switch guy so technically a PLC programmer setup the PLC comms. I do know a few Siemens solo SI types I could intro too.","",""
+"1073312001788477471","sparkylarks","2024-12-17T17:37:43.3000000+08:00","I have no problems with the PLC programming. I'll DM you if that is ok","",""
+"1063829764164563026","mariano.beracochea","2024-12-17T23:57:20.8170000+08:00","Used profinet comms before, but never took special configurations on the managed switches, what are you trying to do? which problem are un finding?","",""
+"1197952122038255637","ajcamm_88960","2024-12-31T23:59:58.8110000+08:00","I am going through the 3-Day UNS Workship from Sep...there was an interesting discussion about using NAT to satisfy the ""connect"" - but I never heard IOT Edge Gateways brought up as part of the conversation. Is there a reason why this isn't mentioned?? I ask this because we are having internal IT/OT network conversations currently where we feel adding that amount of NAT devices is too much to support, given the lack of local network expertise. Looking for some additional perspectives here...","",""
+"766684226455207996","bright_hummingbird_31342","2025-01-02T04:32:06.2940000+08:00","There’s a few ways to approach this. I agree that throwing edge hardware to handle protocol and network translations has scalability issues. It's a lot to procure, install, and support. On the other hand, if connecting for the first time, it’s not realistic to assume every field network (e.g., machine builders delivered with 192.168.1.1/28 on every asset) can easily be uplinked to one flat network. This will have to be resolved somehow - either on the devices or on the network.
+
+I would look into figuring out an access and distribution network strategy. You could do your NATS here rather on disparate edge devices. At a minimum, there should be managed layer 3 switches to segment the field networks.
+
+Personally, I think plants should take control of their field networks and get accustomed to managing addresses. I understand it’s not always possible or that it’s a challenge, but there is also a “cost” to leaving everything as-is.  Planning and cleaning up an address space creates more network awareness and mitigates risks. It’s healthy. It’s also way less confusing for technicians not accustomed to having a “public” and “private” addresses for the same device.
+
+In a discrete manufacturing environment, I would recommend segmenting every asset or cell with local field communications into its own /24. Make sure a gateway address is defined on the devices. Setup inter VLAN routes if different cells need to communicate beyond their local network. These can be used to drive security policies. For acquiring data, use a a software based protocol gateway (e.g., kepware). The network will route to the devices to connect. This can be done on managed switches and remotely administered.
+
+TL;DR: Don’t use a fleet of edge devices. Use big 48+ port rack unit switches at the distribution frames instead. Plan and segment the network. Connect to the devices natively and make your “edge” a software node above this.","","👍 (1)"
+"1197952122038255637","ajcamm_88960","2025-01-03T05:28:17.8650000+08:00","Thanks for the thoughts here. We are actually discussing this exact route - the idea is that the local expertise doesn't exist, so land the devices and perform NAT at the IDF. However, that still requires corporate IT support. Where, local edge devices would not but it turns into 'NAT at the Edge' vs 'Edge Gateway'. I should clarify that in this case we wouldn't be using the Gateways to translate protocols, but rather just to ""connect"" and get the data, land it via OPC at the Edge OPC Server (Kepware).","","👍 (2)"
+"1073312001788477471","sparkylarks","2025-01-03T18:11:10.0090000+08:00","Great post, I think the most important thing there is you have to have a plan, and I have gone through the ""fun"" of migrating all the IP addresses in a few plants over ,
+But are you really looking at connecting all the OT equipment back to 48port switches?  I find two big problems with that approach , the first is it is much harder to trouble shoot OT comms issues, and at a some point in the future, someone will want to move the equipment.
+
+@Andrew Camm does having a NAT device at the edge, or even in a switch room really need less expertise to manage, than just changing the IP addresses as they arrive? Or giving the Vendor a set of IP addresses as they are building?
+
+The best middle of the road approach I have recommended, is to have an 8 or 16 port Level 3 Managed switch in a panel for the Production Network and a second dumb switch for the local Machine network. 
+Have 2 IP addresses for a PLC , one is connected to the Production network via the managed switch, the other connected to machine level equipment, mainly RIO.
+Some equipment can be on either network like flow meters, drives etc but you can either connect them to the machine network originally, or connect them to the managed switch.
+But all of the equipment in the machine has a unique IP address for that Plant, and if you want to connect form the Production layer( SCADA or IIoT platform) you can move equipment from one switch to the other.
+
+you can then in the future if needed connect the second dumb switch into the managed switch, or upgrade it to a managed switch and have fancy stuff like rings/MRP etc
+
+Anyone I have worked with who had had the NAT device at each machine, tend to rip it out and migrate over all the equipment to unique IP addresses after a year of digital transformation.","","👍 (2)"
+"766684226455207996","bright_hummingbird_31342","2025-01-03T20:44:42.7050000+08:00","To clarify, I was referring to an access/distribution layer between field networks and applications. Communicating within a field network is generally best done locally. It makes a lot of sense to keep dependencies within an asset or cell.
+
+The approach you mentioned involving an ""8 or 16 L3 managed switch in a panel"" is more or less what I was describing, but with rack and structured cabling infrastructure. I would add that, if deploying in machine panel is not a requirement, rack switches usually have better reliability features, higher port density, and are more available/economical. Being able to ""stack"" in high availability configs and hot-swap power supplies is very useful, for example.
+
+I'm not following the point on troubleshooting. Could you elaborate? In my experience, the amount of observability tools that can consume NetFlow, J-Flow, IPSIX, etc is extensive compared to what's available for most (not all) industrial switches. The alerts and reporting can save so much time for everyone involved.
+
+I definitely agree on the NAT point. It tends to rack up even more technical debt.","",""
+"1073312001788477471","sparkylarks","2025-01-03T21:00:57.1920000+08:00","I am thinking of a machine which is stopped and maintenance call out to the panel, and are looking at the PLC and Drives.
+
+I have seen proposals where every field device that connects using an ethenet cable would be wired back to a Rack.
+So you had a PLC communicating with a VFD in the same Panel, communicating Via a Rack 50m away.
+
+I didn't think you would propose that, but it reads a bit that way.
+
+instead of a 0.5m local cable connection that a maintenance technician could pull out . and make sure the correct lights were flashing.
+I am think here where the comms are Control Level, and especially if the components are close to each other, a local connection is the way to go.
+
+I also do like not having lots of OT devices( Profibus in my experience) on the same network as Production Level VM's.
+Stuff like backups and system scans and all the other rightly essential IT stuff, messes with the comms layer.
+
+Missed quality checks, missed starts for new work orders, or even issues with Safety communications, out of sequence packets and the like shutting down. 
+And they always seam to happen at the same time every day, and every 8 hours.
+
+or my personal favourite, where an Old Siemens TI PLC would crash at 12:05 on a Friday, and the electricians would head up pull out the comms car and put it back in. 
+Big site backup was scheduled and the network segregations and QOS was not as it should have been.","",""
+"766684226455207996","bright_hummingbird_31342","2025-01-03T21:12:01.9490000+08:00","I'm in total agreement. Let field networks be field networks (with segmentation).
+
+Haha, those are some interesting stories. While the failure modes are unnecessary, it does seem like there should be more error handling to limit the chaos.","",""
+"1073312001788477471","sparkylarks","2025-01-03T21:32:20.2200000+08:00","I could go on with the stories. the biggest issue I have is when you ask, are you doing backups at this time, and are told no and 4 weeks later you find out yes there are backups.
+
+When you say error handling, are you talking at the comms layer? in some cases not sure how much can be done especially with safety comms.
+
+and segregation is great, until you need to have the devisces publishing directly into your UNS, or even connecting allyour drives, to the drive manufacturer predictive maintenace software etc.
+
+there is a ""Complete Idiot's guide to designing IT networks for OT"" needed, I don't think we as an industry have really figured out how to build networks that are sufficiently segregated, fore reliable operation , but also sufficiently integrated to allow for the convergence of data to drive Industry 4.0 stuff","","❤️ (1)"
+"1197952122038255637","ajcamm_88960","2025-01-03T22:15:23.7740000+08:00","If you find that book, I want to read it 😆","",""
+"1073312001788477471","sparkylarks","2025-01-03T23:17:12.5560000+08:00","I think we will need to write it.","",""
+"271135219610812417","jwrkmn4","2025-01-17T06:30:33.1240000+08:00","Gary Workman has some good insights and war stories in Rinaldi’s book on Ethernet IP networking. It’s not generic but great lessons learned.","",""
+"448323303598325812",".killnine","2025-01-17T21:09:27.5970000+08:00","@Andrew Camm @Mark O'Donovan I am looking at this right now. Our plant is full of devices on 192.168.1.x that don't connect to anything. Our Vendor DMZ vlan is 10.1.70.1/32 and I'm heading towards putting small industrial device with 2x ethernet ports on there to do some translation:
+
+- Get data via industrial protocol
+- Transmit over to OPC server on the Vendor DMZ, or broadcast to a broker directly","",""
+"448323303598325812",".killnine","2025-01-17T21:11:35.1050000+08:00","It does mean managing a small fleet of devices (about a dozen), but we're at the size where that's totally manageable. And moving forward we discuss with vendors about using a space that's available on the vendor vlan directly. 
+
+I don't think anyone will be happy about readdressing machines that are running today (all the drives, plcs, HMIs, remote racks, yikes)","",""
+"1073312001788477471","sparkylarks","2025-01-17T21:23:55.4930000+08:00","When you say Small Industrial Device what are you thinking,
+- a NAT DEvice loike a MoxA NAT
+- a Linux Box with two NIC's
+- Something Else","",""
+"448323303598325812",".killnine","2025-01-17T21:25:13.2490000+08:00","Probably a linux box with 2 nics. Ideally something easy to provision via code deployment (maybe docker-compose or similar) so it can be versioned if not fully automated.","",""
+"448323303598325812",".killnine","2025-01-17T21:26:42.1250000+08:00","I guess the point is, it's an alternative to the pain of getting everything onto a single Vendor DMZ. Some of our equipment is just a bunch of drives and PLCs on the same network. Others already have an appliance they hook into and there's a WAN port on it that goes to our vendor VLAN (it's often just a wireless router)","",""
+"448323303598325812",".killnine","2025-01-17T21:27:03.7280000+08:00","To your point, I wouldn't want all the operational equipment to sit on the vendor vlan, necessarily.","",""
+"1073312001788477471","sparkylarks","2025-01-17T21:33:58.0540000+08:00","The Portainer Business is really good, and I'm not just saying that because they bought me a coffee once, so I would defo recommend that. But I would put the entire MING stack on at the start, gives you options. The Edge device stuff allows you manage that well.
+
+You could put together a nice Node Red Deployment( flowfuse??) and either have the OPC server or publish to MQTT( or both). If you have a lot of siemens look at the IOT2050. Not crazy expensive, bit over priced for the power it gives, but an easier sell sometimes, Siemens to Siemens
+
+But, I would recommend that you assign VLAN to segment the system properly, and going forward have the Vendors address the equipment to that VLAN plan. 
+
+That way when you grow to the point that you need to reassign the IP addresses you are halfway there.
+
+Let us know how you get on, this is a problem a lot of people have and it woudl be great for the community to see a worked example.","","😁 (1)"
+"448323303598325812",".killnine","2025-01-17T21:49:31.5630000+08:00","Yeah, I'm documenting how this project goes and will probably do a write-up/post-mortem on different phases of the project.","","🔥 (1)"
+"745476105221308547","markyfreeds","2025-02-23T08:47:23.6300000+08:00","If you wanted to remotely send  gcode to cnc machines and run them remotely, what would your stack look like? 🤔","","👍 (1)"
+"795178288330440704","youri.regnaud","2025-02-23T16:18:23.8230000+08:00","Much depends on the machine and its protocol. What we observe is that loading a program from a machine often requires orchestration of various actions. The first step is to ensure that the machine is ready to receive a new program. Then the program has to be sent to it, often using protocols such as FTP, SMB, etc., and then services have to be called up again to confirm that the machine can work again. It is therefore necessary to have service orchestration tools (Node-RED), tools to exploit machine methods such as Focas APIs, and finally a solution for moving binary files. To my surprise, NodeRed is very relevant for these tasks, we also use Highbyte to bridge the gap between Cloud and Edge, and finally we are increasingly using the versioning capabilities of PLM to store G-Code.","","🙏 (1)"
+"795178288330440704","youri.regnaud","2025-02-23T16:22:30.4410000+08:00","Cybus, for example, introduce https://docs.cybus.io/documentation/services/flowsync to go in this direction. But please don’t use UNS to do that. We need synchronous communication, method, … when we command a machine, especially  a CNC. We are quite new in these area, comments are welcome 🙏","",""
+"898217314741280828","hobbes1069","2025-02-23T21:48:14.8620000+08:00","Interesting... I know we could automate some of the program downloading to the front panel PC with Cimco, but haven't looked to see if I could remotely move it to the controller.","",""
+"1341124918259220562","docarmoc","2025-03-06T01:50:12.2110000+08:00","Hi guys, does anyone here work with SECS/GEM? Looking for some tips","",""
+"588259392617578506","karsh045","2025-05-02T19:40:09.1440000+08:00","Hi,
+
+We have a few machines running on S7-1200 PLCs we would like to poll some production data from the machine.
+
+The issue is that the machine already uses ethernet connectivity for the internal network and cannot be connected to the factory network directly. 
+
+The manufacturer recommended us to install PN/PN couplers to get the data. Is this the only right way or are there other options available (cheaper if possible)","",""
+"937969535603064833","system24seven9226","2025-05-02T20:16:53.1520000+08:00","PN/PN couplers require reprogramming the io in the plc to send specific data to the other network. You could use a NAT router with ignition Siemens driver or similar to grab tags off the 1200 as long as put/get is enabled and the tags are in non-optimised blocks.","",""
+"817835202746253344","IIoT#4707","2025-05-02T20:16:53.4670000+08:00","GG @system24seven, you just advanced to level 1!","",""
+"1073312001788477471","sparkylarks","2025-05-04T07:03:39.5160000+08:00","Can you install a second Ethernet card??
+
+As I understand PN/PN coupler is more ontended for bridging Profinet Comms between two networks.
+
+But if your using Kepware/Ignition/Node-Red.... To read using S7 you should be able to just add a card and assign it to the factory network.","",""
+"588259392617578506","karsh045","2025-05-04T11:48:28.6010000+08:00","These were the 2 options provided... we obviously asked for 2nd option and asked them to change all machine components IPs to match our Factory network series.","https://cdn.discordapp.com/attachments/992924894444666940/1368434078482960455/Screenshot_2025-05-04-09-16-37-310_com.microsoft.office.outlook-edit.jpg?ex=68df478c&is=68ddf60c&hm=08141858f422eb8a121093623ee31dbbbd45200fdb9601e453b4b8a531e82fc7&",""
+"588259392617578506","karsh045","2025-05-04T11:49:21.7490000+08:00","and then our choice was ignored and they told us the only way is to install PN/PN couplers.","https://cdn.discordapp.com/attachments/992924894444666940/1368434301133393982/Screenshot_2025-05-04-09-16-53-871_com.microsoft.office.outlook-edit.jpg?ex=68df47c1&is=68ddf641&hm=57297b25b420df1a67b30e2213d2e4ca41ed7dac03e52b8e653deec99d432461&",""
+"588259392617578506","karsh045","2025-05-04T11:52:05.5190000+08:00","That's what I was thinking as well as most other manufacturers just give us extension modules or change all components IPs. I guess I will have to contact our local siemens vendor.","",""
+"1073312001788477471","sparkylarks","2025-05-04T15:56:57.6790000+08:00","Let's break it down because caffeine has not hit my system yet.
+
+And of course the answer is it depends but
+
+My first thought is having access to the PLC program and the devices is a big advantage.
+
+I provide remote support to customers and being able to go online to diagnose problems remotely is a huge benefit.
+
+The second is if you want more data in the future it's much easier without the coupler.
+
+In fact the more I think about it, the more I am becoming suspicious of the motives.","",""
+"588259392617578506","karsh045","2025-05-04T17:38:49.4090000+08:00","Exactly what I have told my management... they already have the machine set up for remote support as the machine is from Ekin (Spain) so it's easier for them to provide support in India remotely.","",""
+"588259392617578506","karsh045","2025-05-04T17:43:40.7970000+08:00","||We also received a 2000€ quote per machine to install and program this, which with the second option would have cost us almost nothing.||","",""
+"1073312001788477471","sparkylarks","2025-05-04T21:10:45.1800000+08:00","If the second option was really a valid concern,( and there are cases where it is, I would install a s71500 with no IO and set up Profinet Comms to all the PLC's
+
+A marshalling PLC, a bit of an old approach 
+
+And then connect that PLC to the upstream","",""
+"1073312001788477471","sparkylarks","2025-05-04T21:12:44.7730000+08:00","But but but..... Does that not mean there is already an external connection to the PLC???????
+
+As an separate issue. When I am the owner, I insist on the programming software being installed on site and changed made from that PC, and the PLC programs saved there too","",""
+"588259392617578506","karsh045","2025-05-04T21:15:29.5370000+08:00","I mean we are connecting all other machines on the shop floor in a similar way... and we are only building reading modules on the software side and blocking writing wherever possible... Of course there is a downside to connecting machines directly but not sure if management wants to pay too much for every single connection ...
+
+Yes there's already an external connection which can be accessed via a VPN tunnel 😂😂
+and our factory network is completely internal so not sure what they are worried about.","",""
+"588259392617578506","karsh045","2025-05-04T21:16:59.1700000+08:00","One thing I could think would be the read operations would take a toll on the PLC itself...","",""
+"1073312001788477471","sparkylarks","2025-05-04T21:36:37.1210000+08:00","What is the PLC.
+
+To be honest I doubt it.
+
+The new S71200 have a Comms dedicated processor. The OG don't though.
+
+I've run into issues where the number of connections allowed is an issue. Normally on old Rockwell micrologic. I remember having to stop one of the IO drivers to connect to troubleshoot","",""
+"898217314741280828","hobbes1069","2025-05-05T05:34:22.7050000+08:00","I've only used them for Allen Bradley, but you could use a CMT-SVR is a gateway device. That would protect the PLC from diirect access.","",""
+"165152178477072384","dawd","2025-05-21T09:52:40.3000000+08:00","","https://cdn.discordapp.com/attachments/992924894444666940/1374565528676470886/m2-res_480p.mp4?ex=68df2c68&is=68dddae8&hm=dc0cc187a225e96b55c06415c689cee0f73bef01c4a0a375d477d506a27e26d0&","😂 (3)"
+"829502128191045652","joshuastover","2025-08-05T20:32:38.6610000+08:00","I just got curious by this @here: **What’s the oldest piece of equipment you’ve successfully connected to a digital infrastructure?**
+
+I know there's gotta be some good stories about this one...","",""
+"693309801589112862","_dyland","2025-08-05T21:09:12.1950000+08:00","Personally, the oldest I have connected to any real digital infrastructure is a handful of PLC 5 controllers. Oldest I have worked on were some old SYMAX PLCs and a PLC 2 once... But those were not ""connected"". 
+
+On the PLC 5, nothing like the 2am service call to get the program loaded after a maintenance shutdown (dead battery) without the proper cables. Had to cut a 25 pin cable in half, plug one end into an adapter for the PLC and the other hand soldered to a db9 and then to a USB adapter to get connected to my laptop. From there, I could set the IP address of the Ethernet adapter add on and get it back up and running.  Had to get them back up by the 6am shift... It was an old flour mill, Microsoft Access / SQL server for the MES and Kepware for connectivity with iFix for the SCADA. Major pain to work on that one... But with that stack they had a fully connected multi-site enterprise, at scale.","","💯 (2)"
+"693309801589112862","_dyland","2025-08-05T21:11:00.4790000+08:00","I also used to run into a Lot of various old PLCs to Linx with DDE to Excel. That was always fun.","","🔥 (2)"
+"829502128191045652","joshuastover","2025-08-05T21:34:45.6350000+08:00","I can't say I've ever see anyone actually use Microsoft Access... And I was certified in it once.","",""
+"829502128191045652","joshuastover","2025-08-05T21:35:43.1570000+08:00","Ingenuity at it's finest though splicing a cable to make it work","",""
+"693309801589112862","_dyland","2025-08-05T21:37:52.8040000+08:00","It's been a while, but 2015-2020 I ran into it everywhere... It fit well with the Rockwell and iFix stacks. All the VBA and ActiveX, SQL Server, MS Access, MS Excel... You can probably see a pattern here. I have never personally seen it in an architecture with either Wonderware or Ignition. We ripped out one with Node Red, a few we replaced with Ignition and a lot of them we had to leave as is.","","👍 (1)"
+"693309801589112862","_dyland","2025-08-05T21:38:37.2750000+08:00","Yeah, when the support lines are closed, and 1st shift is coming up, you get creative... Lots of 11th hour stories.","","👍 (1)"
+"829502128191045652","joshuastover","2025-08-05T21:41:55.5280000+08:00","I always thought it was one of the worst Microsoft Products in their office suite. Was impossible to use.","",""
+"693309801589112862","_dyland","2025-08-05T21:44:45.4990000+08:00","Yeah... It's a very painful tool to have to use. I actually learned that the client had a SQL database behind it when I was troubleshooting why a table took 3 minutes to load ... I may have Found some plaintext credentials in the VBA and yeah...","","😂 (1),🧠 (1)"
+"693309801589112862","_dyland","2025-08-05T21:46:01.9690000+08:00","Pro Tip, of the day: If the client uses FactoryTalk View SE, iFix or any of the legacy VBA based SCADA - you can probably find SQL credentials in the VBA scripts. 
+
+Really helpful for reverse engineering.","","🔥 (1)"
+"693309801589112862","_dyland","2025-08-05T21:48:08.3070000+08:00","Turns out Access was set up to query the whole table, and filter In Access - it was querying 5+ years of order history to filter client side, and display the daily log.","","😂 (2)"
+"1073312001788477471","sparkylarks","2025-08-07T03:21:00.0380000+08:00","I loved it, I sent my summer work placement building a Equipment DB for a Utility. All the equipment on the P&ID's all the calibrations dates.
+
+That was circa 2001. Went through 7 level of Microsoft support. The 5th level said what I was asking was not possible, I think had to explain that I had done what they said was impossible but needed to make it dynamic.
+
+AS I was leaving Oracle were starting a project and replacing it. 
+
+I think Access suffered because Excel was so good, you could use Excel with a much lower learning curve than it took to use Access and do it properly","","🔥 (2)"
+"873009180938743828","sim_sam3","2025-08-07T09:23:55.8310000+08:00","Kepware V4 (maybe earlier too) licensing back-end was an Access DB app running in our office.
+
+Still lots of Access by the time I got to operations in 2011. Was tech sales in Enterprise IT / big data before that, and zero Microsoft anywhere save for office workstations. Azure was more or less in beta during my entire ride in that industry.","",""
+"829502128191045652","joshuastover","2025-08-25T21:32:44.1470000+08:00","## QOTW ##
+# What’s the most useful REST endpoint you’ve ever built or consumed in an industrial system? #
+
+@here","",""
+"898217314741280828","hobbes1069","2025-08-25T21:48:30.9860000+08:00","Working on one now using Highbyte to allow Tulip to make OPC UA method calls to a Siemens Sinumerik machine.","","💯 (1),👍 (1)"
+"756543760028139720","aronsemle","2025-08-26T01:35:25.9180000+08:00","REST API to OPC UA method call on a PLC? You've reached platinum/elite OPC UA status at that point. UA methods are complicated, but really cool when you see them in action.","","🤓 (1),👍 (1)"
+"898217314741280828","hobbes1069","2025-08-26T06:17:10.6670000+08:00","Not there yet, but working on it... In OPC UA certificate hell.","",""
+"898217314741280828","hobbes1069","2025-08-26T06:17:39.7640000+08:00","UA Expert and Kepserver seem to be a bit more forgiving than Highbyte 🙂","",""
+"756543760028139720","aronsemle","2025-08-27T00:06:20.8820000+08:00","This can be painful. Most issues are around resolving the hostname in the certificate with the hostname/IP being used to connect (https://guide.highbyte.com/configuration/connect/connections/opc_ua_tcp/troubleshoot/). If you're running us on docker make sure you set the hostname of the docker container; otherwise docker gives it a random name that changes every time you run it; and our certificate vs. the hostname get out of sync. Definitely reach out to support if you need help.","",""
+"898217314741280828","hobbes1069","2025-08-27T01:25:34.9610000+08:00","Yup! Ended up figuring it out, it was my cert, not the OPC servers. The standard error messages don't really make it clear 🙂
+
+Now I reached out to Thomas to work on the method part. What I'm actually trying to do is after the order is run (Actual Parts == Required Parts), use Tulip logic to trigger a program deletion which will force the operator to download a new program from the DNC for every order.","","👍 (2)"
+"829502128191045652","joshuastover","2025-09-02T21:53:44.7690000+08:00","## QOTW ##
+
+# What’s the most frustrating device or system you’ve ever tried to connect to your network? #
+
+@everyone We're back for Question of the Week a day late. Yesterday was labor day here in the states, so I hope all my fellow Americans enjoyed the 3 day weekend!
+
+Anyways, I'm sure we'll get some great responses from this one. In fact, the hardest part will be figuring out which of the many devices/systems was the most frustrating 😂","",""
+"1011806669874937956","vikanchira","2025-09-02T22:10:42.1960000+08:00","@Joshua Stover Napkin","",""
+"475955754788978688","jdingus","2025-09-02T22:18:04.0990000+08:00","Real Time Automation AB-Ethernet data collection device.  For whatever reason flat out would not work on our server virtualization environment. Could never figure out why and we couldn’t change our server wastes months of my life… 
+They tried… we dug into wireshark and all the things… no avail.  Today wouldn’t even use that but this was before I knew what I know now. 🙂","","😂 (2)"
+"230441548653789184","r.pop","2025-09-02T22:25:29.3250000+08:00","Mitsubishi Mazak/Mazatrol","",""
+"693309801589112862","_dyland","2025-09-02T22:44:12.7900000+08:00","Buhler Color Sorters.","",""
+"825084676066246677","anibalvelarde","2025-09-02T22:49:03.0710000+08:00","Legacy (Coldfire) controller for CNC Haas mills.","",""
+"766684226455207996","bright_hummingbird_31342","2025-09-03T00:51:18.7770000+08:00","Murata MW200G series lathes. Little endian order for most sub systems. Big endian order for tool and work handling systems. Alarms only exposed through C runtime.
+
+Makino PS series mills. Spindle speed does not indicate zero but last known value when braked. Registers are hidden or aliased. Comments/descriptions of ladder and registers missing.
+
+Coherent / Rofin Lasers. Must read and write bespoke ASCII telegrams over TCP/IP or RS-232.","",""
+"795178288330440704","youri.regnaud","2025-09-03T01:17:32.1480000+08:00","An RESTend point that orchestrate a flow to download NC program from the PLM and load the program in Micro CNC Chiron machine. We use Tulip for front end, Highbyte and NodeRed for orchestration and REST API is expose through KongHQ API Gateway with OAuth2.0 credential. We plan to replace legacy DNC with this « Machine API »","",""
+"1405866167494774886","chrismisztur_43648","2025-09-04T07:26:53.9180000+08:00","Really?  Even with the adapter/agent installed?  Or the laser Mitsubishi","",""
+"1405866167494774886","chrismisztur_43648","2025-09-04T07:29:31.3910000+08:00","I would say this is even true for NGC Haas.  You got Q commands, half-broken MTConnect agent, and a tcp/9998 backdoor.  If you put them all together, you get something meaningful.","",""
+"1405866167494774886","chrismisztur_43648","2025-09-04T07:33:58.2640000+08:00","For me it would be Banner's DXM.   Tooo much modbus everywhere.","",""

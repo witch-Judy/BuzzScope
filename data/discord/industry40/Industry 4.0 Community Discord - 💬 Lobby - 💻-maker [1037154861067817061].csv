@@ -1,0 +1,482 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"894527802316046366","nickn5549","2023-02-10T19:05:19.3320000+08:00","What are we cooking here?","",""
+"829502128191045652","joshuastover","2023-02-10T21:39:06.4770000+08:00","lol 🤣 IoT, 3d prints.... Pi!","",""
+"829502128191045652","joshuastover","2023-02-10T21:39:11.2130000+08:00","https://tenor.com/view/pi-day-gif-5173609","",""
+"972180596166115328","luismiguelbp","2023-02-11T01:13:01.2990000+08:00","Ignition Maker Edition or Node-RED","",""
+"829502128191045652","joshuastover","2023-02-28T22:39:02.3620000+08:00","I have a question y'all:
+
+I'm trying to install Ubuntu Desktop onto a fresh PC (Has no OS on it currently) and I'm having issues. I've tried twice to flash the OS file from my macbook onto a flash drive and I've managed to kill 2 flashdrives. Am I an idiot and am doing something wrong?","",""
+"898217314741280828","hobbes1069","2023-02-28T23:04:43.4800000+08:00","Try Fedora Media Writer, works for more than just Fedora as long as you have an ISO. M1 or x86 mac?","",""
+"829502128191045652","joshuastover","2023-02-28T23:08:54.2920000+08:00","Mine is an X86... I'm still rocking the (old) i9 Intel chip. I used BalenaEtcher on the first 2 trys. Literally killed my Flashdrives. Both Flash attempts failed, and then the flashdrives stopped be discoverable for any device I plugged it into.","",""
+"898217314741280828","hobbes1069","2023-02-28T23:09:34.5730000+08:00","That's supposed to be a good product but doesn't work for everyone.","","👍 (1)"
+"898217314741280828","hobbes1069","2023-02-28T23:11:54.1490000+08:00","https://getfedora.org/fmw/FedoraMediaWriter-osx-latest.dmg","",""
+"829502128191045652","joshuastover","2023-02-28T23:16:36.9620000+08:00","I'll try it and report back.... after I get more flash drives :feelssighman:","",""
+"894527802316046366","nickn5549","2023-03-01T14:54:46.0150000+08:00","Balena Etcher is solid. Don't think the SD of flash drives are dead, try them on a Linux box (or RPI).","",""
+"829502128191045652","joshuastover","2023-03-01T21:18:44.8830000+08:00","The 2 flash drives both stop showing up on any device, and one of them had the red flashing light of death. My 3rd attempt with a fresh download of Ubunutu 22.10 worked out","","👍🏻 (1)"
+"544957609137012746","mkult1a","2023-04-05T00:29:13.8850000+08:00","https://github.com/mkeras/Arduino-PMC-Clock
+
+I made a simple class (with help from chatGPT) for the Arduino Portenta Machine Control. I plan to modify/test it to work on the Opta as well, but I am focused on building a complete sparkplug 3 node first. It's a simple way to get unix timestamps in milliseconds, automatically synchronized with an NTP server and the RTC of the PMC.","",""
+"833941249362493450","sammysevens777","2023-04-07T12:36:54.1960000+08:00","Apologies if this isn't the best place for this question - but for my automation / electrical junkies, I've been assigned a task to DfM our electronic board's wiring. We have about 50 discrete wires that are just cumbersome to wire individually, error-prone, consumes space, and actually makes our product look kinda cheap (think like a board with about 50 wires coming out of it, with no duct etc.). I've got some ideas....but my mgmt. also wants to evaluate board re-designs, daughter boards, M-F connectors etc.","",""
+"833941249362493450","sammysevens777","2023-04-07T12:42:28.3880000+08:00","The process goal is to connectorize the board - so the assembler just connects pre-terminated cables. With this in mind, does anyone have resources on how to systematically approach this kind of a problem? Thank you","",""
+"890244048739270656","brianpribe","2023-04-08T03:04:59.2070000+08:00","I do a lot of wiring for industrial panels. I would look at Phoenix Contact for all of the various products they have for PCBs. 
+
+Consolidate, Integrate, Eliminate.","","💯 (1)"
+"833941249362493450","sammysevens777","2023-04-08T04:58:57.1790000+08:00","Thats a great way to put it....our base connectors are 1952801","",""
+"833941249362493450","sammysevens777","2023-04-08T05:01:45.8350000+08:00","And right now we have 50 sets of them with a 1952283. The thought is unless we redesign the PCB...we remove the 1952283 and then use some kind of pass through connector to a daughter board....and connectorize from there....","",""
+"833941249362493450","sammysevens777","2023-04-08T05:02:44.7560000+08:00","Not a single connector, we have mix of DI/DO, AI/AO, safety I/O, 24V/12V, and some serial too","",""
+"890244048739270656","brianpribe","2023-04-08T06:02:27.4690000+08:00","So for this product, where is it supposed to live? In a control enclosure? In an office? On the plant floor?","",""
+"833941249362493450","sammysevens777","2023-04-08T06:13:27.6050000+08:00","Inside of a stationary cabinet (inspection machine).","",""
+"890244048739270656","brianpribe","2023-04-08T07:32:55.8380000+08:00","So IP20. Aside from having the CAN and serial terminals be ports instead, I don’t think there’s a good way to make it more plug n play","",""
+"833941249362493450","sammysevens777","2023-04-08T07:36:41.7120000+08:00","Yeah the cabinet is sealed and washdown (IP69K). 
+
+Right now they are all individual wires...wouldnt converting end into poke yoke connectors be a good idea? At least for us....we have a lot of wiring isues....","",""
+"890244048739270656","brianpribe","2023-04-08T07:58:53.6810000+08:00","I’m still not 100% on how the PCB is being used. Are you connecting multiple PCBs together? Or is the PCB a final product and you are having to wire a bunch of devices to it?","",""
+"833941249362493450","sammysevens777","2023-04-08T08:22:31.5090000+08:00","Yes exactly (the latter). The board uses a PIC microcontroller and has electronics to control signals interfaced by 1952801","",""
+"890244048739270656","brianpribe","2023-04-08T08:24:47.9910000+08:00","Your PCB isn’t the problem, it’s your wiring process and documentation.","",""
+"890244048739270656","brianpribe","2023-04-08T08:26:16.0580000+08:00","You can wire panels like this in one go with the right processes and documentation (practice too).","https://cdn.discordapp.com/attachments/1037154861067817061/1094055576398471258/IMG_1475.jpg?ex=68df1827&is=68ddc6a7&hm=5760b77f8564ea36391cbdc4f06d55d92d2575468ba3ebb8fc723fb39b95fc4c&",""
+"894527802316046366","nickn5549","2023-04-08T08:50:22.5890000+08:00","Yes, but the PCBs are making your life much, much easier when complexity grows - I'll send some pics from some of our machines - once I'm back to work","",""
+"890244048739270656","brianpribe","2023-04-08T08:57:29.7530000+08:00","100%. Wiring is expensive. Each wire installed is $2.00 (in the panel only). You can imagine how pricey it gets for large projects. M12 cables, IO blocks, Ethernet, and terminal systems are a godsend for large systems.","",""
+"894527802316046366","nickn5549","2023-04-08T09:00:26.7580000+08:00","We are more in PCBA manufacturing, but any time when we have cabinets to build we do DFA ( Design for Assembly) and normally we suggest to 'connectorize' and approach it something like this -- identify the wires that need to be replaced, determine the type an numer of connectors needed, design the PCB(s) to accomodate these connectors, build the 'standardised' cables, test your design, refine the design, document the design, get approval if needed. For each PCB we do DFM (Design for Manufacturability) to make sure that are easy to build - PCB Fab and PCB Assy.","","💯 (1)"
+"890244048739270656","brianpribe","2023-04-08T09:23:44.9280000+08:00","I do my best to stay away from making custom cables. They f*cking suck. For one-off machines (which I mostly do), I really try to keep my schematics utilizing standard cables (M12). Not just that, but if you have to replace that cable it's even more of a headache. Had a customer once request a custom cable, I asked 10 questions to get all of the information I need. They just sent over a 3 different documents that ""should answer all of my questions"". I ended up with 3 different part numbers for one end of the cable....","",""
+"890244048739270656","brianpribe","2023-04-08T09:24:13.0550000+08:00","Oh and no part numbers for the other end.","","😆 (1)"
+"894527802316046366","nickn5549","2023-04-08T09:26:49.3400000+08:00","for one-offs is not worthed to do all these steps...when you talk volumes..then is another story. I'm the same for my custom designs (my other hat than EMS) - wires are the way until volumes go up...","",""
+"833941249362493450","sammysevens777","2023-04-08T09:48:59.2730000+08:00","This sounds fantastic....are there any templates i could use to follow this orocess along?","",""
+"833941249362493450","sammysevens777","2023-04-08T09:51:47.0440000+08:00","If only our cabinet was designed thoughtfully like this one. There are literally no wire ducts and for some reason components are oriented vertically and horizontally. Furthermore, the panel is affixed to the machine, so our poor assemblers have to sit in the same spot behind the machine for days....it should have been removable and a subassembly.....its the design really....and i have several ideas, but not sure if they'll get traction as current focus is on simplifying connections to current board","",""
+"894527802316046366","nickn5549","2023-04-08T10:46:03.4880000+08:00","Yes, many times people don't see passed their nose...and I have sometimes troubles making the argument that robust DFA upfront saves you heaps in mass production..","",""
+"894527802316046366","nickn5549","2023-04-10T09:14:21.6060000+08:00","Templates? I have to ask my engineers. For DFA we don't have software for it, it is manually done based on the steps listed before. For DFM, PCBA level, we use the Valor MSS DFM module to do it automatically.","","👍 (1)"
+"833941249362493450","sammysevens777","2023-04-11T11:39:01.2950000+08:00","What housing material would you recommend for a rigged environmental chamber? Cement boards seem like a good idea....","",""
+"894527802316046366","nickn5549","2023-04-13T07:23:33.6160000+08:00","We just got a new project where we have to apply the DFA 'templates' - I'll come back with details as we progress through","","👍 (1)"
+"206799918109556747",".kwinn","2023-04-27T01:49:10.9950000+08:00","I have a question: I have setup a websocket server using socket.io on nodejs. How do I send messages to that server from an arduino with esp8266 for wifi? which library am I supposed to use for this?","",""
+"206799918109556747",".kwinn","2023-04-27T01:49:44.4800000+08:00","it's an odd case though I don't have the arduino with me. I need to get started on the code so I can finish it tomorrow it school (where the arduino is) so it's hard to test things.","",""
+"206799918109556747",".kwinn","2023-04-27T01:50:46.2880000+08:00","I've seen an example using ArduinoWebsockets but it seems like there is no topic sent? How do I handle this in socket.io?","",""
+"206799918109556747",".kwinn","2023-04-27T01:53:26.1050000+08:00","is there maybe a way to simulate an arduino with network capabilities for exactly this?","",""
+"817835202746253344","IIoT#4707","2023-04-27T01:53:26.3320000+08:00","GG @Kwinn, you just advanced to level 2!","",""
+"867075936054149191","rickbullotta","2023-04-27T01:55:09.5870000+08:00","Websockets don't dictate any particular type of payload (e.g. topics, data formats, etc).  You'll connect to a specific endpoint on the websocket server, and then formulate and send some type of payload (JSON, text, binary, XML, etc).  Look at the code on your socket.io server to see what it is expecting.","",""
+"867075936054149191","rickbullotta","2023-04-27T01:56:29.4940000+08:00","https://www.makeuseof.com/arduino-simulators-electronics-projects/","",""
+"206799918109556747",".kwinn","2023-04-27T01:57:24.3630000+08:00","I can configure my socket.io server to match what the arduino is sending I just don't understand how the events are handled on the arduino. for example when I send a message from my frontend to the socket server I can configure it this way on the socket server:
+```
+  socket.on(""message"", (data) => {
+    console.log(""message received"");
+  })
+```
+so `""message""` is my topic/event right? how do I dictate the topic on the arduino?","",""
+"206799918109556747",".kwinn","2023-04-27T01:57:46.6690000+08:00","ty I'll try those","",""
+"867075936054149191","rickbullotta","2023-04-27T01:58:59.3890000+08:00","No.  ""message"" is the event that is being handled.  ""data"" is the payload.","",""
+"867075936054149191","rickbullotta","2023-04-27T01:59:11.6760000+08:00","I have no idea what you're talking about with ""topic"".","",""
+"867075936054149191","rickbullotta","2023-04-27T01:59:22.6070000+08:00","There's no such concept with websockets alone.","",""
+"206799918109556747",".kwinn","2023-04-27T02:00:58.1510000+08:00","I'm really lost so I'll try to rephrase","",""
+"206799918109556747",".kwinn","2023-04-27T02:03:28.1240000+08:00","`""message""` is the name of my event. my socket server listens to anything incoming with this event right? how do I make it so the arduino sends data that is tagged with the event `""message""`","",""
+"206799918109556747",".kwinn","2023-04-27T02:05:13.1970000+08:00","```
+void loop() {
+  if (!webSocket.connected()) {
+    webSocket.begin(""ws://your_server_url_here"");
+  }
+
+  webSocket.loop();
+
+  // Create a JSON object and send it to the server
+  String jsonString = ""{\""temperature\"": 25, \""humidity\"": 50}"";
+  webSocket.send(jsonString);
+}
+```
+this is a loop chatgpt constructed for me. when I'd send this kind of data to the socket server what ""event"" does it expect?","",""
+"867075936054149191","rickbullotta","2023-04-27T03:08:01.2080000+08:00","oh, jeez.  that's what you get for trusting ChatGPT. 😉","",""
+"867075936054149191","rickbullotta","2023-04-27T03:10:29.0340000+08:00","Post your full server side code/Node.js code","",""
+"206799918109556747",".kwinn","2023-04-27T03:11:50.9480000+08:00","it's literally just this. it just forwards the stuff right away to my frontend where I am going to do stuff with it","https://cdn.discordapp.com/attachments/1037154861067817061/1100861820253769769/image.png?ex=68df7736&is=68de25b6&hm=1936244d2d253af340fce349af3e93de217afe8796838029cb7937ab4610e134&",""
+"206799918109556747",".kwinn","2023-04-27T03:12:44.5320000+08:00","https://github.com/Links2004/arduinoWebSockets/blob/master/examples/esp8266/WebSocketClientSocketIO/WebSocketClientSocketIO.ino
+I'm gonna try this tomorrow at school with some edits","",""
+"867075936054149191","rickbullotta","2023-04-27T03:21:10.1640000+08:00","I think you're trying to mix a generic websocket client with a socket.io server.  That probably won't work.  See this info:
+
+https://ably.com/topic/socketio-vs-websocket#:~:text=Socket.IO%20is%20not%20compatible,a%20plain%20WebSocket%20server%20either.","",""
+"867075936054149191","rickbullotta","2023-04-27T03:22:01.3950000+08:00","You will likely have better luck using ws on the server:
+
+https://www.npmjs.com/package/ws","",""
+"206799918109556747",".kwinn","2023-04-27T03:22:02.9740000+08:00","Yee that's what I figured out at some point that's why I had confusions in first place. But the library this example is from seems to have socket io supporf","",""
+"206799918109556747",".kwinn","2023-04-27T03:22:41.5990000+08:00","If the library won't work out I'll try to use ws","",""
+"867075936054149191","rickbullotta","2023-04-27T03:26:42.0160000+08:00","Take a look at this code example - it uses a specific JSON format that includes the event name:
+
+https://github.com/Links2004/arduinoWebSockets/blob/master/examples/esp8266/WebSocketClientSocketIO/WebSocketClientSocketIO.ino","",""
+"206799918109556747",".kwinn","2023-04-27T12:35:12.5140000+08:00","Yeah this is what I'll try later today when I get my hands on the arduino","",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:11:50.6480000+08:00","Just like the Arduino Opta, I was able to connect to WiFi and publish to an MQTT broker with the Arduinio XIAO ESP32 C3 similar to@Walker Reynolds in the Arduino Opta WiFI Youtube video.
+
+
+
+
+https://www.youtube.com/live/QefnmQWsfL4","",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:12:39.4230000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1117244974610792488/image.png?ex=68df14f7&is=68ddc377&hm=d220c56c59de40e5b4920ccb9d334921ce0ed6d21846f3487e76914c75695c90&",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:13:04.0160000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1117245077824221324/6aJJBvgEnH0AAAAAElFTkSuQmCC.png?ex=68df150f&is=68ddc38f&hm=1e8cc4d720b97d940959e5ecbdef8c5188533a8419ac1fdf93a4ca3024c2afb6&",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:19:07.1980000+08:00","I used Perplexity.ai since it does not require a login. I'm using this for a high school summer camp, so no login makes things easier. Here is the prompt: 
+For the Seeed Studio XIAO ESP32C3, create an Arduino program to connect to WiFi using eet124 as the SSID and buttercup as the password. Please reference the documentation at https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/ Also connect to an MQTT broker located at tcp://45.76.236.64:1883 with no authentication needed. Publish the IP address of the ESP32 to the topic ESP32/IPAddress
+modify this program to include an overall summary in comments at the top and inline comments for each step
+modify this program to publish every five seconds. Also include wifi signal strength","",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:21:48.8920000+08:00","Here is the program:","https://cdn.discordapp.com/attachments/1037154861067817061/1117247279124975656/ArduinoMQTTv3.ino?ex=68df171c&is=68ddc59c&hm=3100141b1c20860a52c7ebb7b632fe55c847563098217d00fcc8be3391aab86a&",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:23:04.3830000+08:00","Basically a poor-man's Arduino Opta - Only $4.99
+https://www.digikey.com/en/products/detail/seeed-technology-co.,-ltd/113991054/16652880","",""
+"744671252605829181","jeff.rankinen","2023-06-11T08:27:04.4490000+08:00","Here's the mock-up so far.  With three push-buttons and an RGB LED:","https://cdn.discordapp.com/attachments/1037154861067817061/1117248602163658792/image.png?ex=68df1858&is=68ddc6d8&hm=f200af87ac2684965df8d6b487d9f0b1e4c97e0e1d7b752e9e4f0f921486541e&","👍 (1)"
+"890244048739270656","brianpribe","2023-06-12T23:41:38.9880000+08:00","Oh fuck yeah! I've been doing some bigger integration projects that I haven't had the interest to be doing the smaller ones.","","👍 (1)"
+"1061942681821003798","dylan_iiot","2023-06-14T22:17:48.2010000+08:00","Hi. Does anyone know if there any comms modules  available for Arduino boards that have wifi, gms(3G or higher, skeptical of using 2G only devices) and gps available on it","",""
+"867075936054149191","rickbullotta","2023-06-15T19:09:38.0170000+08:00","Take a look at Particle, especially the P2 or Photon 2. All in one.  And a really, really nice developer experience built around VSCode and a web console.","",""
+"867075936054149191","rickbullotta","2023-06-15T19:11:40.6890000+08:00","Why Arduino vs RPi?","",""
+"1061942681821003798","dylan_iiot","2023-06-15T19:36:37.5670000+08:00","Thanks a mil. Im super new to the micro controller game. I'm looking to develop a product that will control remote water valves, and have multiple methods of connecting to the internet to cater for what may or may not be available at all the different locations. So the essentially the controller/product must be able to:
+- control a DC motor (like ""Planetary DC Gear Motor 25mm - 5RPM 12V"") for rotating a valve
+- control a 230Vac 1200W irrigation water pump
+- have wifi, gsm and gps comms
+So far I have this list of components recommended to me:
+- ESP32-C3-MINI-1: ESP32-based microcontroller with integrated WiFi, GSM, and GPS capabilities.
+- Planetary DC Gear Motor 25mm - 5RPM 12V: The motor for controlling the valve position.
+- L298N Dual H-Bridge Motor Driver: Motor driver module for controlling the DC gear motor.
+- Power supply: Suitable for providing power to the motor and motor driver module.
+- 4x4 Keypad: Matrix keypad for user input to locally control the connect valve position.
+- Relay output board: Compatible with the current rating of the pump motor.
+- GSM Antenna: Suitable GSM antenna for cellular connectivity.
+- GPS Antenna: Suitable GPS antenna for GPS positioning.","",""
+"867075936054149191","rickbullotta","2023-06-15T23:11:02.9790000+08:00","You can get a lot of that here - plus you get the software backend and device management.  It’ll also work with Losant if you want a high level tool for apps.  https://store.particle.io","","👍 (1)"
+"1061942681821003798","dylan_iiot","2023-06-15T23:31:05.1440000+08:00","@RickBullotta thanks Rick, busy checking it out right now","","👍🏼 (1)"
+"833941249362493450","sammysevens777","2023-06-16T11:10:25.6770000+08:00","I used STMicro for a lorawan application and we had everything except gps. Could be a good platform to explore as well.","",""
+"1061942681821003798","dylan_iiot","2023-06-16T15:59:25.9770000+08:00","@SamSon Thanks Sam. I'll take a look. Although Lorawan networks here in South Africa are fee and far between","",""
+"833941249362493450","sammysevens777","2023-06-17T00:23:18.8210000+08:00","Just an example - they have a variety of communication interfaces","","👍 (1)"
+"842630764449628201",".scampcat","2023-06-22T06:32:16.9440000+08:00","looks like coverage is growing quickly: https://www.itweb.co.za/content/j5alrMQaVLPMpYQk","","👍 (1)"
+"842630764449628201",".scampcat","2023-06-22T06:34:12.8540000+08:00","Helium has some coverage there too, although if you're in the bush, a LEO satellite is about the only way.","",""
+"867075936054149191","rickbullotta","2023-06-22T20:48:51.9810000+08:00","Helium - just, no.","","😂 (1)"
+"1088631859509989426","jpmac.s","2023-08-10T05:11:05.5140000+08:00","Hi,
+Has anyone managed to get a VTech baby monitor into Maker?","",""
+"817835202746253344","IIoT#4707","2023-08-10T05:11:05.7760000+08:00","GG @Josh Mac, you just advanced to level 1!","",""
+"1123946600453128263","cdrogemuller","2023-08-10T21:29:51.1220000+08:00","Hi All - Has anyone had any luck getting MQTT working on the Arduino Opta using a sketch inside the PLC IDE specifically?
+When using the standard IDE to create sketches that publish values to a broker using the PubSubClient library I have no issues however when those same sketches are downloaded using the PLC IDE the sketches appear to run however no values are published to the broker. 
+From some googling I have found the following posts with similar issues and a response from an arduino member that MQTT and IOT cloud is currently not supported by the PLC IDE:
+https://forum.arduino.cc/t/plc-program-mqtt-client-as-sketch/1104991/4
+https://forum.arduino.cc/t/plc-ide-pubsub-sketch/1113956
+Looking to hear if anyone has had any luck with this perhaps with another library.","","👍 (1)"
+"744671252605829181","jeff.rankinen","2023-10-27T11:52:20.8460000+08:00","I've been using the pubsub library from Arduino to publish to an  MQTT broker with the ESP32c3. I used www.perplexity.ai to create a program to generate OEE data publishing topics according to ISA-95 Part 2. This image is from the Perspective Custom Dashboard project from the Ignition forum viewing the subscribed tags from the MQTT broker. Using this to teach the UNS architecture to my classes at Penn College.","https://cdn.discordapp.com/attachments/1037154861067817061/1167309786665205850/IMG_20231026_232030250_HDR.jpg?ex=68df4874&is=68ddf6f4&hm=ff877398ab4fe87fbdbfd1698dfd2036084d08784805536e1e6db30295d3c133&","🔥 (4)"
+"744671252605829181","jeff.rankinen","2023-10-27T12:03:15.1190000+08:00","For those in Mentorship or Mastermind, I'm using the class EMQx broker. I'm going keep this powered on so it will continually produce data. You can find it in the ISA95 topic.","","🔥 (3)"
+"544957609137012746","mkult1a","2023-11-12T08:53:45.3850000+08:00","Hopefully this is the right channel,
+https://hub.docker.com/r/mkult1a/gpt-agent
+I haven't looked to see if it's already been done, but I have started developing a simple docker container who's purpose is to consume events on a given MQTT Topic, and manipulate the incoming data via the chatGPT API and a given Prompt and Model, and publish the results to a given Topic.
+The functionality is basic right now, but is suitable for testing and development of different prompts, etc., and the model and prompt can be changed via MQTT or environment variables.","","🤘🏼 (1)"
+"890244048739270656","brianpribe","2023-11-12T09:49:04.6040000+08:00","Interesting","",""
+"917925131261718558","jpmoniz","2023-11-14T07:57:05.6300000+08:00","Well that didn't take long.  I was wondering when someone would do something like this.  I was thinking it last week when i was working on my MQTT to neo app.  Curious on a couple of things.  I suspect it's not exactly snappy.   What's a complete roundtrip look like?   Do you get repeatable responses for the same payload and prompt?  I would expect not but may be wrong.   What have you tried to translate?  Thanks for sharing.  May take it for a spin and see myself.  you may want to post this in the #unified-namespace","",""
+"867075936054149191","rickbullotta","2023-11-14T08:20:23.8650000+08:00","Makes more sense to generate code to do the transform than to use the API to do it. Could be slow and expensive.","",""
+"917925131261718558","jpmoniz","2023-11-14T08:22:26.2660000+08:00","That's where i was headding in my thoughts.","","💯 (1)"
+"917925131261718558","jpmoniz","2023-11-14T08:23:03.3810000+08:00","Actually tried to build my own translator backend in node.js this weekend","",""
+"867075936054149191","rickbullotta","2023-11-14T08:23:44.3250000+08:00","With a dynamic language like JavaScript you can always use something like eval with a custom context - that way you can change the algos on the fly.","",""
+"917925131261718558","jpmoniz","2023-11-14T08:29:43.1090000+08:00","I was going the harder way (i think) and passing it into a pyhon sandbox. Likely due to my bias toward python but working on moving that bias.","",""
+"867075936054149191","rickbullotta","2023-11-14T08:30:42.7830000+08:00","Security weenies hate eval() anyway.","",""
+"917925131261718558","jpmoniz","2023-11-14T08:32:20.0260000+08:00","that's because they get burnt all the time. just end up with burnt weenies","","😂 (1)"
+"544957609137012746","mkult1a","2023-11-15T01:14:04.2750000+08:00","Indeed it is not very snappy, although it depends on the model and prompt. My testing has been very limited so far, but for about 300 tokens total, it's taking about 2 or 3 seconds. I haven't tested for repeatability, but I was looking through the documentation, there are parameters (temperature, top_p, https://platform.openai.com/docs/api-reference/completions/create#completions-create-temperature) I should add to the config for fine tuning repeatability. I will update the image and repost it into the uns channel. I'm also thinking about making the container a sparkplug node, so that it could be used/controlled with ignition.","",""
+"568913935147728896","zeratall","2023-11-15T03:22:50.0410000+08:00","Look into the streaming endpoint, you will get significant faster results","",""
+"568913935147728896","zeratall","2023-11-15T03:25:17.1100000+08:00","https://platform.openai.com/docs/guides/production-best-practices/streaming","",""
+"544957609137012746","mkult1a","2023-12-07T03:43:18.6620000+08:00","Well, 3.5 weeks later I have snowballed it into 2 projects: The original chatGPT UNS Connector (As a sparkplug node) + A general purpose sparkplug node written in python. Reposting now in UNS channel","","🔥 (1)"
+"1168611993436049512","brian_34598","2023-12-07T05:24:11.4640000+08:00","I built a web based MES product based in ISA95 standard.
+is there anyone interested in?","","4point0 (2)"
+"890244048739270656","brianpribe","2023-12-07T12:38:33.4130000+08:00","From one Brian to another Brian, I’ll check it out","","😂 (1)"
+"544957609137012746","mkult1a","2023-12-16T06:55:53.1130000+08:00","Heeding Walker's message in Mastermind/Mentorship to create content, I made a 45 second demo video of a project I have been working on this week: https://www.youtube.com/watch?v=Kl7I2MrtzIU","","👍🏻 (5),💯 (2)"
+"1073632885153730621","vaughnturner","2023-12-18T22:26:00.5250000+08:00","Good deal Michael!","",""
+"917925131261718558","jpmoniz","2023-12-19T07:14:45.1000000+08:00","Nice!.  Object detection would be good for that too.  No scale needed and pretty simple to setup.","",""
+"544957609137012746","mkult1a","2023-12-19T07:22:17.4370000+08:00","Yes, Object detection and CV is the next thing I want to experiment with. I liked the idea of having a directly physical signal from the load cells, but the CV route would definitely be a far cheaper / easily scalable way to do it.","",""
+"917925131261718558","jpmoniz","2023-12-19T07:27:29.9380000+08:00","I've actually been battling the same issue with some WIP carts we have.  RFID has its issues.   Was looking at UWB as it gave positioning.  Looked at loadcells under wheels for determine load quantity.  Ending up at vision as a good enough and seems more autonomous.","",""
+"544957609137012746","mkult1a","2023-12-19T13:31:32.2800000+08:00","That's interesting, it confirms my suspicion that vision is best for that sort of thing. I've got to bite the bullet and jump into learning CV, there's just so much more data available vs a simple sensor like a load cell. The load cell approach I'll still use for things like bolts and screws,  and anything else where vision can't see everything.","",""
+"544957609137012746","mkult1a","2024-02-03T05:46:43.0000000+08:00","Just finished an Arduino/microcontroller library for running as a sparkplug edge node. It's decoupled from any mqtt library for maximum compatibility (its all stdlib C). The API functions allow simple integration into an arduino sketch, and is designed to be easily used with virtually any other mqtt library. I have tested the example to be working on the arduino r4 wifi and the giga r1 (it just prints topic/payload to serial). This weekend I plan to add a complete example demonstrating pairing it with an mqtt client and actually connecting to a broker. Should appear in the  Arduino library shortly.
+
+https://github.com/mkeras/EmbeddedSparkplugNode","","🔥 (3)"
+"817835202746253344","IIoT#4707","2024-02-03T05:46:43.6910000+08:00","GG @Michael Keras, you just advanced to level 2!","",""
+"890244048739270656","brianpribe","2024-02-07T01:46:56.8340000+08:00","For y'all that want a plasma CNC but can't afford an industrial one:
+https://jdsgarage.bigcartel.com/category/plasma-cutter","","❤️ (3)"
+"867075936054149191","rickbullotta","2024-02-07T06:28:27.7600000+08:00","Just be warned - I once bought plans for a propane powered personal flying machine from the back of a comic book.  It did not work.","","🔥 (2)"
+"898217314741280828","hobbes1069","2024-02-07T06:29:42.5570000+08:00","I always had my eye on the one that was supposed to turn a vacuum cleaner into a personal hovercraft but never did pony up for the plans 🙂","","🤣 (1),❤️ (1)"
+"867075936054149191","rickbullotta","2024-02-07T06:30:33.0010000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1204554754190217256/zGUWGw0.png?ex=68defd08&is=68ddab88&hm=c6ec1de6d4f460fce82585a2d630cfd1cb59cd71cc2fa1bff94abb67941b1883&","😂 (3)"
+"890244048739270656","brianpribe","2024-02-07T06:40:39.7060000+08:00","I find that hard to believe that it didn’t work","","😂 (1)"
+"867075936054149191","rickbullotta","2024-02-07T06:42:15.8130000+08:00","I must have misread the instructions","",""
+"890244048739270656","brianpribe","2024-02-07T06:44:17.1090000+08:00","I’ll fly over in a bit to help ya out","","❤️ (1),🤣 (1)"
+"867075936054149191","rickbullotta","2024-02-07T07:25:20.9920000+08:00","Actual snorting of actual beer out of my nose.","",""
+"890244048739270656","brianpribe","2024-02-07T07:38:06.3660000+08:00","What burns worse, IPA or Stout?","",""
+"867075936054149191","rickbullotta","2024-02-07T21:27:38.4260000+08:00","Bourbon","","🤣 (2),🔥 (1)"
+"862313514931847169","jramirez3","2024-02-10T05:47:14.1270000+08:00","Don't know if this is the correct place for this but I'm using Ignition maker edition at home and also using OpenHab to connect to alot of home automated devices. I want to transmiter the data from the OpenHab system via MQTT to the Ignition MQTT Broker. I am struggling getting the values to publish correct. I'm getting the connection from OpenHab to Ignition and in the logs I see the connection and the subscription start but tags never show up on the MQTT Engine tag provider. Any suggestions?","",""
+"769397045579481129","donpancoe","2024-02-11T00:27:56.3740000+08:00","I'm still getting up to speed on this myself, but my understanding is that Ignition - by default - is looking for MQTT messages in the Sparkplug B / Protobuf format. OpenHAB is probably transmitting plain JSON over MQTT. I've read that you can still read these messages by creating a ""custom namespace"" in Ignition, but I will have to refer you to either the #ignition channel in this forum or the Inductive Automation forums for more specific details on that.","",""
+"862313514931847169","jramirez3","2024-02-11T23:31:03.4990000+08:00","Ya I'm still learning OpenHab so that is more than likely the case. I guess I have to dig more into the custom namespaces in Ignition. I never had to do that because in my job we only use devices that use Sparkplug.","",""
+"1091052425743433738","aimane_00991","2024-05-29T04:26:46.4760000+08:00","Hi everyone,
+I'm working on understanding an industrial manufacturing machine, and I've come across an orange component that I believe is a sensor. Here are the details:
+The component (there are 3 in image) is orange in color.
+It's attached to the machine in a way that suggests it's monitoring or measuring something.
+I suspect it might be a sensor, but I'm not sure what type or what its specific function might be.
+Questions:
+Can anyone help me identify what type of sensor this might be?
+What is the typical use of an orange sensor in an industrial manufacturing setup?
+Any insights or resources you could provide would be greatly appreciated. Thank you!","https://cdn.discordapp.com/attachments/1037154861067817061/1245111045991694466/Sensors_def.png?ex=68df88c6&is=68de3746&hm=9659086c5dbb589a636dbb6f3307acf81813b8a0794c9c29e4a0fc033666764b&",""
+"1063829764164563026","mariano.beracochea","2024-05-29T04:31:31.7730000+08:00","No idea of an standard on the sensor color, but they seem like optical sensor, they sense when an object cross the light array in front of them","",""
+"1091052425743433738","aimane_00991","2024-05-29T06:12:13.9650000+08:00","in reality, it is an Automatic Screw Capper:
+https://www.youtube.com/watch?v=o4KM3pgq1bI&ab_channel=CDAFrance
+but why sensors are placed in that way ??","https://cdn.discordapp.com/attachments/1037154861067817061/1245137585936928850/Sensors_def2.png?ex=68def8be&is=68dda73e&hm=fb8784d57171850dfec8a66397cfab233d969bd735dd5199011820aee45fe17b&",""
+"890244048739270656","brianpribe","2024-05-30T00:01:05.9850000+08:00","Look at 1:09. The sensors are mounted on the clamp's though-holes. Rather than making a new fixture plate, they just mounted it where a hole was available.","",""
+"1073312001788477471","sparkylarks","2024-05-30T16:27:23.8720000+08:00","The orange sensor on the right, looks to be the a reflection sensor used to determine if there is a pail present or not. you can see the light at the end of the device turn on and off, when there is an object( pail) infront of them.
+That rightmost sensor when it detects a pail triggers the actuated arm that holds the pail in place while it is being capped.
+given how the other two are places on the left, I would guess they are used to maintain, the supply of pails , and take action if there are too many or too few. they seam to be pointed at the front and end of the pail queue.
+
+the sensors seam to be Leuze on their side so maybe they are one of theses https://www.leuze.com/en-in/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors.
+
+I would have expected red for Leuze, but it does really look like a PRK3C.T3/PT-200-M12","https://cdn.discordapp.com/attachments/1037154861067817061/1245654785206784103/image.png?ex=68df88eb&is=68de376b&hm=c2a9da5e8054c7c51cd963f231f25b69287dcaf47b91efda17947bdad5da629f&,https://cdn.discordapp.com/attachments/1037154861067817061/1245654785483477033/image.png?ex=68df88ec&is=68de376c&hm=0e89bc5543344f4a67828e3d2f2c6928956645d6ce6992319fa4bb780bcafaed&",""
+"230441548653789184","r.pop","2024-05-30T22:07:39.0050000+08:00","Definitely looks like a photo eye to me. Likely a part present sensor.","",""
+"867075936054149191","rickbullotta","2024-05-30T23:58:15.8500000+08:00","Yes, reflection sensor but one with a built-in reflector it seems.","","👍 (1)"
+"1073312001788477471","sparkylarks","2024-06-11T20:01:12.0620000+08:00","not sure if this is the correct channel. 
+but I am looking to mount two outdoor lights, ideally
+one blue and one purple bulb
+Controlled via WiFi
+mounted magnetically
+with a battery power source.
+and are pretty bright.","",""
+"898217314741280828","hobbes1069","2024-06-11T21:27:28.9060000+08:00","Don't have a perfect match but the Phillips HUE bulbs are great, 16 Million colors, but require a hub.","",""
+"890244048739270656","brianpribe","2024-06-12T02:23:21.7770000+08:00","Try LIFX. I have quite a few I bought off my brother and they've been working great. You just need to configure to your network and download the mobile app.","",""
+"442331638727311370","giulianog_","2024-06-27T03:19:34.7040000+08:00","@everyone does anyone know how to make a RFID box scanner I need it to connect to our software","",""
+"442331638727311370","giulianog_","2024-06-27T03:19:39.1650000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1255603402424188979/bf078b07-2d24-4a37-89d0-27d4a50207c9.jpg?ex=68df790b&is=68de278b&hm=ca417d6ea8286e9be49ad9b4bed4a5ca771e3e37efb7f1db124b9dbce19e06a9&",""
+"161671622166577153","aphexddb","2024-06-28T04:35:52.3290000+08:00","Shelly plugs are amazing, and I wish I knew about them earlier. After hearing about them from this community got some from Amazon and it took about 15 minutes to start seeing electricity costs in the home UNS","",""
+"1248229600853758073","sptha_27377","2024-06-28T14:52:09.8150000+08:00","They are great, but I had a few reliability issues with some of them. They were failing and needed to be restarted. This led me to not use them anymore. Has this been fixed?","",""
+"544957609137012746","mkult1a","2024-07-20T03:44:03.8330000+08:00","Demo of the Arduino Sparkplug B Library I am working on. Seeing the digital click translated into physical action never gets old for me, thought I would share.
+https://youtu.be/b6-CeIiKkjk","","👍🏼 (2)"
+"867075936054149191","rickbullotta","2024-07-20T22:39:06.0320000+08:00","You lost me at ""sparkplug b"". 😉","",""
+"1011806669874937956","vikanchira","2024-07-22T10:22:09.9060000+08:00","MQTT Engine has an option to choose SparkplugB or normal JSON. You have to do the custom namespace to get the value with normal MQTT","",""
+"1063829764164563026","mariano.beracochea","2024-07-25T00:56:03.7410000+08:00","Anyone have a simulation project that can share? on Factory IO? What im looking for if possible is a process to develop use cases i can test and develop skills on. For me trying to create the virtual process for then build the control logics, the visualization and bussiness logic is a lot of work with my limited time and that make it hard to develop skills","",""
+"898217314741280828","hobbes1069","2024-07-25T01:45:46.4190000+08:00","https://github.com/m-r-mccormick/Real-Time-Manufacturing-Datasets","",""
+"1063829764164563026","mariano.beracochea","2024-07-29T23:51:24.4750000+08:00","There is no node red channel so i will use this one. 
+For the ui building, the option of changing the layout of the elements by drag them on the layout(screen with a grid), where you can drag a title and center it or put 2 elements of the same group one on the side of the other is available on the normal dashboard but havent found it on dashboard 2.0. Does anyone can point it where i can find it.
+I know this is more for a forum on node red, but i trust this is more active and have more advance experience","",""
+"867075936054149191","rickbullotta","2024-07-30T01:17:10.3490000+08:00","the node-red slack channel is actually very active and well supported by the node-red and flowfuse teams","",""
+"693309801589112862","_dyland","2024-07-30T01:20:17.6720000+08:00","https://discord.gg/kQhX4rcz","",""
+"693309801589112862","_dyland","2024-07-30T01:20:46.6620000+08:00","This Discord is also pretty active.","",""
+"693309801589112862","_dyland","2024-07-30T01:21:00.4590000+08:00","And has a channel specific for Dashboard 2.0","",""
+"1063829764164563026","mariano.beracochea","2024-07-30T02:05:17.7910000+08:00","Thanks","",""
+"1088631859509989426","jpmac.s","2024-09-07T12:22:27.2900000+08:00","Any recommendations for cameras and temp sensors that integrate with Maker easily?","",""
+"1214242167640424619","zack.scriven","2024-09-28T06:46:01.5880000+08:00","good question.","",""
+"1214242167640424619","zack.scriven","2024-09-28T06:46:12.0900000+08:00","i remember they worked well with any IP based camera","",""
+"1214242167640424619","zack.scriven","2024-09-28T06:46:20.4780000+08:00","i had an ignition maker home setup a while ago.","","👌 (1)"
+"930296252745269288","jsonedwd","2024-10-01T21:24:00.3200000+08:00","Hello everyone! 👋
+
+I'm currently working on a technical English project focused on Industry 4.0, and as part of my research, I've prepared a 20-item questionnaire. Your insights and experiences in this area would be incredibly helpful!
+
+If you're interested in contributing, please feel free to fill out the form using the link below. Also, if you have any suggestions for improving the questionnaire or additional topics I should cover, I'd love to hear your feedback!
+
+https://forms.gle/DWi1W9Ddv7rpC6eH6
+
+Thanks so much for your time and support! 😊","","👍🏼 (5)"
+"867075936054149191","rickbullotta","2024-10-01T21:39:38.2320000+08:00","Done","",""
+"930296252745269288","jsonedwd","2024-10-01T21:58:46.1840000+08:00","Thankyou so much for your time ❤️","",""
+"1073632885153730621","vaughnturner","2024-10-02T03:26:26.7630000+08:00","Done!","",""
+"1088631859509989426","jpmac.s","2024-10-02T04:39:07.5140000+08:00","✔️","",""
+"930296252745269288","jsonedwd","2024-10-02T12:12:26.6400000+08:00","Thanks a lot friends ❣️","","🔥 (1)"
+"1160083906004004924","bachan1868_11442","2024-10-22T16:44:20.9820000+08:00","done","","🇹 (2),🇭 (1),🇦 (2),🇳 (1),🇰 (2),🇸 (2)"
+"1129435706285101076","ted.garrison","2024-10-23T03:02:36.5720000+08:00","Not a perfect solution - but I've got a couple GOVEE Humidity/Temp sensors (battery powered) sitting in a crawlspace.  They send out a bluetooth signal that's picked up by a TheengsPlug which retransmits as MQTT..  Someday I may replace them all with some NCD.IO devices with hardwired power..","","👍 (1)"
+"898217314741280828","hobbes1069","2024-10-23T03:09:36.7090000+08:00","Not really for crawl space use, but I have a couple of Humidity, Temperature, and PM2.5 VOC sensors from IKEA which just use Zigbee under the good. Bought a USB Zigbee gateway on Amazon and Home Assistant found it without issue. Have a moisture sensor in the hot water tank drain pan as well.","",""
+"817835202746253344","IIoT#4707","2024-10-28T10:24:30.5790000+08:00","GG @Kristine B., you just advanced to level 1!","",""
+"1073312001788477471","sparkylarks","2024-10-28T14:27:40.9720000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1300345225251913804/voice-message.ogg?ex=68df6cdc&is=68de1b5c&hm=110badea2aeaa40248a840d49184f70f1d7657cd2e3d74fe367eeeaade8862f2&",""
+"198574470703742977","plxnt_kid","2025-01-15T10:30:37.6350000+08:00","Well on my way through implementation of python3 scripting within Ignition.
+
+Will be releasing as community project on exchange and github","https://cdn.discordapp.com/attachments/1037154861067817061/1328914209529921638/image.png?ex=68df354d&is=68dde3cd&hm=8c8d4e0ff52bdd36332c48e540c878b8b2599c39057c0dfc9580af86b72f9ff4&","🔥 (9),👀 (4)"
+"829502128191045652","joshuastover","2025-01-15T22:26:48.9600000+08:00","Oh shit! 👀","",""
+"239033727999541249","theunr","2025-01-16T20:37:44.4680000+08:00","Hey! I'm a student working on a downtime analysis for a production line and trying to create a Pareto analysis in Grafana of the biggest downtime causes, specifically summing the abort status duration per component (like in this visualization). I'm making good progress with the dashboard using ChatGPT without programming experience, but I've been stuck on this part for a while. Any tips or directions on how to achieve this in Grafana?","https://cdn.discordapp.com/attachments/1037154861067817061/1329429382615535667/file-1pnQaTo6ym9U4DNyT4g2BK.png?ex=68df1ad8&is=68ddc958&hm=c0156d31c8cd87326a9c7016fbbca40f4625e30d68517886cf75381ae1e5525d&","👍 (1)"
+"1073312001788477471","sparkylarks","2025-01-16T21:03:24.2340000+08:00","Awesome stuff","",""
+"1063829764164563026","mariano.beracochea","2025-01-17T20:11:38.7830000+08:00","You may have to program on node red or something. We have done this, but the problem we had was that you got an status that stopped the machine like starve and the operator took advantage of this(because he knew there was a problem upstring so the downtime was going to be a couple of minutes) and opened the door of the machine, which triggered another status and make the data no reliable without cleaning","",""
+"239033727999541249","theunr","2025-01-17T21:13:39.7860000+08:00","Thanks for the suggestion, Mariano! 🙌🏼  I see what you mean. In my case, I'm tracking downtime by calculating the time between the first ""Aborted"" status and the first ""Operational (Execute)"" status for each component. I understand that manual interventions like emergency stops can trigger multiple components to go into ""Aborted"" at the same time. To account for this, I'm considering using a query that detects simultaneous ""Aborted"" statuses across components and excludes these cases from the downtime analysis, as they likely represent manual interventions. Does this approach seem reasonable to you?","",""
+"1063829764164563026","mariano.beracochea","2025-01-17T21:22:26.3670000+08:00","seems like and starting point","",""
+"622998674124963841",".telzen","2025-02-10T00:18:32.8220000+08:00","Anyone have recommendations for setting up an automation stack test bench in their home lab? I'm looking  to get hands on experience with the  different layers, primarily MES down .","",""
+"817835202746253344","IIoT#4707","2025-02-10T00:18:33.3610000+08:00","GG @Telzen, you just advanced to level 1!","",""
+"890244048739270656","brianpribe","2025-02-10T00:34:57.0230000+08:00","You talking hardware or strictly software only?","",""
+"622998674124963841",".telzen","2025-02-10T00:38:14.2530000+08:00","Can go either way. Personally I like replicating reality as close as reasonable - but if folks think it's better to virtualize I'm open to it","",""
+"890244048739270656","brianpribe","2025-02-10T00:53:40.5470000+08:00","Get a dell poweredge R720 or R630 if you want a cheap server to start.","",""
+"890244048739270656","brianpribe","2025-02-10T00:54:25.2870000+08:00","For PLCs I would base off what you have in your area. Germany? Siemens. Midwest? Rockwell.","",""
+"877337143742197810","karltbraun","2025-02-10T01:21:26.0790000+08:00","A lot depends on your objectives and budget.  My cash flow is pretty limited right now, and my lab is composed of older equipment I already have (horded): a couple of Raspberry Pi 4s, an old intel-based Macbook, and an even older Linovo Thinkpad running Linux.  Plus, a pretty cheap cloud server on Vultr ($5/mo).","",""
+"622998674124963841",".telzen","2025-02-10T01:39:31.5250000+08:00","I'm in a position where I have a lot of experience outside this industry and looking at ways to translate it. So I guess I would say my budget is flexible and my objectives are broad (which maybe isn't helpful).","",""
+"1073312001788477471","sparkylarks","2025-02-10T02:54:36.7380000+08:00","@Telzen 
+A PLC is great, but if it isn't connected to a real life something I question it's useful Ness.
+
+I want to get a train set and some sensors to simulate my production line.
+
+I have a Wago CC100. But don't do much with it.
+A Raspberry PI 4 running Litmus
+A Raspberry PI 2 with the MING stacks
+A Raspberry Pi B with a python script pretending to be a line publishings counts into Modbus registers.
+And a Raspberry PI 5 running Ignition( and loads more)
+
+If you want to focus on MES and SCADA , server with VMs and away you go.
+
+If you really want to go the PLC route, I'd say Opto 22. That is on my Santa list. I would add an EMU so I can do next to the house mains and get constant real time data","",""
+"622998674124963841",".telzen","2025-02-10T03:33:17.1050000+08:00","Funny you mention an EMU, I think I have one I never hooked up.","",""
+"1073312001788477471","sparkylarks","2025-02-10T04:15:10.4190000+08:00","If you not using it you can post it to me 😉","",""
+"622998674124963841",".telzen","2025-02-10T04:16:45.0600000+08:00","There's non-zero chance I may actually have two systems.","",""
+"622998674124963841",".telzen","2025-02-10T04:37:07.2890000+08:00","Ah - its a cloud only system ootb. Probably why I never hooked it up.","",""
+"1073312001788477471","sparkylarks","2025-02-10T05:57:41.5870000+08:00","the EMU? Are you sure? are we talking about the same thing? Have you a photo? one of theses","https://cdn.discordapp.com/attachments/1037154861067817061/1338267608029597747/image.png?ex=68def555&is=68dda3d5&hm=b4f49e6622011601234ceae9b1138e59c9698cc67bceffda78523c87da796394&",""
+"622998674124963841",".telzen","2025-02-10T06:01:43.6030000+08:00","Its not an industrial one - its meant more consumer use. Let me see if I can find a pic.","",""
+"622998674124963841",".telzen","2025-02-10T06:03:25.9390000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1338269052371734599/image.png?ex=68def6ad&is=68dda52d&hm=112b3c5cdfe691e7b9922f7f975b6e0e2f0ef0d41b5360f728a8cbab6ef65210&","😮 (1)"
+"1214242167640424619","zack.scriven","2025-02-12T04:53:22.9970000+08:00","bro.","",""
+"1214242167640424619","zack.scriven","2025-02-12T04:53:30.3980000+08:00","that's fucking insane.","",""
+"1214242167640424619","zack.scriven","2025-02-12T04:54:19.3920000+08:00","did you embed VS code inside of a panel? or did you create your own IDE inside of perspective? lol","",""
+"1214242167640424619","zack.scriven","2025-02-12T04:54:54.8560000+08:00","i'd be interested in seeing the architecture.","","➕ (1)"
+"198574470703742977","plxnt_kid","2025-02-12T05:45:33.3570000+08:00","Downloads and runs code-server in a container and then iframes the container into Ignition.  Auto points to folder structure of Ignition that's hosted so that it's all coupled and Ignition can use the same folders that are updated","",""
+"1214242167640424619","zack.scriven","2025-02-13T01:31:45.9410000+08:00","nice. so the tag integration is all handled on your behalf so you can focus on coding?","",""
+"198574470703742977","plxnt_kid","2025-02-13T06:27:14.7840000+08:00","Any script that you write and save in the code-server IDE becomes available as a function call in ignition.
+
+Write your code in python3 whatever libraries you want,
+save,
+use anywhere in Ignition as if it were part of the scripting library :)","","👀 (4),👑 (1)"
+"877337143742197810","karltbraun","2025-02-14T23:32:19.9850000+08:00","This needs to be added to the curriculum.  This is awesome!❤️‍🔥","","💯 (2)"
+"867075936054149191","rickbullotta","2025-04-04T21:20:27.4390000+08:00","If you're iFrame-ing, wouldn't that only work with Perspective?","",""
+"165152178477072384","dawd","2025-04-11T06:18:50.5090000+08:00","Building a thing soon 
+https://cdn.discordapp.com/attachments/1346895983824601098/1360015725921570928/PXL_20250410_221644756.jpg?ex=67f994d8&is=67f84358&hm=eeb4d944bcff49ab3cf0da37c5850c5d3ed13882621d96776f3b3a4305177f2b&","","❤️ (4),🪴 (2),💯 (1)"
+"198574470703742977","plxnt_kid","2025-04-11T09:15:25.7170000+08:00","Plant automation <3","",""
+"165152178477072384","dawd","2025-04-11T09:18:17.4010000+08:00","🙂‍↕️","",""
+"829502128191045652","joshuastover","2025-04-11T20:58:38.1190000+08:00","I’ve been wanting to do something like this for awhile. My fiancé is growing some Jalapeños this year, so maybe I’ll finally put something together!
+
+Show us the finished project once you have it!","","❤️ (1)"
+"165152178477072384","dawd","2025-04-11T21:20:42.9720000+08:00","Will do 🫡","","💯 (1)"
+"198574470703742977","plxnt_kid","2025-04-13T06:33:06.9070000+08:00","My senior design project for college was an automated irrigation system.  I went on to become a greenhouse automation engineer.  If you need any help let me know!
+
+Those capacitive sensors can be really finicky","",""
+"165152178477072384","dawd","2025-04-13T07:22:42.1880000+08:00","That's awesome - I'm currently monitoring one of them in Ignition's historian so I get a good idea of when to trigger my drip system's solenoid valve","https://cdn.discordapp.com/attachments/1037154861067817061/1360757049033752770/image.png?ex=68df0942&is=68ddb7c2&hm=5106c0a044dbf9e89863540e6db3c135b9fe1477ebb85eac776318e1561d3a24&",""
+"817835202746253344","IIoT#4707","2025-04-13T07:22:42.7890000+08:00","GG @dawd, you just advanced to level 2!","",""
+"165152178477072384","dawd","2025-04-13T07:24:17.0730000+08:00","Went the esp32 to MQTT route and will need to design some kind of watertight enclosure to 3d print so I can plant these nodes outside - hopefully they hold up to the weather conditions throughout the year","",""
+"861967262855856238","musaddik06","2025-04-14T21:40:07.9560000+08:00","Hi everyone, I’m a beginner working on an IoT project and need some help.
+I’m trying to display a 3-digit code on a 0.96-inch OLED display using Arduino. The code should be sent from a mobile or laptop through a web interface.
+
+I tried using Adafruit IO, but I’m only able to send and display one digit at a time. I want to send and display all 3 digits together.
+
+Can someone guide me on how to solve this? Or please let me know if this is not the right group to ask—I'd really appreciate it if you could point me to the right place or person.
+
+Thanks in advance!","",""
+"1181666947562213437","dustin0101","2025-04-15T01:25:36.8020000+08:00","I would honestly ask ChatGPT, give it the context of your problem and ask it to guide you through the development of a solution.","",""
+"861967262855856238","musaddik06","2025-04-15T13:45:22.3240000+08:00","Didn't work","",""
+"308040942768619523","richard3430","2025-04-15T20:59:55.4130000+08:00","@Entish is there a link to the github repo for this?","","➕ (1)"
+"877337143742197810","karltbraun","2025-04-16T00:25:08.9040000+08:00","Maybe I'm misunderstanding the problem, but you could easily set up a mosquitto mqtt broker and communicate between the mobile devices and and Arduino.  Lot's of code for the Arduino side; building a simple app for the phone should be pretty easy.","",""
+"985845894698115092","nirmal_9595","2025-05-02T14:06:37.3400000+08:00","Hi, I am working to setup a demoable UNS for potential customers visiting our experience centre, any suggestion/ reference architecture to show PLC's, Edge Gateway, third party  controllers what can be connected to show the value of UNS?","",""
+"898217314741280828","hobbes1069","2025-05-02T19:51:11.1720000+08:00","Pretty open quesiton... What industries do you focus on? I think a Opto 22 groov EMU would be cool to show power consumption if you focus on industrial stuff. I've also integrated Zigbee devices just for demo purposes using the zigbee2mqtt  docker container.","","👍🏻 (1)"
+"835805702228410378","johanscheepers","2025-05-02T21:37:36.0480000+08:00","We want to bring some LoRa-Mesh nodes into our integration, they are goin to work great for integrating those sensors in the hard to reach places (basements that is near impossible to wire and sensors 100's meters away from anything).","","🔥 (2)"
+"890244048739270656","brianpribe","2025-05-02T22:50:55.9270000+08:00","Or you could use a production-grade one with sensor simulators ready to go for free. https://www.umh.app/","",""
+"890244048739270656","brianpribe","2025-05-02T22:52:48.4050000+08:00","Or build use someone’s docker-compose MING stack and simulate your data with nodered.","",""
+"985845894698115092","nirmal_9595","2025-05-04T17:24:33.5330000+08:00","I am working to demonstrate the capability in General, the idea behind this is to spark interest or for the end user to understand the potential of what UNS can deliver","",""
+"985845894698115092","nirmal_9595","2025-05-04T17:32:20.8360000+08:00","I have worked with LoRaWAN extensive implementation across coal mines spread around 100 sq km. It is for an RTLS application we used Kerlink - Gateway to setup this mesh and its working well for close to 2 years now, i can share my knowledge and challenges we faced. It was a tuff terrain and LoRaWAN as a communication has major challenges in terms of bandwidth and handling data at scale with high transmission rate","",""
+"985845894698115092","nirmal_9595","2025-05-04T17:47:46.8360000+08:00","Great, Also if would be great if you can recommend reliable sensor simulators that I can access for the demonstration","",""
+"890244048739270656","brianpribe","2025-05-04T22:44:50.5690000+08:00","https://github.com/libremfg/PackML-MQTT-Simulator","","👍 (1),💯 (1),😮 (1)"
+"835805702228410378","johanscheepers","2025-05-05T04:27:26.7450000+08:00","Thank you for the offer, very kind of you.
+We have rolled out LoRaWAN networks that cover entire cities.
+
+The LoRa mesh is nice in that every node has a dual purpose, collecting sensor data and acting as a repeater. And then you only require one gateway into the cloud.
+
+Thus if you require coverage in an area where the terrain or any other factor block coverage. You can just add a node to extend the coverage.","","👍 (1)"
+"985845894698115092","nirmal_9595","2025-05-05T04:33:02.3810000+08:00","Great, We did exactly the same! Installed nodes wherever there was significant change in terrain, however had one gateway into the cloud.","",""
+"640386407512277003","zhang_tianyu","2025-05-05T08:14:29.0110000+08:00","Hi everyone, working on AI predictive abilities for things like machine failure, scrap, etc. Does anyone know of any** public datasets **that could be good to use?","",""
+"835805702228410378","johanscheepers","2025-05-05T11:42:52.2310000+08:00","InfluxDB","",""
+"867075936054149191","rickbullotta","2025-05-15T00:19:18.3410000+08:00","Just replaced my Sindoh 1X printer (no longer supported) with a Bambu X1C and AMS 2 Pro filament system.  Wow.  Blown away.  Very high quality, great usability, excellent slicer - first impressions are extremely good.","","🔥 (2)"
+"528668306690015284","vatsalshah","2025-05-16T10:38:24.1500000+08:00","No H2D?","",""
+"867075936054149191","rickbullotta","2025-05-16T21:00:49.0020000+08:00","That's just more stuff to break.  Only real benefit is dual nozzle for me.","",""
+"528668306690015284","vatsalshah","2025-05-16T21:45:11.3680000+08:00","Yehh true. Dual Nozzle demos look pretty cool.","",""
+"867075936054149191","rickbullotta","2025-05-16T21:52:17.3700000+08:00","If you're printing with two materials.  If you need more than that, you're still going to have to flush the nozzle and the feed tube.  The AMS 2 Pro coordinates pretty well with the printer, but it can waste a lot of filament if you're not thoughtful about how you sequence the colors/materials.","","👍 (1)"
+"528668306690015284","vatsalshah","2025-05-16T21:58:19.2550000+08:00","That’s very interesting. Rather than changing nozzle,  the feeder changes the filament. Bambu P1S with AMS is on my list once I “finish” other projects 😅","",""
+"867075936054149191","rickbullotta","2025-05-16T23:05:15.4390000+08:00","I'd recommend going up to the X1C.  Lots of niceties and upgrades that make it worth it.   Stuff goes wrong occasionally with 3D prints, and the X1C can detect them and stop the print before you waste a ton of filament or worse, damage the nozzle.  It also has built-in LIDAR for print calibration.","",""
+"867075936054149191","rickbullotta","2025-05-28T06:03:43.2690000+08:00","So, I have about a dozen prints on my Bambu X1C thus far (and I also set up the AMS 2 Pro multifilament feeder), and I am BLOWN AWAY by the print quality, overall experience, and supporting software.  10/10. Highly recommend.  I'll generally only be using Bambu filament even if it's a little more expensive thanks to the automatic RFID setup in the AMS.  So good.  So well designed.","","👍 (1)"
+"1119420672138022962","jeffeweizen","2025-05-28T10:57:52.2460000+08:00","I have heard a lot of great things about Bambu printers but have not looked into their AMS options until reading this thread, the 2 Pro looks awesome! Have you been using any of their support filaments with it?","",""
+"867075936054149191","rickbullotta","2025-05-28T21:07:38.8130000+08:00","I bought a spool of the support filament, but haven't tried it yet.  The ""tree supports"" that the Bambu has used for a couple of my prints worked really well - easy to remove with very little residue to clean up.  I haven't tried a multicolor/multimaterial print yet either.  I did get a couple print heads/hot ends so that I can experiment with their wood fiber and carbon fiber capabilities.","",""
+"867075936054149191","rickbullotta","2025-05-28T21:08:08.1310000+08:00","One other very nice feature of the AMS 2 Pro is that it has a built-in filament dryer.","",""
+"1119420672138022962","jeffeweizen","2025-05-28T21:44:12.9440000+08:00","That is nice, that alone plus the ability to use separate support materials had me interested. I haven’t had a printer that could handle separate support material so I was curious how much easier that made it. Wood would be interesting to experiment with, in a previous role I printed some tooling with carbon fiber filament and it actually was noticeably more durable. Lots of possibilities with the Bambu that’s for sure","",""
+"867075936054149191","rickbullotta","2025-05-28T23:02:55.4880000+08:00","Bambu makes a higher end model (H2D) that also does laser cutting and other cool stuff in addition to 3D printing.","",""
+"1119420672138022962","jeffeweizen","2025-05-28T23:29:45.1120000+08:00","Those are sweet, I had looked at the Snapmaker modular 3-in-1 (FDM, Laser, and CNC) last time I was in the market for a printer but those had reliability concerns at the time. Not sure what I’d do with a mini cnc but it’d be fun to have","",""
+"711239814241845259","milanhurban","2025-05-29T05:54:21.9660000+08:00","I've had a Prusa MK4 for about two years now (meanwhile upgraded to MK4S) as the first 3D printer I personally own and am also very happy with it. Print quality is excellent, speed as well. Printed PLA, PETG, ASA and TPU so far, all with good results. I was looking at the Bambu machines while picking it but wasn't too sure about the company, they were very new at the time. On the other hand, I've been using various Prusa printers since the i3 days about 10 years ago, so knew them well. Plus building it from kit and making my own enclosure with lighting and HEPA/carbon filtering was a cool experience. All in all I don't regret my decision at all, but Bambu definitely have a good product as well.","","🔥 (1)"
+"817835202746253344","IIoT#4707","2025-05-29T05:54:22.1580000+08:00","GG @Milan, you just advanced to level 4!","",""
+"894527802316046366","nickn5549","2025-06-01T08:51:08.5830000+08:00","I bought a Bambu P1S combo last year, and I had the same reaction. Best 3D printer that we have had so far https://www.amazon.com.au/dp/B0CHDS1DMC?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1","","👍🏽 (1)"
+"867075936054149191","rickbullotta","2025-06-03T01:32:45.1960000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1379150762705420368/image.png?ex=68df5ffd&is=68de0e7d&hm=c5414d73c65da8a2da42ad65486b5e03e454a7a505ae4d6d7f7d286ef575d80a&","😂 (3),👍 (1)"
+"867075936054149191","rickbullotta","2025-06-03T01:32:53.1480000+08:00","Factory is running at 100% OEE","",""
+"693309801589112862","_dyland","2025-06-03T02:47:51.6860000+08:00","Why not 105% gotta get those numbers up!","","😂 (3)"
+"721401184715276290","durinwinter","2025-06-10T08:03:13.2940000+08:00","I run Lulzbot Taz 6's, You can't even get them anymore but I keep mine repaired because they are awesome.","",""
+"522875356055732226","virgilvox","2025-06-18T05:04:13.5350000+08:00","Anyone else doing edge ai shenanigans? I’ve been tinkering since we put this out 
+
+https://www.advantech.com/en/form/396ce8b9-d5ce-4155-9238-92dde56a58b4?callback=ba161f88-c231-4e16-8463-79595604f386&utm_campaign=JetsonOrinNano&utm_medium=collaboration&utm_source=Deveco","","🔥 (1)"
+"522875356055732226","virgilvox","2025-06-18T05:04:33.6750000+08:00","","https://cdn.discordapp.com/attachments/1037154861067817061/1384639883355885568/IMG_9691.mov?ex=68dee8e1&is=68dd9761&hm=37f9af6e7195c2062df1670019d8b4120a55eac44341e0da9486248aa1403909&",""
+"522875356055732226","virgilvox","2025-06-18T05:04:42.1280000+08:00","So far I’ve been tracking my cat lmao","",""
+"890244048739270656","brianpribe","2025-06-18T06:21:16.7160000+08:00","Not yet but definitely a lil jealous","",""
+"939165838555103332","chrisdevon89","2025-06-20T17:34:33.3730000+08:00","I've been playing with hoverboards and ESP32 microcontroller and a PS4 gamepad. I find it ridicilous how strong the motors are, you can source all the parts under 150 euros and have a decent robot platfor for thinkering. Here are the shorts to see how poverfull they are
+
+https://youtube.com/shorts/Ag_PRmOAtmw?feature=share
+https://youtube.com/shorts/ow9vrOEhRPU?feature=share","","🔥 (1)"
+"528668306690015284","vatsalshah","2025-07-03T03:51:54.9060000+08:00","Pulled the trigger on P1S + AMS Combo. Debated for a while on P1S vs X1C for a beginner. Let's see.","","👍🏽 (1),🔥 (2)"
+"234395876544479233","gaudi4","2025-08-02T23:50:02.8690000+08:00","Hi everyone. I've been working on an IoT project at my summer internship to monitor air quality. 
+
+I made custom ESP32 nodes (with displays) publish sensor data over MQTT with server-side TLS encryption to a Raspberry Pi hub. A Python script I wrote logs everything to a SQLite database, and Grafana is used for the real-time dashboard. It uses all FOSS tools and is all local.
+
+I found the project really fun and I am super excited to become an IoT developer. I'd love to get advice from this community on how to make it more professional so I can tailor my future learning projects to be 'Industry 4.0 ready'.
+ 
+What skills do you think are most important for me to learn?","https://cdn.discordapp.com/attachments/1037154861067817061/1401230574018105375/grafana_dashboard_better.png?ex=68df47ea&is=68ddf66a&hm=27d3f42b7b3e81c3402c1634394adfea16d989863c57e64bfc8daaff34d33e5e&,https://cdn.discordapp.com/attachments/1037154861067817061/1401230574785527959/sensor_nodes.jpg?ex=68df47ea&is=68ddf66a&hm=7cb375b90d1f6519132c2c7dc01cc57cc2a23a7122a6593e7810a7c369ee7898&,https://cdn.discordapp.com/attachments/1037154861067817061/1401230575519666327/MQTT_system_architecture_8_1_25.png?ex=68df47ea&is=68ddf66a&hm=203d441233602bcfc51e159dc1f5420d545d6d07e0fc6df15ba48562164f60ff&","👍 (5),❤️ (4),🕺 (1)"
+"829502128191045652","joshuastover","2025-08-05T20:36:09.6250000+08:00","Great job! Biggest advice I have, if you're not already doing it, is to learn to leverage AI to speed up your development time.
+
+@here what other advice do y'all have for him?","","👍 (1)"
+"829502128191045652","joshuastover","2025-08-05T21:33:23.0770000+08:00","I did in fact waste time on it lol","","❤️ (1)"
+"867075936054149191","rickbullotta","2025-08-05T21:56:00.0100000+08:00","Mouse support needs some work...","","🤣 (1)"
+"873009180938743828","sim_sam3","2025-08-06T00:40:46.2070000+08:00","Only one shot! No fixes or enhancements (my rules). But TBH I didn't notice that. What browser?","",""
+"867075936054149191","rickbullotta","2025-08-06T03:22:01.6670000+08:00","Edge, Windows 11","","👍 (1)"
+"829502128191045652","joshuastover","2025-08-06T23:28:15.0730000+08:00","Ew.... Edge... That was probably your problem. Mouse support worked on Google Chrome @Sam.E","",""
+"867075936054149191","rickbullotta","2025-08-06T23:35:52.6570000+08:00","It works, just not responsive enough.","","👍 (1)"
+"867075936054149191","rickbullotta","2025-08-07T00:05:28.8500000+08:00","For any of you Bambu owners:
+
+https://pypi.org/project/bambulabs-api/
+
+I can envision all kinds of cool stuff you'll be doing now!","","💯 (1),😮 (1)"
+"873009180938743828","sim_sam3","2025-08-07T02:24:01.2370000+08:00","Interestingly the mouse delay was reaaaally noticeable on the “full” but failed iteration. I bet the inline game inherited the bad concept.","",""
+"817835202746253344","IIoT#4707","2025-08-07T02:24:01.6020000+08:00","GG @Sam.E, you just advanced to level 15!","",""
+"528668306690015284","vatsalshah","2025-08-12T05:31:35.6210000+08:00","I hate that they use MQTT in their app. ""MQTT Client disconnected"" message on refresh. And are they streaming images on the MQTT as well?","",""
+"867075936054149191","rickbullotta","2025-08-12T05:59:48.2280000+08:00","Don’t know.  Firewall issues?","",""
+"528668306690015284","vatsalshah","2025-08-12T06:12:43.6600000+08:00","Yehh I need to run a network trace on why session gets disconnected. I don't doubt Unifi deep packet inspection doing some weird stuff. What are you doing with their APIs?","",""
+"867075936054149191","rickbullotta","2025-08-12T06:47:21.4560000+08:00","Haven’t done anything yet. Just found it the other day.","","👍 (1)"
+"873009180938743828","sim_sam3","2025-08-15T04:01:38.7960000+08:00","amazing what a staycation can do for pet projects!
+
+this is a basic C program running on an esp32 and with a Zenoh publisher moving test data to a networked Zenoh router (like an mqtt publisher over wifi to a broker). a basic mqtt explorer-like app subscribes to the router's keystore and displays values. this was a learning project and my first in C and embedded devices, great documentation within VS from Espressif (and great docs from zenoh folks too).","https://cdn.discordapp.com/attachments/1037154861067817061/1405642546733912165/Screen_Recording_2025-08-14_at_3.53.23_PM.mov?ex=68df82e2&is=68de3162&hm=dcfab84b4c60828a3a172ead445784f958324843aa2bf34a5dde85443ee59a66&","❤️ (6)"
+"829502128191045652","joshuastover","2025-08-15T23:48:32.0240000+08:00","I need to get on my own projects. I've been intending to reconnect my WIZ smart lights and my nanoleafs back up to a dashboard running on an RPI5, using a MQTT broker and Nodered.","","🔥 (1)"
+"829502128191045652","joshuastover","2025-08-15T23:48:46.2200000+08:00","I've just not gotten around to doing it 😵‍💫","",""
+"873009180938743828","sim_sam3","2025-08-15T23:53:08.4170000+08:00","And now you’re married!! Haha, jk (congrats again)","","🤣 (2),❤️ (1)"
+"748304720644407366","svb0866","2025-08-29T16:07:49.9680000+08:00","Hi Guys, I’m a student currently learning embedded systems and IoT. For my project, I’ve chosen the Advantech ADAM-6700 series to better understand how the Sitara AM335x is widely used in industrial devices.
+
+I’m trying to figure out which chips are used for Digital Output (DO), Digital Input (DI), and Analog Input (AI) with SSR control. If anyone here owns a unit, could you kindly share some clear PCB photos, the unit has a mother board and a daughter board? That would help me a lot in completing my project.
+
+I tried buying a unit myself, but it’s unfortunately too expensive for me as a student. Any help would mean a lot. Thanks in advance.","",""
+"890244048739270656","brianpribe","2025-08-29T21:31:54.6000000+08:00","No, but cool project. If you get any insights, do share.","",""
+"867075936054149191","rickbullotta","2025-08-29T21:32:45.9940000+08:00","Why not do this for an Arduino board?  All the design information is open source.","",""
+"890244048739270656","brianpribe","2025-08-29T21:33:25.8880000+08:00","""to better understand how the Sitara AM335x is widely used in industrial devices""","",""
+"829502128191045652","joshuastover","2025-08-29T21:34:08.5200000+08:00","What smart home lights are you guys using? I'm gonna finally work on my smarthome project again, mostly because my current smart bulbs have been very finnicky the last several days","",""
+"890244048739270656","brianpribe","2025-08-29T21:37:57.0090000+08:00","LIFX","","👍 (2)"
+"867075936054149191","rickbullotta","2025-08-29T21:38:36.0460000+08:00","My point is that you can change your project scope.","",""
+"829502128191045652","joshuastover","2025-08-29T21:41:46.7660000+08:00","I was looking at those Govee smart bulbs yesteday. My home office already has a few of their other smart lights","",""
+"890244048739270656","brianpribe","2025-08-29T21:53:05.3800000+08:00","Those don't seem like a bad choice either.","",""
+"898217314741280828","hobbes1069","2025-08-29T22:34:30.4860000+08:00","Phillips Hue are some of the best but they can be expensive and you have to use their hub as far as I know.","",""
+"829502128191045652","joshuastover","2025-08-29T22:35:15.1310000+08:00","I use the Wiz smart bulbs, and while they're nice, they've been quite finnicky lately, so i'm about ready to scrap em","",""
+"829502128191045652","joshuastover","2025-08-29T22:35:58.6580000+08:00","I did previously have them connected to a dashboard though using node-red, but at some point my IPs got reset and broke everything","",""
+"769397045579481129","donpancoe","2025-08-29T23:57:32.0350000+08:00","The Arduino Tre has been discontinued, but it had a Sitara AM335x processor so an Arduino port must exist for it
+https://docs.arduino.cc/retired/boards/arduino-tre/","",""
+"769397045579481129","donpancoe","2025-08-30T00:04:52.6990000+08:00","I don't know what the ADAM-6700 uses, but I would check Analog Devices for their interface chips, which also include former Maxim and LT lines.
+https://www.analog.com/en/product-category/interface-isolation.html
+
+That said, when I have taken apart devices like AutomationDirect Productivity 1000 PLCs, they tend to use standard AD and DA converters for analog IO and MOSFETS with drivers for digital IO. The idea of specialized IO chips is that they are supposed to reduce size, parts count and design time while maintaining industrial levels of isolation, but they're probably going to be more expensive than standard parts.","",""
+"769397045579481129","donpancoe","2025-08-30T00:13:22.0810000+08:00","I would further add that IO is the forgotten stepchild of IIoT. Everyone be like: put an application processor in it! Put Linux in it! Put Node-RED in it! But it still takes a lot of engineering grunt work to get hundreds of real-world IO into the digital realm. Trends like IO-Link or Single Pair Ethernet look promising, but those add significant cost in the world of load cells and Wheatstone bridges.","",""
+"748304720644407366","svb0866","2025-08-30T13:11:25.4710000+08:00","Thank you for your reply. I am still learning. Thank you for pointing out Node-RED and the interface chips. I think this is what modern gateways and IO hardware use in the IIOT industry.","",""
+"748304720644407366","svb0866","2025-09-15T19:05:40.9640000+08:00","Can Someone help me identify the PJ146M CP part? I think it is a TVS diode for 24 V clamp (Just a guess) LL51 is a Photomos. this is Used in DIgital Out of industrial IO PCB","https://cdn.discordapp.com/attachments/1037154861067817061/1417104078755856394/image.png?ex=68df0544&is=68ddb3c4&hm=0a29285f3da46a4e269fbcfb7d0197e4ec93852723330d61310cf60ce042d528&",""
+"542267887440756766","head_robotics_and_ai","2025-09-15T19:43:22.7750000+08:00","These might be helpful  ""
+Based on the markings ""PJ146M"" and ""CP"" on the component, this appears to be a PJ146M Schottky Barrier Diode.""
+
+And
+
+ ""multimeter diode test will tell you which it is:
+
+Reads ~0.2–0.4V drop → Schottky.
+
+Reads open both ways until high-voltage applied → TVS.""","","👍 (1)"
+"748304720644407366","svb0866","2025-09-15T19:47:22.4620000+08:00","As Per ChatGPT Short answer: very unlikely. It looks like an SMC (DO-214AB) body with no cathode band, top-mark starts with PJ → that strongly suggests a PanJit SMCJ-series TVS (often bidirectional), not a Schottky rectifier.
+
+How to be sure in 60 seconds:
+
+Look for a band: Schottky/rectifier parts almost always print a cathode band on the body and/or the PCB silkscreen has a diode arrow. Your part shows no band → typical for bidirectional TVS.
+
+Diode-mode test (DMM):
+
+Schottky: ~0.15–0.35 V forward drop one way, open the other.
+
+Bidirectional TVS: open in both directions at meter voltages (it won’t conduct until tens of volts).
+
+Where it sits in the circuit:
+
+Across a line to GND or across a pair near a connector/24 V rail = TVS placement.
+
+In series with power into a buck/boost or after an inductor = rectifier/Schottky placement.
+
+Given your earlier find (“PJ146M” mapping to PanJit’s SMCJ code table) and the lack of polarity marking, call it a bidirectional TVS (SMCJxxCA-type) unless your meter says otherwise. If you tell me the rail it protects (e.g., 24 V), I’ll suggest safe drop-in equivalents (e.g., SMCJ24CA / SMCJ30CA etc.).","",""

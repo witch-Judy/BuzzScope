@@ -1,0 +1,814 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"898217314741280828","hobbes1069","2024-05-23T08:41:50.8910000+08:00","First post!","","🤣 (5)"
+"568913935147728896","zeratall","2024-05-24T22:22:40.2090000+08:00","What are some topics you guys are interested in regarding containers, orchestration, etc? The next video I’m going to create is an introduction to k3 and how to setup a cluster for failover. Would be interesting to know things are interested in for IIoT.","","👏 (1)"
+"1129435706285101076","ted.garrison","2024-05-24T22:39:32.0980000+08:00","I'd love to just better understand the differences - Docker / K3 / K8 / Swarm / etc. etc...","","❤️ (1)"
+"898217314741280828","hobbes1069","2024-05-24T22:40:56.8250000+08:00","And let's make sure to cover k2d as well so things will be extra confusing 🙂
+https://k2d.io/","",""
+"568913935147728896","zeratall","2024-05-24T22:46:51.7030000+08:00","Oh that’s very cool I don’t think I’ve messed with that before","",""
+"898217314741280828","hobbes1069","2024-05-24T22:48:09.4350000+08:00","From my current understanding it basically let's you use kubernetes to orchistrate other devices, i.e., the orchistrator is separate from where the container runs. If that makes sense.","",""
+"568913935147728896","zeratall","2024-05-24T22:48:38.4100000+08:00","Yeah I was reading their documentation, that’s really cool, awesome yet another tool I gotta go play with lol","",""
+"898217314741280828","hobbes1069","2024-05-24T22:48:57.6490000+08:00","Break it down for me so I don't have to! 🤣","","💯 (1),😂 (2)"
+"1129435706285101076","ted.garrison","2024-05-24T22:51:05.9600000+08:00","Exactly.  I don't have the time, and I'm leading our IT group on this stuff.. so they sure as heck can't explain it to me..","",""
+"568913935147728896","zeratall","2024-05-24T22:52:25.5290000+08:00","Absolutely that’s kind of the format I’m trying to hit with some of these videos, essentially a little theory of “why this matters” and then a short demo/howto  “step by step so you can follow along and get your feet wet”.","","👍 (3),❤️ (1)"
+"794020366536146977","mparris","2024-05-25T02:10:03.8150000+08:00","You can thank Neil @portainer.io for that 😉","",""
+"568913935147728896","zeratall","2024-05-25T02:40:07.2400000+08:00","Hahah thanks for making awesome new toys to play with haha, first world problems,  most of my experience is managing k8s myself, portainer definitely makes all that much easier, thankful people are creating tooling in this space!","",""
+"568913935147728896","zeratall","2024-05-25T03:25:33.0790000+08:00","@MParris one thing I'd like to hear, is from others like yourself, ie how do you see containerizations and orchestration maturing in the OT space. What are some of the approaches you guys are implementing, etc. I know I've been posting a lot about it, but I know others that are much smarter than me have put a lot of thought into this space, and I'd really like to hear those perspectives, especially based on some of the comments you've made Matt. I honestly see DevOps having a huge push into the OT space over the next 5 years, especially as more and more factories go digital, and hit the deployability/manageability issues.","","💯 (1)"
+"697343364542103653","portainer.io","2024-05-25T10:14:40.3690000+08:00","Hey @Zach E if you need help with k2d, ping me..","","❤️ (1)"
+"697343364542103653","portainer.io","2024-05-25T10:15:20.8620000+08:00","Its very much a thought experiment.. but personally, i love it..","",""
+"794020366536146977","mparris","2024-05-25T19:52:34.3310000+08:00","I agree that docker will become the defacto way to deploy software. It removes so many variables between the desk of the developer and the deployment. Changing versions of software is rediculously easy, so rolling back after an upgrade doesn't go well is always option. The configuration-as-code with immutable containers makes deployment very repeatable, which, again, removes variables and simplifies the process.
+
+We use docker and Portainer to orchestrate our custom applications, which then orchestrate some production systems. We view Portainer as a management of infrastructure. 
+
+Lately, I've been diving deeper into Cybersecurity... looking to use docker to deploy asset inventory software as well as secure remote access software deeper into the OT space.
+
+The biggest needs are to streamline bringing up bare metal into the ecosystem, then streamlining deployment of an application or stack of applications onto that bare metal, then being able to monitor all their health at scale","","💯 (3)"
+"740531920907010118","jmckeon","2024-05-25T19:54:43.0590000+08:00","Matt the crew have been developing this for the past year...they now have a self distruct and respawn function in test to prevent cyber attack and entry into the eco system","",""
+"740531920907010118","jmckeon","2024-05-25T19:54:54.5250000+08:00","It cool stuff all on docker","",""
+"568913935147728896","zeratall","2024-05-25T20:42:21.8660000+08:00","Regarding cyber security,  you can do some really cool stuff with containers, for example if you look at dockers overlay network, it can do micro segmentation amongst other more granular security controls.
+
+If your looking at way to spin up remote desktops as a containers check kasmworkspaces, I’ve used it in the past to containerize dev environments, it lacks support for windows but still cool, might give you some ideas on your use case.","","👍 (1)"
+"867075936054149191","rickbullotta","2024-05-25T20:44:20.7340000+08:00","This is a lot of what Margo.org is focusing on, but also more complex scenarios than just deploying containers.  Also resiliency and scale out via K8S.","",""
+"568913935147728896","zeratall","2024-05-25T20:57:27.7940000+08:00","I read through the Margo spec, it’ll be pretty cool to see when it’s in a state where we can see demos/use. That being said there are already applications out there today like portainer that enable us to manage K8s clusters.
+
+I also got the vibe they are focusing more on the automation layer than the entire architecture as a whole, but that could’ve just been the initial impression I got from their wording on the spec.","",""
+"867075936054149191","rickbullotta","2024-05-25T21:00:26.3970000+08:00","I think the goal is to offer more of a management and control plane also.  But it’s all hypothetical at this point of course.","",""
+"794020366536146977","mparris","2024-05-25T21:20:02.9230000+08:00","What do you all speculate will be the value-add definition in that Margo spec?
+
+1) standard interface to facilitate commissioning and controlling bare metal/VM, etc?
+
+2) standardized functions for the software running on the bare metal to ensure uptime, observability, etc?
+
+3) standardized functions in the controlling software to make management at scale easier?
+
+4) other?
+
+The purpose of a standard is to ensure interoperability....so, does anyone believe that the end result will allow end users to mix and match edge devices from different vendors to be orchestrated by software from different vendors? If not, what do you think is the point of the project?","",""
+"867075936054149191","rickbullotta","2024-05-25T21:46:58.5440000+08:00","It depends who influences it most. It could also include asset discovery and other forms of updates  and management besides containers. That’s what Microsoft’s vision paper proposed.","",""
+"568913935147728896","zeratall","2024-05-25T21:49:22.8840000+08:00","Yeah service discovery is mentioned in the spec, there is definitely some cool capabilities outlined in Margo and the refence they provide in the spec, that being said I'm curious how widly adopted it will be, my initial knee jerk reaction is it could be another OPC-UA type of situation, where it tries to do to much and ends up having low adoption.","","💯 (1)"
+"867075936054149191","rickbullotta","2024-05-25T21:52:03.8040000+08:00","Yup. Or another “lowest common denominator” approach, with the emphasis on “lower”.","",""
+"568913935147728896","zeratall","2024-05-25T21:52:39.4040000+08:00","Totally agree.","",""
+"794020366536146977","mparris","2024-05-25T22:02:50.5320000+08:00","Is this the best strategy for success for this type of project:
+
+Have the participatory vendors contribute towards a single open-source orchestration/management application (contains all possible features), then leave it up to the vendors on whether the device they are bringing to the market would implement certain features?  This way, there can be a common understanding on what is possible and the market can drive whether vendors adopt it within their devices?","",""
+"568913935147728896","zeratall","2024-05-25T22:07:20.2740000+08:00","That is the big question, “what is the best approach for this type of project”, all I know is there HAS to be adoption and participation from vendors, you could have the best architecture/platform for containers/orchestration but if it's bloated, too complex, or not enough nodes are compatbile its not going to realize the value.","",""
+"568913935147728896","zeratall","2024-06-02T06:16:46.7380000+08:00","Despite being horribly documented, a few hours later, got Thingworx Containerized........Can finally close all my tabs in chrome lol. @RickBullotta","https://cdn.discordapp.com/attachments/1241156223743823952/1246588281060327556/image.png?ex=68def9ce&is=68dda84e&hm=73497b52db41821566aecf801f30e36c132229e3b48d9499969244e75b249623&","💪 (2)"
+"794020366536146977","mparris","2024-06-02T07:36:47.1940000+08:00","@Zach E you are next-level glutton for suffering...
+
+Congrats!!!","","🤣 (1)"
+"867075936054149191","rickbullotta","2024-06-02T19:31:02.5280000+08:00","It's absurd to me that they don't have a containerized offering.  And I literally tried for MONTHS to get a demo/eval version, and never could - even though I WROTE THE FUCKING THING.  PTC is completely off the rails.  I cannot recommend ThingWorx to anyone anymore.","","🤣 (5),👍 (2)"
+"568913935147728896","zeratall","2024-06-02T22:22:44.9850000+08:00","Yeah the main complaint I have, containerization just felt like an after thought, the documentation was out of date, the compose file and docker file they give you had things in them that weren’t listed in the documentation at all, but were required for the build, etc. took me some trial and error and wading through posts on the support site with similar issues, but finally got it working, documentation and the entire process could use some love to make it more seamless.","",""
+"867075936054149191","rickbullotta","2024-06-03T02:44:43.6280000+08:00","Literally everything about ThingWorx feels or is out of date. Ancient JVM requirement, old version of Tomcat, and so on.","","💯 (1)"
+"867075936054149191","rickbullotta","2024-06-03T02:45:17.3090000+08:00","And wait until you try to use the ThingWorx eclipse plugins - it’s like a trip back in time.","",""
+"568913935147728896","zeratall","2024-06-03T02:51:25.8960000+08:00","As in Eclipse the IDE? I haven't used Eclipse since CS 1 lmfao","","🤣 (2),👍🏼 (1)"
+"686318224320626734",".stibbits","2024-06-03T05:08:37.3840000+08:00","....it took so long to download.","",""
+"867075936054149191","rickbullotta","2024-06-03T09:15:31.6190000+08:00","Unless you donated. Then it was lightning fast.","",""
+"1088631859509989426","jpmac.s","2024-06-03T09:46:37.2200000+08:00","And the price is ridiculous. We are doing a 5 week POC with DPM and the RRP is a $150,000 AUD per year lucky the client has a deal with PTC so they get it for $42,000 (still BS). They woulnt give us a demo licence when using production data as it goes against their T&C.","","👿 (1)"
+"753688565807841492","ravil1","2024-06-05T23:46:00.4380000+08:00","Why they bought it then? Maybe the goal was to kill it as competing product? Does PTC have such another competing product?
+High price tags I think because just PTC is trying to return investments.","",""
+"898217314741280828","hobbes1069","2024-06-06T04:28:58.5870000+08:00","@Zach E, thought for the day. To go along with IAC, what would it take to modify the Mosquitto image so that instead of having to map a volume for persistant configuration it just did a git pull of `mosquitto.conf` instead?","",""
+"867075936054149191","rickbullotta","2024-06-06T04:39:03.8220000+08:00","It's been a big success for them overall.  Annual revenues of Kepware + ThingWorx are ***very*** good.  They just haven't had the right teams leading the product(s) for quite a few years, and in my opinion invested in all the wrong stuff (and took some very high value capabilities out of the product).  The acquisitions have already paid for themselves BTW, and if you factor in the growth in market capitalization with the various moves PTC has made, many times over.  I don't know if ServiceMax will drive the same growth, but we'll see.  Arena and OnShape in some ways cannibalize the core business of Windchill and Creo (which isn't a bad thing for future competitiveness).  Jim Heppelmann was one of the smartest and most astute leaders I've worked for.  He and I didn't always agree, but I have massive respect for him.","","👍 (1)"
+"1154812895457185812","rutger_18900","2024-06-06T05:20:48.3970000+08:00","Am I cynical or is m&a rarely good for the customers? Or both 😅","",""
+"867075936054149191","rickbullotta","2024-06-06T08:32:06.3260000+08:00","Not always. I think in many ways it protected their investment.  And it totally depends on the acquirer and the specific situation.  On balance, most acquisitions fail. But similarly, on balance, most startups and most VC investments fail. The potential at PTC was ENORMOUS.  Jim’s vision was solid. Things fell apart when groupthink set in.","","👍 (1)"
+"894527802316046366","nickn5549","2024-06-06T18:05:25.2210000+08:00","I'm impressed with CasaOS + Portainer to manage all my containers....looks easy like a breeze...","",""
+"568913935147728896","zeratall","2024-06-07T06:36:44.5310000+08:00","Hey sorry for the late response, leadership has been throwing me through the ringer this past week at work lol, so that’s an interesting idea, in portainer you can edge configurations to essentially do that, have you looked at that?","",""
+"898217314741280828","hobbes1069","2024-06-07T06:38:20.6890000+08:00","I started looking at it after your video, but I wondered if the Edge part of Portainer is really required. I'd like to come up with a more generalized solution.","",""
+"898217314741280828","hobbes1069","2024-06-07T06:39:13.8470000+08:00","I guess git checkout + scripting in docker compose?","",""
+"568913935147728896","zeratall","2024-06-07T06:40:30.3140000+08:00","Yeah you could absolutely do that, what your getting with portainer is out of box centeral management for all your edge deployments .","",""
+"568913935147728896","zeratall","2024-06-07T06:41:37.0700000+08:00","If you comfortable with the various runtime APIs  you could absolutely build your own solution. That’s what people did before tools like portainer.","",""
+"1214242167640424619","zack.scriven","2024-06-20T03:26:18.4120000+08:00","using programmatic deployment","",""
+"1214242167640424619","zack.scriven","2024-06-20T03:26:29.0800000+08:00","for containers/ infrastructure. etc.","",""
+"568913935147728896","zeratall","2024-08-06T23:31:17.6790000+08:00","Awesome all in one resource for anyone starting out on K8s, highly recommend! https://youtu.be/2T86xAtR6Fo?si=fmFjtVJ67OrzSRzc","","👀 (1),👍 (1)"
+"898217314741280828","hobbes1069","2024-08-07T19:36:06.0510000+08:00","Great, another tab that will be open for 4 months in Chrome before I get to it!","","🤣 (6),👆 (2),🫣 (1)"
+"568913935147728896","zeratall","2024-08-07T23:27:18.4330000+08:00","You don’t wanna see my GitHub account and how many private repos I’ve started and abandoned for side projects lol","",""
+"769397045579481129","donpancoe","2024-08-19T04:42:18.1460000+08:00","I've been putting together a small PoC for an agricultural application using Docker Compose for the software stack. Even starting from a blank slate RPi OS image, I'm getting this error the first time I start the containers with docker-compose up, and every time after that.
+
+`initdb: error: directory ""/var/lib/postgresql/data"" exists but is not empty`
+
+ChatGPT 4o has been very helpful in getting me through this setup but is stumbling on this issue. Does anybody here have any advice? Thank you.","",""
+"1026065722268467242","spastor","2024-08-19T05:30:19.2200000+08:00","Started a thread.","",""
+"477355192375967747","kiwimalice","2024-08-21T09:48:05.8980000+08:00","Any IIoT / I4.0 specific docker courses out in the world? or any docker courses this community recommend?","",""
+"894527802316046366","nickn5549","2024-08-21T16:17:10.0860000+08:00","just install CasaOS and no docker courses will be needed https://casaos.zimaspace.com/","",""
+"1073312001788477471","sparkylarks","2024-08-21T16:19:20.6100000+08:00","has anyone used Docker on a Wago CC 100","",""
+"898217314741280828","hobbes1069","2024-08-21T19:53:28.1660000+08:00","Nope, but how's your German? Looks like there's a bit of configuration for it to work:
+https://www.youtube.com/watch?v=ZIcp3H0h6q0","",""
+"1073312001788477471","sparkylarks","2024-08-21T19:57:38.8140000+08:00","nicht sehr gut🇩🇪 
+
+I might be able to follow the pictures","","😂 (1)"
+"568913935147728896","zeratall","2024-08-23T04:35:18.8240000+08:00","Ive been wanting to buy a wago for the home lab to play around since it can run containers natively. Economy sucks right now so hard to justify buying toys to learn on lol","",""
+"1073312001788477471","sparkylarks","2024-08-23T04:39:00.7460000+08:00","I was buying two for a client, so bought a third for the company lab. it does help buying before tax.
+I have an siemens IIOT 2050 and a S7-1200 sitting on my desk, and much as I want to love the WAGO, I am finding it tough.
+
+It seams to be a strange Linux varient so getting things to run is not straightforward.
+Putting my MING stack on the IIoT through Portainer was very simple.","",""
+"568913935147728896","zeratall","2024-08-23T04:44:33.6070000+08:00","oooh thats good info, that is kind of what I was wondering from a maturity standpoint, does it feel polished or more gimmicky. Sounds it works well but could use some TLC","",""
+"1073312001788477471","sparkylarks","2024-08-23T04:45:37.6010000+08:00","I'm going to try to get Tailscale on it tomorrow, and then follow the German video. Just got to refactor some Documents that I have been avoidign all week first.
+
+uninstalling Discord might help too.","","🤣 (2)"
+"1073312001788477471","sparkylarks","2024-08-24T03:35:26.3950000+08:00","Docker comes pre installed now.
+I was having a lot of trouble with portainer, and actually almost everything else because the date needs to be updated on the web management tool, not in the CLI.","",""
+"898217314741280828","hobbes1069","2024-08-24T03:36:46.5640000+08:00","It doesn't use a public NTP server by default?","",""
+"1073312001788477471","sparkylarks","2024-08-24T03:39:19.9670000+08:00","Well, it though it was 2022, 
+But when I changed the date in the CLI and rebooted, it defaulted vack to the old date.
+
+I am guessing that the Linux machine reads the PLC date on startup, maybe in the PLC side I can set up an NTP","",""
+"898217314741280828","hobbes1069","2024-08-24T04:02:58.7770000+08:00","Not sure what service it uses for time sync but you can check for an `/etc/chrony.conf`","",""
+"898217314741280828","hobbes1069","2024-08-24T04:03:21.1860000+08:00","Or brute force `grep ntp /etc/*`","",""
+"306756239604318208","avret","2024-09-06T05:16:03.7080000+08:00","For those applications requiring windows GUI, are people giving up on containerization or using wine/mono or something entirely different?","",""
+"794020366536146977","mparris","2024-09-06T06:31:30.9600000+08:00","Windows GUI as in a web interface? 
+
+Or are you referring to monolithic windows desktop applications?","",""
+"306756239604318208","avret","2024-09-06T06:31:58.2320000+08:00","The latter","",""
+"898217314741280828","hobbes1069","2024-09-06T10:22:46.9530000+08:00","Assuming some context based on the channel name... If you want a GUI then Portainer.io is a good place to look.","",""
+"306756239604318208","avret","2024-09-06T10:24:22.5140000+08:00","Not asking about GUI for container management, but about the best mechanisms for containerizing applications that themselves require GUIs to run--e.g. the average SCADA/DCS system","",""
+"794020366536146977","mparris","2024-09-06T10:36:59.5980000+08:00","I didn't see a chance.... And it makes me sad. 
+
+VM is as close as you'll get","",""
+"898217314741280828","hobbes1069","2024-09-06T12:13:27.1100000+08:00","Ahh... Now I understand. On Linux, while docker containers are not really designed to support desktop applications, there's nothing stopping you from doing X11 forwarding to the host. It's actually pretty easy.","",""
+"306756239604318208","avret","2024-09-06T12:36:19.5190000+08:00","Sure, that works with X, but most control systems don't have Linux builds, no?","",""
+"898217314741280828","hobbes1069","2024-09-06T21:11:00.9720000+08:00","No, but you'd need WSL to run it anyway so there should be a path forward even if you have to resort to something like Cygwin.","",""
+"867075936054149191","rickbullotta","2024-09-06T21:34:19.3140000+08:00","This is why GUIs that are HTML based and served via HTTP are preferable these days.  You could also do stuff like RDP and VNC, but that's not ideal.","","💯 (1)"
+"306756239604318208","avret","2024-09-06T22:00:41.3400000+08:00","Well, yeah -- but i have yet to see a build of DeltaV that runs via web app","",""
+"867075936054149191","rickbullotta","2024-09-06T22:09:04.3380000+08:00","Is running DeltaV in a container even supported by Emerson?","",""
+"306756239604318208","avret","2024-09-06T22:09:57.0550000+08:00","It is not, correct","",""
+"686318224320626734",".stibbits","2024-09-07T07:28:44.6410000+08:00","I have been away from DCS for a while and only exposed to them in power generation. So this is ignorant but do new DCS systems get installed?","",""
+"306756239604318208","avret","2024-09-10T06:02:14.8810000+08:00","As in are DCS systems ever replaced?","","😆 (2)"
+"686318224320626734",".stibbits","2024-09-10T21:52:14.6520000+08:00","Yeah, I always assumed that moving to another DCS vendor never happened due to the investment that was already made. Again ignorant.","",""
+"817835202746253344","IIoT#4707","2024-09-10T21:52:15.0830000+08:00","GG @stibbits, you just advanced to level 7!","",""
+"306756239604318208","avret","2024-09-10T21:53:07.0260000+08:00","It's rare, but I've seen it happen. Definitely less common than scada tho","",""
+"686318224320626734",".stibbits","2024-09-10T21:55:30.0620000+08:00","I go to bed telling myself that the original salesperson on the account gets residuals like an actor does.","","😂 (2)"
+"1003237589421137992","gregory.g.","2024-09-29T01:32:39.4450000+08:00","Hi all, I'm researching the pros and cons of installing our critical production databases (Postgresql with Timescale) with Docker or install native on its dedicated host.. with docker I'm not fully confident with volume mapping and database backup processes. BUT big believer and user of portainer delivering a Infrastructure As Code.. Any advice? ☺️","",""
+"817835202746253344","IIoT#4707","2024-09-29T01:32:39.6780000+08:00","GG @Gregory G., you just advanced to level 5!","",""
+"794020366536146977","mparris","2024-09-29T10:41:50.6300000+08:00","Maybe to feel better about it, do use a binding instead of a volume mount? 
+
+A binding will let you reference a directory on the host and map it to a directory inside the docker container. This way, you *could* specify a host directory that you would have used anyway if installing the app on bare metal and it would seem the same?","","👍 (1)"
+"766684226455207996","bright_hummingbird_31342","2024-09-29T12:32:58.2430000+08:00","Contact James Sewell at Timescale. Timescale has managed service and has a ton of expertise on hosting their database. I'm sure they have a ton of best practices.","","👍 (1)"
+"1154812895457185812","rutger_18900","2024-09-29T18:29:07.4730000+08:00","What is the motivation to put critical production databases inside docker containers? What are some pros and cons you already considered?","",""
+"1154812895457185812","rutger_18900","2024-09-29T18:30:57.2300000+08:00","Trying to learn here ^
+I'm still new to container architecture, played with docker a bit and can definitely see value in a lot of cases, but running critical production DB's is not one of them (yet).","",""
+"1003237589421137992","gregory.g.","2024-09-29T19:23:24.1200000+08:00","Thx for the reply guys. I'll reach out to some experts. Mapping and binding seems the best way when dealing with different disks as well..","",""
+"1003237589421137992","gregory.g.","2024-09-29T19:28:02.1430000+08:00","Chatgpt gave me lengthy detailed insights and comparisons on this matter. But when researching I come to a mixed opinion. Managed Hosting would be thr most easy solution next to a classic inhouse Windows&MSQL setup, but then I'll have other organisational problems to solve (IT<>OT ownership)","",""
+"1003237589421137992","gregory.g.","2024-09-29T19:38:46.9270000+08:00","Here's my chat session in chatgpt for the ones that are interested.. Once I asked to review this in function of production critical systems as these databases are in a manufacturing environment - then the whole analysis became in favor of a native installation...","https://cdn.discordapp.com/attachments/1241156223743823952/1289914267625324669/Postgres_Docker_vs_Native_installation.pdf?ex=68df0d06&is=68ddbb86&hm=23bef0df451abcffa31e5bbba296a5ca5ef438031c875797708a2515470b716f&",""
+"1154812895457185812","rutger_18900","2024-09-29T20:18:04.7710000+08:00","Thanks for sharing!
+This page pretty much sums up what I was thinking.
+
+You didn't specify anywhere what the use case is but when I hear critical production DB and timescale I'm thinking of a long running single instance.
+Curious what the use case is and what made you lean towards docker in the first place.","https://cdn.discordapp.com/attachments/1241156223743823952/1289924157252829215/Screenshot_20240929_141151_Microsoft_365_Office.jpg?ex=68df163c&is=68ddc4bc&hm=149395a0bf1110e44747cfcb2695b22e60aded72ffacf6dc1994884436651261&",""
+"1003237589421137992","gregory.g.","2024-09-29T20:24:10.4910000+08:00","Mix of long running single instance (use case = datahistorians for Ignitition hub-spoke installment) but also part of the total system architecture design where I drive scalability and flexibility with Infrastructure As Code (git & docker).","","👍 (1)"
+"568913935147728896","zeratall","2024-10-02T01:38:19.1300000+08:00","Anyone adopting and applying SRE for manufacturing applications yet? I’m writing my own white paper on what that might look like and curious if anyone here is already implementing.","",""
+"867075936054149191","rickbullotta","2024-10-02T02:32:35.8660000+08:00","I'd suggest it's actually the opposite - SRE is in a way, adopting principles learned over decades of manufacturing operations and improvement!","",""
+"568913935147728896","zeratall","2024-10-02T02:36:11.9400000+08:00","That’s true but I’m talking about from an practical sense and less the theoretical side aka are people measuring availability for their mfg integrations etc","",""
+"1063829764164563026","mariano.beracochea","2024-10-18T22:45:52.6400000+08:00","I had a container with HiveMQ CE and it was working well, had less than 10 equipment connected, then started disconecting from node red and Canary. I tried to deploy another container to see if something broke, the container seems deployed, but i cant connect to the broker.
+Can someone help me to solve this problem?","",""
+"1073312001788477471","sparkylarks","2024-10-18T23:26:56.0830000+08:00","Do you have two clients with the same name.
+
+I had that and had lots of disconnecting and connecting","",""
+"1063829764164563026","mariano.beracochea","2024-10-19T00:06:06.6310000+08:00","Currently the equipment connected are 5 IOT Gateway agents of kepware, 5 nodes of node red(on another docker same VM) and the Canary, it was working well and suddently they started losing connection, is on plain MQTT","",""
+"1129435706285101076","ted.garrison","2024-10-19T00:32:54.2420000+08:00","make sure they're all using unique clientIDs.","","💯 (1)"
+"867075936054149191","rickbullotta","2024-10-19T06:29:18.6840000+08:00","This.  The most common cause of inexplicable MQTT disconnects.","","💯 (1)"
+"1063829764164563026","mariano.beracochea","2024-10-20T07:10:21.3870000+08:00","even if i use MQTT 3.1?","",""
+"1129435706285101076","ted.garrison","2024-10-20T07:29:59.5560000+08:00","Yes","",""
+"1063829764164563026","mariano.beracochea","2024-10-21T22:05:48.8550000+08:00","Found de error, my docker disk was full and no of my containers where working, looking how to expand the docker available disck to fill the VM, will look how to optimice the storage of data","",""
+"877337143742197810","karltbraun","2024-10-28T07:22:51.9650000+08:00","Has anyone got portainer (or even docker desktop) running on an M3 Mac?  Initial searches indicate there are compatibily issues with the M3 platform. (Probably already addressed earlier, but I haven't found it yet)","",""
+"403511800068440074","rafaamaral","2024-10-28T12:59:21.9820000+08:00","I found this kind of duplicated mqtt client issue in Ignition and Node JS apps,  where for some reason it would keep a thread underneath running, having to restart the service to clean it up. And a tip is, dont go creating random mqtt client id since you will lose any session and data you didnt receive while offline during the keep alive period.","",""
+"1057737574287945899","xamp4248","2024-11-06T19:45:15.7560000+08:00","How to configure a containerized MySQL database within a containerized Ignition server?","",""
+"812295088348200960","patanj2","2024-11-06T20:02:34.6350000+08:00","I recommend not putting them in the same container.","",""
+"1057737574287945899","xamp4248","2024-11-06T20:06:58.5950000+08:00","Both are different stand alone docker containers. My question is how to configure the database in ignition. Usually we can use local host or ip address. In this case, how can enable?","",""
+"812295088348200960","patanj2","2024-11-06T21:08:50.4660000+08:00","You will have to configure networking as part of your docker configuration.  As an example: https://forums.docker.com/t/how-to-create-a-network-of-containers-that-can-communicate-with-each-other-interchangably/134292","","👍 (3),🙏 (1)"
+"898217314741280828","hobbes1069","2024-11-06T21:59:02.0870000+08:00","@John Patanian probably gives the complete answer, but the short answer is that the name of the container can be used as a ""hostname"".","",""
+"1057737574287945899","xamp4248","2024-11-06T22:06:04.0280000+08:00","Yes. I created a network group and added both containers. And mention the container name as the host name. But not working. Should i create a new user?.  I am using root as the user now.","",""
+"898217314741280828","hobbes1069","2024-11-06T22:08:19.3030000+08:00","Are you doing everything comnand line? While I like CLI, I've found Portainer very helpful. I really like being able to setup multiple containers using a docker compose file. I haven't had any issues with networking that way. 
+
+Are the containers in the same stack? If so, port blocking shouldn't be a problem.","",""
+"568913935147728896","zeratall","2024-11-06T22:35:44.4710000+08:00","So a few things to check:
+1) Verify you have the right config in ignition (https://www.docs.inductiveautomation.com/docs/7.9/database-connections/connecting-to-databases/connecting-to-mysql)
+2A) Per the link above, it looks like ignition is using JDBC, ensure that whatever port your listing in the Ignition Config 1) Is enabled on the DB  (not sure with MySQL, but with MSSQL the JDBC is turned off by default and needs to be in the compose file). 
+2B) Verify that your exposing the port on the container 
+3) Ensure they are on the same network, and when addressing the MySQL container use the DNS used within docker.","",""
+"1057737574287945899","xamp4248","2024-11-07T01:08:57.4380000+08:00","Yes. It is in the command line. I am not  familiar with portainer.  Yes. Both are in same stack","",""
+"1057737574287945899","xamp4248","2024-11-07T01:09:30.1480000+08:00","Thanks . I will review  this","",""
+"1011656778397778030","joel.faigan","2024-11-23T01:38:12.3300000+08:00","Hello all.  I am hoping someone can help me out.  I am working on a piece of software that will be hosted in a container. The software subscribes to multiple topics in an MQTT Broker.  My question is, how do I scale something like this?  If I scale up the number of instances of the container, I will have multiple connections to the MQTT broker with the same ClientID...which will not work.  If I give each instance a dynamic ClientID I will end up with all instances receiving and trying to process everything received from MQTT...which is not good either.  Does anyone have a known pattern on how to accomplish this?  TIA!","",""
+"817835202746253344","IIoT#4707","2024-11-23T01:38:12.6610000+08:00","GG @joel.faigan, you just advanced to level 1!","",""
+"1295474332364968064","bh.2274","2024-11-23T09:08:29.3380000+08:00","hello all- does anyone have experience with a modicon edge compute node used for running containers? I am a modicon rookie have never laid eyes on one in the field until today (they had 30 in use in a new plant still under construction🤯) but I feel like this could be useful for a host of things on the edge not familiar with the product or modicon looking for a experienced review if one exists on here??? the request is a ml project using this module to send data to cloud via docker container I have limited experience but feel like much more data would be needed to produce quality results than housed on this processor alone although the product sounds cool a hands on review would be helpful as it got my wheels spinning about other applications https://www.se.com/au/en/product/BMEECN0100H/edge-compute-node-modicon-m580-arm-v7-32-bit-linux-application-platform-container-technology/","",""
+"444415644801171467","markpitout","2024-11-24T03:10:02.4520000+08:00","Hey Bill.
+Yes, I have one in my test rack and I've played with it a bit. It is rather new, and there is some nuance to this option module. 
+Look out for the new EcoStruxure Control Expert v16.1 being released in December, which will finally include full support for this module.
+If you have any questions DM me.","",""
+"794020366536146977","mparris","2024-11-24T03:58:11.5320000+08:00","Can you explain more about how clientID and subscriptions are related within your application?","",""
+"1295474332364968064","bh.2274","2024-11-24T08:39:52.8860000+08:00","Thanks for the info on support not finding much online in the way of love-hate on the product either. We ordered 1 mod and a m580 to get acquainted I may reach out in the future for insights and appreciate the response.","",""
+"867075936054149191","rickbullotta","2024-11-24T21:17:21.4050000+08:00","Client ID has nothing to do with subscriptions - completely independent.  You should just use dynamic client IDs (with some random # or GUID/UUID) or assign them via environment variables if you want traceability.","",""
+"1011656778397778030","joel.faigan","2024-11-25T21:26:34.6150000+08:00","Hi @RickBullotta and @MParris .  Thanks for the replies.  Apologies if I was unclear.  It is not the ClientID and Subscription that is the problem.  It is scaling to have multiple instances of the service; each of which establishes a connection to the broker and set up the same subscriptions.  This scenario would end up having multiple instances of the same service trying to process the same data.   It is not like having multiple instances of a REST API behind a load balancer.  In this case, all the instances would receive the data published by the broker.  Please let me know if this is clearer.","",""
+"867075936054149191","rickbullotta","2024-11-25T21:34:47.0390000+08:00","You need to have a broker that supports shared subscriptions (MQTT 5 feature). That will do what you want.
+
+https://www.hivemq.com/blog/mqtt5-essentials-part7-shared-subscriptions/","","👍 (4)"
+"1011656778397778030","joel.faigan","2024-11-25T21:49:27.9400000+08:00","OK, I will check that out!","","👍🏼 (1)"
+"794020366536146977","mparris","2024-11-26T09:46:09.8410000+08:00","Shared subscriptions is exactly what came to mind as well. 
+
+A good way in mqtt to divy out work to multiple workers without duplication","","👍 (1)"
+"794020366536146977","mparris","2024-11-26T09:47:50.5180000+08:00","I was worried that you were including clientID in the topic path of the subscriptions, so dynamic clientIDs would have broken the publisher side of the equation","","👍 (1)"
+"1173270244291264535","andreasvogler","2024-11-29T01:49:48.5520000+08:00","if using UUID's as client-id, then be sure to NOT USE persistent sessions (clean_session=False).","","👍🏼 (1)"
+"568913935147728896","zeratall","2024-12-26T00:59:55.2430000+08:00","Been playing around with observability a lot lately, if you want some quick and pretty robust monitoring without a bunch of config, check out Netdata, very cheap and has alerting, logging, and dash boarding for infrastructure monitoring. 
+
+Now I have infrastructure monitoring and alerting for all my containers, Mqtt brokers, etc which you can see below.","https://cdn.discordapp.com/attachments/1241156223743823952/1321522829149208722/image.png?ex=68df584b&is=68de06cb&hm=2f422b4b25aac58871e17f82a3c60fa93db7fadafe8420706214dc9a07095d44&","💯 (3),🔥 (2)"
+"753688565807841492","ravil1","2024-12-26T14:54:08.9150000+08:00","What software did you use for this?","",""
+"894527802316046366","nickn5549","2024-12-26T17:30:22.0120000+08:00","Netdata","",""
+"894527802316046366","nickn5549","2024-12-26T17:31:06.4480000+08:00","Found it too in the Casa OS featured containers. Pretty cool.","","👍 (1)"
+"568913935147728896","zeratall","2024-12-27T00:09:05.7800000+08:00","I really like the fact it can monitor individual containers for CPU, MEM, Network, etc. Can do the same with a grafana stack, but this takes alot less upfront config imho.","",""
+"898217314741280828","hobbes1069","2025-01-15T04:33:37.0490000+08:00","@Jeff@Flow I just tried to run Timebase on my RHEL server using the compose file provided but all of the containers were exiting/restarting continuously. Looking at the log it seemed there was some access issue to a config file, but as the compose file provides for volumes I don't know why this would be the case.
+
+I started the stack using Portainer which was running as root and I provided the `--privileged` option to work around SELinux issues.","",""
+"898217314741280828","hobbes1069","2025-01-15T05:10:33.4830000+08:00","Now that I look more closely, it looks like the compose file tries to use local files and not actual volumes. This may be less portable.","",""
+"898217314741280828","hobbes1069","2025-01-15T05:27:20.7180000+08:00","I see later in the document that creating persistent volumes is mentioned, but if it won't be saved anyway, I wonder if it would be better to not create local mappings at all.","",""
+"693309801589112862","_dyland","2025-01-15T05:29:07.9510000+08:00","https://github.com/DMDuFresne/time-based-historian
+
+Here is a Compose Staqck I made to be more portable - Specifically made for Portainer.","","👍 (1)"
+"898217314741280828","hobbes1069","2025-01-15T05:40:01.4110000+08:00","Swapped Mosquitto for EMQX huh? 🙂 I manually created volumes and setup the bridged network and that got it going. I'm curious as to the use case for the as documented compose file.","",""
+"568913935147728896","zeratall","2025-01-15T06:00:12.4050000+08:00","JC what did your compose file look like? I didn't have that issue with my linux compose file, and I'm pretty sure I just copy/pasted their initial compose file.","",""
+"898217314741280828","hobbes1069","2025-01-15T06:03:39.5230000+08:00","I basically only made two modifications, for the local mappings `- ./timebase...` to `- timebase...` and then added all the appropriate volumes at the bottom. Then I took a hint from @Dylan DuFresne and added the bridged network at the bottom so I could access it from an external computer since this is running in a RHEL VM.","","🔥 (1)"
+"568913935147728896","zeratall","2025-01-15T07:15:01.0450000+08:00","Aaaah gotcha, that makes sense, yeah local mappings are totally valid as you can use them with docker compose, but to your point if you dont have permissions to the directory it's trying to use, etc it can cause issues.","",""
+"867075936054149191","rickbullotta","2025-01-15T08:06:22.2990000+08:00","That’s often a port conflict.","",""
+"898217314741280828","hobbes1069","2025-01-15T10:16:18.0670000+08:00","In this case @Zach E was correct, although since I was running the container as root access shouldn't have been a problem (with the notable exception that even as root, SELinux can prevent access, which was likely the issue).","",""
+"898217314741280828","hobbes1069","2025-01-15T10:20:20.1830000+08:00","Long term I hope the differences between Docker and Podman can be engineered out. I know Docker has added the ability to run containers as normal users but I think 99% of docker images either assume, or need higher privileges.  There's also the SELinux issue which you can work around in Podman by adding the `--privileged` option but this is a bandaid. Long term images should know what they actually need access to and provide proper SELinux configurations. 
+
+My personal, but perhaps unpopular permission, is most container management systems choose to kick the can down the road and leave security to be handled at higher levels.","",""
+"448323303598325812",".killnine","2025-01-16T01:25:17.1370000+08:00","What do you mean 'container management system'? You mean an orchestrator like k8s or actual container runtimes like Docker and Podman?
+
+Docker's [guidance](https://docs.docker.com/engine/security/rootless/) includes running as rootless if your environment's containers can get away it. But it's also essential that whatever system is actuall executing the Docker daemon is fairly hardened as well.
+
+Lots of container images that I run of popular software (ex: SQL Server) have made strides in not running as root, and running on thin base images really reduces the attack surface of them as well.
+
+While it wouldn't be my first 'value add' for containerized environments, I do think the net-net of containerization is improved security attack surfaces.
+
+I'd say generally it's discouraged from ever running as root and I don't think orchestrators or runtimes are kicking the can on security. It's just very complicated to make a one-size-fits-all solution and you need knowledgable people in the organization to correctly configure the environment per the needs of the business","",""
+"475955754788978688","jdingus","2025-01-21T07:56:33.7240000+08:00","Anyone get glances to work in a docker-compose with MQTT working?  Would like to monitor my remote edge gateway thru MQTT.  May be a better option out there as well.","",""
+"232078783283200010",".melimion","2025-01-21T14:00:35.3000000+08:00","Looks interesting, I (we) are looking at a similar approach!","",""
+"1330937024349474837","lemonaid8","2025-01-24T07:10:22.7870000+08:00","Hey folks! I'm running Ignition in a Docker container but lose my project data after each reboot. Could someone advise the correct setup to persist it? I have the following volumes mounted:","https://cdn.discordapp.com/attachments/1241156223743823952/1332125306357813288/Screenshot_2025-01-23_at_18.08.18.png?ex=68df065e&is=68ddb4de&hm=303dfe5a1781c7be36b12a7b8f7877b5a930381c76acf5fd654b2cc4b89adf5d&",""
+"1330937024349474837","lemonaid8","2025-01-24T07:11:23.6180000+08:00","I tried gpt but it doesnt seem to know either 😅","",""
+"794020366536146977","mparris","2025-01-24T07:43:10.7700000+08:00","Are you seeing those directories being created on your host file system?
+
+Also, I'm curious why you are using named-volumes and directories instead of all one or the other?","",""
+"1330937024349474837","lemonaid8","2025-01-24T07:51:55.3990000+08:00","I see the folders but they're empty. Could it be permission related?
+And the un-standardized setup is because I'm patching stuff from different places to figure out persistence. Once done, I shall make them all named 🙂","",""
+"794020366536146977","mparris","2025-01-24T08:04:35.3100000+08:00","Try basing it on this example: 
+
+https://www.docs.inductiveautomation.com/docs/8.1/platform/docker-image#using-docker-compose","","🙌 (1)"
+"1129435706285101076","ted.garrison","2025-01-24T23:00:36.1520000+08:00","Also:  https://inductiveuniversity.com/courses/elective-studies/ignition-with-docker","","🙌 (1)"
+"1330937024349474837","lemonaid8","2025-01-24T23:35:17.6360000+08:00","Thankyou folks, the docs got it working 🙂","","👍 (1)"
+"1215754490440056994","blabladudelioe","2025-01-27T03:05:39.8090000+08:00","The official ignition image expects a named volume. If you want to work with bind mounts you need an init container: https://forum.inductiveautomation.com/t/unable-to-mount-ignition-data-folder-in-an-external-volume-using-docker/64928","","👍 (1)"
+"232078783283200010",".melimion","2025-01-29T14:23:08.2470000+08:00","Just saw the video on docker and it has left me with a question, in my environment I got pc’s that run one homemade software (c# or .net) linked with serial ports etc… so as I understood I make a docker with drivers etc and send it to that computer?","",""
+"232078783283200010",".melimion","2025-01-29T14:23:50.7840000+08:00","Does the computation stay at the server or where the docker is deployed?","",""
+"1073312001788477471","sparkylarks","2025-01-29T15:48:52.3920000+08:00","I think the answer to the question is the comparison is where you deploy 
+
+I normally use portainer on my laptop to create containers on Linux devices.
+Normally I deploy the MING Stack on 4 containers in the Linux device 
+
+On my laptop I create a docker compose file that is sent to the Linux machine where docker is running and that creates the containers, and downloads and installs the software on the Linux device.
+
+Those devices are now running on client sites with no connection .
+ 
+Does that answer?","",""
+"693309801589112862","_dyland","2025-01-29T21:41:11.4500000+08:00","https://youtu.be/Gjnup-PuquQ?si=3oEyDGutg1ITT-Ta","","🔥 (2),👍 (3)"
+"305529230412873729","garrettebes","2025-01-29T22:15:59.4230000+08:00","I enjoyed today’s docker video @Zack Scriven","",""
+"1214242167640424619","zack.scriven","2025-01-29T23:42:03.3820000+08:00","Thank you! Trying to get back into the swing. Glad you enjoyed the high level overview.","","👍 (2)"
+"232078783283200010",".melimion","2025-01-30T02:49:25.0370000+08:00","Thanks guys 🙂","",""
+"877337143742197810","karltbraun","2025-01-31T02:56:23.8330000+08:00","Second that","",""
+"212982116764483597","elorso.","2025-02-12T02:15:41.4390000+08:00","Can somebody help me to explain how i can set the followin env variable in docker for my grafana? 
+Set environment variable GF_INSTALL_PLUGINS=https://github.com/epam/TimeBaseGrafanaPlugin/releases/download/1.0.13/epam-timebase-datasource.zip;epam-timebase-datasource and GF_PLUGINS_ALLOW_LOADING_UNSIGNED_PLUGINS=epam-timebase-datasource.","",""
+"568913935147728896","zeratall","2025-02-12T02:17:39.8090000+08:00","Are you using docker standalone or docker compose?","",""
+"817835202746253344","IIoT#4707","2025-02-12T02:17:40.1710000+08:00","GG @Zach E, you just advanced to level 21!","",""
+"212982116764483597","elorso.","2025-02-12T02:18:18.5170000+08:00","i have docker desktop , so i'm assuming that's standalone","",""
+"568913935147728896","zeratall","2025-02-12T02:19:48.8050000+08:00","you'll want to run something like this then: 
+```docker run -d -p 3000:3000 -e ""GF_INSTALL_PLUGINS=https://github.com/epam/TimeBaseGrafanaPlugin/releases/download/1.0.13/epam-timebase-datasource.zip;epam-timebase-datasource"" -e ""GF_PLUGINS_ALLOW_LOADING_UNSIGNED_PLUGINS=epam-timebase-datasource"" grafana/grafana:latest
+```","",""
+"568913935147728896","zeratall","2025-02-12T02:20:36.2540000+08:00","-e is the docker arg to set an env variable inside the container just fyi","",""
+"212982116764483597","elorso.","2025-02-12T02:22:55.1340000+08:00","I used this to install grafana","",""
+"212982116764483597","elorso.","2025-02-12T02:22:57.0500000+08:00","docker run -d -p 3000:3000 --name=grafana grafana/grafana-enterprise","",""
+"212982116764483597","elorso.","2025-02-12T02:23:19.0730000+08:00","but i'll need to include those variables with the ""install"" then?","",""
+"568913935147728896","zeratall","2025-02-12T02:26:08.3430000+08:00","So with containers you don't install anything. Essentially there are containers images that get built, and when you run docker run, it builds a container out of the image and then deploys the container. grafana/grafana:latest is telling the docker run to build and run a container thats using the grafana image and use the latest tag.","",""
+"568913935147728896","zeratall","2025-02-12T02:28:06.2670000+08:00","in your prompt --name=grafana is just the arg to set the name of the container grafana/grafana-enterprise is the image name. if that's the correct image your trying to build your command should be 
+
+`docker run -d -p 3000:3000 --name=grafana -e ""GF_INSTALL_PLUGINS=https://github.com/epam/TimeBaseGrafanaPlugin/releases/download/1.0.13/epam-timebase-datasource.zip;epam-timebase-datasource"" -e ""GF_PLUGINS_ALLOW_LOADING_UNSIGNED_PLUGINS=epam-timebase-datasource"" grafana/grafana-enterprise:latest
+`","",""
+"212982116764483597","elorso.","2025-02-12T02:28:53.4700000+08:00","ok let me give it a shot","",""
+"568913935147728896","zeratall","2025-02-12T02:29:24.8040000+08:00","Yep just stop your other container, and then run that command, you should be good","",""
+"212982116764483597","elorso.","2025-02-12T02:55:12.6710000+08:00","Thanks Zach, if you're ever in Belgium i owe you a beer! 👍","","❤️ (3),🇧🇪 (3)"
+"568913935147728896","zeratall","2025-02-12T03:08:16.3320000+08:00","Hey no worries at all! Be careful I might take you up on that hahah!","","🇧🇪 (1),🍺 (1)"
+"1085596360558002226","prateek3320","2025-02-21T19:30:53.3310000+08:00","Hi all, is there anyone who got some experience in deploying aveva pi data archive in docker containers ? 
+
+Running into issues, couldn’t find any official documentation to install data archive\ AF. 
+
+TIA.","",""
+"448323303598325812",".killnine","2025-02-28T00:11:36.4400000+08:00","Hrm.... feeling kinda dumb atm. I've gotten local instances of EMQX and HiveMQ CE running and can connect via MQTT Explorer but having a hard time with Mosquitto, for some reason:
+
+The container is set up in @Dylan DuFresne's docker-compose for his [Time-Based Historian](https://github.com/DMDuFresne/time-based-historian) project and setup like this to avoid port conflicts:
+
+```docker-compose
+  # Mosquitto MQTT Broker Service
+  mosquitto:
+    image: eclipse-mosquitto:${MOSQUITTO_TAG:-latest}
+    hostname: ${MOSQUITTO_HOSTNAME:-mosquitto}
+    container_name: ${MOSQUITTO_CONTAINER_NAME:-mosquitto}
+    ports:
+      - ""${MOSQUITTO_PORT:-1886}:1883""
+      - ""${MOSQUITTO_WS_PORT:-9001}:9001""
+    restart: unless-stopped
+    volumes:
+      - mosquitto-config:/mosquitto/config
+      - mosquitto-data:/mosquitto/data
+      - mosquitto-log:/mosquitto/log
+    networks:
+      - iiot-network
+```
+
+I connected to the container and ran `mosquitto_passwd -c /mosquitto/config/passwd <username>` to create a user. Then I restarted the container.
+
+However, I still can't connect via MQTT Explorer or with HiveMQ Edge broker mapping. Any ideas?
+
+I'm a bit concerned with the console message that it's starting in 'local only mode'. Not sure how to make that change and perhaps that's the reason it's rejecting connection requests.","https://cdn.discordapp.com/attachments/1241156223743823952/1344703494535516183/image.png?ex=68df4cf8&is=68ddfb78&hm=404330231037e39559f7ae825ab7f6ce9af2c5bee0efeae4e7646aacd091232e&,https://cdn.discordapp.com/attachments/1241156223743823952/1344703494984044626/image.png?ex=68df4cf8&is=68ddfb78&hm=de3785bf858dc9804a4e786a22ffc66e6459879decac0646ce8c7ee37988db0e&",""
+"448323303598325812",".killnine","2025-02-28T00:16:28.0710000+08:00","Oh snap: adding `listener 1883 0.0.0.0` to make it listen on more than 127.0.0.1 did the trick...","","👍 (3)"
+"448323303598325812",".killnine","2025-02-28T00:25:46.1240000+08:00","But HiveMQ Edge doesn't seem to want to connect to anything but EMQX for right now. I guess that's gonna be a question for Hive team 🙂","",""
+"448323303598325812",".killnine","2025-02-28T00:26:25.2650000+08:00","","https://cdn.discordapp.com/attachments/1241156223743823952/1344707222063677522/image.png?ex=68df5071&is=68ddfef1&hm=5e863579cc09fc972e7d81cd572ab98c245ddf31cacc63a0301fc528a5c41aac&",""
+"794020366536146977","mparris","2025-02-28T00:30:30.5130000+08:00","@DerekH I'm not familiar with this syntax in a Compose file....
+`""${MOSQUITTO_PORT:-1886}:1883""`
+What is the intended behavior?","",""
+"448323303598325812",".killnine","2025-02-28T00:35:30.3000000+08:00","If the environment variable MOSQUITTO_PORT is defined, use. Otherwise, fallback to 1886","","👍 (1)"
+"448323303598325812",".killnine","2025-02-28T00:36:56.6920000+08:00","I think I figured out the issue of why I can connect via MQTT Explorer but not HiveMQ Edge.
+
+* MQTT Explorer is running on my machine (the docker host) so it can see ""localhost:1886"", which is mapped to the Mosquitto container's 1883 port.
+* HiveMQ Edge is also a container and container-to-container networking means that it doesn't use the same mapping that the docker host requires. So if I wanted to connect to Mosquitto, I'd set up the connection as ""mosquitto:1883""","","💯 (2)"
+"448323303598325812",".killnine","2025-02-28T00:40:20.6440000+08:00","The only reason EMQX worked was because it's internal port and the mapped port were both 1883","",""
+"693309801589112862","_dyland","2025-02-28T00:47:38.5430000+08:00","Yeah - I typically use EMQX in my test and demo stacks because it allows me to configure it without messing with config files. 
+
+I have some examples of Mosquitto in other repos though – 
+https://github.com/DMDuFresne/Quick-MING/blob/main/mosquitto/mosquitto.conf
+https://github.com/DMDuFresne/Portainer-Template-Mosquitto/blob/main/docker-compose.yml
+
+I don’t think it’s in a public repo yet, but I have one for HiveMQ CE as well that I should push one of these days.","","👍 (2)"
+"448323303598325812",".killnine","2025-02-28T00:48:45.3050000+08:00","Jury is out for me but, yeah, that's a good observation. Just spinning everything up and seeing which is the least PITA.","",""
+"448323303598325812",".killnine","2025-02-28T00:49:03.0950000+08:00","Oh yeah, and then what I can afford with security features enabled 😄","",""
+"693309801589112862","_dyland","2025-02-28T00:49:28.2600000+08:00","Looks like you found the answers before I could see the question though - that's awesome!!!","",""
+"693309801589112862","_dyland","2025-02-28T00:50:23.4910000+08:00","All 3 are incrediably simple to spin up - its when you get into the details that it becomes a pain. 
+
+HiveMQ CE appears to have the most options (especially with it's extensions) but took me the longest to get working.
+Mosquitto is dead simple, but does require some nuance in the config file.
+EMQX is the easiest for beginers as it has a pretty simple GUI for configuration","",""
+"448323303598325812",".killnine","2025-02-28T00:50:29.3410000+08:00","Typing/talking it out helps sometimes...
+
+I have a rubber duck on my desk (from years ago) I used to have my colleague talk to before he asked me questions 😄
+[Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)","","❤️ (1)"
+"448323303598325812",".killnine","2025-02-28T00:50:59.4860000+08:00","And HiveMQ CE doesn't have any front-end, no? Whereas the enterprise edition does.","",""
+"448323303598325812",".killnine","2025-02-28T00:51:17.6350000+08:00","(not that front-end is a requirement, front-ends don't make automation easy)","",""
+"693309801589112862","_dyland","2025-02-28T00:52:48.1290000+08:00","Not that I know of - For quick simple tasks I usually end up with EMQX if I am using portainer - no need to mess with external files because of the GUI.
+For Production It would be a different story - and which would ddepend on other factors.","",""
+"693309801589112862","_dyland","2025-02-28T00:53:54.6050000+08:00","Though, that is where the ""Portainer-Template-Mosquitto"" repo came in - It creates the file through a command in the Docker Compose - Also not something I would really want to do in Production but in the lab I like to move fast.","",""
+"693309801589112862","_dyland","2025-02-28T01:05:21.1870000+08:00","`${MOSQUITTO_PORT:-1886}:1883` - Breaks down to a few parts.
+`1883:1883` - Maps the hosts Port 1883 to the containers port 1883.
+`${MOSQUITTO_PORT}:1883` - Makes the Hosts Port definition an environment variable.
+`${MOSQUITTO_PORT:-1883}:1883` - Adds a fallback value for the environment variable in case it is not present.","",""
+"794020366536146977","mparris","2025-02-28T01:09:58.5280000+08:00","Perfect walkthrough!","",""
+"794020366536146977","mparris","2025-02-28T01:17:13.6310000+08:00","I'm assuming this works because you have HiveMQ and mosquitto on the same docker network?","",""
+"448323303598325812",".killnine","2025-02-28T01:17:42.8350000+08:00","Yup! For this test environment everything's hanging out together","",""
+"794020366536146977","mparris","2025-02-28T01:18:18.8510000+08:00","👍","",""
+"448323303598325812",".killnine","2025-02-28T01:18:19.1080000+08:00","https://tenor.com/view/mess-up-mundane-detail-office-space-gif-17048160","",""
+"448323303598325812",".killnine","2025-02-28T01:18:40.3360000+08:00","I rarely have inter-container communication so I forgot that part 😛","",""
+"794020366536146977","mparris","2025-02-28T01:18:53.0080000+08:00","You could try HiveMQ edge, which does include a webGUI?","","💯 (1)"
+"794020366536146977","mparris","2025-02-28T01:20:24.6630000+08:00","I learned something today...Ididn't know that the port mapping was only to the host network adapter. 
+
+I also would have thought that containers, even on the same network, would use the host-defined port","",""
+"448323303598325812",".killnine","2025-02-28T01:21:29.6120000+08:00","Here's what I have:
+
+**'Connect' Products**
+* Induction (Full)
+* HiveMQ Edge
+
+**'Collect' Products**
+* HiveMQ CE
+* Mosquitto
+* EMQX
+
+**'Store' Products**
+* Timebase-Collector
+* Timebase-Historian
+
+** 'Visualize' Products**
+* Timebase-Explorer
+
+** Test Device **
+* S7-1200 with ""SimulatorData.FeetPerMinute"" optimized data block to read from and publish","","🔥 (3),Flow (1)"
+"448323303598325812",".killnine","2025-02-28T01:22:15.2390000+08:00","container-to-container networking in docker is awesome because you can identify them by their container name (rather than figuring out their IP or having to set up DNS). And it's like they're computers on their very own real network","",""
+"448323303598325812",".killnine","2025-02-28T01:22:52.4970000+08:00","Litmus Edge may come along later but they're pretty particular about running it in a container","",""
+"794020366536146977","mparris","2025-02-28T01:22:59.9570000+08:00","I don't know what functions you would be missing by using HiveMQ Edge in the ""collect"" stage...I would assume Edge is built on HiveMQ CE, but don't know for sure","",""
+"657361690379288596","du5tins","2025-03-04T02:40:03.7150000+08:00","@DerekH - This is awesome stuff. I have been messing with Portainer and HiveMQ Edge last week and will probably be trying to get into Litmus this week. How many people are publishing their templates on Github?","","👍 (1)"
+"657361690379288596","du5tins","2025-03-10T01:19:10.6980000+08:00","Hey, when setting up portainer on new installations/dev environments... are people installing the business edition or the community edition to get up and going quickly?","",""
+"657361690379288596","du5tins","2025-03-10T01:20:46.7800000+08:00","Also aside - working on standing up some infrastructure for a new project here. Started out with virtual machines and OS installs... to do more than a few systems at scale takes a LONG time compared to portainer/docker. My stack is going to be Ignition Edge -> MQTT -> Ignition gateway and started with 5 VM's. After a little over an hour I""m still installing stuff. WIth docker/portainer I'm sure I'd be up and running in less than 15 minutes.","",""
+"1045841271610146886","georgeforde","2025-03-10T01:32:52.6190000+08:00","I posted a MING Portainer on Repo.  Re:  Litmus.  From Litmus Team I have instructions to stand this Docker Container Stack Up with a Temp License.  Since Litmus inherently has it's own container capabilities, so far I've stuck w/ the their Hyper V VM with the Litmus-internal Stack of Grafana, Influx, NodeRed, etc).  Just tell me if you're interested, and I'll dig up what I have for Docker Litmus Setup and flip to you.  Or reach out to Litmus team.","",""
+"1045841271610146886","georgeforde","2025-03-10T01:34:35.2880000+08:00","https://github.com/GMForde/MING","","❤️ (2)"
+"794020366536146977","mparris","2025-03-10T02:13:40.0800000+08:00","I'm looking to deploy a fleet of PCs using both VM and Docker.
+
+The VM layer will allow me to pivot to different operating systems if needed over time, without having to reinstall on all the deployed bare metal devices. 
+
+Then, looking to try Alpine or NixOS to run in a VM to host Podman (docker replacement) and Portainer.","","👍 (2)"
+"1073312001788477471","sparkylarks","2025-03-10T02:47:40.0520000+08:00","I use the free business edition still on my first 3 nodes so that a free.
+
+Not doing any Git Hub","",""
+"657361690379288596","du5tins","2025-03-10T03:36:01.7840000+08:00","My company has a traditional VMware stack that we have used for development. I agree that the VM layer is likely still needed if a person needs to move things to different hardware or OS later. 
+
+In the past we would deploy one VM per app (I.e. one for mqtt, one for ignition). Having to install the OS or deploy with a VM template and then install the app on top. At ProveIt I got to see some of the potential power in containers and how fast they are development. Really feeling that today as I am spinning up things for this new project.","",""
+"1003237589421137992","gregory.g.","2025-03-10T04:51:01.1670000+08:00","I'm running 8 linux servers with 1 as central management to be in control of all portainer agents/docker installs. Applications on each server depends. We typically run ignition and postgres on separate VM's. Whereas dataops server runs often a few different apps including mqtt broker.
+We use CE versions at this moment. Will spend money when I get more financial leverage in the company.","","👍 (2)"
+"1212245669558100021","tyler092335","2025-03-11T06:43:32.7650000+08:00","We are in the same boat my friend ha. I am currently working with IT to start deploying Linux based VMS to build out what Gregory is running. With change there has been resistance but I just explain to them that technology standards are changing and we can either adapt and learn or get left in the dust. After that something clicks in their minds and we take steps forward. Just keep communication up and address concerns quickly.","","👍 (2)"
+"817835202746253344","IIoT#4707","2025-03-11T06:43:33.0870000+08:00","GG @Tyler, you just advanced to level 3!","",""
+"1344020812650254369","vladrom89","2025-03-15T02:26:18.0620000+08:00","Out of curiosity - What are the specs of those servers? You run a since Linux distribution on top of each one, or are you deploying / clustering via a hypervisor (Proxmox)?","",""
+"1003237589421137992","gregory.g.","2025-03-15T22:43:08.2080000+08:00","Each server has ubuntu server installed. Specs around 16gb ram, 4core 3.5Ghz cpu. VM's managed by our IT with vsphere","","👍 (1)"
+"753688565807841492","ravil1","2025-03-22T05:43:54.6200000+08:00","Have you looked at https://www.balena.io/ ? With it you can manage both PCs and containers.","",""
+"794020366536146977","mparris","2025-03-22T06:51:35.9170000+08:00","Thanks Ravil. Yes, I've had my eye on Balena since 2016, when it was called Resin. In fact, we bought their BalenaEtcher Pro, in 2019 which is a time saver! (But has since gone end of life)
+
+They used to offer an on-premise version called balenaMachine, which was very expensive. Looking now, I'm not even seeing it on the webpage any more.
+
+Also, it looks like their Open Balena product still hasn't moved past Beta to offer support of more than the handful of devices.","",""
+"753688565807841492","ravil1","2025-03-22T08:58:00.3650000+08:00","BalenaEtcher now is open source, and has new releases, so I would not say it has end of life.
+
+In regard to running in premises, I think it is still possible, althouth, I don't see it too on web site. At least, some time ago Marc from balena mentioned that it is possible.","",""
+"794020366536146977","mparris","2025-03-22T10:25:40.9690000+08:00","You left off the ""pro"" in ""Balena Etcher Pro""...
+
+https://www.balena.io/etcher-pro","",""
+"753688565807841492","ravil1","2025-03-22T11:20:27.3390000+08:00","O, I see. The Pro incudes hardware too, I forgot about it, right.","",""
+"794020366536146977","mparris","2025-03-22T12:33:48.0760000+08:00","The name of it is confusing....
+
+You wouldn't think that adding ""pro"" to the name of software would mean ""new hardware platform using that software""...","",""
+"753688565807841492","ravil1","2025-04-01T07:42:34.9110000+08:00","Hi community members,
+I wonder, what tools are you using to backup/restore  volumes of Docker containers? Are there any simple solutions that can periodcially backup all data, so in case of broken device you can restore it quiclky with one click on the new host? Or use backup/restore to migrate all containers to another host? Prefereably with web gui, and runs itself as a dccker container too like portainer.","",""
+"1214242167640424619","zack.scriven","2025-04-02T00:33:01.5580000+08:00","new features for Docker Desktop include a generative AI feature","https://cdn.discordapp.com/attachments/1241156223743823952/1356667683864576261/Screenshot_2025-04-01_at_10.32.33_AM.png?ex=68df51fd&is=68de007d&hm=f5af153d34c552f693e09318f7fa0b9b5b94b158a782281afa5e012cdd1fd0f6&",""
+"1214242167640424619","zack.scriven","2025-04-02T00:33:21.6380000+08:00","thanks for clarifying","",""
+"693309801589112862","_dyland","2025-04-02T05:07:53.9000000+08:00","Anyone have any tips for accessing an External OPC Server (Say an Opto22 Grove Epic) from an Ignition Edge Gateway running in Docker... I got it to work but it was convoluted enough that I don't think I did it the ""Right"" way. 
+If anyone knows how to do it without using a host or macvlan network I would love to hear how you did it.
+
+Docker:
+```
+services:
+  ignition:
+    image: inductiveautomation/ignition:${IGNITION_TAG:-latest}
+    container_name: xxx-edge
+    hostname: xxx-edge
+    ports:
+      - ""8088:8088""
+      - ""8043:8043""
+      - ""8060:8060""
+      - ""14840:14840""
+    restart: unless-stopped
+    environment:
+      TZ: ${TZ:-America/Chicago}
+      ACCEPT_IGNITION_EULA: Y
+      GATEWAY_ADMIN_USERNAME: ${GATEWAY_ADMIN_USERNAME:-admin}
+      GATEWAY_ADMIN_PASSWORD: ${GATEWAY_ADMIN_PASSWORD:-password}
+      IGNITION_EDITION: edge
+      IGNITION_LICENSE_KEY: ${IGNITION_LICENSE_KEY:-}
+    volumes:
+      - xxx-edge-data:/var/lib/ignition
+    networks:
+      xxx-network: {}         # bridge network for localhost access
+      local:                  # macvlan for EPIC access
+        ipv4_address: 169.x.x.152
+
+volumes:
+  xxx-edge-data: {}
+
+networks:
+  xxx-network:
+    external: true
+  local:
+    external: true
+```
+
+Network:
+```
+docker network create -d macvlan \
+  --subnet=169.x.x.0/24 \
+  --ip-range=169.x.x.151/29 \
+  --gateway=169.x.x.1 \
+  -o parent=enp5s0 \
+  apex-network
+```","",""
+"448323303598325812",".killnine","2025-04-02T05:31:06.1940000+08:00","I think that's the way you have to do it if you're looking for network isolation from the host. What's the IP of the external OPC server? It's on that 169 subnet as well? Or you having the translate that further somewhere else?","","👍 (1)"
+"693309801589112862","_dyland","2025-04-02T05:32:36.9720000+08:00","OPC Server is on the 169 as well yeah. The IPC is an Onlogic with 5 Network Adapters a Wifi Card and a USB $G Modem... That made figuring things out a bit tough as well...","",""
+"693309801589112862","_dyland","2025-04-02T05:34:57.7800000+08:00","enp5s0 is a Static IP on that same 169 Network.","",""
+"448323303598325812",".killnine","2025-04-02T05:39:19.5080000+08:00","and what is the docker host?","",""
+"448323303598325812",".killnine","2025-04-02T05:39:43.4220000+08:00","is it some corporate host that you don't want containers breaking out from or is it a local docker host and you're just being extra careful?","",""
+"693309801589112862","_dyland","2025-04-02T06:00:14.3460000+08:00","No - this is literally an R&D Project. No real security concerns yet.","",""
+"693309801589112862","_dyland","2025-04-02T06:01:05.9750000+08:00","The method above was literally the only way I could get it to work but it was made harder by the fact that I don't have remote access to the 169 Network.","",""
+"693309801589112862","_dyland","2025-04-02T06:02:58.4400000+08:00","Running Portainer as if the client's client like it there may be 100-200 edge gateways out there by the end of year and some of their buisness features will enable that.
+Portainer made this harder though because they dont support ""Host"" networks. Which was the general answer I found on Stack Overflow and various forums.","",""
+"693309801589112862","_dyland","2025-04-02T06:04:39.9370000+08:00","I just cant imagine that there isn't a way to get it working without resorting to the macvlan... We kept the bridge for general maintenance as remotely (for the pilot) we want to keep the doors open for Maintenance and Support we may need access from the Host until we get everything stable...","",""
+"1214242167640424619","zack.scriven","2025-04-02T06:26:44.7270000+08:00","Ignition Docker runtime arguments","https://cdn.discordapp.com/attachments/1241156223743823952/1356756700295598181/Screenshot_2025-04-01_at_4.25.54_PM.png?ex=68defc24&is=68ddaaa4&hm=29bc18a9356daefcb67e0378201008e121c40b2082aeed63b79ec73ae6db6965&","👏 (1)"
+"693309801589112862","_dyland","2025-04-02T06:49:45.0350000+08:00","Yeah, Im really familiar with those. Issue was specifically connecting to the OPC Server on the EPIC. Ive been using Docker / Portainer for Ignition scince we needed the kcollins image.","",""
+"693309801589112862","_dyland","2025-04-02T06:50:33.0730000+08:00","The Network side was giving me some real trouble on this one... ended up needing to make a macvlan outside of portainer to get it working.","",""
+"693309801589112862","_dyland","2025-04-02T06:50:51.7340000+08:00","Hoping that there is a better way.","",""
+"693309801589112862","_dyland","2025-04-02T06:51:10.1560000+08:00","but hearing from @DerekH there might not be.","",""
+"693309801589112862","_dyland","2025-04-02T06:51:48.7560000+08:00","The more I can get into the Compose file the better - I really want to be deploying this all from a git repo with version control.","","💯 (1)"
+"1214242167640424619","zack.scriven","2025-04-02T06:57:15.5090000+08:00","That would be ideal","","💯 (1)"
+"1214242167640424619","zack.scriven","2025-04-02T07:50:00.3750000+08:00","Is there anything to be aware of running timebase in a docker environment?","",""
+"1214242167640424619","zack.scriven","2025-04-02T07:50:16.9460000+08:00","I was having trouble connecting to my mqtt broker with the collector","",""
+"693309801589112862","_dyland","2025-04-02T08:10:57.5540000+08:00","I haven't had any issues myself. I've only ever run it in Docker. I would start small and play with it. Spin up a new broker locally that doesn't require security and connect to that and then add in steps like authentication, more complicated topics, and stuff. Their docs are some of the best I've come across too. 
+
+https://timebase.flow-software.com/en/knowledge-base","",""
+"693309801589112862","_dyland","2025-04-02T08:12:58.1410000+08:00","https://github.com/DMDuFresne/Portainer-Templates/blob/main/Stacks/starter/iiot/docker-compose.yml
+
+Comment out what you don't need but this is a decent starting point I made for testing some stuff.","",""
+"794020366536146977","mparris","2025-04-02T08:34:52.6520000+08:00","Did connectivity work with ""host"" network mode?","",""
+"794020366536146977","mparris","2025-04-02T08:35:30.3480000+08:00","And to clarify, your host running docker has an IP address in the same subnet as the Opto22?","",""
+"693309801589112862","_dyland","2025-04-02T08:36:35.6920000+08:00","Portainer doesn't support the 'Host' type. That was my first thought but without losing the benefits of Portainer we couldn't do it.","",""
+"794020366536146977","mparris","2025-04-02T08:37:29.6010000+08:00","What do you mean that Portainer does not support host?
+
+I've deployed compose files through Portainer for services using host","",""
+"693309801589112862","_dyland","2025-04-02T08:37:49.3650000+08:00","And yeah, the Host Running Docker with an Ignition Container was on the same network. I could access the port from the host but I couldn't hit the IP from the container, even through the command line.","","👍 (1)"
+"693309801589112862","_dyland","2025-04-02T08:38:33.8790000+08:00","I'd love to see how. All the documentation and forums I saw said it didn't. And it's not in the drop-down to as an option when creating a network from the GUI.","",""
+"693309801589112862","_dyland","2025-04-02T08:38:36.2140000+08:00","https://docs.portainer.io/user/docker/networks","",""
+"693309801589112862","_dyland","2025-04-02T08:39:05.5680000+08:00","I found some Reddit and Stack Overflow posts that lead me to the macvlan option.","",""
+"693309801589112862","_dyland","2025-04-02T08:39:35.2040000+08:00","* also not doubting you did... Just seriously curious as to how.","",""
+"794020366536146977","mparris","2025-04-02T08:40:31.7040000+08:00","Hmmm ...
+
+You shouldn't be able to create host.... There is only 1 host network and it's a system-level network created by docker. 
+
+But that also means that ALL containers using host share the same interface and port conflicts are possible","","👍 (1)"
+"693309801589112862","_dyland","2025-04-02T08:41:25.2070000+08:00","Makes sense, kinda. While I'm not new to docker, most everything I have done worked just fine with a bridge network.... I am far from a network expert myself.","",""
+"794020366536146977","mparris","2025-04-02T08:42:30.9150000+08:00","When you bind a container to host network in the compose file, it is putting that container straight on the wire, using the same IP Address and Mac as your host adapter.","","👍 (1)"
+"693309801589112862","_dyland","2025-04-02T08:43:10.1350000+08:00","That makes sense, especially given the name.","",""
+"693309801589112862","_dyland","2025-04-02T08:43:59.7850000+08:00","So I think that was the part I was missing too. Was that the host network was already made by default. I'll try that next time I have access to the Hardware in a development setting.","",""
+"693309801589112862","_dyland","2025-04-02T08:45:09.7670000+08:00","Thanks!","",""
+"794020366536146977","mparris","2025-04-02T08:46:15.8890000+08:00","I'll get your some syntax to try in a compose file","","❤️ (1)"
+"794020366536146977","mparris","2025-04-02T08:46:44.9130000+08:00","Although, I'm wondering why you are looking to do host... Did bridge not work for you?","",""
+"693309801589112862","_dyland","2025-04-02T08:48:02.8980000+08:00","Yeah, bridge straight up just couldn't hit the IP of the EPIC... Which didn't make any sense as I've hit other external devices with various protocols from within the Ignition Container with bridge without issues.","",""
+"693309801589112862","_dyland","2025-04-02T08:48:25.9310000+08:00","Adding the macvlan worked immediately.","",""
+"693309801589112862","_dyland","2025-04-02T08:49:11.8810000+08:00","This was the first time trying to connect to an OPC server from an ignition gateway in docker though... Not sure if that was relevant or not.","",""
+"794020366536146977","mparris","2025-04-02T08:49:43.4230000+08:00","services:
+  consul:
+    image: consul:1.18.0
+    restart: always
+    network_mode: ""host""
+    entrypoint:
+      - consul
+      - agent
+      - -server
+      - -dns-port=53
+      - -bootstrap-expect=2
+      - -data-dir=/consul/data
+      - -config-dir=/etc/consul.d/
+      - -enable-script-checks=true
+      - -ui","","👍 (1)"
+"693309801589112862","_dyland","2025-04-02T08:50:03.6970000+08:00","One theory is that the multiple different network connections complicated complicated it but I could access the Ignition webserver for all of them","",""
+"794020366536146977","mparris","2025-04-02T08:52:25.3120000+08:00","Did you try leaving all the networking config blank in your compose, letting docker use it's defaults (bridge to the default network)?","",""
+"693309801589112862","_dyland","2025-04-02T08:53:01.2480000+08:00","Yeah. Anything I did with the bridge just didn't work. I was really confused.","",""
+"693309801589112862","_dyland","2025-04-02T08:54:26.7260000+08:00","Wait, no I didn't try with absolutely no network config... I tried default where I just created a network but didn't specify the type of anything","",""
+"794020366536146977","mparris","2025-04-02T09:01:54.6000000+08:00","I'd try not declaring network settings and see. 
+
+Also, I wonder if there's something funky going on with multiple of your network adapters being on 169.254 address (default zeroconf addresses) and possibly causing confusion on what adapter should be used for the outbound packets? 
+
+I try to stay away from the 169 space if possible. And I think Docker uses 172.17.x.y for it's internal network, so, I'd try and avoid that, too","","💯 (1)"
+"693309801589112862","_dyland","2025-04-02T09:05:33.0290000+08:00","Yeah, I don't get why they chose that IP range myself... But that was my untested theory (without physical access to the network) there were 5 Ethernet adapters, a WiFi adapter, and a 4G modem over USB. The 4G network was 192.168.1.x and the Containers on a Bridge network ended up with full access to the internet (tested with google.com from the command line). But they couldn't reach anything on the 169 network.","",""
+"693309801589112862","_dyland","2025-04-02T09:07:11.4620000+08:00","Though, this being basically a tech demo the important part is that it works now. But for future reference I was just not comfortable with the symptoms or the resolution here. 
+
+And if they take this to production, then I really need to get this sorted out.","",""
+"693309801589112862","_dyland","2025-04-02T09:08:10.6960000+08:00","When I get more hardware and can run better tests, if I can prove out that it was the issue we can possibly influence the choice of addressing.","",""
+"693309801589112862","_dyland","2025-04-02T09:12:02.2070000+08:00","This gave me a lot more to look into than I had before! Thanks!!!","",""
+"794020366536146977","mparris","2025-04-02T09:18:02.2970000+08:00","","https://cdn.discordapp.com/attachments/1241156223743823952/1356799807729045594/image0.gif?ex=68df244a&is=68ddd2ca&hm=df4467bfde4ebb66ab136f27e87c74eac47699639796c6c4e1ee8586308c9071&","🎉 (1)"
+"867075936054149191","rickbullotta","2025-04-06T21:59:57.1880000+08:00","Almost always network addressing and/or port issues.","",""
+"568913935147728896","zeratall","2025-04-09T11:29:08.3600000+08:00","https://youtu.be/bKFMS5C4CG0?si=RsqLw0LR-2PmMj3G 
+
+Docker networking is very powerful but you definitely need to know what your doing. I think Network Chuck always makes good content but this high level overview is golden imho.","","💯 (2),👍 (1)"
+"740383178279354388","mriiot","2025-04-09T21:44:16.2980000+08:00","This is another invaluable tool for networking https://github.com/siemens/edgeshark","","🔥 (2)"
+"1212245669558100021","tyler092335","2025-04-10T05:01:36.9930000+08:00","For those of you that are running dockers on Linux in a production environment, what distro have you found the most reliable and easy to work with? Is it worth buying a licenses distro for support? Like redhat","",""
+"794020366536146977","mparris","2025-04-10T06:11:22.9800000+08:00","I am VERY MUCH looking forward to testing this","",""
+"794020366536146977","mparris","2025-04-10T06:12:46.6210000+08:00","About a month ago, I was looking for a docket container that had a web interface to start a capture locally, then allow a user to download it on completion","",""
+"898217314741280828","hobbes1069","2025-04-10T06:39:09.6780000+08:00","I run a few on RHEL 8.6 (haven't updated to 9 yet). In that case you're actually running Podman. There are a few idiosyncrasies but for the most part it just works.","",""
+"898217314741280828","hobbes1069","2025-04-10T06:41:43.4680000+08:00","```bash
+sudo dnf install podman podman-docker podman-compose cockpit-podman containernetworking-plugins
+sudo systemctl enable --now podman.socket
+sudo systemctl enable --now cockpit.socket
+```","","👍🏻 (1)"
+"898217314741280828","hobbes1069","2025-04-10T06:45:09.0730000+08:00","If you want to run Portainer, it needs to run as root with the `--privileged` option for SELinux.","",""
+"898217314741280828","hobbes1069","2025-04-10T06:51:46.5010000+08:00","There hasn't been any single image or compose I haven't gotten to work yet. I have had a `Dockerfile` build or two that failed though.","",""
+"1003237589421137992","gregory.g.","2025-04-11T03:49:45.4180000+08:00","Ubuntu Server LTS","","👍🏻 (1)"
+"794020366536146977","mparris","2025-04-11T07:22:07.2940000+08:00","Ubuntu Server LTS, but looking at a bare minimum Rocky Linux soon:
+https://github.com/geerlingguy/packer-boxes","","👍🏻 (1)"
+"873009180938743828","sim_sam3","2025-04-11T07:42:41.1630000+08:00","I’m late to the container diag capture party but wanted to share a few screencaps from a general container administration slide deck that my team put together a few years ago. We like TCPDump ourselves but EdgeShark looks fabulous.","https://cdn.discordapp.com/attachments/1241156223743823952/1360037301429862687/IMG_1160.png?ex=68df0df0&is=68ddbc70&hm=c19f54266e236feef5e44e8d2a7d709e586795113d2c70555e23c025c8be7a1d&,https://cdn.discordapp.com/attachments/1241156223743823952/1360037301790441573/IMG_1161.png?ex=68df0df1&is=68ddbc71&hm=a53dbe691931f2f5998288d896d6ed3c55b51a2b7e20d795a07e4e76418d4a32&,https://cdn.discordapp.com/attachments/1241156223743823952/1360037302176452619/IMG_1162.png?ex=68df0df1&is=68ddbc71&hm=843fd6c4c423242b2a9bbfb61215d6991739765a2fd0b7c1f19aeb096ec56de6&","🔥 (1),💯 (1)"
+"1214242167640424619","zack.scriven","2025-04-11T23:51:07.8710000+08:00","has anyone here gotten timebase working in docker? i'm trying to get the mqtt collector working and logging some data. but i'm not able to get it connected.","",""
+"693309801589112862","_dyland","2025-04-11T23:58:44.1220000+08:00","Numerous times - I would check the Docker Networking side or the Broker Authentication. 
+I have a github repo with my portainer template for Timebase if that would help?","",""
+"693309801589112862","_dyland","2025-04-12T00:01:20.5900000+08:00","This one include the Broker in the Compose Stack.
+https://github.com/DMDuFresne/time-based-historian
+
+This one is just Timebase that I used with an external broker - With the Collector separated to allow for multiple different instances of it.
+https://github.com/DMDuFresne/Portainer-Templates/tree/main/Stacks/historian/timebase/scale-out
+
+Both have worked for me - The second one is actively running in my home lab right now.","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:17:38.4940000+08:00","i have the stack up and running from the yaml file","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:17:51.3710000+08:00","but i can not get the collector to connect to a broker.","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:18:19.6680000+08:00","```{
+  ""settings"": {
+    ""Host"": ""144.202.65.194"",
+    ""Port"": 1883,
+    ""UseTls"": false,
+    ""ClientId"": ""MyUniqueClientID1"",  // Added unique ClientId
+    ""Subscriptions"": [
+      {
+        ""Type"": 1,
+        ""QoS"": 2,
+        ""Topics"": [
+          ""Mentorship/Test""
+        ],
+        ""Filter"": """",
+        ""Fields"": {}
+      }
+    ]
+  }
+}
+```","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:18:46.6190000+08:00","this is my config file for my MQTT Collector","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:19:12.6430000+08:00","```04/11/2025 16:18:43 Warning Timebase.Historian.Collector.Collector MQTT plugin connection failed: Failed to connect to broker```","","👍 (1)"
+"897154180001726494","koios6274","2025-04-12T00:21:39.6310000+08:00","Why QoS 2?  Why no # in topic sub?","",""
+"897154180001726494","koios6274","2025-04-12T00:22:53.1240000+08:00","I usually let client auto generate ClientId as well and don't specify","",""
+"817835202746253344","IIoT#4707","2025-04-12T00:22:54.0420000+08:00","GG @Brent Wassell, you just advanced to level 8!","",""
+"1073312001788477471","sparkylarks","2025-04-12T00:23:40.5980000+08:00","Is It the allow anonymous change to the mosquito.conf ?","",""
+"1073312001788477471","sparkylarks","2025-04-12T00:24:18.0700000+08:00","And listener 1883 0.0.0.0","",""
+"1073312001788477471","sparkylarks","2025-04-12T00:25:19.7800000+08:00","I always forget to change those","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:48:09.9540000+08:00","i didn't specify at first but that was a suggested fix","",""
+"1214242167640424619","zack.scriven","2025-04-12T00:48:31.1190000+08:00","just subscribing to one topic.","",""
+"693309801589112862","_dyland","2025-04-12T00:57:19.8420000+08:00","If it helps - Here is my config for my home lab instance -
+
+```
+{
+  ""settings"": {
+    ""Host"": ""192.168.--.---"",
+    ""Port"": 1883,
+    ""UseTls"": false,
+    ""Username"": ""-----"",
+    ""Password"": ""-----"",
+    ""Subscriptions"": [
+      {
+        ""Type"": 2,
+        ""TagnameIncludesTopic"": true,
+        ""TagnameDelimiter"": ""."",
+        ""QoS"": 2,
+        ""Topics"": [
+          ""zigbee2mqtt/Home/#"",
+        ],
+        ""Filter"": "".*(device|update).*""
+      },
+    ]
+  }
+}
+```
+
+On the webpage for the collector, I would also check the `status` page to see the logs, if there is an issue it is usually pretty well logged. * Which I now see you already shared here 🙂","",""
+"693309801589112862","_dyland","2025-04-12T00:57:58.8470000+08:00","The other one, is as Mark Mentioned - The Mosquitto Config was what got me the first time I set Timebase up.","",""
+"693309801589112862","_dyland","2025-04-12T00:59:39.1500000+08:00","I am using Coreflux as the Broker in this instance but have had it working with Mosquitto, EMQX, HiveMQ CE, and HiveMQ Edge at various points as well.","",""
+"693309801589112862","_dyland","2025-04-12T01:02:26.1370000+08:00","-  ""Host"": ""144.202.65.194"",
+
+Is the Broker on the Same Docker Network, External but Local, or in the Cloud? My guess is still a Networking or Authentication issue.","",""
+"898217314741280828","hobbes1069","2025-04-12T04:44:02.7100000+08:00","I assume you're runningit from Portainer? Can you open the console inside the image? If so you can probably try and ping your broker host.","",""
+"1214242167640424619","zack.scriven","2025-04-26T04:34:18.3660000+08:00","Docker container win today. I was having some dependency issues connecting to the discord API using a Python installation on my Mac so I ran the python code on a docker container and it worked perfectly. 🔥","","🔥 (1),👍 (2)"
+"753688565807841492","ravil1","2025-04-26T06:34:26.1150000+08:00","Did you know that you can debug Python code running in a Docker container in VS Code running on your desktop? I realized that just recently.
+In my opinion, it is must to have requirement fro any scripting engine to have a debugger, so you can set breakpoints and see variable values.
+Very helpful if code is not working as expected.","",""
+"1214242167640424619","zack.scriven","2025-04-26T06:34:44.4130000+08:00","I did not","",""
+"753688565807841492","ravil1","2025-04-26T06:39:19.1510000+08:00","Search for ""debugpy"" module. Ask ChatGPT, is gives accurate enough code samples how to use. Will take 10 miutes maybe to start using.
+You will need copy of the code in your local file system though.
+Becomes more challenging when Python code is running in Python interpreter embedded in C++ application, and script code is not in the file system in the container, instead stored in the database.
+Next release of our Visual Logger will have a feature to debug such Python code remotely, in a VS code with the GUI inside of the web broswer. So you even don't need to install VS Code locally. Pretty cool!","",""
+"753688565807841492","ravil1","2025-04-26T06:43:15.4280000+08:00","Speaking of using scripts, other than requirement to have a debugger I would add version control. So you can eaisly track change history, rollback to older commit, etc.","",""
+"1212245669558100021","tyler092335","2025-04-26T23:38:13.4100000+08:00","Since learning about containers, Kubernetes, and Linux my whole thinking of industrial architecture has changed. And for the good. Many of us face the issue of plants running 24x7 365 which leaves no time for any software or hardware maintenance. We of course there is “redundant software packages” but the reality is these can be tedious to implement and maintain. Plus the cost will creep up fast when designing these types of systems. With container swarm and Kubernetes taking a node out for service or testing has been pretty easy especially when using portainer to manage everything. This has been a big win for jumping the no downtime hurdle. 👍👍 plus Linux has now taken over me personal desktop for daily use haha 🤣 arch with kde plasma has been my go to lately","","👍 (2),🔥 (1)"
+"1257501457154834495","javid_51673","2025-04-30T07:19:15.6520000+08:00","Hi all,
+I started to leverage the docker for my dev, test and UAT environment. I configured most of them including the mySQL container using yaml compose file. My designer  is local on Mac. 
+I wrote a Gateway Scheduled Script to :
+1- read ProductCode from database.
+2- call an api, receive Json, pars it
+3- insert in a database 
+I save the project on the designer and I also update it 
+However nothing happens on the gateway.
+Any thoughts?","",""
+"165152178477072384","dawd","2025-04-30T07:37:41.1550000+08:00","Is the project that you wrote the gateway event script in inheritable? Is it set as the gateway scripting project?","",""
+"1257501457154834495","javid_51673","2025-04-30T07:41:55.2190000+08:00","It’s not inherit from any other project. It wrote it inside the same project","",""
+"1057005776213901364","mrmercedes84","2025-05-01T02:25:02.4830000+08:00","I've used Fedora Silverblue recently really like it. The immutable concept is nice.
+
+The thing is a lot of our stuff is windows based , I've seen the windows server core stuff but never tried to run windows in a container , I've an app now that is basically a windows service and need a VM to run it , seems such a waste of resources","",""
+"817835202746253344","IIoT#4707","2025-05-01T02:25:02.9060000+08:00","GG @Rusty Shackleford, you just advanced to level 1!","",""
+"898217314741280828","hobbes1069","2025-05-01T09:27:04.3550000+08:00","yay! Another Fedora user. I've been a Fedora packager since Fedora Core 12.","",""
+"1057005776213901364","mrmercedes84","2025-05-02T03:04:43.1800000+08:00","The advantage of Fedora Silverblue is I can't mess it up !! I bought a second hand Lenovo laptop and must say it's great on it. Takes a bit of getting used to the flatpaks and toolbx but there's always the ostree. Really stable and my main machine now outside the locked down work machine that I can't even change my IP address on anymore","",""
+"873009180938743828","sim_sam3","2025-05-02T04:05:43.4350000+08:00","Anyone worked with or have thoughts on RHEL Universal Base Image?","",""
+"898217314741280828","hobbes1069","2025-05-02T07:21:54.6210000+08:00","Haven't played with it yet... IT still uses bog standard RHEL VM installs.","","👍 (1)"
+"1212245669558100021","tyler092335","2025-05-03T07:27:49.3390000+08:00","I’ve tried fedora 25 with KDE plasma and I think it’s a good distro for business use. Especially with being built with SElinux. For personal use I like to use a rolling distro, I like seeing all the new stuff and tweaking it.","",""
+"537493750621143041","hisma","2025-05-03T09:11:15.3850000+08:00","portainer ftw.  they're trying to break into the industrial automation space w/ their portainer edge product for fleet management.","",""
+"1212245669558100021","tyler092335","2025-05-03T09:14:35.6270000+08:00","It would be really cool to start seeing oem’s using like a Opto 22 epic running portainer edge and a ignition container. Then when the equipment gets on side you just connect to the nodes and start consuming data within seconds.","","💯 (1)"
+"817835202746253344","IIoT#4707","2025-05-03T09:14:36.7460000+08:00","GG @Tyler, you just advanced to level 5!","",""
+"898217314741280828","hobbes1069","2025-05-03T10:35:18.4860000+08:00","Wow, been a while then! I'm going to upgrade to Fedora 42 soon. The upgrades have gotten really stable. Not like the old days.","",""
+"1212245669558100021","tyler092335","2025-05-04T01:54:53.5250000+08:00","I agree @Richard Shaw Linux desktop distros have finally gotten to the point where the everyday user could probably use it. Especially if they pick something like mint or Ubuntu’s latest release. Last week while I was at the eye doctor I noticed when he logged into his computer they were libre office tools instead of Microsoft.","",""
+"1073312001788477471","sparkylarks","2025-05-04T07:50:19.6370000+08:00","You can use portainer with Wagon devices. Works well.
+
+I have heard it will be supported in the next Opto 22 release, and the tulip edge device","","✅ (1)"
+"1212245669558100021","tyler092335","2025-05-06T07:00:31.6660000+08:00","So far I have had one oem support having a opc ua server and connecting to it and adding data to it was done within minutes. All the engineers were blown away. Having a oem support containers and something like a Opto or wago where you can have the oem point it at a url and it automatically connect to the ecosystems is going to be even better","",""
+"753688565807841492","ravil1","2025-05-07T03:49:45.7250000+08:00","Hi Tyler, can you prodive more details? 
+I am curious because using Docker every day, and all our products can run on Docker. 
+To manage containers running in Docker hosted by Windows or Linux machines, also use Portainer. For those runnign in Industrial PC using balena.io, because additionally to having all the features that Portainer has, it also provides remote fleet-level deployment amd management of these IPCs, too.","",""
+"544957609137012746","mkult1a","2025-05-07T03:57:44.3770000+08:00","Here's a docker compose stack I'm working on for spinning up an MQTT Broker (HiveMQ Edge) and Historian (Timebase) together.
+https://github.com/mkeras/iiot-edge-stack","","👍 (1),Flow (2),timebase (1),🔥 (1)"
+"1257501457154834495","javid_51673","2025-06-09T02:28:10.1440000+08:00","FYI all: Docker containers, by default use the UTC timezone. I define the  TZ environment variable in compose yml file. 
+Everything works fine 🙂","",""
+"1057005776213901364","mrmercedes84","2025-06-12T04:28:57.1330000+08:00","Was wondering has anyone containerised plc software like TIA or Rockwell 5000. From what I've seen people just either seem to run it virtually on a VMWare/HyperV VM or physically install it on their laptops.","",""
+"898217314741280828","hobbes1069","2025-06-13T06:02:11.1520000+08:00","You need to explain that a bit more before I ban you.","","😂 (1)"
+"898217314741280828","hobbes1069","2025-06-13T06:04:06.5000000+08:00","Ok, you need to be more explicit and detailed. Your choice of wording came off very spam-ish.","",""
+"898217314741280828","hobbes1069","2025-06-13T06:10:08.4760000+08:00","Ok, that's why I was careful. I assumed english might not be your first language and wanted to give you the benefit of the doubt. I think people here will be looking for details. What kinds of things do you develop? What programming languages? What's your goal?","",""
+"817835202746253344","IIoT#4707","2025-06-13T06:13:38.8030000+08:00","GG @kai, you just advanced to level 1!","",""
+"867075936054149191","rickbullotta","2025-06-13T21:31:34.4150000+08:00","Go away, spammer.","",""
+"867075936054149191","rickbullotta","2025-06-13T21:51:13.3590000+08:00","You spammed multiple channels.  Go away.","",""
+"817835202746253344","IIoT#4707","2025-06-13T21:52:07.3610000+08:00","GG @kai, you just advanced to level 2!","",""
+"1057005776213901364","mrmercedes84","2025-06-14T01:27:21.1630000+08:00","Advanced to level 2 , bots rewarding bots. Maybe Ai has taken over ...","",""
+"817835202746253344","IIoT#4707","2025-06-14T01:27:21.4570000+08:00","GG @Rusty Shackleford, you just advanced to level 2!","","😄 (1)"
+"1057005776213901364","mrmercedes84","2025-06-14T01:28:00.8290000+08:00","","https://cdn.discordapp.com/attachments/1241156223743823952/1383135836153053194/IMG-20250607-WA0009.jpg?ex=68df5ee0&is=68de0d60&hm=ab7968ed6227b50f911eb60bf4526dfc57be7cc97217e11c108ee8779d9a40eb&","💯 (1),🤣 (1)"
+"537493750621143041","hisma","2025-06-20T01:09:26.9280000+08:00","me seeing folks on the sidelines completely dismissing AI while I 10x my efficiency with AI-based workflows 😉","",""
+"894527802316046366","nickn5549","2025-06-20T19:32:22.8050000+08:00","It's not AI, it is A1 - I know from high sources https://www.youtube.com/shorts/xsRUk0dMJu4 🤣","","😂 (1),🧠 (1)"
+"696134466057273384","slamber12","2025-07-18T11:50:00.8320000+08:00","Is this the right channel for kubernetes questions? Trying to understand some of the failover capabilities and automation","",""
+"696134466057273384","slamber12","2025-07-18T11:50:22.2360000+08:00","Particularly if anyone has experience with a highbyte deployment in kubernetes","",""
+"783917475128410112","geoffnunan","2025-07-18T12:12:21.1880000+08:00","I have plenty of kubernetes experience, and a little with highbyte.
+There are several ways to configure kubernetes depending on what the application you are hosting supports. For non-clustered applications it we be automatically spinning up a new instance in a similar way to docker restart-always.
+For clustered applications you can get more sophisticated with rolling updates.","",""
+"696134466057273384","slamber12","2025-07-18T12:23:30.7840000+08:00","Thanks! I’m not sure of the terminology this part is all foreign to me but I’m told Kubernetes may automatically restart a pod if it sees an issue with performance? If there is data in a pipeline queue (pipeline is slower than incoming data - back pressure issue) when this happens, I am told this queue is totally lost, poof. This is really bad in a GXP world so I’m just trying to understand if we’re doing something wrong or if we should take a different approach","",""
+"696134466057273384","slamber12","2025-07-18T12:24:49.9890000+08:00","And to be fair I don’t expect our production data to actually exceed the pipeline but we’re testing performance limits and it’s possible some data producer could have an error and create this problem","",""
+"783917475128410112","geoffnunan","2025-07-18T13:09:45.5590000+08:00","Kubernetes will try to restart a pod if it becomes unhealthy. If the application you are running does not persist it's data to a shared volume in a durable way, the data would indeed be lost. Think a pod like a virtual server. When kubernetes restarts a pod, it throws the server in the bin and makes a completely new one.
+Data that needs to be persisted across server restarts must be stored in volumes that are outside the pod, just like network attached storage for servers.","",""
+"783917475128410112","geoffnunan","2025-07-18T13:10:53.2450000+08:00","Arden Labs have great online courses on kubernetes that all of our team take as part of their training.","",""
+"756543760028139720","aronsemle","2025-07-18T22:32:05.1900000+08:00","@Slamber to add to what @GeoffNunan mentioned, yes anything ""in memory"" on a shutdown is gone, but you should be able to design the pipeline in HB such that it stores evets/data to a volume and and clears it once processing is complete. You may already be, but feel free to contact support for help on this.","",""
+"696134466057273384","slamber12","2025-07-18T23:48:55.9900000+08:00","Thanks we’re working through it with support too I wanted to understand what’s happening in kubernetes the scenario we need to design for 🙂","",""
+"696134466057273384","slamber12","2025-07-18T23:49:56.7050000+08:00","Also our data queues up on MQTT but once HB reads it, the MQTT queue is gone so we have a bottleneck in our pipeline if too much data goes in the pipeline queue before it’s processed","",""
+"756543760028139720","aronsemle","2025-07-19T00:41:14.3700000+08:00","Gotcha, yeah what you probably want to do is configure a pipeline that reads the MQTT topic(s) and writes them to disk (aka the volume) and then another pipeline that reads these in chunks from the volume and processes them. Once it's done it clears the messages it processed from the storage. This way you on a reboot you won't lose anything. It will create delays because of the I/O but you should be able to tune the reads to process N events at a time to make it more efficient I'm guessing","","❤️ (1)"
+"756543760028139720","aronsemle","2025-07-19T00:44:29.7660000+08:00","But it's a good call out that pods can be rebooted by default. You'll want to make sure you explicitly set the memory limits","",""
+"343452320216121345","hanno23","2025-07-28T14:58:54.6650000+08:00","Started a thread.","",""
+"1214242167640424619","zack.scriven","2025-08-06T03:45:43.6600000+08:00","has anyone been able to get timebase stack working in docker? I'm having trouble with the explorer connecting to the historian container.","",""
+"1214242167640424619","zack.scriven","2025-08-06T03:53:49.9460000+08:00","i figured it out!","https://cdn.discordapp.com/attachments/1241156223743823952/1402379089553133678/Screenshot_2025-08-05_at_3.53.32_PM.png?ex=68df810d&is=68de2f8d&hm=b2b2d6fd524aa7edd81d216a20ddfe426cb014aa404e7145226e39950d7fa16d&","🔥 (3),👍🏻 (2)"
+"1214242167640424619","zack.scriven","2025-08-06T03:56:43.3600000+08:00","i had to update the /config/sources.config file to use the IP address of the historian instead of localhost","https://cdn.discordapp.com/attachments/1241156223743823952/1402379816690389062/Screenshot_2025-08-05_at_3.55.23_PM.png?ex=68df81bb&is=68de303b&hm=32a4981b8033005848126ca207b642123222db3f5bc54792f99604ed48650453&","💯 (1)"
+"794020366536146977","mparris","2025-08-06T07:37:47.1640000+08:00","Are you running Explorer and Historian on the same host?
+
+You may be interesting in creating a Docker network, then refer to the historian by host name instead of IP Address","",""
+"1214242167640424619","zack.scriven","2025-08-06T07:39:35.0640000+08:00","i'm exploring multiple options. but the default localhost did not seem to work unless it was running in a windows enviornment","",""
+"794020366536146977","mparris","2025-08-06T07:41:56.1230000+08:00","I’d have to see your compose file to see your network settings for the Explorer container…but if you didn’t change from docker default, then it’s using the docker load balancer…and in that case, localhost refers to the docker container itself and not the host pc","",""
+"898217314741280828","hobbes1069","2025-08-06T09:41:26.3130000+08:00","Without knowing the specifics of your setup, docker runs in a separate virtual network, so terms like ""localhost"" often have a different meaning from what you expect.","",""
+"1214242167640424619","zack.scriven","2025-08-07T02:10:55.4560000+08:00","```version: '3.8'
+
+services:
+  historian:
+    image: timebase/historian:latest
+    container_name: historian
+    ports:
+      - ""4511:4511""
+      - ""4512:4512""
+    volumes:
+      - historian_data:/historian/data
+      - historian_logs:/historian/logs
+      - historian_settings:/historian/settings
+
+  collector:
+    image: timebase/collector:latest
+    container_name: collector
+    ports:
+      - ""4521:4521""
+      - ""4522:4522""
+    volumes:
+      - collector_data:/collector/data
+      - collector_logs:/collector/logs
+      - collector_settings:/collector/settings
+
+  explorer:
+    image: timebase/explorer:latest
+    container_name: explorer
+    ports:
+      - ""4531:4531""
+      - ""4532:4532""
+    volumes:
+      - explorer_data:/explorer/data
+      - explorer_logs:/explorer/logs
+      - explorer_settings:/explorer/settings
+
+volumes:
+  historian_data:
+  historian_logs:
+  historian_settings:
+  collector_data:
+  collector_logs:
+  collector_settings:
+  explorer_data:
+  explorer_logs:
+  explorer_settings:
+```","",""
+"1214242167640424619","zack.scriven","2025-08-07T02:11:29.1870000+08:00","is there some change i can make in my compose file so that i don't need to make that chnage?","",""
+"1214242167640424619","zack.scriven","2025-08-07T02:21:35.0220000+08:00","I’m running this as a portainer stack too.","",""
+"693309801589112862","_dyland","2025-08-07T06:08:05.6610000+08:00","This goes way too deep but I would suggest looking deeper into how Docker Networking works. Easiest is to set up a Bridged Network in the compose file and specify the Hostname for each container. https://www.youtube.com/watch?v=bKFMS5C4CG0","",""
+"1003237589421137992","gregory.g.","2025-08-10T20:01:55.6350000+08:00","I had the same issues. Tried the supporting service but couldn't figure out what is going wrong. I tried the official tutorial from the website and also dufrense version. I have a Linux setup.
+
+Good idea Zack.. I will bind data persistent folders, and look if something needs to be changed in the configuration files.
+ https://github.com/DMDuFresne/time-based-historian","",""
+"753688565807841492","ravil1","2025-08-13T14:35:30.7350000+08:00","I don't see any ""networks:"" sections here. How your containers you expect  should to communicate to each other? In this setup you cannot use service names as host names.","",""
+"898217314741280828","hobbes1069","2025-08-13T20:37:28.0800000+08:00","Yeah, I know if you specify one Portainer will greate a network for you but I don't know what the default settings are for it.","",""
+"1214242167640424619","zack.scriven","2025-08-14T01:34:01.6320000+08:00","Through the host adapter is how they are communicating.","",""
+"898217314741280828","hobbes1069","2025-08-14T19:58:59.5690000+08:00","You mean the physical Ethernet adapter? Yes. @Ravil is talking about the virtual networks that Docker uses.","",""
+"1214242167640424619","zack.scriven","2025-08-14T21:31:19.5350000+08:00","Correct. Yeah I don’t think that was configured in this stack. Need to do a bit more playing around with the docker networks","",""
+"898217314741280828","hobbes1069","2025-08-15T07:43:23.5400000+08:00","Yeah, you have lots of options (good and bad thing). By default Portainer will create a network when you launch a stack if you don't specify one.","",""
+"1031940518730543106","thunt.career","2025-08-15T19:46:35.8960000+08:00","Docker compose sets up a single network based on the file name if no networks are specified. All containers in the file are joined to it and can reference by service name.","","💯 (2)"
+"753688565807841492","ravil1","2025-08-24T20:49:15.4060000+08:00","Cool, I didn't know this. I always define the network explicitely.","",""

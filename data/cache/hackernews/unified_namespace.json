@@ -1,0 +1,129 @@
+{
+  "keyword": "unified namespace",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collection_date": "2025-10-06T15:52:48.341968",
+  "total_posts": 4,
+  "posts": [
+    {
+      "platform": "hackernews",
+      "post_id": "44793165",
+      "title": "",
+      "content": "Do you have any users yet? What’s your target size manufacturing company? I’ve been in the industrial software space for a while, and at least for large MFG, you only see the major players, with SAP being the most common. There is this “UNS” concept that’s been around for 5ish years now and has caught steam (unified namespace, google and you’ll find it). It has holes from a technical standpoint, but it will get attention if you can show how it works with factory data in a UNS. Happy to help if i can. I work at a company that does industrial dataops now, focused on getting shop floor data in&#x2F;out of the factory with context.",
+      "author": "ronameels",
+      "score": 0,
+      "descendants": 0,
+      "type": "comment",
+      "url": "",
+      "created_at": "2025-08-05 00:55:41 UTC",
+      "timestamp": "2025-08-05 00:55:41 UTC"
+    },
+    {
+      "platform": "hackernews",
+      "post_id": "43089041",
+      "title": "Redefining IoT Data Management: HiveMQ's Unified Namespace Approach",
+      "content": "",
+      "author": "anafady",
+      "score": 3,
+      "descendants": 3,
+      "type": "story",
+      "url": "https://www.hivemq.com/blog/announcing-hivemq-pulse-distributed-data-intelligence-platform/",
+      "created_at": "2025-02-18 13:07:31 UTC",
+      "timestamp": "2025-02-18 13:07:31 UTC"
+    },
+    {
+      "platform": "hackernews",
+      "post_id": "39504728",
+      "title": "",
+      "content": "That isn&#x27;t necessarily incompatible with alternate domain name systems. If OpenNIC is registering names under .pirate and ICANN is aware of this then it can simply refrain from using .pirate as a TLD and you still have a unified namespace. It just happens by consensus rather than central authority.<p>If they would get along a little better then you might even have the ICANN root servers direct queries for those TLDs to the OpenNIC servers. It&#x27;s not obvious what benefit is achieved by not doing this.",
+      "author": "zrm",
+      "score": 0,
+      "descendants": 0,
+      "type": "comment",
+      "url": "",
+      "created_at": "2024-02-25 21:04:22 UTC",
+      "timestamp": "2024-02-25 21:04:22 UTC"
+    },
+    {
+      "platform": "hackernews",
+      "post_id": "39124320",
+      "title": "",
+      "content": "Where I think many people get weaker abstractions of this in their mind is where the OP hints:<p>&gt; <i>and therefore a more accurate description of this feature is Everything is a file descriptor</i><p>The filesystem is where files go to get names, and to be organized. But critically, not everything is a <i>normal</i> file, which I think is where people experience the most &quot;the abstraction is leaky!&quot; feelings. I don&#x27;t think the abstraction <i>needs</i> everything to be a normal file, but I think there is still a lot of use in having a unified namespace for all the various types of files, normal or otherwise. (As opposed to having disparate namespaces for files of different types.)<p>For the &quot;file descriptor&quot; half, the value is being able to wait on events&#x2F;event completion for a set of <i>heterogeneous</i> file descriptors, but boy did it take a while to get there with usable interfaces for that.",
+      "author": "deathanatos",
+      "score": 0,
+      "descendants": 0,
+      "type": "comment",
+      "url": "",
+      "created_at": "2024-01-24 23:55:35 UTC",
+      "timestamp": "2024-01-24 23:55:35 UTC"
+    }
+  ],
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "unified namespace",
+    "total_posts": 4,
+    "total_interactions": 6,
+    "unique_authors": 4,
+    "top_contributors": [
+      {
+        "author": "ronameels",
+        "post_count": 1,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ronameels"
+      },
+      {
+        "author": "anafady",
+        "post_count": 1,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=anafady"
+      },
+      {
+        "author": "zrm",
+        "post_count": 1,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=zrm"
+      },
+      {
+        "author": "deathanatos",
+        "post_count": 1,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=deathanatos"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Redefining IoT Data Management: HiveMQ's Unified Namespace Approach",
+        "interactions": 6,
+        "author": "anafady",
+        "created_at": "2025-02-18 13:07:31 UTC",
+        "url": "https://news.ycombinator.com/item?id=43089041",
+        "platform": "hackernews"
+      },
+      {
+        "title": "No title",
+        "interactions": 0,
+        "author": "ronameels",
+        "created_at": "2025-08-05 00:55:41 UTC",
+        "url": "https://news.ycombinator.com/item?id=44793165",
+        "platform": "hackernews"
+      },
+      {
+        "title": "No title",
+        "interactions": 0,
+        "author": "zrm",
+        "created_at": "2024-02-25 21:04:22 UTC",
+        "url": "https://news.ycombinator.com/item?id=39504728",
+        "platform": "hackernews"
+      },
+      {
+        "title": "No title",
+        "interactions": 0,
+        "author": "deathanatos",
+        "created_at": "2024-01-24 23:55:35 UTC",
+        "url": "https://news.ycombinator.com/item?id=39124320",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {}
+  }
+}

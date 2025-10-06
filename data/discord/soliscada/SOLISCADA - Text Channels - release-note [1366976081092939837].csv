@@ -1,0 +1,12 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"1323501936674082826","jessielu0411","2025-04-30T11:17:04.3000000+08:00","📢 Release Note @everyone 
+Product: SOLISCADA
+Version: V7.00.00.00
+Release Date: April 30, 2025
+Download Link: https://supos.app:8090/SoliSCADA/SOLISCADA%20V7.00.00.00-250418-M_DiskFile.zip
+✨ New Feature
+Bulk Import/Export of Point Groups
+You can now batch import and export point groups, making it faster and easier to manage large point configurations and streamline your project setup.
+
+🛠 Bug Fixes
+Resolved various known issues to improve overall system stability and user experience.","","👍 (1)"
