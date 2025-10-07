@@ -1,0 +1,2625 @@
+{
+  "status": "success",
+  "data_source": "time_all",
+  "total_posts": 48,
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "5cMqL9oUk_Y",
+      "title": "What is the Unified NameSpace?",
+      "content": "We help manufacturers digitally transform. Learn to architect and build Industry 4.0 solutions. \ud83d\udc49 https://www.iiot.university Want to schedule a 1-on-1 with Walker? \ud83d\udc49 https://www.iiot.university/offers/3ryjkLGS/checkout Thanks for watching! Subscribe! \ud83d\udc49 https://bit.ly/SubTo40Solutions LinkedIn \ud83d\udc49 https://bit.ly/40SolutionsLinkedIn Twitter \ud83d\udc49 https://bit.ly/40SolutionsTwitter Want to learn more? Join our community Discord Server \ud83d\udc49 https://bit.ly/Industry40DIscord Take the FREE IIoT Mini-Course \ud83d\udc49 https://bit.ly/iiotmini-course #UNS #UnifiedNamespace #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2022-10-18 17:00:10+00:00",
+      "url": "https://www.youtube.com/watch?v=5cMqL9oUk_Y",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5cMqL9oUk_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5cMqL9oUk_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5cMqL9oUk_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5cMqL9oUk_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5cMqL9oUk_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5cMqL9oUk_Y",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 32086,
+      "like_count": 642,
+      "comment_count": 61,
+      "duration": "PT17M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ywiHxnm2Bnk",
+      "title": "Automation Pyramid and the Unified Namespace | Unified Namespace (UNS) Basics 1",
+      "content": "In this first part of the UNS Basics mini series, we introduce the Automation Pyramid as a system to control the plant. We highlight the challenges related to data analytics and present the Unified Namespace as the solution. We also show how the Automation Pyramid connects to the Unified Namespace, according to the United Manufacturing Hub's philosophy. Finally, we briefly discuss where historical data from the Unified Namespace is saved. \u27a1\ufe0f If you are interested in learning more about the Automation Pyramid and the Unified Namespace, visit our website: https://www.umh.app/ \u27a1\ufe0f Watch the full playlist on Unified Namespace: https://www.youtube.com/watch?v=jNv1tHc7GGk&list=PLeC0OzgWYQfuD9Jb2eUoSbv5Vu0xxSm0k Other Links: - Video about data flow into MQTT brokers: https://www.youtube.com/watch?v=Q_Hb0d6DqxY - In depth article on The Foundations of the Unified Namespace in Operational Technology: https://learn.umh.app/lesson/chapter-1-the-foundations-of-unified-namespace-in-ot/ ------",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-06-17 11:20:53+00:00",
+      "url": "https://www.youtube.com/watch?v=ywiHxnm2Bnk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ywiHxnm2Bnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ywiHxnm2Bnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ywiHxnm2Bnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ywiHxnm2Bnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ywiHxnm2Bnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ywiHxnm2Bnk",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 2988,
+      "like_count": 40,
+      "comment_count": 2,
+      "duration": "PT6M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "AjIgJ6sSrnU",
+      "title": "Unified Namespace and Historians",
+      "content": "4.0 Solutions and Walker Reynolds answer how does the Unified Namespace work with historians? Walker Reynolds answers questions from Justin, SME in ML at Intellic integration. Welcome to another 40 Solutions video! \ud83c\udf89 If you found value in this video, please hit the 'Subscribe' button and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions Connect with us on social media: LinkedIn: https://bit.ly/40SolutionsLinkedIn Facebook: https://bit.ly/4-0Facebook Twitter: https://bit.ly/40SolutionsTwitter Ready to dive deeper into the world of IIoT and Industry 4.0? \ud83c\udf10 Join our thriving community on Discord and engage with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Supercharge your IIoT knowledge with our FREE Mini-Course! \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c 00:00 Why and how are the UNS and historians coupled? 09:24 UNS semantic hierarchy 13:41 4.0 Solutions and integrator partners unified data",
+      "author": "4.0 Solutions",
+      "timestamp": "2023-06-07 19:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=AjIgJ6sSrnU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AjIgJ6sSrnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AjIgJ6sSrnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjIgJ6sSrnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AjIgJ6sSrnU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AjIgJ6sSrnU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "AjIgJ6sSrnU",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 10107,
+      "like_count": 179,
+      "comment_count": 43,
+      "duration": "PT22M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9tHSjB3tOrc",
+      "title": "5 Components of Unified Namespace (UNS)",
+      "content": "In this video, we break down the concept of a hashtag Unified Namespace (UNS) and explore the different ways you can connect components within your architecture. We also dive into the key components that define a #unifiednamespace: \ud83d\udd39 Event-Driven Architecture: How producers, brokers, and consumers interact in real-time \ud83d\udd39 Standardized Topic Hierarchy: The importance of a structured format for data organization \ud83d\udd39 Message Broker: Why sending all data to the broker can be beneficial, even if it feels redundant \ud83d\udd39 Stream Processing or Data Contextualization: How to ensure your data is in the right format and context \ud83d\udd39 Protocol Converters: Bridging the gap between incompatible data sources and your message broker \ud83d\udc49 Whether you're in IT or OT, understanding these components can help you scale your system efficiently. To dive deeper and learn more about hashtag UNS, check out our blog series: https://learn.umh.app/lesson/chapter-1-the-foundations-of-unified-namespace-in-ot/ \ud83d\udc49 Additiona",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-09-03 18:29:51+00:00",
+      "url": "https://www.youtube.com/watch?v=9tHSjB3tOrc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9tHSjB3tOrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9tHSjB3tOrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9tHSjB3tOrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9tHSjB3tOrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9tHSjB3tOrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9tHSjB3tOrc",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 842,
+      "like_count": 20,
+      "comment_count": 1,
+      "duration": "PT4M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Q07cXwfIYGs",
+      "title": "What is a Unified Namespace?!? And why it's the Industry 4.0 Linchpin",
+      "content": "Thank you to MaintainX for soonsoring this video: Get a free 30-Day Trial https://www.getmaintainx.co Download the Steps and Keys Guide https://bit.ly/stepsandkeys If you found value, don\u2019t forget to hit *Subscribe* and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-05-09 17:51:39+00:00",
+      "url": "https://www.youtube.com/watch?v=Q07cXwfIYGs",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q07cXwfIYGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q07cXwfIYGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q07cXwfIYGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q07cXwfIYGs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q07cXwfIYGs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Q07cXwfIYGs",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1763,
+      "like_count": 58,
+      "comment_count": 14,
+      "duration": "PT8M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "wqcdqO6mCE8",
+      "title": "What is Unified Namespace (UNS) and Why Does it Matter? | UNS Essentials Part 1",
+      "content": "Welcome to the first part of our Unified Namespace (UNS) Essentials series, a practical guide designed for IIoT Solution Architects and Digital Transformation Specialists in manufacturing to utilize this highly efficient architectural approach. In this series, you will learn what the Unified Namespace is and why it matters, how it works and how to implement it using MQTT and Sparkplug. In this part 1, we will cover: Disadvantages of Traditional Industrial Architecture Introduction to Unified Namespace Benefits of Unified Namespace Unified Namespace (UNS) is a novel solution that allows you to collect data from various industrial IoT (IIoT) systems, add context to it, and transform it into a format that other systems can understand. Time Stamps: 0:00 Introducing UNS Essentials Series 01:00 What is Unified Namespace (UNS)? 01:18 Disadvantages of Traditional Industrial Architecture 04:51 Introducing the Unified Namespace 07:51 What are the Benefits of the Unified Namespace? Resources:",
+      "author": "HiveMQ",
+      "timestamp": "2023-02-24 14:45:03+00:00",
+      "url": "https://www.youtube.com/watch?v=wqcdqO6mCE8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wqcdqO6mCE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wqcdqO6mCE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wqcdqO6mCE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wqcdqO6mCE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wqcdqO6mCE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "wqcdqO6mCE8",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 6155,
+      "like_count": 96,
+      "comment_count": 3,
+      "duration": "PT9M2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Guk1BsqmW5o",
+      "title": "Demo: Applying a Unified Namespace",
+      "content": "A unified namespace (UNS) can improve your system\u2019s data accessibility, cost efficiency, traceability, scalability, decision-making, and more. In this demonstration, CTO of Cirrus Link Solutions Arlen Nipper explains how to build and apply a UNS without coding into cloud applications by leveraging Ignition UDTs, MQTT, and Sparkplug. DEMO HIGHLIGHTS - Ignition gateway - Ignition designer - Devices - Ignition Edge and UDTs - UNS - Smart Factory - Snowflake (SQL platform in the cloud) #Snowflake #SQL #MQTT #UDT #Sparkplug #UnifiedNameSpace #UNS -------------------------------------------------- FREE DOWNLOADS: \u2747\ufe0f Ignition Maker Edition for hobbyists, students, home automation, and more: https://bit.ly/free-maker \u2733\ufe0f Ignition (Full Version) for SCADA, MES, HMI, IIoT, Enterprise and more: https://bit.ly/free-ignition \u2734\ufe0f Ignition Exchange - Free Ignition projects and templates: https://bit.ly/free-exchange -------------------------------------------------- \ud83d\uded1 FOLLOW US ON SOCIAL MEDIA!",
+      "author": "Inductive Automation",
+      "timestamp": "2023-07-26 15:45:01+00:00",
+      "url": "https://www.youtube.com/watch?v=Guk1BsqmW5o",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ignition software",
+          "industrial automation",
+          "factory automation",
+          "digital transformation",
+          "automation technology",
+          "industry 4.0",
+          "scada software",
+          "scada system",
+          "process control",
+          "scada control system",
+          "industrial engineering",
+          "automated systems",
+          "manufacturing intelligence",
+          "enterprise software",
+          "software for manufacturing",
+          "automation software",
+          "enterprise digital transformation",
+          "systems integration",
+          "scada hmi",
+          "snowflake",
+          "mqtt",
+          "sparkplug",
+          "udt",
+          "unified name space",
+          "unified namespace"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Guk1BsqmW5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Guk1BsqmW5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Guk1BsqmW5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Guk1BsqmW5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Guk1BsqmW5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Guk1BsqmW5o",
+      "channel_id": "UCs-a_tI2AYkUSWKKZLH3yPQ",
+      "view_count": 3256,
+      "like_count": 33,
+      "comment_count": 0,
+      "duration": "PT6M13S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "QnEGIaIQQlI",
+      "title": "What is a unified namespace?",
+      "content": "Understanding Industrial Unified Namespace: The Future of Data Integration Discover how a unified namespace revolutionizes industrial operations by creating a single source of truth for all your data. Learn why leading manufacturers are adopting this game-changing approach to data management and AI implementation. In this comprehensive guide, we cover: \u2022 What is a Unified Namespace? \u2022 Key benefits and applications in industrial AI \u2022 Real-world implementation \u2022 AI integration and scalability \u2022 Best practices and tips You'll learn about: \u2022 Data integration and contextualization \u2022 AI-powered insights and automation \u2022 Predictive maintenance capabilities \u2022 Real-time monitoring and analytics \u2022 Scalable industrial solutions \u2022 Connected worker empowerment This video provides essential insights for process engineers, data scientists, and operations managers looking to leverage unified namespace technology for industrial automation and industrial AI applications. Additional resource",
+      "author": "SymphonyAI",
+      "timestamp": "2025-03-20 17:35:04+00:00",
+      "url": "https://www.youtube.com/watch?v=QnEGIaIQQlI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Symphony RetailAI",
+          "AI",
+          "retail",
+          "cpg",
+          "Artificial Intelligence",
+          "retail insights",
+          "retail transformation",
+          "cloud-based software"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnEGIaIQQlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnEGIaIQQlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnEGIaIQQlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QnEGIaIQQlI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QnEGIaIQQlI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "QnEGIaIQQlI",
+      "channel_id": "UConhk3DwQ6ZP6Hm9L1gcKNw",
+      "view_count": 132,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT2M49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zRh8S0x1EpI",
+      "title": "How a Unified Namespace (UNS) Works: Live Demo",
+      "content": "See a live Unified Namespace (UNS) in action from Hannover Messe 2025. We show how real-time data flows from the edge to the cloud. In this live demonstration, we give a tour of a Unified Namespace (UNS) built specifically for the event. This demo features Tulip integrated with: \u2022 HighByte for data aggregation and normalization. \u2022 HiveMQ as the MQTT broker. \u2022 Snowflake as the cloud data historian. The ultimate goal of this architecture is to create a simple, human-readable data schema. This allows you to access information across all systems in real-time and build new applications faster than ever. Thanks for checking out our video! \ud83d\ude0e Take a Virtual Tour of the Tulip Experience Center \ud83d\udc49 https://tulip.co/tec-virtual-tour/ Try Tulip Free for 30 Days! \ud83d\udc49 https://tulip.co/trial/ Speak to a member of our team: https://tulip.co/contact-sales/ Visit the Tulip Experience Center at our Somerville HQ \ud83d\udc49 https://tulip.co/tulip-experience-center/ If you're interested in being notified the ne",
+      "author": "Tulip",
+      "timestamp": "2025-04-16 20:55:59+00:00",
+      "url": "https://www.youtube.com/watch?v=zRh8S0x1EpI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "unified namespace",
+          "UNS",
+          "data architecture",
+          "real-time data",
+          "industry 4.0",
+          "Hannover Messe 2025",
+          "Tulip",
+          "HighByte",
+          "HiveMQ",
+          "Snowflake",
+          "MQTT",
+          "industrial data",
+          "IoT",
+          "smart factory",
+          "data normalization"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zRh8S0x1EpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zRh8S0x1EpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRh8S0x1EpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zRh8S0x1EpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zRh8S0x1EpI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zRh8S0x1EpI",
+      "channel_id": "UC9KlRSrYUHXYDDLIYh0WjkQ",
+      "view_count": 136,
+      "like_count": 3,
+      "comment_count": 1,
+      "duration": "PT1M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "kl81S0S7o4k",
+      "title": "Demystifying Unified Namespace - Part 1: Intro",
+      "content": "This conversation delves into the concept of Unified Namespace (UNS), exploring its significance in data integration and access within industrial settings. The speakers discuss the challenges and misconceptions surrounding UNS, emphasizing its role in providing centralized access to contextualized data. They highlight the importance of starting small while keeping a broader vision in mind for successful implementation. The discussion also touches on the relationship between UNS and existing systems, as well as the need for effective data modeling and naming conventions. More at https://analyticsforindustry.com/ Chapters 00:00 Understanding the Concept of UNS 02:05 The Role of Data in UNS 05:09 Challenges and Misconceptions of UNS 08:07 Implementing UNS in Existing Systems 11:11 Final Thoughts and Next Steps",
+      "author": "Analytics for Industry",
+      "timestamp": "2025-04-28 07:33:11+00:00",
+      "url": "https://www.youtube.com/watch?v=kl81S0S7o4k",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kl81S0S7o4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kl81S0S7o4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kl81S0S7o4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kl81S0S7o4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kl81S0S7o4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "kl81S0S7o4k",
+      "channel_id": "UC1HBNnmA0lXONiwVzXoGTrw",
+      "view_count": 183,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT12M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "V-N64m3sPCQ",
+      "title": "What is a Unified Namespace and how to build one | ISEE 2023",
+      "content": "Turning abstract, complex concepts into practical, actionable information is our favourite thing. This is our way of building a Unified Namespace using Ignition and MQTT. Mathias will present to you what a UNS is, why it is useful, and how we go about building one. Access the slides: https://enuda.eu/what-is-a-unified-namespace-and-how-to-build-one/ 00:00 Agenda 00:37 Current problems 03:53 The solution 06:36 What is MQTT? 12:32 Infrastructure 14:24 Structure of the UNS 19:48 Location of the UNS 22:13 Data in the UNS 25:12 Benefits of UNS 26:10 How to build a UNS in Ignition 30:57 Demo 44:23 Take-home messages Join the discussions on our new Discord server for the European community of Ignition enthusiasts: https://discord.gg/n7AAzxtKkV",
+      "author": "Enuda",
+      "timestamp": "2023-04-27 10:45:54+00:00",
+      "url": "https://www.youtube.com/watch?v=V-N64m3sPCQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V-N64m3sPCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V-N64m3sPCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V-N64m3sPCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V-N64m3sPCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V-N64m3sPCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "V-N64m3sPCQ",
+      "channel_id": "UC5v6KzPoq4xMOAgfZCQcRDA",
+      "view_count": 2271,
+      "like_count": 55,
+      "comment_count": 0,
+      "duration": "PT46M45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6fgl5sbZ_UY",
+      "title": "Add Historical Data Access and Data Transformation to the Unified Namespace (UNS)",
+      "content": "An overview of how a Unified Analytics Framework architecture, or UAF, provides historical data access and transfer, as well as a centrally governed data transformation process to the unified namespace.",
+      "author": "Flow Software",
+      "timestamp": "2024-10-22 16:01:09+00:00",
+      "url": "https://www.youtube.com/watch?v=6fgl5sbZ_UY",
+      "metadata": {
+        "category_id": "26",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6fgl5sbZ_UY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6fgl5sbZ_UY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6fgl5sbZ_UY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6fgl5sbZ_UY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6fgl5sbZ_UY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6fgl5sbZ_UY",
+      "channel_id": "UCeasxEQJfDS7Duomb3lle2Q",
+      "view_count": 1751,
+      "like_count": 34,
+      "comment_count": 4,
+      "duration": "PT16M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jNv1tHc7GGk",
+      "title": "What is Event-Driven Architecture and MQTT | Unified Namespace (UNS) Basics 2",
+      "content": "In this second part of the UNS basics video series, we explain the key concepts behind Event-Driven Architecture (EDA), including the role of the MQTT protocol and MQTT brokers. Both Event-Driven architecture and MQTT are main components of the Unified Namespace. If you want to learn more about the Unified Namespace, you can read this article: https://learn.umh.app/course/the-unified-namespace-as-the-strongest-architectural-proposal-for-industry-4-0/ \u27a1\ufe0f If you are interested in seeing how we use event-driven architecture and MQTT brokers as the foundation of our product, visit our website: https://www.umh.app/. \ud83d\udc47 Other Links: - Chapter 2: The Rise of the Unified Namespace: https://learn.umh.app/lesson/chapter-2-the-rise-of-the-unified-namespace/ - Chapter 3: The Foundations of the Unified Namespace in Information Technology: https://learn.umh.app/lesson/chapter-3-the-foundations-of-the-unified-namespace-in-information-technology/ - LinkedIn Kafka: https://engineering.linkedin.com/t",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-05-07 10:14:26+00:00",
+      "url": "https://www.youtube.com/watch?v=jNv1tHc7GGk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNv1tHc7GGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNv1tHc7GGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNv1tHc7GGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jNv1tHc7GGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jNv1tHc7GGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jNv1tHc7GGk",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 1785,
+      "like_count": 22,
+      "comment_count": 1,
+      "duration": "PT4M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "i4k4OKa4lVA",
+      "title": "Data Management Problems and the Unified Namespace Solution",
+      "content": "Time-consuming and error-prone manual data entry and point-to-point data integration have led to problems with managing data efficiently. Director of Sales Engineering at Inductive Automation Kent Melville and President and CTO of Cirrus Link Solutions Arlen Nipper discuss how a unified namespace is cost-effective, scalable, standardizes data, provides a single source of truth, and much more. DATA MANAGEMENT PROBLEMS \ud83d\udfe0 Manual data entry: - Time-consuming - Error-prone \ud83d\udfe0 Point-to-point data integration: - Needs specialized engineering - Has tightly coupled namespaces - Low scalability UNIFIED NAMESPACE BENEFITS - Improves data accessibility - Cost-effective - Better prediction capabilities - Better traceability - Easier scalability - Provides a single source of truth - Requires less work - Better supply chain utilization - Greater efficiency - Better decision-making UNIFIED NAMESPACE ARCHITECTURE TIPS - Model the architecture based on your environment, facility, and processes. -",
+      "author": "Inductive Automation",
+      "timestamp": "2023-07-24 16:45:01+00:00",
+      "url": "https://www.youtube.com/watch?v=i4k4OKa4lVA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "inductive automation",
+          "ignition",
+          "ignition software",
+          "industrial automation",
+          "factory automation",
+          "digital transformation",
+          "automation technology",
+          "manufacturing software",
+          "industry 4.0",
+          "scada",
+          "scada software",
+          "scada system",
+          "hmi",
+          "hmi software",
+          "process control",
+          "scada control system",
+          "industrial engineering",
+          "automated systems",
+          "manufacturing intelligence",
+          "enterprise software",
+          "software for manufacturing",
+          "automation software",
+          "enterprise digital transformation",
+          "systems integration",
+          "scada hmi"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i4k4OKa4lVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i4k4OKa4lVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i4k4OKa4lVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i4k4OKa4lVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i4k4OKa4lVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "i4k4OKa4lVA",
+      "channel_id": "UCs-a_tI2AYkUSWKKZLH3yPQ",
+      "view_count": 301,
+      "like_count": 4,
+      "comment_count": 0,
+      "duration": "PT10M3S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nzh4vFAp7AU",
+      "title": "What is a UNS (Unified Namespace) | #AugmentedOps #Podcast",
+      "content": "",
+      "author": "Tulip",
+      "timestamp": "2025-02-02 20:04:02+00:00",
+      "url": "https://www.youtube.com/watch?v=nzh4vFAp7AU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nzh4vFAp7AU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nzh4vFAp7AU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nzh4vFAp7AU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nzh4vFAp7AU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nzh4vFAp7AU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nzh4vFAp7AU",
+      "channel_id": "UC9KlRSrYUHXYDDLIYh0WjkQ",
+      "view_count": 292,
+      "like_count": 8,
+      "comment_count": 0,
+      "duration": "PT1M1S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NvYxpy4ctzc",
+      "title": "Unified Namespace in Smart Manufacturing - HiveMQ Demo",
+      "content": "The Unified Namespace (UNS) brings together all the data from across organizations, contextualizes it into business information, generates actionable insights, and maintains data integrity. In this demo, Magnus McCune will showcase how a smart car manufacturer leverages UNS to digitize their plants that use protocols like OPC UA and Modbus to connect equipment and how the manufacturer used UNS to standardize data flow across multiple sites. Watch as data moves from producers through HiveMQ Edge, into a centralized cloud broker, and is published to a data lake or other destinations for further use. In the second half of the demo, you\u2019ll be introduced to the UNS topic structure, which reflects the organization\u2019s structure. See it in action with the UNS Explore, an ISO 95 style representation of a Unified Namespace. Finally, discover the UNS Bot, an AI-powered tool that allows you to query the Unified Namespace interactively and get a chatbot response. Time Stamps: 0:00 Introduction 0:",
+      "author": "HiveMQ",
+      "timestamp": "2024-09-25 10:15:10+00:00",
+      "url": "https://www.youtube.com/watch?v=NvYxpy4ctzc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "UNS",
+          "Unified Namespace",
+          "HiveMQ Egde",
+          "HiveMQ Cloud",
+          "Cloud Broker",
+          "Smart Manufacturing",
+          "Digitization",
+          "Smart Car Manufacturing",
+          "IIoT",
+          "UNS Explorer",
+          "UNS Bot"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvYxpy4ctzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvYxpy4ctzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvYxpy4ctzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NvYxpy4ctzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NvYxpy4ctzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NvYxpy4ctzc",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 735,
+      "like_count": 9,
+      "comment_count": 1,
+      "duration": "PT4M40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "p-L7OdXP-Y4",
+      "title": "The Unified Namespace (UNS) explained - Design and Model your Operational Data Platform",
+      "content": "\ud83d\ude80 Want to learn more about Industrial DataOps/UNS and how to make digital transformation a success? We have just launched our ITOT.Academy, find all info here: https://itot.academy \ud83d\ude80 In this conversation, David discusses the concept of the Unified Namespace (UNS), emphasizing its role as a design pattern for organizing data within an operational data platform. He highlights the challenges posed by data silos, the importance of contextualizing data, and the need for real-time access to information. David also explores various data storage solutions and architectures, advocating for a hybrid approach that combines traditional and modern technologies. He concludes by stressing the importance of agility and a use-case-driven mindset in data management. Takeaways The Unified Namespace (UNS) is an aspirational concept. Data silos hinder effective predictive maintenance. Fast and secure access to data is crucial for organizations. UNS helps organize data into a centralized broker. Contextu",
+      "author": "The IT OT Insider",
+      "timestamp": "2024-09-29 16:53:24+00:00",
+      "url": "https://www.youtube.com/watch?v=p-L7OdXP-Y4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-L7OdXP-Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-L7OdXP-Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-L7OdXP-Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p-L7OdXP-Y4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p-L7OdXP-Y4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "p-L7OdXP-Y4",
+      "channel_id": "UCgCi0-ETamEOKCZfsP-6nwQ",
+      "view_count": 3465,
+      "like_count": 91,
+      "comment_count": 11,
+      "duration": "PT17M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3NPy4g4vXec",
+      "title": "The Importance of a Unified Namespace (UNS)",
+      "content": "If you found value, don\u2019t forget to hit *Subscribe* and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-06-14 01:41:46+00:00",
+      "url": "https://www.youtube.com/watch?v=3NPy4g4vXec",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NPy4g4vXec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NPy4g4vXec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NPy4g4vXec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3NPy4g4vXec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3NPy4g4vXec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3NPy4g4vXec",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2246,
+      "like_count": 32,
+      "comment_count": 0,
+      "duration": "PT26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "O5t5SVHeKo4",
+      "title": "Unified Namespace Architectures",
+      "content": "Discover advanced Unified Namespace Architectures. We breakdown how to scale to enterprise wide architectures with a Unified Namespace. Thank you to WinCC OA For Sponsoring this Video: Discover how WinCC OA works \u2013 link to Learn more. https://www.winccoa.com/explore/ Link to US webinar video from Proveit: https://www.youtube.com/watch?v=-O-e4KwQINo *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-06-20 20:26:34+00:00",
+      "url": "https://www.youtube.com/watch?v=O5t5SVHeKo4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O5t5SVHeKo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O5t5SVHeKo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O5t5SVHeKo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O5t5SVHeKo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O5t5SVHeKo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "O5t5SVHeKo4",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1321,
+      "like_count": 44,
+      "comment_count": 5,
+      "duration": "PT5M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "w2fP2ubavEQ",
+      "title": "OLTP vs OLAP Databases and relevance within the Unified Namespace (UNS)",
+      "content": "Many companies struggle when deciding which database type to use for their architecture. In this video, we break down the key differences between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems, and explain how they can fit into the #UnifiedNamespace architecture. \ud83d\udc49 If you are interested to deep dive into it. You can check out our blog article here: https://learn.umh.app/blog/integrating-the-unified-namespace-into-your-enterprise-architecture-an-architects-guide/ ----- Interested to learn more? \ud83c\udf10 Visit our website: https://www.umh.app/ \ud83d\udcda Explore UMH Learning Center: https://learn.umh.app/ \ud83d\udd17 Join our Discord Community: https://discord.com/invite/2B6tF6mF4Z ------ Chapters 00:00 - 00:30 Introduction 00:30 - 01:00 OLTP Systems 01:00 - 02:22 OLAP Systems 02:22 - 04:20 Relevance within Unified Namespace #DataArchitecture hashtag#RealTimeData hashtag#BusinessAnalytics hashtag#IIoT hashtag#IT hashtag#OT hashtag#UNS hashtag#Databases #automationtutor",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-09-08 12:07:09+00:00",
+      "url": "https://www.youtube.com/watch?v=w2fP2ubavEQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w2fP2ubavEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w2fP2ubavEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w2fP2ubavEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w2fP2ubavEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w2fP2ubavEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "w2fP2ubavEQ",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 366,
+      "like_count": 8,
+      "comment_count": 0,
+      "duration": "PT4M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "o0ReI_5fqmU",
+      "title": "Applications of Unified Namespace in Manufacturing",
+      "content": "Discover how the Unified Namespace (UNS) is revolutionizing manufacturing in the era of Industry 4.0. In this video, Kudzai Manditereza breaks down the six key applications of UNS that are transforming factories worldwide: - Optimizing Asset Utilization - Quality Assurance and Monitoring - Regulatory Compliance - Production Scheduling - Logistics - AI Readiness These are the main use cases in Unified Namespace for Smart Manufacturing and Industry 4.0. Watch now and take the first step toward Digital Transformation! *** RESOURCES *** \u2013 More about Applications of Unified Namespace: https://bit.ly/3AY492V \u2013 Learn about Unified Namespace (UNS): https://bit.ly/3V8Eewu \u2013 Download our UNS Essentials ebook: https://bit.ly/4127XuT \u2013 Check out HiveMQ University for MQTT and UNS Learning: https://university.hivemq.com/ Time Stamps 0:09 Introduction 0:50 Optimizing Asset Utilization 1:15 Production Scheduling 1:46 Quality Assurance and Monitoring 2:12 Production Scheduling 2:32 Logistics 3:",
+      "author": "HiveMQ",
+      "timestamp": "2024-11-18 11:58:09+00:00",
+      "url": "https://www.youtube.com/watch?v=o0ReI_5fqmU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "AI Readiness",
+          "Unified Namespace",
+          "ERP",
+          "MES",
+          "IIoT",
+          "Smart Manufacturing",
+          "digital Transformation",
+          "UNS",
+          "Smart Factory",
+          "Industry 4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o0ReI_5fqmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o0ReI_5fqmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o0ReI_5fqmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o0ReI_5fqmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o0ReI_5fqmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "o0ReI_5fqmU",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 465,
+      "like_count": 12,
+      "comment_count": 0,
+      "duration": "PT3M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4KiOiat2Dm0",
+      "title": "Unified Namespace by Ricardo Santos - More Than Just a Buzzword! #uns #iiot #smartfactory",
+      "content": "\u201cA UNS is the real-time Single Source of Truth (SSOT) for all your industrial data.\u201d A Unified Namespace (UNS) isn\u2019t just another industry buzzword\u2014it\u2019s the backbone of smart manufacturing. It\u2019s a unified data model that structures and contextualizes information across all levels of your operation, eliminating silos and ensuring seamless IT-OT convergence. Think of it as: \u2705 The hub where all your smart things communicate \u2705 The foundation for scalable, vendor-agnostic architecture \u2705 The key to real-time insights and automated decision-making Still relying on outdated point-to-point integrations? It\u2019s time to change the game! \ud83d\udd25 Ricardo Santos Industry 4.0 facilitator \ud83e\udd16 Digital bricklayer \ud83d\udc8e Speaker \ud83c\udfa4 \ud83c\uddfa\ud83c\uddf8 Tupinix - Smart Factory Solutions \ud83c\udf10 https://tupinix.com",
+      "author": "Tupinix - Smart Factory Solutions",
+      "timestamp": "2025-04-01 10:30:02+00:00",
+      "url": "https://www.youtube.com/watch?v=4KiOiat2Dm0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ConnectedFactory",
+          "SmartFactory",
+          "IndustrialAutomation",
+          "AccelerateDX",
+          "DXJourney",
+          "DigitalTransformation",
+          "IIoT",
+          "IoT",
+          "EdgeConnectivity",
+          "CloudComputing",
+          "BigData",
+          "DataLake",
+          "MachineLearning",
+          "ArtificialIntelligence",
+          "BusinessIntelligence",
+          "MES",
+          "OEE",
+          "SelfDTMA",
+          "DigitalStrategy",
+          "DataVisualization",
+          "DataToAction",
+          "InformationAtAGlance",
+          "DataDrivenDecisions",
+          "UnlockProductivity",
+          "IncreaseProduction",
+          "ReduceLoss",
+          "ConditionBasedMaintenance",
+          "DigitalBricklayer",
+          "DigitalFoundation",
+          "DataDrivenManufacturing",
+          "SmartManufacturing",
+          "SystemIntegrator"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KiOiat2Dm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KiOiat2Dm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KiOiat2Dm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4KiOiat2Dm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4KiOiat2Dm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4KiOiat2Dm0",
+      "channel_id": "UCh22KzvMXnIGOJwBKcqeWzg",
+      "view_count": 225,
+      "like_count": 6,
+      "comment_count": 0,
+      "duration": "PT59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "2LaQxiPbIM8",
+      "title": "Is the Unified Namespace a buzzword? And why you SHOULD implement UNS in your factory. #UNS #IIoT",
+      "content": "Is your factory truly connected, or are you still dealing with isolated systems and fragmented data? If you\u2019re making decisions based on inconsistent data, it\u2019s time to discover UNS \u2013 The Unified Namespace. \ud83d\ude80 What is UNS, and Why Does Your Factory Need It? UNS is more than a data architecture\u2014it\u2019s the digital backbone of your operations. It eliminates data silos, organizes information in real time, and ensures all systems communicate in a structured, seamless way. \ud83d\udd39 Key Problems UNS Solves: \u274c Data locked in legacy systems that don\u2019t communicate \u274c High costs with custom integrations and endless rework \u274c Misaligned information between production, maintenance, and logistics \u274c Lack of scalability for new technologies and factory expansions \ud83d\udd39 Why is UNS the Solution? \u2705 A Single Source of Truth \u2013 Standardizes and structures data in a unified model, accessible across the enterprise \u2705 Total Connectivity \u2013 Seamlessly integrates sensors, PLCs, SCADA, MES, and ERP in real time \u2705 Foundation fo",
+      "author": "Tupinix - Smart Factory Solutions",
+      "timestamp": "2025-02-18 20:12:30+00:00",
+      "url": "https://www.youtube.com/watch?v=2LaQxiPbIM8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ConnectedFactory",
+          "SmartFactory",
+          "IndustrialAutomation",
+          "AccelerateDX",
+          "DXJourney",
+          "DigitalTransformation",
+          "IIoT",
+          "IoT",
+          "EdgeConnectivity",
+          "CloudComputing",
+          "BigData",
+          "DataLake",
+          "MachineLearning",
+          "ArtificialIntelligence",
+          "BusinessIntelligence",
+          "MES",
+          "OEE",
+          "SelfDTMA",
+          "DigitalStrategy",
+          "DataVisualization",
+          "DataToAction",
+          "InformationAtAGlance",
+          "DataDrivenDecisions",
+          "UnlockProductivity",
+          "IncreaseProduction",
+          "ReduceLoss",
+          "ConditionBasedMaintenance",
+          "DigitalBricklayer",
+          "DigitalFoundation",
+          "DataDrivenManufacturing",
+          "SmartManufacturing",
+          "SystemIntegrator"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2LaQxiPbIM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2LaQxiPbIM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2LaQxiPbIM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2LaQxiPbIM8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2LaQxiPbIM8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "2LaQxiPbIM8",
+      "channel_id": "UCh22KzvMXnIGOJwBKcqeWzg",
+      "view_count": 91,
+      "like_count": 7,
+      "comment_count": 1,
+      "duration": "PT8M51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4iwgwwkd_sc",
+      "title": "Unified Namespace natively supported in Azure IoT Operations to solve data silos",
+      "content": "Learn how UNS breaks down silos and unifies data from disparate sources in industrial scenarios and how Microsoft onboarded this popular concept in its Edge solution. Full #IoTShow episode with Ranga at https://youtu.be/BCyYnxSbV4Y #UNS #UnifiedNamespace #Industry40 #AzureIoT #Azure #IoT #OT #Operations #IIoT #Microsoft #ITInfrastructure #TechDemo #DigitalTransformation",
+      "author": "The IoT Show",
+      "timestamp": "2025-02-20 15:55:39+00:00",
+      "url": "https://www.youtube.com/watch?v=4iwgwwkd_sc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4iwgwwkd_sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4iwgwwkd_sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4iwgwwkd_sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4iwgwwkd_sc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4iwgwwkd_sc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4iwgwwkd_sc",
+      "channel_id": "UC4y05njclZL_WaQZ_xgnAgQ",
+      "view_count": 4317,
+      "like_count": 5,
+      "comment_count": 0,
+      "duration": "PT1M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "sh3I6raCK7Q",
+      "title": "Integrate IT & OT with the Unified Namespace and Open-Source | Keynote Hannover Messe 2024",
+      "content": "Alexander Kr\u00fcger (Co-founder and CEO of UMH) keynote at Hannover Messe 2024 on the topic of \"Integrate IT & OT with the Unified Namespace and Open-Source.\" Interested to learn more about Unified Namespace and UMH? \ud83c\udf10 Explore our website: https://www.umh.app/ \ud83d\udcda Visit UMH Learning Center: https://learn.umh.app/ \ud83d\udd17 Join our Discord Community: https://discord.gg/crcbVUPJ #hannovermesse #unifiednamespace #opensource #industry40 #digitaltransformation #itot",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-04-29 10:50:53+00:00",
+      "url": "https://www.youtube.com/watch?v=sh3I6raCK7Q",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sh3I6raCK7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sh3I6raCK7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sh3I6raCK7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sh3I6raCK7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sh3I6raCK7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "sh3I6raCK7Q",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 671,
+      "like_count": 25,
+      "comment_count": 3,
+      "duration": "PT10M10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tY6hYf2z2fA",
+      "title": "Your Unified Namespace Needs Two Crucial Things",
+      "content": "Are you struggling with building a Unified Namespace (UNS) or maximizing its potential? Many organizations hit roadblocks when trying to integrate historical data, governance, and analytics into their UNS. In this webinar, we break down how to optimize your UNS, solve common implementation issues, and ensure data consistency for better decision-making. What You\u2019ll Learn: \u2714\ufe0f How to connect historical data to your UNS without complex cloud setups \u2714\ufe0f The role of governance in maintaining a reliable, scalable UNS \u2714\ufe0f How to integrate MES, historians, ERP, and real-time sources into a cohesive model \u2714\ufe0f Overcoming data silos, quality issues, and lack of context in industrial environments \u2714\ufe0f Publishing enriched data to your UNS for seamless enterprise-wide access Ready to take the next step? Download the Free Timebase Historian - (https://timebase.com) to start historizing your operational data today! \ud83d\udcc5 Book a Flow Pilot (https://share.hsforms.com/13Kq96RG4TIC6kYNIQ5ZzXQ2hq6",
+      "author": "Flow Software",
+      "timestamp": "2025-03-04 20:39:59+00:00",
+      "url": "https://www.youtube.com/watch?v=tY6hYf2z2fA",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "unified namespace",
+          "uns"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tY6hYf2z2fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tY6hYf2z2fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tY6hYf2z2fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tY6hYf2z2fA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tY6hYf2z2fA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tY6hYf2z2fA",
+      "channel_id": "UCeasxEQJfDS7Duomb3lle2Q",
+      "view_count": 733,
+      "like_count": 8,
+      "comment_count": 0,
+      "duration": "PT1H1M2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hUBAc-nQjm4",
+      "title": "Origin Story | The Unified Namespace",
+      "content": "Welcome to another 40 Solutions video! \ud83c\udf89 Walker explains the first UNS back in 2005, why he created it, and how. If you found value in this video, please hit the 'Subscribe' button and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions Connect with us on social media: LinkedIn: https://bit.ly/40SolutionsLinkedIn Facebook: https://bit.ly/4-0Facebook Twitter: https://bit.ly/40SolutionsTwitter Ready to dive deeper into the world of IIoT and Industry 4.0? \ud83c\udf10 Join our thriving community on Discord and engage with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Supercharge your IIoT knowledge with our FREE Mini-Course! \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation #unifiednamespace #originstory",
+      "author": "4.0 Solutions",
+      "timestamp": "2023-12-13 19:10:13+00:00",
+      "url": "https://www.youtube.com/watch?v=hUBAc-nQjm4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUBAc-nQjm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUBAc-nQjm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUBAc-nQjm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hUBAc-nQjm4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hUBAc-nQjm4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hUBAc-nQjm4",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2696,
+      "like_count": 77,
+      "comment_count": 16,
+      "duration": "PT12M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Uqa2MAFhEUQ",
+      "title": "How to create an Enterprise Wide Unified Namespace [Industry 4.0 Live Q&A 1/19/21]",
+      "content": "This is the Industry 4.0 Live Q&A from 1/19/21 edited and reuploaded. Here are the question topics are broken down with timestamps for quickly finding the question you want to be answered! 0:00 Intro 0:50 Community Updates 7:08 Community Shout-Outs 11:00 Are there any CMMS or MES on the market which are ISA-95 compliant? 12:54 FrameworX University Launch Event Agenda 16:36 Where does the Historian fit in the IIoT Unified Namespace? 20:00 Enterprise-Wide Unified Namespace Example 37:17 How to qualify software vendors as open architecture? 40:35 Should I use a shop floor DMZ for an Industry 4.0 Solution? 44:20 How to normalize analog and discrete variables over time? 50:25 Will MES 4.0 be available for Ignition and FrameworX? 50:45 Can Cybus.io serve as the Unified Namespace? Thanks for watching! Subscribe! \ud83d\udc49 https://bit.ly/SubTo40Solutions LinkedIn \ud83d\udc49 https://bit.ly/40SolutionsLinkedIn Twitter \ud83d\udc49 https://bit.ly/40SolutionsTwitter Want to learn more? Join our community Discord Server",
+      "author": "4.0 Solutions",
+      "timestamp": "2021-01-20 18:17:40+00:00",
+      "url": "https://www.youtube.com/watch?v=Uqa2MAFhEUQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uqa2MAFhEUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uqa2MAFhEUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uqa2MAFhEUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uqa2MAFhEUQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uqa2MAFhEUQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Uqa2MAFhEUQ",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2862,
+      "like_count": 60,
+      "comment_count": 14,
+      "duration": "PT58M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "QcWNlMxlzec",
+      "title": "MQTT vs OPC UA | DataOps and Unified Namespace @ GE Appliances",
+      "content": "Watch the full episode here: https://youtu.be/4kE2XPAoUgU Guest: Matthew Parris, Director of Advanced Manufacturing at GE Appliances #Historians #OpenSource #DataManagement #TimescaleDB #Reliability #Compression #IndustrialAutomation #DataIntegrity #SmartManufacturing #ITOT #DataArchitecture #RealTimeData #BusinessAnalytics #IIoT #IT #OT #UNS #Databases #automationtutorial #automationpyramid #mqtt #uns #protocolconverters #messagebroker #isa95 #iiot #dashboard #manufacturing #mqtt #datavisualization #manufacturingautomation #industrialiot #operationaltechnology #itot #unifiednamespace #realtimedatabase #uns #automationtutorial #smartmanufacturing #howto #UnifiedNamespace #Historians #OpenSourceDatabases #FactoryIntegration #NodeRed #BenthosUMH #Grafana #DataModeling #ITOTIntegration #IndustrialAutomation #FactorySystems #realtimedata #pharma #pharmaceutical #regulations",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2025-03-12 13:30:18+00:00",
+      "url": "https://www.youtube.com/watch?v=QcWNlMxlzec",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QcWNlMxlzec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QcWNlMxlzec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcWNlMxlzec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QcWNlMxlzec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QcWNlMxlzec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "QcWNlMxlzec",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 827,
+      "like_count": 17,
+      "comment_count": 0,
+      "duration": "PT1M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "-z6aMz_HW44",
+      "title": "Siemens WinCC OA and Unified Namespace",
+      "content": "If you found value, don\u2019t forget to hit *Subscribe* and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-06-03 21:10:47+00:00",
+      "url": "https://www.youtube.com/watch?v=-z6aMz_HW44",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-z6aMz_HW44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-z6aMz_HW44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-z6aMz_HW44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-z6aMz_HW44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-z6aMz_HW44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "-z6aMz_HW44",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2840,
+      "like_count": 86,
+      "comment_count": 29,
+      "duration": "PT32M10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "xFwPIyRFggk",
+      "title": "Integrating MES into the Unified Namespace (UNS)",
+      "content": "Join the 8-Week MES Bootcamp Accelerator Program starting on January 7th, 2025! \ud83d\udc49 https://www.iiot.university/mba \ud83d\udd27 Are You Ready for MES? | Manufacturing Execution Systems Explained \ud83d\udd27 \ud83d\udc4b Hey, everyone! Welcome back to our channel. Today, we're diving into a critical question: When are you ready for an MES? If you've been hearing about Manufacturing Execution Systems and wondering if your operations are ready, this video is for you. \ud83c\udfed \ud83d\udd0d Let's break down the key signs that indicate your facility is ready for MES, the benefits you can expect, and what you need to prepare before taking the plunge. Let's get started! \ud83d\udcaa \ud83d\udd11 First, let's talk about why readiness matters. MES isn't just a plug-and-play software. It's a digital transformation tool that fundamentally changes how your operations work. If you're not ready, you risk investing in a system that doesn't deliver value or, worse, creates more headaches than solutions. \ud83d\udeab \ud83d\udd0d So, how do you know when you're ready? Let's start with the k",
+      "author": "4.0 Solutions",
+      "timestamp": "2024-12-10 19:48:54+00:00",
+      "url": "https://www.youtube.com/watch?v=xFwPIyRFggk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xFwPIyRFggk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xFwPIyRFggk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xFwPIyRFggk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xFwPIyRFggk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xFwPIyRFggk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "xFwPIyRFggk",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1057,
+      "like_count": 28,
+      "comment_count": 2,
+      "duration": "PT1M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "VkNEfmKKlLA",
+      "title": "Building a Unified Namespace for AI Applications with MCP",
+      "content": "If you found value, don\u2019t forget to hit *Subscribe* and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-05-20 21:23:35+00:00",
+      "url": "https://www.youtube.com/watch?v=VkNEfmKKlLA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VkNEfmKKlLA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VkNEfmKKlLA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VkNEfmKKlLA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VkNEfmKKlLA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VkNEfmKKlLA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "VkNEfmKKlLA",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1801,
+      "like_count": 30,
+      "comment_count": 1,
+      "duration": "PT49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Rp_3TZgnkDU",
+      "title": "Unified Namespace and Cloud-to-Edge: New Use Cases for \u200bIndustrial DataOps",
+      "content": "In this 45-minute webinar, HighByte Chief Business Office John Harrington and Chief Technology Officer Aron Semle introduce you to HighByte Intelligence Hub version 1.4 and provide a demonstration of new features and their use cases. You'll see how to push SQL data to a Unified Namespace, process multiple rows of data from SQL queries, leverage MQTT inputs and OPC outputs to efficiently move data from Cloud to Edge, and work with OPC UA arrays and CSV files. By watching this webinar, you will: - Understand the advantage of using an Industrial DataOps solution for data standardization and system integration - Learn how to work with SQL inputs and outputs - Learn how to move data from AWS IoT Core to an OPC server for Cloud-to-Edge use cases - See how to leverage the new CSV file connector to deliver data from legacy industrial devices and systems to an MQTT broker and SQL database",
+      "author": "HighByte",
+      "timestamp": "2021-04-14 18:54:09+00:00",
+      "url": "https://www.youtube.com/watch?v=Rp_3TZgnkDU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rp_3TZgnkDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rp_3TZgnkDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rp_3TZgnkDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rp_3TZgnkDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rp_3TZgnkDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Rp_3TZgnkDU",
+      "channel_id": "UChcMXBJ4XLeZ1cDvKgvRGiA",
+      "view_count": 2828,
+      "like_count": 26,
+      "comment_count": 3,
+      "duration": "PT53M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NOQyIM66Y7A",
+      "title": "#UNSwithGrantek: Choosing the Right Tech for Unified Namespace Success",
+      "content": "#UNSwithGrantek Offers Insight to Help Your Operations. \u201cConvergence of IT/OT and Unified Namespace (UNS) with Grantek: Pharma and Food & Beverage MES Applications Using Data Brokers\u201d is your chance to hear from Jim Toman, Smart MES Engineer at Grantek and Bryon Hayes, Life Sciences Engineer and Consultant at Grantek. Grantek has over 30 years of experience and expertise designing, implementing, and supporting Manufacturing Execution Systems (MES) that address manufacturer\u2019s specific needs, vision, and processes. Rather than purchasing a rigid platform that forces you to change your process to fit the needs of the software, Grantek understands an MES must be designed to work with your existing business and manufacturing systems in order to be successful. MES can help maximize performance, increase productivity, reduce waste, ensure product quality, and increase efficiency in manufacturing operations. Today, MES implementation is necessary to remain competitive and meet regulatory re",
+      "author": "Grantek",
+      "timestamp": "2025-04-21 13:36:03+00:00",
+      "url": "https://www.youtube.com/watch?v=NOQyIM66Y7A",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "uns",
+          "it",
+          "ot",
+          "it/ot",
+          "unified namespace",
+          "grantek",
+          "jim toman",
+          "bryon hayes",
+          "data brokers",
+          "convergence of it/ot",
+          "state of MES in 2025",
+          "data driven MES",
+          "life sciences",
+          "food & beverage",
+          "mes",
+          "manufacturing execution systems"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOQyIM66Y7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOQyIM66Y7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOQyIM66Y7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NOQyIM66Y7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NOQyIM66Y7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NOQyIM66Y7A",
+      "channel_id": "UCEsTNJCZhhfHUxbkyjofIHA",
+      "view_count": 136,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tRcNLD_ra6I",
+      "title": "Trends Shaping Enterprise Deployments in Manufacturing: Unified Namespace, DataOps, and the Edge",
+      "content": "In this broadcast, Torey Penrod-Cambra moderates an interactive panel discussion between Chief Product Officer John Harrington and Chief Technology Officer Aron Semle. The team discusses key trends that are shifting the way industrial companies think about their system architectures and data governance. This broadcast includes quick demos of new features in HighByte Intelligence Hub version 3.0 and a Q&A. Chapters: Introduction 0:00 What is Industrial DataOps? 8:36 What does data contextualization mean? 11:10 How would you define UNS and how can it be achieved? 22:18 Why is a UNS attractive to many manufacturers? 25:16 What is the blind spot for UNS? 26:02 How do you structure a UNS? 30:16 How have architectural patterns changed in the last 12 months and where are they going? 35:15 What are data pipelines, and how can they accelerate my projects? 44:52 Q&A 48:24",
+      "author": "HighByte",
+      "timestamp": "2023-03-17 16:04:09+00:00",
+      "url": "https://www.youtube.com/watch?v=tRcNLD_ra6I",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRcNLD_ra6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRcNLD_ra6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRcNLD_ra6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tRcNLD_ra6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tRcNLD_ra6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tRcNLD_ra6I",
+      "channel_id": "UChcMXBJ4XLeZ1cDvKgvRGiA",
+      "view_count": 847,
+      "like_count": 9,
+      "comment_count": 0,
+      "duration": "PT59M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7RFg4hX5q0A",
+      "title": "Message Broker - Component of the Unified Namespace (UNS)",
+      "content": "Whether you're in IT or OT, understanding these components can help you scale your system efficiently. To dive deeper and learn more about UNS, check out our blog series: https://learn.umh.app/lesson/chapter-1-the-foundations-of-unified-namespace-in-ot/ \ud83d\udc49 Additionally, we have a mini series which covers all the components in depth. Watch here: https://www.youtube.com/watch?v=ywiHxnm2Bnk&list=PLeC0OzgWYQfuD9Jb2eUoSbv5Vu0xxSm0k #mqtt #isa95 #IIoT #DataStreaming #Automation #DataStreaming #TechTools #uns #it #ot #Scalability #Industry40 #IoT #unifiednamespace #datastructures",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2024-09-08 13:25:12+00:00",
+      "url": "https://www.youtube.com/watch?v=7RFg4hX5q0A",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7RFg4hX5q0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7RFg4hX5q0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7RFg4hX5q0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7RFg4hX5q0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7RFg4hX5q0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7RFg4hX5q0A",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 225,
+      "like_count": 7,
+      "comment_count": 0,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "x9nOKRKm720",
+      "title": "UNS, Unified Namespace #podcast",
+      "content": "",
+      "author": "Telecom Application Development Summit",
+      "timestamp": "2024-07-09 21:44:09+00:00",
+      "url": "https://www.youtube.com/watch?v=x9nOKRKm720",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9nOKRKm720/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9nOKRKm720/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9nOKRKm720/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x9nOKRKm720/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x9nOKRKm720/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "x9nOKRKm720",
+      "channel_id": "UCjSMTexxWsHO-JU4ZoD224w",
+      "view_count": 61,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "oP7x_1xdSSU",
+      "title": "Unified Namespace Documentation & Manipulation - Live Q&A",
+      "content": "Welcome to the 4.0 Solutions Weekly Live Q&A. Join us every week where we talk about Industry 4.0, IIoT, and Digital Transformation. Today we are answering the question: How do I document the progress/status of our Unified Namespace as we are in the process of a transformation? Join the Industry 4.0 Mentorship Program! https://www.iiot.university/mentorship-program Join the Digital Factory Mastermind https://www.iiot.university/digital-mastermind Thanks for watching! Subscribe! \ud83d\udc49 http://bit.ly/SubToIntellic Want to learn more? Join our community Discord Server \ud83d\udc49 https://www.iiot.university/discord Take the FREE IIoT Mini-Course \ud83d\udc49 https://www.iiot.university/iiot-mini-course",
+      "author": "4.0 Solutions",
+      "timestamp": "2022-02-08 19:11:36+00:00",
+      "url": "https://www.youtube.com/watch?v=oP7x_1xdSSU",
+      "metadata": {
+        "category_id": "24",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oP7x_1xdSSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oP7x_1xdSSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oP7x_1xdSSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oP7x_1xdSSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oP7x_1xdSSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "oP7x_1xdSSU",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2055,
+      "like_count": 50,
+      "comment_count": 5,
+      "duration": "PT1H4M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ghP0xj6KjQg",
+      "title": "Unified Namespace: MQTT and Wildcards",
+      "content": "Welcome to another 40 Solutions video! \ud83c\udf89 LinkedIn Post - https://www.linkedin.com/posts/kudzaimanditereza_mqtt-uns-iiot-activity-7160957909412065281-0n6C?utm_source=share&utm_medium=member_desktop If you found value in this video, please hit the 'Subscribe' button and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions Connect with us on social media: LinkedIn: https://bit.ly/40SolutionsLinkedIn Facebook: https://bit.ly/4-0Facebook Twitter: https://bit.ly/40SolutionsTwitter Ready to dive deeper into the world of IIoT and Industry 4.0? \ud83c\udf10 Join our thriving community on Discord and engage with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Supercharge your IIoT knowledge with our FREE Mini-Course! \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation #wildcard #response #UNS",
+      "author": "4.0 Solutions",
+      "timestamp": "2024-02-07 18:00:31+00:00",
+      "url": "https://www.youtube.com/watch?v=ghP0xj6KjQg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ghP0xj6KjQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ghP0xj6KjQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghP0xj6KjQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ghP0xj6KjQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ghP0xj6KjQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ghP0xj6KjQg",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1867,
+      "like_count": 47,
+      "comment_count": 14,
+      "duration": "PT21M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3zv8k8LOIlw",
+      "title": "MQTT, the silent power behind Unified Namespace",
+      "content": "MQTT is the backbone of a Unified Namespace (UNS), enabling real-time data flow across industrial environments. But why is it the ideal protocol to connect OT & IT? In this video, Adrien Bousez & Mathias Knop break down: 1\ufe0f\u20e3 What is Unified Namespace? Discover how UNS replaces the traditional automation pyramid with a modern, scalable architecture that bridges the gap between IT and OT. 2\ufe0f\u20e3 Why does it matter? Learn how UNS streamlines operations, supports real-time decision-making, and lays the groundwork for cost savings and innovative technologies like AI and digital twins. 3\ufe0f\u20e3 How to get started with UNS. We outline practical steps to help you implement UNS in your organisation, ensuring it becomes the backbone of your smart factory. Chapters: 00:00 Introduction 00:30 What is MQTT and how does it work? 01:45 Why is MQTT the ideal candidate for OT & IT integration? 03:20 How does Sparkplug enhance MQTT for industrial applications? 05:10 Conclusion Want to learn more? Connect",
+      "author": "Coretecs",
+      "timestamp": "2025-03-11 13:23:02+00:00",
+      "url": "https://www.youtube.com/watch?v=3zv8k8LOIlw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3zv8k8LOIlw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3zv8k8LOIlw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3zv8k8LOIlw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3zv8k8LOIlw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3zv8k8LOIlw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3zv8k8LOIlw",
+      "channel_id": "UCrSHKaAEGdU6-PC2wIzaShw",
+      "view_count": 55,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT7M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7XmllXqtKw8",
+      "title": "Monitoring Chemical Plant Tanks with Unified Namespace",
+      "content": "Dave sets up a pilot solution for a company with multiple chemical plants to remotely monitor tank status. Situation: * Multiple chemical plants * Monitor multiple tanks with a simple SCADA at a single corporate location * Also view data in a dashboard How the solution works: * Edge node publishes to the Unified Namespace using a MQTT broker * Data organized into a Unified Namespace * SCADA (Ignition) subscribes as a node to the Unified Namespace to display the data * Historian subscribes as a node to the Unified Namespace to historize the data This solution, like our other videos, uses open technologies, and principles to enable flexible and scalable solutions for the future. These kinds of solutions can be created by applying the following principles: * Report by exception * Edge driven * Lightweight * Open technologies Chapters ------------------------------------------- 0:00- Intro 0:20- Thoughts on the recent launch event 1:20- Monitoring Chemical Plant Tanks",
+      "author": "Ectobox, Inc.",
+      "timestamp": "2021-01-24 21:21:21+00:00",
+      "url": "https://www.youtube.com/watch?v=7XmllXqtKw8",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "iiot",
+          "unified namespace",
+          "iot",
+          "internet of things",
+          "manufacturing intelligence",
+          "industry 4.0",
+          "remote monitoring"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7XmllXqtKw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7XmllXqtKw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7XmllXqtKw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7XmllXqtKw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7XmllXqtKw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7XmllXqtKw8",
+      "channel_id": "UCmN1mg4PGddwknCqe51MCyA",
+      "view_count": 613,
+      "like_count": 16,
+      "comment_count": 2,
+      "duration": "PT26M19S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qAkGXQsNkxk",
+      "title": "Local data processing. Edge flows. Unified Namespace.",
+      "content": "Fuuz is pushing beyond the cloud\u2014and if you\u2019re still relying on outdated, rigid systems, this episode is your wake-up call. In this episode of The Manufacturing Matrix, Craig Scott and Lance Menard break down how Fuuz is giving manufacturers the tools to handle data in real time, even during outages. Plus, get a first look at the upcoming Fuuz Unified Namespace (UNS)\u2014your new single source of truth for enterprise data. \ud83c\udfa7 Listen: https://loom.ly/-r5_95w \ud83d\udcfa Watch: https://loom.ly/XiBTmHk #Manufacturing #MES #Fuuz #EdgeComputing #UnifiedNamespace #DigitalTransformation",
+      "author": "Fuuz",
+      "timestamp": "2025-05-02 22:30:42+00:00",
+      "url": "https://www.youtube.com/watch?v=qAkGXQsNkxk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qAkGXQsNkxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qAkGXQsNkxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qAkGXQsNkxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qAkGXQsNkxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qAkGXQsNkxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qAkGXQsNkxk",
+      "channel_id": "UCJcJs6NTw3WM2tf6vgeKMbA",
+      "view_count": 294,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT43S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9dwvP94bhl0",
+      "title": "Modelling Data at the Edge with the Unified Namespace approach and MQTT Sparkplug B.",
+      "content": "Welcome to the second part of the DLF Workshop Series! Liberating your data and making it available to your whole organisation is the first step in achieving scalability and embracing digital transformation. With Ignition Edge and MQTT Sparkplug B this is easily achieved.",
+      "author": "Element8",
+      "timestamp": "2023-02-02 03:32:07+00:00",
+      "url": "https://www.youtube.com/watch?v=9dwvP94bhl0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dwvP94bhl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dwvP94bhl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dwvP94bhl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dwvP94bhl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9dwvP94bhl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9dwvP94bhl0",
+      "channel_id": "UCnDHk2QI7OzNIVU6Iilo7mw",
+      "view_count": 422,
+      "like_count": 9,
+      "comment_count": 0,
+      "duration": "PT16M14S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6kP3H06hwUY",
+      "title": "Unified Namespace: A Game Changer for Smart Cities",
+      "content": "If you found value, don\u2019t forget to hit *Subscribe* and turn on notifications! \ud83d\udd14 \ud83d\udc49 https://bit.ly/SubTo40Solutions *For Business Inquiries Email:* contact@40solutions.com *Connect with us on Social:* https://www.linkedin.com/company/4point0solutions https://www.facebook.com/4point0solutions https://www.twitter.com/40_solutions *Want to learn more and join our community?* Join our growing *Industry 4.0 Discord Community* and chat with like-minded individuals! \ud83d\udcac \ud83d\udc49 https://bit.ly/Industry40DIscord Take the free *IIoT Mini-Course!* and get your IIoT Credential \ud83d\ude80 \ud83d\udc49 https://bit.ly/iiotmini-course Thank you for your support, and stay tuned for more exciting content! \ud83d\ude4c #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-04-30 21:10:53+00:00",
+      "url": "https://www.youtube.com/watch?v=6kP3H06hwUY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6kP3H06hwUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6kP3H06hwUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6kP3H06hwUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6kP3H06hwUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6kP3H06hwUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6kP3H06hwUY",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1389,
+      "like_count": 7,
+      "comment_count": 0,
+      "duration": "PT32S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "O45VwUq0DAs",
+      "title": "supOS Casebook | Smart City Powered by Unified Namespace",
+      "content": "Discover how supOS transforms smart city project in three steps: Step1: Edge Data Integration & System Connectivity Seamlessly aggregate and connect data from diverse edge devices and systems for real-time interoperability. Step2: Contextualized Data Modeling Standardize and structure data using ISA-95 frameworks to enable actionable insights and predictive analytics. Step3: Practical Applications for Operations Build unlimited apps to monitor, control, and optimize building functions, enhancing productivity and sustainability. Learn how supOS bridges data, systems, and intelligence to revolutionize urban living. Watch now! #supOS #SmartCity#iiot #UnifiedNamespace#digitaltransformation #IndustrialIoT #EdgeComputing #DataIntegration #DataModeling #DigitalTransformation #IIoTPlatform #SmartInfrastructure #UrbanInnovation #IoTApplications #RealTimeData #PredictiveAnalytics #SmartOperations #SustainableCities #Industry40 #IIoTSolutions #DataInteroperability #FREEZONEX",
+      "author": "FREEZONEX",
+      "timestamp": "2025-02-13 02:09:04+00:00",
+      "url": "https://www.youtube.com/watch?v=O45VwUq0DAs",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O45VwUq0DAs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O45VwUq0DAs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O45VwUq0DAs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O45VwUq0DAs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O45VwUq0DAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "O45VwUq0DAs",
+      "channel_id": "UCtuzed0t3LZQJZpQZFo6lxQ",
+      "view_count": 409495,
+      "like_count": 12,
+      "comment_count": 1,
+      "duration": "PT2M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7DuUkLeOe1c",
+      "title": "Unlocking the Power of Unified Namespace",
+      "content": "Unlock the true potential of your industrial data with our latest video, \"Unlocking the Power of Unified Namespace in Industrial Data Management\"! Today, we explore how a Unified Namespace (UNS) revolutionizes data management by breaking down silos and creating a single source of truth for your operations. Discover how a UNS enhances decision-making across departments\u2014from maintenance to finance\u2014by providing real-time access to accurate data. Learn the key principles of implementing a UNS to optimize resource allocation and boost predictive capabilities. Despite the challenges, the benefits of a connected industrial future are immense! If you found this video insightful, please give it a thumbs up and share it with your colleagues! #UnifiedNamespace #DataManagement #IndustrialInnovation #SmartManufacturing #DigitalTransformation OUTLINE: 00:00:00 Introduction to Unified Namespace (UNS) 00:00:35 The Power of UNS 00:00:57 Key Principles of UNS 00:01:22 Integrating Work Execution",
+      "author": "MicroMain",
+      "timestamp": "2025-01-02 17:38:38+00:00",
+      "url": "https://www.youtube.com/watch?v=7DuUkLeOe1c",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "data analytics",
+          "industry 4.0",
+          "digital transformation",
+          "unified namespace"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7DuUkLeOe1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7DuUkLeOe1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7DuUkLeOe1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7DuUkLeOe1c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7DuUkLeOe1c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7DuUkLeOe1c",
+      "channel_id": "UCi5WBfKLAeBf0XjYkZ6okVA",
+      "view_count": 58,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT2M41S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Hr4hDDHGn6Q",
+      "title": "Unified Namespace (UNS): An Architecture for Commercial Building Data!",
+      "content": "Brahm Lategan, Smart Building Consultant at MiX, talks about how the Unified Namespace (UNS) architecture could be used as a 'single source of truth' for building data. UNS can create a centralized, non-hierarchical structure for real-time data exchange across IT and OT systems. Listen to the Full Podcast Episode Here \ud83d\udc49\ud83d\udc49 https://www.youtube.com/watch?v=8VrxN265rVU",
+      "author": "Smart Building Series",
+      "timestamp": "2024-05-03 11:59:23+00:00",
+      "url": "https://www.youtube.com/watch?v=Hr4hDDHGn6Q",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "smart buildings",
+          "proptech",
+          "building automation",
+          "Data Analytics",
+          "Podcast",
+          "Unified Namespace",
+          "UNS",
+          "Integration",
+          "building technology",
+          "data integration"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hr4hDDHGn6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hr4hDDHGn6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hr4hDDHGn6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hr4hDDHGn6Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hr4hDDHGn6Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Hr4hDDHGn6Q",
+      "channel_id": "UCK1yd29AC_i3lC9P36vqGBg",
+      "view_count": 62,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "64D6ITi-PiM",
+      "title": "How to transform operations with Unified Namespace (UNS): a Real-life use case",
+      "content": "With this video, we dive into a real-life use case showcasing the power of Unified Namespace (UNS). Discover how it helped to overcome challenges like data silos, real-time monitoring gaps, and inefficient anomaly detection \ud83d\udca1 Why Watch This Video? - Practical steps to prepare for and implement UNS. - Insights into the value UNS can bring to your organisation. - A real-life use case of UNS 1\ufe0f\u20e3 Challenges Addressed: - Lack of a complete production overview. - Manual, time-consuming anomaly detection. - Isolated systems and data silos. 2\ufe0f\u20e3 Approach: Implementation of a Unified Namespace to centralize and structure data, enabling: - Real-time anomaly detection using AI-driven vision systems. - Improved operational insights with SCADA (Ignition) and a Historian (Canary). - Scalable, future-ready architecture with MQTT as the backbone. 3\ufe0f\u20e3 Key Results: - Reduced waste through efficient anomaly detection. - Eliminated data silos for seamless integration. - Laid a scalable foundation for",
+      "author": "Coretecs",
+      "timestamp": "2025-01-24 11:38:22+00:00",
+      "url": "https://www.youtube.com/watch?v=64D6ITi-PiM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/64D6ITi-PiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/64D6ITi-PiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/64D6ITi-PiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/64D6ITi-PiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "64D6ITi-PiM",
+      "channel_id": "UCrSHKaAEGdU6-PC2wIzaShw",
+      "view_count": 85,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT7M51S"
+    }
+  ],
+  "collection_time": "2025-10-06T11:55:17.893038",
+  "keyword": "unified namespace",
+  "exact_match": true
+}

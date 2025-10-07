@@ -1,0 +1,17 @@
+{
+  "keyword": "unified_namespace",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collection_date": "2025-10-07T13:40:00.000000",
+  "total_posts": 0,
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "unified_namespace",
+    "total_posts": 0,
+    "total_interactions": 0,
+    "unique_authors": 0,
+    "top_contributors": [],
+    "top_posts": [],
+    "monthly_mentions": {}
+  }
+}

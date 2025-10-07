@@ -1,0 +1,185 @@
+{
+  "keyword": "LLM",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collected_at": "2025-10-07T14:44:45.961751",
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "LLM",
+    "total_posts": 87865,
+    "total_interactions": 197625,
+    "unique_authors": 25178,
+    "top_contributors": [
+      {
+        "author": "simonw",
+        "post_count": 677,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=simonw"
+      },
+      {
+        "author": "ben_w",
+        "post_count": 289,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ben_w"
+      },
+      {
+        "author": "TeMPOraL",
+        "post_count": 258,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=TeMPOraL"
+      },
+      {
+        "author": "HarHarVeryFunny",
+        "post_count": 255,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=HarHarVeryFunny"
+      },
+      {
+        "author": "Terr_",
+        "post_count": 230,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Terr_"
+      },
+      {
+        "author": "visarga",
+        "post_count": 224,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=visarga"
+      },
+      {
+        "author": "fragmede",
+        "post_count": 179,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=fragmede"
+      },
+      {
+        "author": "ninetyninenine",
+        "post_count": 178,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ninetyninenine"
+      },
+      {
+        "author": "PaulHoule",
+        "post_count": 171,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=PaulHoule"
+      },
+      {
+        "author": "Jensson",
+        "post_count": 148,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Jensson"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "LLM Inevitabilism",
+        "interactions": 3401,
+        "author": "SwoopsFromAbove",
+        "created_at": "2025-07-15 04:35:35 UTC",
+        "url": "https://news.ycombinator.com/item?id=44567857",
+        "platform": "hackernews"
+      },
+      {
+        "title": "LLM Visualization",
+        "interactions": 1723,
+        "author": "plibither8",
+        "created_at": "2023-12-03 06:08:29 UTC",
+        "url": "https://news.ycombinator.com/item?id=38505211",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: SWEs how do you future-proof your career in light of LLMs?",
+        "interactions": 1521,
+        "author": "throwaway_43793",
+        "created_at": "2024-12-16 14:11:19 UTC",
+        "url": "https://news.ycombinator.com/item?id=42431103",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Phind Model beats GPT-4 at coding, with GPT-3.5 speed and 16k context",
+        "interactions": 1238,
+        "author": "rushingcreek",
+        "created_at": "2023-10-31 17:40:47 UTC",
+        "url": "https://news.ycombinator.com/item?id=38088538",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Llm.c – LLM training in simple, pure C/CUDA",
+        "interactions": 1218,
+        "author": "tosh",
+        "created_at": "2024-04-08 20:38:49 UTC",
+        "url": "https://news.ycombinator.com/item?id=39973467",
+        "platform": "hackernews"
+      },
+      {
+        "title": "DBRX: A new open LLM",
+        "interactions": 1209,
+        "author": "jasondavies",
+        "created_at": "2024-03-27 12:23:48 UTC",
+        "url": "https://news.ycombinator.com/item?id=39838104",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: What trick of the trade took you too long to learn?",
+        "interactions": 1057,
+        "author": "unsupp0rted",
+        "created_at": "2025-08-04 17:39:59 UTC",
+        "url": "https://news.ycombinator.com/item?id=44789068",
+        "platform": "hackernews"
+      },
+      {
+        "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+        "interactions": 1054,
+        "author": "vuciv",
+        "created_at": "2025-09-10 02:59:48 UTC",
+        "url": "https://news.ycombinator.com/item?id=45192655",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023?",
+        "interactions": 1037,
+        "author": "divan",
+        "created_at": "2023-12-25 04:42:46 UTC",
+        "url": "https://news.ycombinator.com/item?id=38759877",
+        "platform": "hackernews"
+      },
+      {
+        "title": "OK, I can partly explain the LLM chess weirdness now",
+        "interactions": 984,
+        "author": "dmazin",
+        "created_at": "2024-11-21 17:55:06 UTC",
+        "url": "https://news.ycombinator.com/item?id=42206817",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 569,
+      "2025-09": 4959,
+      "2025-08": 6805,
+      "2025-07": 6849,
+      "2025-06": 5663,
+      "2025-05": 5805,
+      "2025-04": 4744,
+      "2025-03": 4284,
+      "2025-02": 3922,
+      "2025-01": 3956,
+      "2024-12": 3535,
+      "2024-10": 3031,
+      "2024-09": 2913,
+      "2024-08": 2550,
+      "2024-06": 2926,
+      "2024-05": 3233,
+      "2024-04": 2849,
+      "2024-07": 2311,
+      "2024-03": 2693,
+      "2024-02": 2634,
+      "2024-01": 2280,
+      "2023-12": 2603,
+      "2023-11": 2686,
+      "2024-11": 2457,
+      "2023-10": 1608
+    }
+  },
+  "total_posts": 87865
+}

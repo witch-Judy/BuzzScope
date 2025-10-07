@@ -1,0 +1,1203 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"1323501936674082826","jessielu0411","2025-03-20T09:54:29.8810000+08:00","Hi~","",""
+"1353986426408009791","sylvia_59039","2025-03-25T15:24:25.2220000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-03-27T09:16:30.5120000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-05T03:59:06.4390000+08:00","😋","",""
+"1249712253176123422","damir919414","2025-04-09T01:12:28.7750000+08:00","Joined the server.","",""
+"1249712253176123422","damir919414","2025-04-09T01:13:55.0540000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T01:14:51.6320000+08:00","Hello","",""
+"1249712253176123422","damir919414","2025-04-09T01:25:53.8400000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:09:15.1520000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T09:13:19.5080000+08:00","@jessielu Hello, which language is it better to speak with you?""","",""
+"1249712253176123422","damir919414","2025-04-09T09:15:35.7100000+08:00","Английча таржима қуйидагича:
+
+""I need your help with Soliascada.""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:19:28.6110000+08:00","Thanks for asking, I would say English. How can I help you?","",""
+"1249712253176123422","damir919414","2025-04-09T09:20:34.9150000+08:00","""I need your help with Soliascada.""","",""
+"1249712253176123422","damir919414","2025-04-09T09:22:07.0820000+08:00","Ingliz tiliga tarjima:
+
+""Is it possible to activate the 3D model in Soliascada?""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:23:08.5140000+08:00","Yes, did you email us before?","",""
+"1249712253176123422","damir919414","2025-04-09T09:25:23.9300000+08:00","""Yes, I activated Soliascada itself and received 5000 tags for free, but the 3D model is not working. There are limitations — it's not possible to add more than 10 graphics.""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:27:24.0920000+08:00","We did receive your requests for the lic key for the 3D Editor, however for some reason our response email has been returned. Sorry for the inconvenience!","",""
+"1249712253176123422","damir919414","2025-04-09T09:27:58.7860000+08:00","""Can I connect directly to the DCS without OPC? Currently, I am using Supcon Advantrol Pro version 2.50 and I can see the tags through OPC. But now I need to connect to the controller without OPC — is it possible?""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:28:01.5760000+08:00","To receive your license key for the 3D Editor, please follow these steps:
+1. In the application's license infomation window, find the download button that is beside the Hardware ID;
+2. Click this button to download the license file;
+3. Email that downloaded file to us.
+
+Once we receive the file, we will generate and send you your 3D Editor license key.","",""
+"1249712253176123422","damir919414","2025-04-09T09:29:06.2450000+08:00","""How can I activate it?""","",""
+"1249712253176123422","damir919414","2025-04-09T09:30:58.8370000+08:00","""Okay, but if there is an issue with my server and I reinstall the software, will I need to get a new license?""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:34:51.1210000+08:00","You don't need to, you can still use the ""old"" license for the same server and you just need to uninstall the software completely before reinstall the software","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:40:45.2550000+08:00","Yes, it requires the DCS to support data forwarding via the Modbus TCP protocol.","",""
+"1249712253176123422","damir919414","2025-04-09T09:43:26.9250000+08:00","""Right now I can't find the Modbus codes, where can I get them? Because they start with '4'. Also, I couldn't find the Modbus server on the DCS to enable it.""","",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T09:51:32.4180000+08:00","Joined the server.","",""
+"1249712253176123422","damir919414","2025-04-09T09:51:43.1670000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T09:51:59.4390000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T09:55:05.9360000+08:00","""One more thing — can you help me with this too? Do you currently have ready-made 3D designs available?""","",""
+"1323501936674082826","jessielu0411","2025-04-09T09:58:29.9750000+08:00","You will need to reach out to the technical support team of SUPCON Advantrol Pro Version 2.50 and request their assistance in enabling the DCS to forward data via the Modbus protocol.","",""
+"1249712253176123422","damir919414","2025-04-09T10:01:35.2750000+08:00","""Yes, but I have already emailed their technical department, and I haven’t received any response.""","",""
+"1323501936674082826","jessielu0411","2025-04-09T10:04:38.9150000+08:00","While we don’t currently offer ready-made 3D designs, you can fully utilize our 3D editor by uploading open-source 3D models. Just for curiosity, where did you get to know SOLISCADA?","",""
+"1249712253176123422","damir919414","2025-04-09T10:04:56.8200000+08:00","""If you can help me with the 3D model, I want to implement it at my own plant and would also recommend it to other plants. I’ve tested the software and it has great capabilities.""","",""
+"1249712253176123422","damir919414","2025-04-09T10:07:00.1120000+08:00","""I regularly follow updates on the Supcon website. I saw it there, installed it, and tested it — I liked it.""","",""
+"1249712253176123422","damir919414","2025-04-09T10:07:32.4380000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359348980433293363/IMG_20250409_070758_584.jpg?ex=68df2fe4&is=68ddde64&hm=fba470d3670a8bf3b6ea550f2de404b8265758c9b5b363c63150b4510a3b0c40&",""
+"1249712253176123422","damir919414","2025-04-09T10:11:50.2500000+08:00","""Can you help me with one more thing? Currently, we have operating equipment and motor conveyors, and I want to track their working hours. For example, when the motor is turned on, the timer should start; when the motor is off, the timer should pause, and when it's turned on again, the timer should continue from where it left off.""","",""
+"1249712253176123422","damir919414","2025-04-09T10:14:02.2530000+08:00","""Can we currently integrate with an AI system?""","",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T10:15:40.1850000+08:00","Our secondary calculation function should be capable of timing, but after restarting the software, the previous calculation values will be lost. Alternatively, you can also develop calculations using VBS scripts.","",""
+"1249712253176123422","damir919414","2025-04-09T10:19:19.1750000+08:00","""Yes, I have tested the secondary calculation, but it didn’t suit us because there was an issue on the server, and the working hours were lost. If I use the VBS script, will it work without any issues? I need the data to be saved in the database.""","",""
+"1249712253176123422","damir919414","2025-04-09T10:21:13.9510000+08:00","""Can you help me with 3D graphics? I want to make them eye-catching, and I would also like to use them for advertising to other plants.""","",""
+"1323501936674082826","jessielu0411","2025-04-09T10:34:03.7380000+08:00","While ready-made 3D models are not currently part of our standard offerings (as most 3D assets we work with are custom-designed for specific projects), we'd be happy to collaborate with you to create tailored 3D graphics that align with your vision. Could you share more details about the specific models or visual elements you need? Based on your requirements, we could probably help source models that are optimized for your goals.","",""
+"1249712253176123422","damir919414","2025-04-09T10:37:10.0780000+08:00","""Of course, if you help me, I can provide the technological diagrams of the plant, and based on that, can you create the 3D models?""","",""
+"1359355495391035612","whimsical_otter_35961_43576","2025-04-09T10:41:05.2150000+08:00","Joined the server.","",""
+"1359355495391035612","whimsical_otter_35961_43576","2025-04-09T10:41:19.6350000+08:00","hello","",""
+"1359355495391035612","whimsical_otter_35961_43576","2025-04-09T10:41:23.2110000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T10:45:22.4880000+08:00","","",""
+"1249712253176123422","damir919414","2025-04-09T10:45:55.7870000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-09T10:58:27.0600000+08:00","Please feel free to email us your technological diagrams at soliscada@supcon.com. Our team will conduct a detailed review to assess feasibility and scope. Based on this evaluation, we'll follow up with a clear scope of work and pricing options once we've analyzed your materials. Looking forward to supporting your project!","",""
+"1249712253176123422","damir919414","2025-04-09T11:01:56.3170000+08:00","""Would you be willing to work on the first project for free? Then, I would help you find more projects.""","",""
+"1249712253176123422","damir919414","2025-04-09T11:05:05.9840000+08:00","?","",""
+"1323501936674082826","jessielu0411","2025-04-09T11:10:20.5630000+08:00","Can you email us your technological diagrams for us to make evaluations at first please?","",""
+"1359355495391035612","whimsical_otter_35961_43576","2025-04-09T11:10:56.9310000+08:00","Using VBS, the data can be stored in the database. Our engineers will create a DEMO for your reference.","",""
+"1249712253176123422","damir919414","2025-04-09T11:13:27.6450000+08:00","""Thank you, please create a VBS for 5 motors for me, I will install it and run the test. If it works well, I will integrate everything.""","",""
+"1249712253176123422","damir919414","2025-04-09T11:14:03.0070000+08:00","""Alright, I will send it to you.""","",""
+"1249712253176123422","damir919414","2025-04-09T11:18:52.8800000+08:00","""I have selected the ID for the 3D license.""","",""
+"966786326663946270","islambek1150","2025-04-09T11:24:24.3200000+08:00","Joined the server.","",""
+"1359355495391035612","whimsical_otter_35961_43576","2025-04-09T11:24:37.8390000+08:00","","",""
+"966786326663946270","islambek1150","2025-04-09T11:25:08.0200000+08:00","Hi everybody","",""
+"1249712253176123422","damir919414","2025-04-09T11:49:06.7420000+08:00","?","",""
+"1249712253176123422","damir919414","2025-04-09T11:58:09.8490000+08:00","""Can you provide me with a license for the 3D editor?""","",""
+"1323501936674082826","jessielu0411","2025-04-09T12:11:08.6460000+08:00","Of course! We have received your email and my colleague is out of office right now, will reply you with the lic asap! Thank you for your patience!","",""
+"1249712253176123422","damir919414","2025-04-09T12:21:11.2210000+08:00","""Thank you. I have already sent you the technological diagram, and if you can help me create the 3D design, please make the first one for free.""","",""
+"1249712253176123422","damir919414","2025-04-09T16:29:12.0070000+08:00","""I need a VBA script that calculates the operating hours of a motor or front-line equipment, for example: tag1""","",""
+"1249712253176123422","damir919414","2025-04-09T16:31:47.5070000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359445679927328849/rn_image_picker_lib_temp_4b7e1273-1b5f-409f-9cdb-e1a9b2f1489a.jpg?ex=68dee133&is=68dd8fb3&hm=b5f1a5fcb7f170b68ff21ad985a612517aa67fd5a84bd2ce9d6a93688a6abcb6&",""
+"1249712253176123422","damir919414","2025-04-09T16:32:29.3280000+08:00","3D Editer Scene List error","",""
+"966786326663946270","islambek1150","2025-04-09T16:33:59.1020000+08:00","Excuse me, where can I get 3D models for manufacturing ?","",""
+"966786326663946270","islambek1150","2025-04-09T16:35:53.0800000+08:00","","",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T16:36:55.3670000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359446971001209002/20250409163556.png?ex=68dee267&is=68dd90e7&hm=ae89d0dcf2415d665a7d675d016ca7103feb74a74a3e841bbf4576e18556e907&",""
+"1249712253176123422","damir919414","2025-04-09T16:39:35.3640000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359447642501021856/rn_image_picker_lib_temp_26952d7d-1e0f-4e23-a895-4662ebca8417.jpg?ex=68dee307&is=68dd9187&hm=7d19178af33289999a1e53a796c4998d2a02e829e94f4adccb74ea6438ced4bf&",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T16:39:50.5080000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359447706057052212/20250409163723.png?ex=68dee316&is=68dd9196&hm=7c3aa067b902cfa3624b62d1aa0e618d5f617aa0608854a8c078390b2766c4d6&",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T16:41:35.1020000+08:00","You can add a bool data, but the data type needs to be set to integer and the quantum range set to 0-1","",""
+"1249712253176123422","damir919414","2025-04-09T16:43:31.9650000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359448634902581268/rn_image_picker_lib_temp_c905becb-22e5-405e-b921-aa9fb495cf94.jpg?ex=68dee3f3&is=68dd9273&hm=5a49a1fce9bcafaacfad9b774c358fa885d91dcb75529a2ddf53dc25b565a9c6&",""
+"1359343969070354632","wangshu7788_18767","2025-04-09T16:43:55.5210000+08:00","yes","",""
+"1249712253176123422","damir919414","2025-04-09T16:44:02.4370000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1359448762484916286/rn_image_picker_lib_temp_869e65dc-aa19-4ef9-8ed1-9608ea51df4c.jpg?ex=68dee412&is=68dd9292&hm=47b5c28c6a687cc44654e27a1e7894f5153ac4134da52927d6becb22a3406074&",""
+"1249712253176123422","damir919414","2025-04-09T18:50:41.7470000+08:00","""What should we do next? Can you create a script for me?""","",""
+"1359343969070354632","wangshu7788_18767","2025-04-10T09:18:32.4470000+08:00","No script needed","",""
+"966786326663946270","islambek1150","2025-04-10T10:01:23.1890000+08:00","???","",""
+"1323501936674082826","jessielu0411","2025-04-10T10:29:57.2930000+08:00","Hi, unfortunately ready-made 3D models are not currently available as part of our standard offerings. We highly recommend you utilize some open-source or other paid websites such as meshy.ai at this time. We might integrate with AI technology that allowing our users to generate 3D models without limits in the near future! Will surly keep you updated!","",""
+"1359738861412028487","damir072875","2025-04-10T12:08:07.8620000+08:00","Joined the server.","",""
+"1359738861412028487","damir072875","2025-04-10T12:08:20.7030000+08:00","","",""
+"1359738861412028487","damir072875","2025-04-10T12:09:43.3560000+08:00","""I need a VBA script that calculates the operating hours of a motor or front-line equipment, for example: tag1""","",""
+"966786326663946270","islambek1150","2025-04-10T13:18:27.8350000+08:00","","",""
+"966786326663946270","islambek1150","2025-04-10T13:18:31.1400000+08:00","Thanks 🙏","",""
+"1359738861412028487","damir072875","2025-04-10T21:50:00.3260000+08:00","Hi, can you provide me with the certificate and license for your company?""","",""
+"1323501936674082826","jessielu0411","2025-04-11T09:40:09.0130000+08:00","Hey Damir, thanks for your interest in SOLISCADA. Just to give you a quick overview, SOLISCADA is a SCADA software brand under the SUPCON Technology Co., Ltd umbrella, and our global headquarters is based in Singapore. To ensure we provide you with the right information, could you share more about what you're specifically looking to verify? This will help us address your request appropriately while keeping our security protocols in mind. Thanks for understanding!","",""
+"1359738861412028487","damir072875","2025-04-11T10:40:56.3710000+08:00","I have developed an operator station using your software and I intend to transmit it via a web interface. Therefore, I need to comply with security requirements and register it for cybersecurity purposes. For this reason, I am being requested to provide a license and certification.","",""
+"1323501936674082826","jessielu0411","2025-04-11T10:58:03.4370000+08:00","Thanks for the elaboration! I'm going to consult with our team and get back to you asap! Can you provide your email add  for us to follow up please?","",""
+"1359738861412028487","damir072875","2025-04-11T11:01:06.7750000+08:00","damir9194@gmail.com","",""
+"1359738861412028487","damir072875","2025-04-11T11:02:52.5690000+08:00","If we do not pass your software through cybersecurity procedures, it will not be possible for us to use it.","",""
+"1360166897068539924","klchew64_77760","2025-04-11T16:22:59.5070000+08:00","Joined the server.","",""
+"1360166897068539924","klchew64_77760","2025-04-11T16:25:09.9610000+08:00","Hi All","",""
+"1360166897068539924","klchew64_77760","2025-04-11T16:25:21.4780000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-11T16:26:25.9660000+08:00","","",""
+"1359738861412028487","damir072875","2025-04-11T16:32:45.0000000+08:00","","",""
+"966786326663946270","islambek1150","2025-04-14T10:12:38.5600000+08:00","","",""
+"1359738861412028487","damir072875","2025-04-15T11:48:59.3900000+08:00","Hi","",""
+"1359738861412028487","damir072875","2025-04-15T11:49:12.9750000+08:00","I need your help.""","",""
+"1359738861412028487","damir072875","2025-04-15T12:03:48.8730000+08:00","""How can I display my analog signal as a percentage? For example, if the range is 0–400 m³/h, I need to show it in percent.""","",""
+"1359738861412028487","damir072875","2025-04-15T12:04:33.7440000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1361552756418019398/rn_image_picker_lib_temp_70feec93-14c2-45d4-a486-7f6bccc34539.jpg?ex=68df4b51&is=68ddf9d1&hm=38f4d03ca5a088148d0fabb064a2a3b499493ab1cd49f2e67b01ffba2ee7e499&",""
+"1359738861412028487","damir072875","2025-04-15T13:18:14.2660000+08:00","🤔","",""
+"1323501936674082826","jessielu0411","2025-04-15T13:26:55.8500000+08:00","Hi Damir, our technical support will be here to assist you soon. Thank you for your patience!","",""
+"1359343969070354632","wangshu7788_18767","2025-04-15T13:34:40.4540000+08:00","When adding a tag, you can select the tag's range and unit of measurement.","",""
+"1359738861412028487","damir072875","2025-04-15T14:09:55.9680000+08:00","""Yes, I did it that way — the first tag has a range of 0 to 400, and the second tag has a range of 0 to 100, but both tags are showing the same value.""","",""
+"1359738861412028487","damir072875","2025-04-15T17:03:03.5740000+08:00","""What are the ways to calculate the main input signal as a percentage, or can it be done using a script?""","",""
+"1361712729508942129","aqayyum_33399","2025-04-15T22:41:20.0000000+08:00","Joined the server.","",""
+"1359738861412028487","damir072875","2025-04-15T22:51:55.9560000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-16T10:10:09.2230000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-04-16T10:10:17.6750000+08:00","📢 Temporary Support Delay Notification
+
+Dear Valued Users,
+
+We appreciate your engagement and the questions you've posted regarding our SCADA software. Currently, our technical support team is fully engaged with our domestic new release event. As a result, there may be a delay in our responses within the group chat.​
+
+We are committed to providing you with the assistance you need and will address your inquiries as soon as possible. 
+
+Thank you for your understanding and patience during this time.​","",""
+"1359343969070354632","wangshu7788_18767","2025-04-17T09:35:23.6210000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362239993204183180/6f546fec5079df18.png?ex=68df285b&is=68ddd6db&hm=0bc51fceaf5df7c5ec5317a84497fa56e443f96e4179f5b0299970ebdaab6bdc&",""
+"1359343969070354632","wangshu7788_18767","2025-04-17T09:36:49.5570000+08:00","You can try it like this","",""
+"1359738861412028487","damir072875","2025-04-17T13:14:42.5380000+08:00","Hello, thank you, it was very tasty.","",""
+"1359738861412028487","damir072875","2025-04-17T13:18:29.8080000+08:00","Please create a VBScript for me that calculates the operating hours of motors.","",""
+"1359343969070354632","wangshu7788_18767","2025-04-17T15:50:48.2350000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362334468366401536/Demo-The_running_time_of_the_motor.zip?ex=68ded798&is=68dd8618&hm=a06abdb28f5e39c50ff1a367f91dfb89dfef06a01eb18850c89e0407b1265041&",""
+"1359343969070354632","wangshu7788_18767","2025-04-17T15:52:32.6480000+08:00","Engineer admin, no password","",""
+"1359738861412028487","damir072875","2025-04-18T16:23:26.0120000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362705067567747112/IMG_20250418_132300.jpg?ex=68dedf3d&is=68dd8dbd&hm=25db8cf3a8cf1d58d3504ca3f3225e506bd32cc5f4bc40c6690553647104a754&",""
+"1359738861412028487","damir072875","2025-04-18T16:23:42.9070000+08:00","Web portal error","",""
+"1359343969070354632","wangshu7788_18767","2025-04-18T16:27:46.5780000+08:00","Please release it to all.","",""
+"1359738861412028487","damir072875","2025-04-18T16:30:15.9200000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362706785772900393/rn_image_picker_lib_temp_b9239d16-3bd4-46d5-b723-3dace7551f21.jpg?ex=68dee0d7&is=68dd8f57&hm=e76f254efb2cf622c77fb33657b80077e6bceccbea1b07670e6a5e69916074fb&,https://cdn.discordapp.com/attachments/1349624419449962539/1362706786620276889/rn_image_picker_lib_temp_1490d0ef-d6e6-483e-b746-eab26ecb13d1.jpg?ex=68dee0d7&is=68dd8f57&hm=ded09a4cc0058e8eb480ab1670bbdd94790913760a1e4fedc43633821a3ebb68&",""
+"1359738861412028487","damir072875","2025-04-18T16:30:39.7420000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362706886553768078/rn_image_picker_lib_temp_df9d6252-4b7e-46f5-96bd-5a4c28f69b18.jpg?ex=68dee0ef&is=68dd8f6f&hm=c119c087bb2687091c5686df2a2ff7e914316ce6eeae71090a95c3beb4e0ceee&",""
+"1359343969070354632","wangshu7788_18767","2025-04-18T16:46:42.7200000+08:00","need to release it to the engineering team again.","",""
+"1359738861412028487","damir072875","2025-04-18T18:16:35.7500000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1362733545612771418/VID_20250418_151545.mp4?ex=68def9c3&is=68dda843&hm=642bc45b2fed0f27dfe172d0fa526d845f2b4c7e6fe0cbfdf46bbd1f4ea87054&",""
+"1359738861412028487","damir072875","2025-04-18T18:17:40.9040000+08:00","""The web portal is working, but the dashboard is not displaying.""","",""
+"1359738861412028487","damir072875","2025-04-19T14:36:36.2530000+08:00","Hello, can you prepare a report or a video tutorial for me?","",""
+"1323501936674082826","jessielu0411","2025-04-21T10:05:41.4700000+08:00","Hey Damir,
+Thank you for letting us know, and I'm glad to hear the web portal is working for you.
+
+Regarding the dashboard display: the gauge/dashboard controls feature as well as some other features for our overseas edition of  our SCADA is still under development and will be available in an upcoming release. In the meantime, you'll find our user manuals included with your installation package.
+
+As for video tutorials, our team is continuously creating and updating tutorial videos to empower you with hands‑on guidance. Please feel free to explore the latest tutorials on our YouTube channel: https://www.youtube.com/@SOLISCADA/videos","",""
+"1359738861412028487","damir072875","2025-04-21T12:17:39.1410000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1363730378342273064/IMG_20250421_091717.jpg?ex=68df4e63&is=68ddfce3&hm=d7b92f0e91f9d82e34938dd67b497b61bb6a3b03fd35508ea55cd39b361a15b0&",""
+"1359738861412028487","damir072875","2025-04-21T12:19:11.6460000+08:00","I connected a 3D and an IP camera, but when I switched to online mode, this kind of error appears.","",""
+"1359343969070354632","wangshu7788_18767","2025-04-21T14:35:01.2540000+08:00","Online debugging does not support this kind of page running, it is recommended that you start monitoring running","",""
+"1359343969070354632","wangshu7788_18767","2025-04-21T14:35:57.2800000+08:00","You can send us a video","",""
+"1359738861412028487","damir072875","2025-04-22T12:51:53.3620000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364101381941887017/rn_image_picker_lib_temp_2c606541-f703-4b55-9fd9-14e7eae8c323.jpg?ex=68df5669&is=68de04e9&hm=cb88799c7d7c8473be0162ec53c89eefcea3dc89ec059bc608ffd77fc8ef59fa&",""
+"1359738861412028487","damir072875","2025-04-22T14:15:39.1840000+08:00","This kind of error is appearing in the web interface, what could be the reason? Everything seems fine on the SCADA side","",""
+"1359343969070354632","wangshu7788_18767","2025-04-22T14:30:48.2550000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364126274720763904/websocket.png?ex=68df6d98&is=68de1c18&hm=53ca4d6def0d7839d12456c3925bbe06db9b776711c9e829e22b8b71df489262&,https://cdn.discordapp.com/attachments/1349624419449962539/1364126275018424340/websocket2.png?ex=68df6d98&is=68de1c18&hm=067f34fd33458e01b232e8f2f9f6a89a560892144e70881abee42fae4626582c&",""
+"1359738861412028487","damir072875","2025-04-22T18:00:03.7500000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364178936258367538/IMG_20250422_141839.jpg?ex=68def5e3&is=68dda463&hm=20f31c94f252306054f20b11df84882c6c18867a5ab57859849fece253acaca4&",""
+"1359738861412028487","damir072875","2025-04-22T18:00:07.2300000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364178950972244092/IMG_20250422_141829.jpg?ex=68def5e7&is=68dda467&hm=a1c9f8585edad91a813edfc0c90126bba1b27b8b0da8d1c7310cc28c95d3845f&",""
+"1359738861412028487","damir072875","2025-04-22T18:00:10.2540000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364178964146421780/IMG_20250422_141941.jpg?ex=68def5ea&is=68dda46a&hm=e00257fb601b33de510111edccd6182b48ce8babf2c2b57340b81c224d9779a1&",""
+"1359738861412028487","damir072875","2025-04-22T18:06:24.1300000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1364180532052889601/rn_image_picker_lib_temp_0588fa35-5389-4b66-9c61-5fd3313abe17.jpg?ex=68def760&is=68dda5e0&hm=d09c2a3a6ede7c766178d57a6aa50e16d9552d4c933435a3028238de19d54a2b&",""
+"1359343969070354632","wangshu7788_18767","2025-04-23T09:25:33.7500000+08:00","Hi Damir, it appears there's an issue that requires further investigation. Could we take a look at it remotely please?","",""
+"1359738861412028487","damir072875","2025-04-23T16:57:22.9690000+08:00","""Is it possible to sum up the current real-time consumption?""","",""
+"1359738861412028487","damir072875","2025-04-23T18:50:10.8190000+08:00","Yes, of course. When would be a good time for you? If you let me know, I’ll provide access via AnyDesk.","",""
+"1323501936674082826","jessielu0411","2025-04-24T13:56:21.5720000+08:00","Hi Damir, we've actually received the same issue report from a few other users as well. Our technical team is already working on it internally, so there's no need for remote access at the moment. We'll keep you updated as soon as we have a fix or further information. Appreciate your patience! 😀","",""
+"1359738861412028487","damir072875","2025-04-25T16:25:49.6680000+08:00","""Good day. Could you please provide an update regarding the web interface issue? Has it been resolved or has the root cause been identified?""","",""
+"966786326663946270","islambek1150","2025-04-26T00:09:40.6810000+08:00","Hello everyone! Please help me with how to write a script for this, I can't figure it out. Thank you in advance...","",""
+"966786326663946270","islambek1150","2025-04-26T00:14:08.2830000+08:00","","",""
+"966786326663946270","islambek1150","2025-04-26T00:14:17.2450000+08:00","I found it, thank you","",""
+"966786326663946270","islambek1150","2025-04-28T14:11:00.1890000+08:00","Hello,
+I need your assistance regarding VBScript-VFDraw.
+I cannot make it work properly.
+
+I have three points:
+
+There is a manually entered field called KCL.
+
+There is a real-time signal field called WT_2302.
+
+There is a place to display the calculated value, called rasxod.
+
+I wrote the following script:
+
+Dim KCL, WT_2302, rasxod
+
+' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+
+    KCL = val
+    rasxod = HisoblaRasxod()
+
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+
+    WT_2302 = val
+    rasxod = HisoblaRasxod()
+
+End Sub
+' --------------------------------------
+Function HisoblaRasxod()
+
+    Dim natija
+
+    If KCL = 20 Then
+        natija = WT_2302 * 0.0032
+    ElseIf KCL = 21 Then
+        natija = WT_2302 * 0.0033
+    ElseIf KCL = 22 Then
+        natija = WT_2302 * 0.0035
+    ElseIf KCL = 23 Then
+        natija = WT_2302 * 0.0036
+    ElseIf KCL = 24 Then
+        natija = WT_2302 * 0.0037
+    ElseIf KCL = 25 Then
+        natija = WT_2302 * 0.0038
+    ElseIf KCL = 26 Then
+        natija = WT_2302 * 0.004
+    ElseIf KCL = 27 Then
+        natija = WT_2302 * 0.0041
+    ElseIf KCL = 28 Then
+        natija = WT_2302 * 0.0042
+    ElseIf KCL = 29 Then
+        natija = WT_2302 * 0.0045
+    ElseIf KCL = 30 Then
+        natija = WT_2302 * 0.0047
+    ElseIf KCL = 31 Or KCL = 32 Then
+        natija = WT_2302 * 0.005
+    Else
+        natija = 0
+    End If
+
+    HisoblaRasxod = natija
+
+End Function
+'---------------------------------------
+However, it does not work as expected.
+Could you please help me understand what is wrong and how to fix it?
+
+Thank you very much in advance!","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T15:06:04.3600000+08:00","' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+
+    KCL = Form.tag(""TAG_NAME"")
+    rasxod = HisoblaRasxod(KCL)
+
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+
+    WT_2302 = Form.tag(""TAG_NAME"")
+    rasxod = HisoblaRasxod(WT_2302)
+
+End Sub
+' --------------------------------------
+Function HisoblaRasxod(VAL)
+
+    Dim natija
+
+    If KCL = 20 Then
+        natija = WT_2302 * 0.0032
+    ElseIf KCL = 21 Then
+        natija = WT_2302 * 0.0033
+    ElseIf KCL = 22 Then
+        natija = WT_2302 * 0.0035
+    ElseIf KCL = 23 Then
+        natija = WT_2302 * 0.0036
+    ElseIf KCL = 24 Then
+        natija = WT_2302 * 0.0037
+    ElseIf KCL = 25 Then
+        natija = WT_2302 * 0.0038
+    ElseIf KCL = 26 Then
+        natija = WT_2302 * 0.004
+    ElseIf KCL = 27 Then
+        natija = WT_2302 * 0.0041
+    ElseIf KCL = 28 Then
+        natija = WT_2302 * 0.0042
+    ElseIf KCL = 29 Then
+        natija = WT_2302 * 0.0045
+    ElseIf KCL = 30 Then
+        natija = WT_2302 * 0.0047
+    ElseIf KCL = 31 Or KCL = 32 Then
+        natija = WT_2302 * 0.005
+    Else
+        natija = 0
+    End If
+
+    HisoblaRasxod = natija
+
+End Function","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T15:07:09.0800000+08:00","@ИсламбекYou can try again","",""
+"1323501936674082826","jessielu0411","2025-04-28T15:44:55.0700000+08:00","Hi Damir,
+Thank you for following up! we've just sent you an email regarding the web interface issue, could you please check your inbox? Let me know if you haven't received it.","",""
+"1359738861412028487","damir072875","2025-04-28T15:59:50.0220000+08:00","Hello, I haven't received it in my email.","",""
+"1323501936674082826","jessielu0411","2025-04-28T16:10:09.7830000+08:00","Hi I just re-sent the email,  how about now?","",""
+"1359738861412028487","damir072875","2025-04-28T16:18:53.4400000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1366327802747682836/rn_image_picker_lib_temp_423b40c5-e3d6-4f05-86e5-3425994eba5b.jpg?ex=68dede2d&is=68dd8cad&hm=8b9f1117b21803bc52be0fb0c34f440bbc4330feb8d11d9e1273ddf9cae3ed5b&",""
+"1359738861412028487","damir072875","2025-04-28T16:22:08.3140000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1366328620133519440/rn_image_picker_lib_temp_d2b1e2bd-d8b0-4b45-92c7-c877200b2b61.jpg?ex=68dedef0&is=68dd8d70&hm=fe15b7e27b39ff4500f8b1868d8fad8c67927e848bbcd1390a11e03a97532408&",""
+"966786326663946270","islambek1150","2025-04-28T16:39:03.0270000+08:00","It still doesn't work. What should I do?","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:41:03.9000000+08:00","Form.tag(""TAG_NAME"")，，TAG_NAME，Need to be replaced with your  tag","",""
+"1323501936674082826","jessielu0411","2025-04-28T16:41:53.5970000+08:00","Damir, did you receive the email from soliscada@supcon.com?","",""
+"966786326663946270","islambek1150","2025-04-28T16:42:43.1110000+08:00","For example, I am trying to set it up the way you said, but it’s not working","",""
+"1359738861412028487","damir072875","2025-04-28T16:43:18.7530000+08:00","Yes, I received it and installed it, but it doesn't help.","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:45:07.7850000+08:00","You need to task manager the service, stop the service, and then replace it@Damir","https://cdn.discordapp.com/attachments/1349624419449962539/1366334406280740864/image.png?ex=68dee453&is=68dd92d3&hm=210743796988b7436de5c9dfe285146bcd71bc209cc6e90d1a5d78e080111976&",""
+"966786326663946270","islambek1150","2025-04-28T16:45:35.1510000+08:00","KCL and WT_2302 themselves are the tags, but I didn’t fully understand what you meant","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:46:05.8320000+08:00","You need to replace it with your bit number, which I tested just now","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:49:09.6620000+08:00","You need to add this tag to the database first","https://cdn.discordapp.com/attachments/1349624419449962539/1366335420736213053/image.png?ex=68dee545&is=68dd93c5&hm=c6609daa96503e0482c2a7ea426eafba3d6740fd227b6a94e298d1dd80d31cb7&",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:49:56.8700000+08:00","dim KCL1      KCL1=Form.tag(""KCL"")@Исламбек","",""
+"1359738861412028487","damir072875","2025-04-28T16:52:46.1990000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1366336328689782835/rn_image_picker_lib_temp_1a94063d-238d-40d0-afd4-315f26f35b54.jpg?ex=68dee61e&is=68dd949e&hm=6999e60aa6ee1a9a6883187e6828bf78cd629ea77b1afc4519e902e625350a45&",""
+"966786326663946270","islambek1150","2025-04-28T16:52:58.2240000+08:00","I have created the tags like that","https://cdn.discordapp.com/attachments/1349624419449962539/1366336378924957706/image.png?ex=68dee62a&is=68dd94aa&hm=d60a52046d364bd07916a3184394483e664ddfb6299231b85d8a1589b230cd23&,https://cdn.discordapp.com/attachments/1349624419449962539/1366336379218432032/image.png?ex=68dee62a&is=68dd94aa&hm=19f26af4c3aadf301e17d2611928a1df2dc79de670115bfa63474886a74d8def&,https://cdn.discordapp.com/attachments/1349624419449962539/1366336379478609940/image.png?ex=68dee62a&is=68dd94aa&hm=439f1c44369727648f33ad6e5feef7e0543025ca0301f6fe4361a7db0f1f5eec&",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:55:47.2100000+08:00","dim KCL1      KCL1=Form.tag(""KCL"")@Исламбек","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:55:51.5050000+08:00","@Исламбек","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T16:58:26.8540000+08:00","You need to stop running the service first","",""
+"966786326663946270","islambek1150","2025-04-28T17:01:44.7250000+08:00","' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+
+    KCL = Form.tag(""KCL"")
+    rasxod = HisoblaRasxod(KCL)
+
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+
+    WT_2302 = Form.tag(""WT_2302"")
+    rasxod = HisoblaRasxod(WT_2302)
+
+End Sub
+' --------------------------------------
+Function HisoblaRasxod(VAL)
+
+    Dim natija
+
+    If KCL = 20 Then
+        natija = WT_2302 * 0.0032
+    ElseIf KCL = 21 Then
+        natija = WT_2302 * 0.0033
+    ElseIf KCL = 22 Then
+        natija = WT_2302 * 0.0035
+    ElseIf KCL = 23 Then
+        natija = WT_2302 * 0.0036
+    ElseIf KCL = 24 Then
+        natija = WT_2302 * 0.0037
+    ElseIf KCL = 25 Then
+        natija = WT_2302 * 0.0038
+    ElseIf KCL = 26 Then
+        natija = WT_2302 * 0.004
+    ElseIf KCL = 27 Then
+        natija = WT_2302 * 0.0041
+    ElseIf KCL = 28 Then
+        natija = WT_2302 * 0.0042
+    ElseIf KCL = 29 Then
+        natija = WT_2302 * 0.0045
+    ElseIf KCL = 30 Then
+        natija = WT_2302 * 0.0047
+    ElseIf KCL = 31 Or KCL = 32 Then
+        natija = WT_2302 * 0.005
+    Else
+        natija = 0
+    End If
+
+    HisoblaRasxod = natija
+
+End Function      Should it be written like that? Or should it be written as KCL1? I didn’t quite understand","",""
+"966786326663946270","islambek1150","2025-04-28T17:04:19.7660000+08:00","It’s not working for me","https://cdn.discordapp.com/attachments/1349624419449962539/1366339238077009930/image.png?ex=68dee8d3&is=68dd9753&hm=ea045deed8c9349ef191d771ba7f0955aa9a8bd88fff60aa4ba5c5c96547b47d&",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:04:32.4850000+08:00","It'll work","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:07:06.4840000+08:00","' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+
+    KCL = Form.tag(""KCL"")
+    Form.tag(""rasxod"")=HisoblaRasxod(KCL)
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+
+    WT_2302 = Form.tag(""WT_2302"")
+    Form.tag(""rasxod"")=HisoblaRasxod(WT_2302)
+
+End Sub","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:09:43.2530000+08:00","' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+
+    KCL = App.readtag(""KCL"")
+   App.writetag ""rasxod"",HisoblaRasxod(KCL)
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+
+    WT_2302 = App.readtag(""WT_2302"")
+    App.writetag ""rasxod"",HisoblaRasxod(WT_2302)
+
+End Sub","",""
+"1359738861412028487","damir072875","2025-04-28T17:09:48.4360000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1366340616111263824/VID_20250428_140841.mp4?ex=68deea1c&is=68dd989c&hm=c3633c4db36ae5644fee46cf99f7015e8d016590c682c5910dc38d314db3d9b4&",""
+"1359738861412028487","damir072875","2025-04-28T17:10:27.8360000+08:00","""If I start it, it flies away.""","",""
+"966786326663946270","islambek1150","2025-04-28T17:13:45.4780000+08:00","I tried writing it the way you said, but it didn’t work. Are there any other ways? Please help me with this","https://cdn.discordapp.com/attachments/1349624419449962539/1366341610735931473/image.png?ex=68deeb09&is=68dd9989&hm=7b3abe2ab5d41a408a869d39cc2ac677546c1c3238f8f469ad8b991fe9e06d04&",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:13:55.6360000+08:00","Stop running the service. Extract the archive and replace the files. Restart the service","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:16:04.0740000+08:00","' -------------------------------------
+Sub DataLink25_OnDataChange(val)
+    KCL = Form.tag(""KCL"")
+    Form.tag(""rasxod"")=Clng(HisoblaRasxod(KCL))
+End Sub
+' --------------------------------------
+Sub DataLink26_OnDataChange(val)
+    WT_2302 = Form.tag(""WT_2302"")
+    Form.tag(""rasxod"")=Clng(HisoblaRasxod(WT_2302))
+End Sub","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:16:38.5340000+08:00","There may be a data type mismatch and you need to convert the data type","",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:19:50.2110000+08:00","1. First, stop the currently running scada-web-h5-graph-lite.
+2. Then unzip the NEW zip file sent in the email and replace this old scada-web-h5-graph-lite.
+3. Restart the service.","",""
+"966786326663946270","islambek1150","2025-04-28T17:23:29.8920000+08:00","Somewhere I am making a mistake or there is an error in the code","https://cdn.discordapp.com/attachments/1349624419449962539/1366344060893134848/image.png?ex=68deed51&is=68dd9bd1&hm=b508e805627d47da43f2c02ad8a160c6ae72587b785c5af3338fd69398ff3940&,https://cdn.discordapp.com/attachments/1349624419449962539/1366344061166026772/image.png?ex=68deed51&is=68dd9bd1&hm=55714f450bd0372cb3311374c4e2120124cba05873d5431a4196f8018e4b7bf6&,https://cdn.discordapp.com/attachments/1349624419449962539/1366344061472215060/image.png?ex=68deed51&is=68dd9bd1&hm=77428c58e99c487304923c06def89621d7ac7804b635ab4fa91d79c27899df3b&,https://cdn.discordapp.com/attachments/1349624419449962539/1366344061954293760/image.png?ex=68deed51&is=68dd9bd1&hm=b82d76ccfb16f129e727f50939e8c65b9de2fcaa920bfbc30f481d73ba3d7c24&",""
+"1359343969070354632","wangshu7788_18767","2025-04-28T17:24:46.6450000+08:00","Is there a message?","",""
+"966786326663946270","islambek1150","2025-04-28T17:26:02.0890000+08:00","No, it’s just not showing anything","",""
+"966786326663946270","islambek1150","2025-04-28T17:46:31.6830000+08:00","'-------------------------------------
+Sub DataLink25_OnDataChange(val)
+    On Error Resume Next 
+    KCL = Form.tag(""KCL"") 
+    If IsEmpty(KCL) Or IsNull(KCL) Then
+        KCL = 0
+    End If
+End Sub
+'--------------------------------------
+Sub DataLink26_OnDataChange(val)
+    On Error Resume Next 
+    WT_2302 = Form.tag(""WT_2302"") 
+    If IsEmpty(WT_2302) Or IsNull(WT_2302) Then
+        WT_2302 = 0 
+    End If
+
+    rasxod = HisoblaRasxod(WT_2302, KCL) 
+    Form.tag(""rasxod"") = Clng(rasxod) 
+End Sub
+'--------------------------------------
+Function HisoblaRasxod(WT_2302, KCL)
+    Dim natija
+
+    If IsEmpty(WT_2302) Or IsNull(WT_2302) Then WT_2302 = 0
+    If IsEmpty(KCL) Or IsNull(KCL) Then KCL = 0
+
+    Select Case KCL
+        Case 20
+            natija = WT_2302 * 0.0032
+        Case 21
+            natija = WT_2302 * 0.0033
+        Case 22
+            natija = WT_2302 * 0.0035
+        Case 23
+            natija = WT_2302 * 0.0036
+        Case 24
+            natija = WT_2302 * 0.0037
+        Case 25
+            natija = WT_2302 * 0.0038
+        Case 26
+            natija = WT_2302 * 0.004
+        Case 27
+            natija = WT_2302 * 0.0041
+        Case 28
+            natija = WT_2302 * 0.0042
+        Case 29
+            natija = WT_2302 * 0.0045
+        Case 30
+            natija = WT_2302 * 0.0047
+        Case 31, 32
+            natija = WT_2302 * 0.005
+        Case Else
+            natija = 0 
+    End Select
+
+    HisoblaRasxod = natija
+End Function
+ I tried writing it like this","",""
+"966786326663946270","islambek1150","2025-04-28T17:47:23.3620000+08:00","It’s not working","",""
+"1359343969070354632","wangshu7788_18767","2025-04-29T16:22:15.3730000+08:00","@ИсламбекMay I have a look at this tag attribute","https://cdn.discordapp.com/attachments/1349624419449962539/1366691037912760400/image.png?ex=68dedef7&is=68dd8d77&hm=114c9b7745270cefc0e6d98c700317406d66c536b342f9d91d714faf75f0b799&",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T10:51:23.7670000+08:00","@Исламбек","https://cdn.discordapp.com/attachments/1349624419449962539/1366970162036605049/Demo-VBS_2025_04_30_10_39.zip?ex=68df3a2b&is=68dde8ab&hm=9f128129b9ec16841702776bbc4fa9d20cf91f57318d9a72369379dd8322a206&",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T10:58:34.5650000+08:00","You will need to download our new version of the software SOLISCADA V7.00.00.00 and in the meanwhile reference this demo. I'll share the software download link shortely. @Исламбек","",""
+"966786326663946270","islambek1150","2025-04-30T10:59:29.8080000+08:00","Hello! How are you? I forgot to tell you, it worked  ' ------------------------------------- 
+Sub DataLink25_OnDataChange(val)
+    On Error Resume Next 
+    Dim KCL, WT_2302
+    KCL = CInt(App.readtag(""KCL"")) 
+    WT_2302 = CDbl(App.readtag(""WT_2302"")) 
+    App.writetag ""rasxod"", HisoblaRasxod(KCL, WT_2302)
+    If Err.Number <> 0 Then App.Log(""Xato DataLink25: "" & Err.Description)
+End Sub 
+
+' -------------------------------------- 
+Sub DataLink26_OnDataChange(val)
+    On Error Resume Next
+    Dim KCL, WT_2302
+    KCL = CInt(App.readtag(""KCL""))
+    WT_2302 = CDbl(App.readtag(""WT_2302""))
+    App.writetag ""rasxod"", HisoblaRasxod(KCL, WT_2302)
+    If Err.Number <> 0 Then App.Log(""Xato DataLink26: "" & Err.Description)
+End Sub 
+
+' -------------------------------------- 
+Function HisoblaRasxod(KCL, WT_2302)
+    Dim natija
+    
+    Select Case KCL
+        Case 20: natija = WT_2302 * 0.0032
+        Case 21: natija = WT_2302 * 0.0033
+        Case 22: natija = WT_2302 * 0.0035
+        Case 23: natija = WT_2302 * 0.0036
+        Case 24: natija = WT_2302 * 0.0037
+        Case 25: natija = WT_2302 * 0.0039
+        Case 26: natija = WT_2302 * 0.0040
+        Case 27: natija = WT_2302 * 0.0042
+        Case 28: natija = WT_2302 * 0.0044
+        Case 29: natija = WT_2302 * 0.0046
+        Case 30: natija = WT_2302 * 0.0046
+        Case 31: natija = WT_2302 * 0.0048
+        Case 31,93: natija = WT_2302 * 0.0050
+        Case 32: natija = WT_2302 * 0.0050
+        Case Else: natija = 0
+    End Select
+    
+    HisoblaRasxod = Round(natija, 3) 
+End Function                      It worked with this code","",""
+"966786326663946270","islambek1150","2025-04-30T11:00:40.4670000+08:00","ok thank you","",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T11:00:46.5250000+08:00","👍","",""
+"966786326663946270","islambek1150","2025-04-30T11:04:12.8450000+08:00","Sorry, what's the password for this","",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T11:04:33.6100000+08:00","no password","",""
+"966786326663946270","islambek1150","2025-04-30T11:05:51.2980000+08:00","I tried entering ""admin admin"", but it says it's incorrect","https://cdn.discordapp.com/attachments/1349624419449962539/1366973800801112094/image.png?ex=68df3d8f&is=68ddec0f&hm=5d17f5fe685e17259fbc85ce71e18c44f503765007f6ab5f9127be301d164b3a&",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T11:06:08.6570000+08:00","engineer：admin","",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T11:06:31.2380000+08:00","no password","",""
+"1323501936674082826","jessielu0411","2025-04-30T11:06:54.8840000+08:00","@everyone Hey everyone! 👋
+
+We're excited to announce the release of SOLISCADA V7.00.00.00! 🎉
+
+🆕 What's New
+• Bulk Import/Export of Point Groups – Effortlessly batch import and export your point groups to speed up project setup and configuration.
+
+🐞 Bug Fixes
+• Resolved several known issues to boost stability and deliver a smoother experience.
+
+🚀 Get It Now
+We highly recommend everyone download the latest version today to take advantage of these improvements!
+🔗 Download: https://supos.app:8090/SoliSCADA/SOLISCADA%20V7.00.00.00-250418-M_DiskFile.zip
+
+— Jessie Lu, Marketing Manager
+    30 April, 2025","",""
+"1359343969070354632","wangshu7788_18767","2025-04-30T11:07:23.7150000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1366974187712806953/2025_04_30_10_34_19_993_20250430_11054185.mp4?ex=68df3deb&is=68ddec6b&hm=a4a9b9bb3783cc4e4061add5b9557d9b5841e765c491773f9607666c394d1665&","👍 (2)"
+"1323501936674082826","jessielu0411","2025-04-30T11:08:07.4200000+08:00","Pinned a message.","",""
+"966786326663946270","islambek1150","2025-04-30T12:18:11.1130000+08:00","Excuse me, can only one user access it via the web browser?","",""
+"966786326663946270","islambek1150","2025-04-30T12:32:42.6570000+08:00","Sorry, I have another question. For example, if I update my computer's operating system, will I need to get a new license key again?","",""
+"1323501936674082826","jessielu0411","2025-04-30T13:17:58.9230000+08:00","At the moment, only one user can access it via the web browser by default. But you can apply for a Web Portal license FOR FREE, which allows up to 10 users. Just email our tech support team at soliscada@supcon.com. Kindly note we'll be on a public holiday shortly, and we'll get back to you after May 6th.","",""
+"1323501936674082826","jessielu0411","2025-04-30T13:18:25.4000000+08:00","If you're only updating your operating system, you won't need a new license key. However, if you perform a full OS reinstallation, you will need to request a new key.","",""
+"966786326663946270","islambek1150","2025-04-30T13:58:53.6260000+08:00","I sent the email, thank you.","",""
+"966786326663946270","islambek1150","2025-04-30T13:59:07.7300000+08:00","Thank you","",""
+"966786326663946270","islambek1150","2025-05-03T10:45:41.7360000+08:00","Hello! I have a question. We have a SUPCON PLC — is it possible to connect it directly to the SoliSCADA system? (The reason I’m asking is because I saw something called “SUPCON Collector” in the database.) If it’s possible, what method should I use? Thank you in advance","",""
+"1359343969070354632","wangshu7788_18767","2025-05-06T09:27:39.9020000+08:00","Which PLC is it, please? Can you send the PLC's software interface?","",""
+"966786326663946270","islambek1150","2025-05-06T10:49:07.9840000+08:00","SUPCON FW221, AdvanTrol 2.50","",""
+"1359343969070354632","wangshu7788_18767","2025-05-06T13:24:34.7290000+08:00","You can use the OPC DA driver to connect","",""
+"966786326663946270","islambek1150","2025-05-06T13:44:04.7600000+08:00","Now look, I have a problem — I have two stages: Stage 1 and Stage 2, and both have the same IP address. When I use OPC DA, the tags get mixed up, so I wanted to directly connect only one stage to SoliSCADA.","",""
+"966786326663946270","islambek1150","2025-05-06T13:48:32.0630000+08:00","If it's possible to connect directly, that would be great. Thank you in advance.","","👍 (1)"
+"1359343969070354632","wangshu7788_18767","2025-05-06T14:37:53.6300000+08:00","I don't quite understand what you mean. Can you draw an architecture diagram?","",""
+"966786326663946270","islambek1150","2025-05-06T14:49:49.0440000+08:00","Look, the 1st stage is connected via OPC DA and its IP address is 128.128.1.1. Now, when I try to connect the 2nd stage via OPC DA, it also has the IP address 128.128.1.1. If I try to change its IP, I might disrupt the technological process.","https://cdn.discordapp.com/attachments/1349624419449962539/1369204490082975824/photo_2025-05-06_11-45-17.jpg?ex=68df720d&is=68de208d&hm=3f7e604cb78cba5f59e55a598d7ac3abdf3e0c6cd3fbd0d34162998395b0d2ab&",""
+"1359343969070354632","wangshu7788_18767","2025-05-06T15:07:11.2500000+08:00","In general, this situation is not allowed to occur","",""
+"1359343969070354632","wangshu7788_18767","2025-05-06T15:13:07.2260000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1369210354336530492/b00cfda06fdc85769cae7a5a43a02088_compress.jpg?ex=68df7783&is=68de2603&hm=8a7fe210532a3eda97c70555e49b32c29483ff5bfb49c69f0addc04acf3d3950&",""
+"966786326663946270","islambek1150","2025-05-06T16:45:15.9770000+08:00","I understand you, but the CITIC company has set it up this way. Now, if I change it, I’ll have to modify many parts of the production process.","",""
+"1359343969070354632","wangshu7788_18767","2025-05-06T17:03:14.7580000+08:00","Or you can try it this way","",""
+"1372058183001968680","shailesh773","2025-05-14T11:51:43.0770000+08:00","Joined the server.","",""
+"1372058183001968680","shailesh773","2025-05-14T11:56:01.3090000+08:00","Can you please share demo backup for timewise filtering and reporting","",""
+"1359343969070354632","wangshu7788_18767","2025-05-14T13:11:09.1150000+08:00","Have you downloaded and used our software?","",""
+"1372058183001968680","shailesh773","2025-05-14T13:11:41.5920000+08:00","Nope today I'm going to try it","",""
+"1323501936674082826","jessielu0411","2025-05-14T13:33:42.1140000+08:00","Hi there! Thank you for choosing us! My name is Jessie Lu and am working as a marketing manager at SOLISCADA. I suggest you could download and self-activate your 50K free tags to test out our SCADA software at first, and if you need further assist and/or specific requests, please let us know anytime!","",""
+"910676209346703370","viv_newman1423","2025-05-15T06:21:22.3510000+08:00","Joined the server.","",""
+"910676209346703370","viv_newman1423","2025-05-15T06:21:41.2020000+08:00","Hi","",""
+"910676209346703370","viv_newman1423","2025-05-15T06:21:52.7940000+08:00","","",""
+"910676209346703370","viv_newman1423","2025-05-15T06:22:03.4980000+08:00","Hi","",""
+"1359343969070354632","wangshu7788_18767","2025-05-15T09:24:46.8550000+08:00","Hi~ o(*￣▽￣*)ブ","",""
+"1323501936674082826","jessielu0411","2025-05-15T11:09:11.2920000+08:00","@viv_newman Hey, you've already joined in! For any further questions, please feel free to leave your messages here~","",""
+"910676209346703370","viv_newman1423","2025-05-15T12:49:43.2210000+08:00","Hi I need technical manuals for all your control systems offering in order to consider quoting the system . I need specification and such","",""
+"910676209346703370","viv_newman1423","2025-05-15T13:16:36.1370000+08:00","Can someone help me please ?","",""
+"910676209346703370","viv_newman1423","2025-05-15T13:17:37.3650000+08:00","I’m looking for supcon PLC and DCS specification for possible quotations","",""
+"1323501936674082826","jessielu0411","2025-05-15T13:22:00.6920000+08:00","Please check out our user mannuals, supported drivers list, specifications and other related documentations here: https://www.soliscada.com/support/supportPage#documentation","",""
+"910676209346703370","viv_newman1423","2025-05-15T13:30:28.8520000+08:00","How can I get information on supcon DCS and PLCs","",""
+"1323501936674082826","jessielu0411","2025-05-15T14:12:44.1400000+08:00","Thanks for your interest in SUPCON DCS and PLC solutions. We actually specialize in our own SCADA software, so to make sure you’re connected with the right team for DCS/PLC inquiries, could you please DM me the following info:
+
+Your country or region
+Your company or organization name
+Your preferred contact email address
+
+With that information, I’ll forward you to the appropriate regional contact who can assist with DCS and PLC details.","",""
+"1372782749898772570","simonphoon_20159","2025-05-16T11:48:54.1320000+08:00","Joined the server.","",""
+"1372782749898772570","simonphoon_20159","2025-05-16T11:50:37.1090000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-05-16T13:11:39.2660000+08:00","","",""
+"1359738861412028487","damir072875","2025-05-16T13:21:10.2010000+08:00","Hi","",""
+"1359738861412028487","damir072875","2025-05-16T13:21:12.9520000+08:00","""The web interface is not functioning properly.""","",""
+"1359738861412028487","damir072875","2025-05-16T13:21:41.7440000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1372806191343734784/IMG_20250516_102004.jpg?ex=68df5d65&is=68de0be5&hm=d812cafb3c90d1f1968460d88c641c94b795fc82b571bd39ef846cf1242f85d7&,https://cdn.discordapp.com/attachments/1349624419449962539/1372806191712829470/IMG_20250516_101944.jpg?ex=68df5d65&is=68de0be5&hm=2dff26634193beadb678611067f29eae926cc1f820eb84716fabc7d54a59fe64&,https://cdn.discordapp.com/attachments/1349624419449962539/1372806192086253598/IMG_20250516_101340.jpg?ex=68df5d65&is=68de0be5&hm=5629ddcd348360b7c9df6101b331d53aec40ceb7193b05b77862da0b514d401a&",""
+"1359738861412028487","damir072875","2025-05-16T13:38:07.9030000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1372810328693280910/IMG_20250516_103753.jpg?ex=68df613f&is=68de0fbf&hm=b5deb42a1890bac7d883a41ca0652864fb8d3569a9cdc3dab72e00b9a150b9f5&",""
+"1323501936674082826","jessielu0411","2025-05-16T14:43:13.3050000+08:00","Hi Damir, when working with larger projects, the publishing process may experience delays due to their complexity. To address this, we recommend attempting the publication multiple times. Additionally, please try creating and publishing a simpler test project to confirm whether the issue persists. This will help determine if the problem is software-related or specific to the project's scale.
+Let us know the results of these tests so we can further investigate. Thank you for your cooperation!","",""
+"1359738861412028487","damir072875","2025-05-16T16:52:50.5970000+08:00","I sent an email regarding the web interface license","",""
+"1359738861412028487","damir072875","2025-05-16T16:55:56.6640000+08:00","Yes, it worked after I installed h5-graph-lite install.exe.","",""
+"1323501936674082826","jessielu0411","2025-05-16T17:14:54.8840000+08:00","did you just sent the request email for the web portal license to us at soliscada@supcon.com? cuz it seems like we haven't received your email yet. 😟","",""
+"1359738861412028487","damir072875","2025-05-16T17:16:26.7310000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1372865268304445521/rn_image_picker_lib_temp_b089d42f-ea16-49e8-ad9d-59037e1d5b97.jpg?ex=68deebaa&is=68dd9a2a&hm=99705877696e1734c93ab1743d83afba4f9976f3dd81c6002f95109b5cce34c3&",""
+"1323501936674082826","jessielu0411","2025-05-16T17:26:04.9930000+08:00","thats very weird cuz i realized the latest email between us is the web interface issue resolution... do you mind to send your QR code to my business email address lujiaqi@global.supcon.com please? I'm very sorry for the inconvenience!","",""
+"1359738861412028487","damir072875","2025-05-16T17:35:21.8960000+08:00","I’ve sent it to your email.","",""
+"1372655144793276527","uzadmin_32327","2025-05-16T22:48:49.1450000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-05-19T09:21:12.1530000+08:00","","",""
+"1374268010432299069","emmanuel_63770","2025-05-20T14:11:02.9070000+08:00","Joined the server.","",""
+"1374268010432299069","emmanuel_63770","2025-05-20T14:26:56.5500000+08:00","Hello","",""
+"1374268010432299069","emmanuel_63770","2025-05-20T14:28:20.6760000+08:00","can someone help me if 50,000 free tags is enough to thise project.","https://cdn.discordapp.com/attachments/1349624419449962539/1374272516234940517/image.png?ex=68df6d04&is=68de1b84&hm=4e5d4135f8777453773a554d9e77f3e2f1b6ec0c62c433335c049361d9dae302&",""
+"1323501936674082826","jessielu0411","2025-05-20T14:32:28.4050000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-05-20T14:36:01.8200000+08:00","Hi Emmanuel, welcome to our community! My name is Jessie Lu and am working as a marketing manager at SOLISCADA. I did just receive your related email as well and i will bring up your inquiry to our SCADA engineer support team to review and will get back to you asap! Thanks for understanding!","",""
+"1374268010432299069","emmanuel_63770","2025-05-20T14:37:15.7610000+08:00","Hi @jessielu Thank you so much. I will wait for your response.","",""
+"1359738861412028487","damir072875","2025-05-20T20:24:20.6270000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1374362105796628615/IMG_20250520_172350.jpg?ex=68df17b4&is=68ddc634&hm=e1b035b35f6bded8a4365b58bbc9ea79c6c9de8c10def1fc971e16f22a7f6949&,https://cdn.discordapp.com/attachments/1349624419449962539/1374362106379370576/IMG_20250520_172345.jpg?ex=68df17b4&is=68ddc634&hm=5d9c9eddb86b358cf01f6e63e29e12718fc7880a5e75d0d31308cccb73bc8641&",""
+"1359738861412028487","damir072875","2025-05-21T17:05:29.6510000+08:00","Help","",""
+"1359738861412028487","damir072875","2025-05-21T17:05:55.4250000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1374674560082771968/rn_image_picker_lib_temp_4a034fc5-2573-4a85-9e22-5c271ca3bee6.jpg?ex=68dee933&is=68dd97b3&hm=3e3eafd9a322128413b5103a8d9dba78e5dff4fc8779ee0bf3a5e563f84d99bd&",""
+"1374268010432299069","emmanuel_63770","2025-05-21T17:20:55.7250000+08:00","Hello @jessielu any update on my email?","",""
+"1359738861412028487","damir072875","2025-05-22T00:35:25.9120000+08:00","I'm getting an error, what should I do?","",""
+"1323501936674082826","jessielu0411","2025-05-22T09:42:48.4340000+08:00","Hi Emmanuel, i've replied your email at the same day you sent your inquiry, did you have a chance to check out your inbox yet?","",""
+"1323501936674082826","jessielu0411","2025-05-22T09:46:04.9500000+08:00","Hi Damir, sorry to hear that you are getting an error, and I'm bring up to our engineers for review and will get back to you ASAP! Thank you for your patience!🥺","",""
+"1323501936674082826","jessielu0411","2025-05-22T13:48:41.6130000+08:00","Hi Damir, it appears there's an issue that requires further investigation. Our SCADA engineer @W  would be able to take a look remotely. When would be a good time for you?","",""
+"1359738861412028487","damir072875","2025-05-22T13:53:28.0030000+08:00","Is it possible to do it now? And what method will be used to connect remotely — will it be AnyDesk?","",""
+"1323501936674082826","jessielu0411","2025-05-22T14:03:37.6870000+08:00","Our SCADA engineer is out of office right now and i'm not sure when will he come back, maybe 2 or 3 hours later today? Or the time between 1 PM and 5 PM (UTC+8) this Friday would be convenient for you as well? AnyDesk works for us.","",""
+"1359738861412028487","damir072875","2025-05-22T14:05:00.2100000+08:00","Yes, I will wait for you.","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:23:35.0480000+08:00","ok","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:28:12.3680000+08:00","Please send me your Anydesk address code","",""
+"1359738861412028487","damir072875","2025-05-22T16:28:51.5310000+08:00","1406729082","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:37:44.2110000+08:00","Can You Show Me How it went wrong?","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:40:04.6450000+08:00","Alternatively, can you switch to Windows 10","",""
+"1359738861412028487","damir072875","2025-05-22T16:45:29.7410000+08:00","Right now I need to take manual readings, but I’m not feeling well","",""
+"1359738861412028487","damir072875","2025-05-22T16:46:20.6920000+08:00","KCL = 24","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:50:35.6180000+08:00","sorry, I didn't catch your meaning. Could you speak more clearly","",""
+"1359738861412028487","damir072875","2025-05-22T16:54:13.2170000+08:00","Right now, I need to manually enter a number (for example, KCL 24), but the option to input it is unavailable, and it’s giving an error","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T16:58:42.9390000+08:00","OK I see and I'm working on the investigation process, it will probably take some more time for us, but ill for sure to give you an update as soon as we can! Sorry for the inconvenience!","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:09:05.6770000+08:00","Can I create a new project and shut down the current one?","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:10:29.3650000+08:00","Or send me a copy of your project?","",""
+"1359738861412028487","damir072875","2025-05-22T17:13:47.0530000+08:00","I was trying to connect to the SQL Server database, but I’m getting errors. Everything stopped working after that","",""
+"1359738861412028487","damir072875","2025-05-22T17:15:02.7950000+08:00","Where should I tap/click for the project?""**","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:15:10.8440000+08:00","no","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:16:53.9600000+08:00","Can You Stop the project?","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:19:58.6750000+08:00","I need your project and this Dump file","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:25:11.0820000+08:00","Can you share all of your project backup files and related documents via our email soliscada@supcon.com please? I'll need to involve few more engineers to work on the issue together.","",""
+"1359343969070354632","wangshu7788_18767","2025-05-22T17:25:23.8590000+08:00","We need to do more in-depth investigation@Damir","",""
+"1359738861412028487","damir072875","2025-05-22T18:38:17.0030000+08:00","Send","https://cdn.discordapp.com/attachments/1349624419449962539/1375060190902353951/rn_image_picker_lib_temp_15776a34-bbe9-4b8b-846c-c7c9b47c793e.jpg?ex=68defed8&is=68ddad58&hm=f011a21d422d0b42eabddadde9c495baca90188b84d346a47be13dcb5ccc20d6&",""
+"1375328985130733568","rafis0592","2025-05-23T12:30:42.4310000+08:00","Joined the server.","",""
+"1375328985130733568","rafis0592","2025-05-23T12:31:08.4290000+08:00","","",""
+"1375328985130733568","rafis0592","2025-05-23T12:32:30.2830000+08:00","","",""
+"459047029344043008","strangko","2025-05-23T14:12:01.7720000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-05-23T14:29:33.0980000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-05-23T14:29:35.0330000+08:00","","",""
+"1375328985130733568","rafis0592","2025-05-23T14:29:56.1090000+08:00","👍","",""
+"1375328985130733568","rafis0592","2025-05-23T14:30:01.3580000+08:00","","",""
+"1375328985130733568","rafis0592","2025-05-23T14:32:54.9050000+08:00","Здравствуйте! Advantrol переименовали в Soliscada. По интерфейсу изменения большие похоже.","",""
+"1323501936674082826","jessielu0411","2025-05-23T15:35:07.3910000+08:00","Hi~ Welcome to our SOLISCADA community! We offer free SCADA software (SOLISCADA) and the Advantrol is another software that is related to SUPCON DCS system.","","👍 (1)"
+"1375328985130733568","rafis0592","2025-05-23T15:37:00.5090000+08:00","""Hello, may I ask if Advantrol is still considered current or up-to-date SCADA software?""","",""
+"1375328985130733568","rafis0592","2025-05-23T19:46:12.7760000+08:00","Think is SOLISCADA?","https://cdn.discordapp.com/attachments/1349624419449962539/1375439674004344832/SAVE_20250523_164530.jpg?ex=68df0ec4&is=68ddbd44&hm=babea543d7d6c73762b9fedb6e69ffb7d5a24bf8547524bb0d9fe6100a9f4861&",""
+"1359343969070354632","wangshu7788_18767","2025-05-26T10:08:32.9190000+08:00","no","",""
+"1359343969070354632","wangshu7788_18767","2025-05-26T10:09:15.4170000+08:00","two different pieces of software","",""
+"1375328985130733568","rafis0592","2025-05-26T14:47:05.3320000+08:00","Thank you. Most likely a new version of Advantrol.","",""
+"1327722569314341058","vlady_36925","2025-06-01T00:42:38.1940000+08:00","Joined the server.","",""
+"862900465326227477","m4s9584","2025-06-02T18:01:35.1750000+08:00","Joined the server.","",""
+"1379102046552199220","uzadmin22_28662","2025-06-02T22:29:56.8180000+08:00","Joined the server.","",""
+"1379102046552199220","uzadmin22_28662","2025-06-02T22:34:32.7660000+08:00","Hello community and administrators, thanks for the innovative product. Are there any converters or manuals for transferring from kingview 6.5 or 7.5? And can you give examples of files for importing json type? Thanks!  привет комьюнити и администраторы, спасибо за инновационный продукт. есть ли конверторы или мануалы по переносу с kingview 6.5 или 7.5 . и можете дать примеры фаилов для импорта типа json . спасибо!","",""
+"1323501936674082826","jessielu0411","2025-06-03T09:41:00.8440000+08:00","Hi there! Welcome to join in and thank you for your interest in SOLISCADA. At the moment, we don’t have an automated converter or a dedicated migration manual for Kingview 6.5/7.5—so you’ll need to transfer your project configurations manually. If you would like to learn more about our SCADA software applications, please feel free to take a look at our Quick Start Guide and other tutorial videos in our Youtube Channel: https://www.youtube.com/watch?v=5FOdbWjxzPI&list=PLE7rUkucLjxYvDDqa0Zn08KYImLg1h8P2 Let me know if you need anything else! Thanks again!😆","",""
+"1375328985130733568","rafis0592","2025-06-03T12:45:19.2920000+08:00","","",""
+"1375328985130733568","rafis0592","2025-06-03T12:49:32.6630000+08:00","@Kochegin Здравствуйте! 50 тыс тегов это реально много?","",""
+"459047029344043008","strangko","2025-06-03T12:50:21.4390000+08:00","Да, это достаточно много.","",""
+"459047029344043008","strangko","2025-06-03T13:15:04.4440000+08:00","Все конечно зависит от производства, какое количество оборудования хотят вывести на SCADA","",""
+"1375328985130733568","rafis0592","2025-06-03T13:29:54.9340000+08:00","Так вроде внутри похоже на SCkey. Частично. Интерфейс и т.п.","",""
+"1323501936674082826","jessielu0411","2025-06-03T13:35:52.4500000+08:00","New to SOLISCADA? Your Top Questions Answered! Check out here 👉 https://www.soliscada.com/about/news/681073413398597","",""
+"1379102046552199220","uzadmin22_28662","2025-06-03T21:07:08.7460000+08:00","я так понял 50к потомучто они ушли в ИИ , и там может быть много переменных если использовать для vision  и  прогнозирования,  и материнская компания supcon тоже не пальцам деланы. очень серьёзная организация которая заслуживает доверия не меньше siemens","","👍 (2)"
+"1379614008960618588","r2x__24077","2025-06-04T08:15:01.4870000+08:00","Joined the server.","",""
+"1377075589197856860","r2x__93626","2025-06-04T08:40:05.5620000+08:00","Joined the server.","",""
+"1377075589197856860","r2x__93626","2025-06-04T08:44:49.8150000+08:00","just today i got to see the soliscada, hope for 50K tag can help me learn more. as you know to just try to learn for personal reason sometimes it hard  because most of scada software too many limitation. thanks","",""
+"1323501936674082826","jessielu0411","2025-06-04T09:04:06.8970000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-04T09:04:09.5450000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-04T09:05:42.7460000+08:00","Welcome! Let us know if you have any questions or concerns during your self-learning process! Anytime!😋","",""
+"1344020537625808987","mozammel_32949","2025-06-08T11:53:13.3190000+08:00","Joined the server.","",""
+"824847954137317377","quakestring","2025-06-08T11:54:41.3360000+08:00","Joined the server.","",""
+"824847954137317377","quakestring","2025-06-08T11:54:50.5290000+08:00","Hello Guys","",""
+"824847954137317377","quakestring","2025-06-08T11:55:29.3540000+08:00","just new here","",""
+"824847954137317377","quakestring","2025-06-08T11:55:37.1060000+08:00","just found the SCADA today","",""
+"1323501936674082826","jessielu0411","2025-06-09T09:20:26.9180000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-09T09:20:30.0860000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-09T09:23:56.7150000+08:00","Hey~ Welcome to SOLISCADA Community! Can't wait to getting your feedback on using our free SCADA software! Feel free to let us know if you need any help. 😋","",""
+"1323501936674082826","jessielu0411","2025-06-09T13:20:57.7990000+08:00","https://www.soliscada.com/about/news/684276151922757","",""
+"1323501936674082826","jessielu0411","2025-06-09T13:21:51.2830000+08:00","https://www.soliscada.com/about/news/684283807154245","",""
+"1375328985130733568","rafis0592","2025-06-09T14:29:23.7760000+08:00","Hello 👋. i-OMC SCADA. Where can I read about this? Can you help me please.","",""
+"1323501936674082826","jessielu0411","2025-06-09T16:00:11.2010000+08:00","Hi, SOLISCADA supports data forwarding via MQTT, OPC UA, OPC DA, and WebSocket.","","👍 (1)"
+"1381980775502712862","iman_83063","2025-06-10T20:58:40.7040000+08:00","Joined the server.","",""
+"1375328985130733568","rafis0592","2025-06-11T00:39:25.6030000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-11T09:16:35.4260000+08:00","","",""
+"1382166770542051330","hendry_35958","2025-06-11T09:18:14.2270000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-06-11T09:19:55.5120000+08:00","","",""
+"1291313681136619542","dominicmeng_24270","2025-06-11T10:48:21.9700000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-06-11T10:50:05.4250000+08:00","","",""
+"1382205561973768274","iman_87409","2025-06-11T11:51:56.9140000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-06-11T14:23:15.9080000+08:00","","",""
+"1049205275908919339",".tomhello","2025-06-11T21:38:01.9920000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-06-12T09:56:01.0450000+08:00","","",""
+"1359738861412028487","damir072875","2025-06-12T14:57:50.4310000+08:00","","",""
+"1382691838753902643","moeh_26650","2025-06-12T20:05:15.8220000+08:00","Joined the server.","",""
+"1375328985130733568","rafis0592","2025-06-13T15:41:39.4320000+08:00","","",""
+"1383293308348010517","nguyen_51741","2025-06-14T11:54:20.0340000+08:00","Joined the server.","",""
+"1383294746658607239","energetic_mango_73695","2025-06-14T12:02:31.1870000+08:00","Joined the server.","",""
+"1383595816098463754","hadi_42944","2025-06-15T07:56:19.1080000+08:00","Joined the server.","",""
+"1383595816098463754","hadi_42944","2025-06-15T08:04:54.4730000+08:00","Hi Everyone..., i am new , need your support;)","",""
+"1323501936674082826","jessielu0411","2025-06-16T08:41:47.1610000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-06-16T08:42:39.1700000+08:00","Welcome to join in our SOLISCADA community! What can we help you with?","",""
+"405926832349773825","ahjid_","2025-06-16T09:39:29.9230000+08:00","Joined the server.","",""
+"1383066455989293208","prasehan_15090","2025-06-16T15:20:48.5900000+08:00","Joined the server.","",""
+"1383066455989293208","prasehan_15090","2025-06-16T15:28:07.2580000+08:00","Hi Everyone, I am new here & need to learn about SOLISCADA","",""
+"1383066455989293208","prasehan_15090","2025-06-16T15:30:53.5310000+08:00","If I am using Allen Bradley Controllogix, how do I access program tag? I only find to access controller tag","",""
+"1359343969070354632","wangshu7788_18767","2025-06-16T16:15:13.1100000+08:00","You need to import the project file","",""
+"1185941236339716107","chanwit.m","2025-06-16T22:11:17.8270000+08:00","Joined the server.","",""
+"1185941236339716107","chanwit.m","2025-06-16T22:11:31.7010000+08:00","","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T10:19:00.2840000+08:00","I can't connect relay by IEC61850 driver! My IO address is no issues and communication network is good","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:20:22.1060000+08:00","Can you connect to other ints?","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T10:21:50.1590000+08:00","what is ints? It is the first time I use Soliscada","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:22:38.0870000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1384357541622054963/image.png?ex=68df336e&is=68dde1ee&hm=ba852d269438b43dd579a49520a0ae654e16c63402565761f300a01f9048e756&",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:23:36.6080000+08:00","other tags，int or float","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T10:25:05.7890000+08:00","Ok. I will try","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:54:47.0680000+08:00","https://straton-plc.com/en/iec61850-simulation-tools/","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:55:29.1310000+08:00","@HUY","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:56:52.5510000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1384366158605455450/image.png?ex=68df3b74&is=68dde9f4&hm=c83199ca4c9fb3f8227ae09061f7eb38173d90e9f0fd852996985796298bbc34&",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T10:57:14.5980000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1384366251110830141/image.png?ex=68df3b8a&is=68ddea0a&hm=e1ed2a322d63c4e22b46afdccd54da8cf6c8ae0cc9b0942e24a9d44dde63a483&",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T11:00:49.6680000+08:00","My tag have value true/false. So I choose Bool type. Is It right?","https://cdn.discordapp.com/attachments/1349624419449962539/1384367153183985746/image.png?ex=68df3c61&is=68ddeae1&hm=b54ea28634a3572fca9b82c9086fb8d9e244e1165f11a0fe11efd07bbc078b14&",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T11:06:19.7770000+08:00","share your tool?","",""
+"1359343969070354632","wangshu7788_18767","2025-06-17T11:07:36.5500000+08:00","Or you could try Mod？","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T11:08:49.1860000+08:00","https://www.omicronenergy.com/en/products/iedscout/","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T11:09:08.7600000+08:00","It similar with your tool","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T11:25:59.4830000+08:00","it ok. I edit data object "" Loc"" to ""Loc.stVal"". signal is valid","",""
+"1383294746658607239","energetic_mango_73695","2025-06-17T11:29:17.8560000+08:00","Soliscada collect IEC61850 signal by report or by polling cycle?","",""
+"1323501936674082826","jessielu0411","2025-06-17T15:34:30.6450000+08:00","by polling cycle","",""
+"1383066455989293208","prasehan_15090","2025-06-18T15:52:16.9420000+08:00","I try to import tag from project file  from studio 5000 but always fail. It said file version information is invalid","https://cdn.discordapp.com/attachments/1349624419449962539/1384802888047394877/image.png?ex=68ded7f0&is=68dd8670&hm=9d140ab105112cea4645bc7ad80382262c28d97bf48073f219f5ae4568c7c203&",""
+"1359343969070354632","wangshu7788_18767","2025-06-18T17:18:03.7300000+08:00","SOLISCADA does not support direct import of tags from third-party software","",""
+"1359343969070354632","wangshu7788_18767","2025-06-18T17:27:21.5290000+08:00","@Prasehan","",""
+"1383066455989293208","prasehan_15090","2025-06-19T11:13:35.2900000+08:00","I still cannot access program tag of Allen Bradley ControlLogix. If the export tags from ControlLogix is not compatible, how do access the program tag of ControlLogix? Right now, I can only access controller tag of ControlLogix.","",""
+"1359343969070354632","wangshu7788_18767","2025-06-19T13:28:06.0540000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1385128991693733999/image.png?ex=68df5ee6&is=68de0d66&hm=933a8fdfc988dbd0af35f4cda0e605bd1d1de7c65da474ee32928024d9072729&",""
+"1359343969070354632","wangshu7788_18767","2025-06-19T13:30:25.6580000+08:00","I believe you need to obtain the project file with the .L5X extension first, before you can import the tags.","",""
+"1383066455989293208","prasehan_15090","2025-06-19T15:16:38.9570000+08:00","With L5X, I can only see the controller tag but no program tag. I tried using controller software version 20 and also Version 31, the result is the same. SOLISCADA can access the controller tag but not the program tag. Is there something I missed?","",""
+"1359343969070354632","wangshu7788_18767","2025-06-19T15:43:26.3020000+08:00","Support V16.V19.V32version","",""
+"1359738861412028487","damir072875","2025-06-24T17:22:50.2820000+08:00","Is there a ready report based on Time, Date, Month, and Year? Please help me, I can’t figure it out. If there is any ready-made project, please share it with me.","",""
+"1359738861412028487","damir072875","2025-06-24T17:23:15.9270000+08:00","🤝","",""
+"1323501936674082826","jessielu0411","2025-06-25T09:42:44.2160000+08:00","Hi Damir, we don't have a ready report for now, but our SCADA engineer is going to wrap up one for your reference, will share it to you as soon as we can, thank you for your patience!😋","",""
+"1323501936674082826","jessielu0411","2025-06-25T13:29:52.8100000+08:00","here it is, please check out: https://drive.google.com/file/d/1M-X_GvZNwcEtWdLtPaAvodnqbvjr1htY/view?usp=drive_link   Side note: the username and password are both admin. The credentials used during the configuration phase will remain the same for the monitoring/operation phase.","",""
+"1359343969070354632","wangshu7788_18767","2025-06-25T13:36:30.4440000+08:00","Feel free to review our basic demo cases first; if you have additional requirements, please let us know","","👍 (2)"
+"1375328985130733568","rafis0592","2025-06-26T09:28:22.6200000+08:00","Hello! The question is not on the topic of the chat. Can you tell me in which program this controller is configured?","",""
+"1375328985130733568","rafis0592","2025-06-26T09:29:55.0340000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1387605765573054545/IMG_20250625_111936.jpg?ex=68df2712&is=68ddd592&hm=b6668d66ec0873ea21f860dc358fdc25b91494c01ecb2fcaba0daeb200467d58&",""
+"1359343969070354632","wangshu7788_18767","2025-06-26T11:15:25.7310000+08:00","Contrix plus","",""
+"1375328985130733568","rafis0592","2025-06-26T11:49:46.6890000+08:00","Thank you. it turns out it's not freely available.","",""
+"949379513375162388","arditoh","2025-06-27T16:50:38.8440000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-06-27T17:35:17.5580000+08:00","","",""
+"949379513375162388","arditoh","2025-06-27T17:50:25.4470000+08:00","","",""
+"1379102046552199220","uzadmin22_28662","2025-07-02T23:53:30.9510000+08:00","we are implementing sapcon soliscada at our aac plant in Uzbekistan. I want to express my gratitude for such a high-quality product. I want to note that this product, unlike its analogues, is better adapted for chemical production where it is necessary to calculate formulas and dosages","",""
+"1379102046552199220","uzadmin22_28662","2025-07-02T23:55:58.6020000+08:00","I also ask you to record a training video on the operation of the reporting module. and also ask you to shoot a video on connecting iptv cameras to display images from them in reports","",""
+"1323501936674082826","jessielu0411","2025-07-03T09:54:24.2090000+08:00","Thank you for your support and recognition of our product! 😋  We're still working so hard on recording and editing more video tutorials for our users- including the reporting feature, will definitely keep you updated once it goes live. Regarding your second request, the SOLISCADA does not support IPTV camera integration at this time.","",""
+"1323501936674082826","jessielu0411","2025-07-03T09:55:56.2890000+08:00","You can check out out demo of the report feature for reference at this time though: https://drive.google.com/file/d/1M-X_GvZNwcEtWdLtPaAvodnqbvjr1htY/view?usp=drive_link","",""
+"1390220023724904458","matanou","2025-07-03T14:58:21.2340000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-07-03T15:16:33.5510000+08:00","","",""
+"1390220023724904458","matanou","2025-07-03T15:21:02.6010000+08:00","Hi Jessie, nice to meet you again 😃","",""
+"1383348099002535956","mr.kaoo_24410","2025-07-03T16:39:28.3430000+08:00","Joined the server.","",""
+"1379102046552199220","uzadmin22_28662","2025-07-04T03:46:41.4630000+08:00","in your example mysql is used for storage.
+but there is no mysql on the server there is pgsql.
+I found csreport postgres Yanfa_1304 5432
+but in data source settings there is no pgsql, but there is mysql, sqlserver, oracle.
+in the manuals I found about express but did not find the connection string for connecting to the postgress database.
+
+share the connection string for pgsql please","",""
+"1359343969070354632","wangshu7788_18767","2025-07-04T09:50:03.7660000+08:00","Sorry, the built-in relational data sources in our software currently do not support PostgreSQL","",""
+"1323501936674082826","jessielu0411","2025-07-04T14:44:51.2900000+08:00","Hey guys! 🔥 New Video Drop! Our SOLISCADA How‑To Series is live—We’re covering everything you need to begin your first SCADA project. Keep an eye on this channel for fresh uploads every week!
+▶️ Playlist: https://www.youtube.com/watch?v=e3LfgAwkcRc&list=PLE7rUkucLjxZuZWsSMvR9f2hhTPOcuvFY","",""
+"1390612118868459590","hendry_67453","2025-07-04T16:44:42.4020000+08:00","Joined the server.","",""
+"1390692110545457273","frendi_23915","2025-07-04T22:25:46.3590000+08:00","Joined the server.","",""
+"1390692110545457273","frendi_23915","2025-07-04T22:35:36.4910000+08:00","","",""
+"1390692110545457273","frendi_23915","2025-07-04T22:38:19.4760000+08:00","excuse me, can you help me how to configure web client? i had create the project in soliscada, i can run it in monitoring mode, but i don't know how to get the web client.","",""
+"1379102046552199220","uzadmin22_28662","2025-07-05T21:26:32.4240000+08:00","I am sure that this is a big misunderstanding and omission, your products already use pgsql in the csrepot module.
+that is, the database and the table and the data in it are already collected
+
+why can't you finish connecting odbc to the same or another pgsql database. I need to work with the database. but it turns out that I will have to either use mysql + pgsql
+or use pgsql from csreport and not as data sources.
+
+maybe this is specially intended or will appear in the future. in any case, this is very necessary and important, please inform the developers that the community is really waiting for pgsql as odbc data sources","",""
+"1391301055299715092","onur_35573","2025-07-06T14:15:13.3710000+08:00","Joined the server.","",""
+"1359343969070354632","wangshu7788_18767","2025-07-07T09:14:02.6360000+08:00","You can access the web client by entering the IP address followed by port 23380 in your browser","",""
+"1359343969070354632","wangshu7788_18767","2025-07-07T09:35:38.0000000+08:00","Thank you for your suggestion and for bringing this to our attention. We've added it to our roadmap and will be working on this improvement in the near future. We'll keep you updated on our progress!","","👍 (2)"
+"714377090467758091","ktng_0000","2025-07-09T00:34:54.1510000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-07-09T09:05:40.3030000+08:00","","",""
+"1392403090577031208","gast_20297","2025-07-09T15:21:12.6260000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-07-09T15:49:10.6150000+08:00","","",""
+"1375328985130733568","rafis0592","2025-07-09T16:41:49.3740000+08:00","","",""
+"1375328985130733568","rafis0592","2025-07-09T16:41:57.3230000+08:00","","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:02:51.2250000+08:00","Joined the server.","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:04:33.0290000+08:00","","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:06:16.2480000+08:00","please help i want to register but i dont know where to get verificstion code","https://cdn.discordapp.com/attachments/1349624419449962539/1392824239802814595/IMG_1058.jpg?ex=68df0568&is=68ddb3e8&hm=006db313f8550eebda31ef5e66dd5e10e3847cef41154b2a316f25381e021c50&",""
+"1392822696357789726","ayanda0543","2025-07-10T19:09:20.5510000+08:00","never mind i got it","",""
+"1323501936674082826","jessielu0411","2025-07-10T19:12:35.6260000+08:00","Hi thanks for choosing SOLISCADA! The verification code will be sent to your email address","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:12:45.1370000+08:00","i got it","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:14:05.5100000+08:00","now i cant choose the purpose if using soliscada as it not showing anything under drop down","",""
+"1392822696357789726","ayanda0543","2025-07-10T19:14:55.4380000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1392826417636708423/77383885299__34084EA5-AE51-4E2E-9379-2BFD0BD10330.mov?ex=68df076f&is=68ddb5ef&hm=90f763d81b3cda23cc7abc5f49cb55b22efce7866f85a93170b55c5329c18f42&",""
+"1323501936674082826","jessielu0411","2025-07-10T19:16:18.9890000+08:00","Let me report this issue to our website technical team. Will get back to you as soon as possible","",""
+"1323501936674082826","jessielu0411","2025-07-10T19:25:43.2160000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1392829134128025652/IMG_3222.mov?ex=68df09f7&is=68ddb877&hm=1dca5f573076742798c008b747731c919fab03d7d9952218ea13d4400d9ef66f&",""
+"1323501936674082826","jessielu0411","2025-07-10T19:27:08.8690000+08:00","It’s weird cuz it looks like I can choose the options on my end… can you try to logout and sign in to see if it works please? Or refresh the page?","",""
+"1392822696357789726","ayanda0543","2025-07-10T20:20:02.7080000+08:00","let me tru","",""
+"1392822696357789726","ayanda0543","2025-07-10T20:20:54.9660000+08:00","got it","",""
+"372123954833260554","vinay4319","2025-07-11T03:24:40.9280000+08:00","Joined the server.","",""
+"1390692110545457273","frendi_23915","2025-07-11T14:12:31.8130000+08:00","ok, thank, success","",""
+"1393132621697122344","think7_51141","2025-07-11T15:32:33.7860000+08:00","Joined the server.","",""
+"1390692110545457273","frendi_23915","2025-07-11T15:44:51.1280000+08:00","is possible to create a reuseable graphic in soliscada? for example i have 10 identical motors, then i want only create just one graphic then use that to configure next motor without create manually just change the tag parameter only, in citect scada this is called ginie.","",""
+"1323501936674082826","jessielu0411","2025-07-11T17:15:54.8280000+08:00","It's possible, you can find this feature here:","https://cdn.discordapp.com/attachments/1349624419449962539/1393158855474810922/1752224379956.png?ex=68deeb8a&is=68dd9a0a&hm=df7af922ac4bb74af470c5804fca5ad47c7160990cea114c6d02ebcfb2e29bbb&",""
+"1323501936674082826","jessielu0411","2025-07-11T17:17:39.3010000+08:00","And please explore the user guide through our built-in resources, see the screenshot for reference:","https://cdn.discordapp.com/attachments/1349624419449962539/1393159293401956404/17522252272402.png?ex=68deebf3&is=68dd9a73&hm=55369a897f4ea2f05fbb9bf0d3a9c5f12631be207ef72d32594a30c6913bfffe&",""
+"1011806669874937956","vikanchira","2025-07-12T16:10:06.0840000+08:00","Joined the server.","",""
+"1287336823789584396","pratik07980","2025-07-14T02:20:25.2360000+08:00","Joined the server.","",""
+"456226577798135808","Deleted User","2025-07-14T16:13:33.0830000+08:00","Joined the server.","",""
+"265135211883397122","hirakumi_","2025-07-14T16:14:02.4020000+08:00","Joined the server.","",""
+"372123954833260554","vinay4319","2025-07-14T18:45:05.6610000+08:00","How to implement mqtt in the software please guide me.","",""
+"511522167545135133","suresh_subramanian","2025-07-15T00:46:33.3920000+08:00","Joined the server.","",""
+"372123954833260554","vinay4319","2025-07-15T02:52:30.2700000+08:00","@jessielu please guide me to implement mqtt in soliscada.","",""
+"1323501936674082826","jessielu0411","2025-07-15T13:21:41.3220000+08:00","Hi Vinay, our technical team is still working on editing and uploading more how-to videos which includes the MQTT topic, please stay tuned! However, we do have a demo regarding MQTT implementation, please check out here: https://drive.google.com/drive/folders/12GYLLH-yD6sIs2bWHQWxsxB9ievnXb2m","",""
+"1394558845749170226","chilly_84372","2025-07-15T13:59:41.6960000+08:00","Joined the server.","",""
+"1394558845749170226","chilly_84372","2025-07-15T14:03:40.4730000+08:00","","",""
+"1394558845749170226","chilly_84372","2025-07-15T14:04:39.1390000+08:00","just found this software online today.  i have downloaded a demo prog from the website.  how do i load it into the software?  any how to guide to run the demo?","",""
+"372123954833260554","vinay4319","2025-07-15T14:36:42.9500000+08:00","Thank you","","😋 (1)"
+"1359343969070354632","wangshu7788_18767","2025-07-15T14:53:21.8200000+08:00","https://www.soliscada.com/about/news/693845973299269","",""
+"1359343969070354632","wangshu7788_18767","2025-07-15T14:53:22.6190000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1394572536431513670/image.png?ex=68df72e2&is=68de2162&hm=36544acb8ba85d8824512a6a256eb24036dbb32577ac0ccd7f8668b1c55a37c6&","👍 (1)"
+"1359343969070354632","wangshu7788_18767","2025-07-15T14:53:43.2320000+08:00","@Chilly","",""
+"1394558845749170226","chilly_84372","2025-07-15T15:08:05.0130000+08:00","manage to import.  when i try to run monitoring,  nothing happens","",""
+"1323501936674082826","jessielu0411","2025-07-15T15:47:03.6340000+08:00","Please check out the quick start guide video which will help you to get started more efficiently: https://www.youtube.com/watch?v=0WPbCzIFcLw&t=6s","",""
+"372123954833260554","vinay4319","2025-07-15T17:08:37.1160000+08:00","I checked the demo project. 
+1) Can I give any name in the client id?
+2) And is the data address mandatory in I/O address selection?
+
+Please help me with these 2 points.","",""
+"1359343969070354632","wangshu7788_18767","2025-07-15T17:20:37.9160000+08:00","1. If the broker imposes no restrictions, random client IDs may be used.
+2. The IO address must be specified and must match the corresponding field in the JSON format.","",""
+"372123954833260554","vinay4319","2025-07-15T17:33:34.7470000+08:00","I have the data in the hivemq broker. 
+
+{""ts"":1751813918383,""values"":{""GE_1_CONTROLLER:GE_1_VOLT_L1_L2"":""10991.00""}},
+{""ts"":1751813918383,""values"":{""GE_1_CONTROLLER:GE_1_VOLT_L1_L2"":""10991.00""}}
+
+In this format we are getting the message. And we are using the public port so there is no client id.
+
+Please guide me how to read values in our scada. I can provide you url with port number, user id & password.
+
+Please guide me to read 2 values so that I can use it for other tags as well. Thank you.","",""
+"1359343969070354632","wangshu7788_18767","2025-07-15T17:45:17.6610000+08:00","values.GE_1_CONTROLLER:GE_1_VOLT_L1_L2","https://cdn.discordapp.com/attachments/1349624419449962539/1394615800798904330/image.png?ex=68def26d&is=68dda0ed&hm=1b25532858d969e0384dcdf18813897162857fd275e7ab4cf18dd63ffd57b0a1&",""
+"456226577798135808","Deleted User","2025-07-16T11:08:19.3230000+08:00","Joined the server.","",""
+"760082496141787176","rurr9471","2025-07-16T11:21:11.5010000+08:00","Joined the server.","",""
+"760082496141787176","rurr9471","2025-07-16T11:24:23.2150000+08:00","Hi [Support Team],
+
+I’m having an issue when I try to run SOLISCADA Project Manager for the first time.
+Every time I open it, I get an error message that says:
+
+“Failed to connect to configuration server.”
+
+I’ve already tried restarting the PC, but it still happens.
+Could you please help me check what might be wrong?
+Do I need to start any services manually or check any network settings?
+
+Thank you very much for your assistance!","https://cdn.discordapp.com/attachments/1349624419449962539/1394882329863786506/image.png?ex=68df41e7&is=68ddf067&hm=3a577cca4d532d0d1e7da6c3ea79e01b774cf9cdc91884f15f49827b8358e3b0&",""
+"1359343969070354632","wangshu7788_18767","2025-07-16T14:48:09.6490000+08:00","Please try the following:
+Confirm your software version is 7.0.0; if it isnt, update to that version.
+Open the Services console and check that ApacheFileSyncServer and VxEngine are running; if they aren't, start them manually
+If those two services are missing, an antivirus tool may have removed them so you need to uninstall your antivirus tool. Reinstall the software to restore the services.
+After reinstalling, if ApacheFileSyncServer still doesn't appear in the Services list, open a Command Prompt in C:\SOLISCADA\Apache24\bin and run: httpd.exe -k install -n ""ApacheFileSyncServer"" to install the service
+Once installation succeeds, open Task Manager, right‑click cfgDown.exe, select End task, then verify whether the issue is resolved.","",""
+"1375328985130733568","rafis0592","2025-07-16T15:07:46.4170000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1394938546971869248/IMG_20250625_111936.jpg?ex=68df7642&is=68de24c2&hm=52da8772fe4e34bb67dcc7d5d9bf6dc7d0bf4ea033342a2574c73fd438ccb349&",""
+"1375328985130733568","rafis0592","2025-07-16T15:08:39.9410000+08:00","Hello! Can you tell me which cable to use to configure this PLC? A regular internet cable. Patch cord. Please","",""
+"1359343969070354632","wangshu7788_18767","2025-07-16T15:45:44.3020000+08:00","A regular internet cable","",""
+"1375328985130733568","rafis0592","2025-07-16T15:46:11.9550000+08:00","Thank","",""
+"372123954833260554","vinay4319","2025-07-17T19:21:26.6900000+08:00","@W hi, can I create bar graphs, pie charts & speed meters in our scada?","",""
+"1359343969070354632","wangshu7788_18767","2025-07-18T09:04:24.3620000+08:00","of course，","",""
+"372123954833260554","vinay4319","2025-07-18T10:18:59.4420000+08:00","Please help me with that. If you have a demo project it would be helpful as well","",""
+"1323501936674082826","jessielu0411","2025-07-18T10:46:44.1770000+08:00","please take a look at this demo: https://drive.google.com/file/d/1_Qr3zoJVAaUn7w2ymyfhvZg6roRjcu1y/view?usp=drive_link","",""
+"372123954833260554","vinay4319","2025-07-18T11:27:37.1960000+08:00","I'm not able to open the VFDraw.","",""
+"372123954833260554","vinay4319","2025-07-18T11:28:09.2870000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1395608054044823562/IMG_20250718_085700.jpg?ex=68df42c9&is=68ddf149&hm=1f796be56bd02fea1d18ad669d2f89f5feda2da1627e2e1042cd3e576fcdd621&",""
+"1359343969070354632","wangshu7788_18767","2025-07-18T13:08:47.9270000+08:00","Try opening the software again","",""
+"1000405078198464574","soyibjon7510","2025-07-24T14:15:36.7080000+08:00","Joined the server.","",""
+"1000405078198464574","soyibjon7510","2025-07-24T14:17:05.9200000+08:00","Good day dear SOLISCADA tech support will soliscada run Melsec
+MQTT
+CDT","",""
+"1000405078198464574","soyibjon7510","2025-07-24T14:27:21.2890000+08:00","Is there any instruction for melsec and cdt","",""
+"1323501936674082826","jessielu0411","2025-07-24T15:12:48.9680000+08:00","Definitely, please reference our I/O Driver Manual: https://www.soliscada.com/prod-api/preview/Soliscada/resources/file/2025/03/24/658009031188549.pdf?name=10.IO%20Driver%20User%20Manual.pdf","",""
+"1323501936674082826","jessielu0411","2025-07-24T15:14:15.5320000+08:00","Our manuals can also be found in the software package.","",""
+"1000405078198464574","soyibjon7510","2025-07-25T19:50:11.5260000+08:00","Thanks for your reply. Is there any components for cyber security","",""
+"372123954833260554","vinay4319","2025-07-26T18:58:11.8210000+08:00","@W hi, can you please share the demo project for web monitoring with soliscada","",""
+"1323501936674082826","jessielu0411","2025-07-28T10:08:11.5190000+08:00","Hi there, at the moment we don't have a demo for web monitoring, but please check out our web client user manual for reference: https://www.soliscada.com/prod-api/preview/Soliscada/resources/file/2025/03/24/658004854157381.pdf?name=24.Web%20Client%20User%20Manual.pdf","",""
+"1323501936674082826","jessielu0411","2025-07-28T10:10:03.8550000+08:00","Please also make sure to doanload and install the Web Server software from our website download lage in order to unlock the web access feature: https://www.soliscada.com/download","",""
+"1323501936674082826","jessielu0411","2025-07-28T13:34:38.4520000+08:00","Yes, SOLISCADA includes some essential cybersecurity components to safeguard your industrial operations:
+1. Role‑Based Access Control
+Define user roles and permissions down to individual screens or data points, so operators only see and do exactly what you authorize.
+2. Secure Communication Protocols
+All data exchanged between servers, engineering stations and operator stations is encrypted using industry‑standard TLS. OPC UA, MQTT and Modbus TCP can all be secured end‑to‑end.
+3. Data Encryption at Rest
+Project files, historical archives and log files are all encrypted on disk, protecting your IP and audit data even if someone gains file‑system access.
+4. Audit Trails & Tamper Evidence
+Every configuration change, alarm/event acknowledgment and login is logged with user, time‑stamp and station ID—and logs are tamper‑evident.","",""
+"1323501936674082826","jessielu0411","2025-07-28T13:35:04.4140000+08:00","Let us know f you have more specific cybersecurity requirements, thx!","",""
+"1000405078198464574","soyibjon7510","2025-07-28T15:04:47.3510000+08:00","Is it possible to share documents related to this","",""
+"1323501936674082826","jessielu0411","2025-07-28T15:48:04.6850000+08:00","I'm sorry that I don't think we have such types of documents for reference right now....","",""
+"352432555926224897","kaiming9463","2025-07-28T17:55:01.5950000+08:00","Joined the server.","",""
+"1400015297951567942","yongkitjoa_60126_59713","2025-07-30T15:24:53.4110000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-07-30T16:37:58.5880000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-07-30T16:38:00.2080000+08:00","","",""
+"1400015297951567942","yongkitjoa_60126_59713","2025-07-30T16:38:28.1610000+08:00","hi Jes","",""
+"1323501936674082826","jessielu0411","2025-07-30T16:40:44.5240000+08:00","Hi welcome to join our community! We just saw your latest question and the answer is YES.","",""
+"1400015297951567942","yongkitjoa_60126_59713","2025-07-30T16:42:38.6740000+08:00","thank you, how about capacity about the point,database or tags ?","",""
+"1323501936674082826","jessielu0411","2025-07-30T16:51:33.4020000+08:00","We cover 50,000 tags license at zero cost with no runtime limits, each installation (server or PC) must use its own license key. You can self-activate as many 50k‑tag license keys as you need for free.","",""
+"1400015297951567942","yongkitjoa_60126_59713","2025-07-30T16:53:04.7590000+08:00","okay..but if i need more than 50.000 tags is possible ?","",""
+"1323501936674082826","jessielu0411","2025-07-30T17:17:34.1730000+08:00","If a single project needs more than 50 000 tags, you'll need to upgrade to our paid SCADA edition, SOLISCADA is capped at 50 000 tags per project. However, if you're working on multiple, separate projects, your user account can generate and activate additional 50 000‑tag license keys on different PCs or servers for each project.","",""
+"1400015297951567942","yongkitjoa_60126_59713","2025-07-30T17:19:08.9560000+08:00","ok no problem if i need to upgrade to paid SCADA, but how about performance if use more than 50.000 tags ? will slow or still the same condition ?","",""
+"352432555926224897","kaiming9463","2025-08-01T17:45:16.4390000+08:00","Hi, I am facing the following problem:
+Monitoring screen unresponsive when clicking on a button with a Do... Loop script
+My script is as below:
+
+'----------------------------------------------------------------
+Sub Button1_OnLButtonUp(nFlag, x, y)
+    Form.Tag(""TempVolume"") = 0
+    Form.Tag(""Flag"") = ""Start""
+    Do While True
+        Form.Tag(""TempVolume"") = Form.Tag(""TempVolume"") + 1
+        If Form.Tag(""Flag"") = ""Stop"" Then Exit Do
+    Loop
+End Sub
+
+
+'----------------------------------------------------------------
+Sub Button2_OnLButtonUp(nFlag, x, y)
+    Form.Tag(""Flag"") = ""Stop""
+End Sub","",""
+"352432555926224897","kaiming9463","2025-08-01T17:45:30.2560000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1400776447316197477/Recording_2025-08-01_174158.mp4?ex=68def27a&is=68dda0fa&hm=0fcc9a27c7cdad9c4f4ae13a0532da8c5ef899e0dc2a4d3ab1212a5344bd5553&",""
+"1359343969070354632","wangshu7788_18767","2025-08-01T17:53:40.2980000+08:00","I need to take a look at your database","",""
+"1000405078198464574","soyibjon7510","2025-08-01T18:18:47.3270000+08:00","Good day dear SOLISCADA team. Is there any video training for connection Siemens S7-200?","",""
+"352432555926224897","kaiming9463","2025-08-01T18:24:00.3180000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1400786136762290226/image.png?ex=68defb80&is=68ddaa00&hm=0349c8fa57a978e16aef23a04ca3b04a50177cb5bbe3af1efdc7a899df343a2c&",""
+"1359343969070354632","wangshu7788_18767","2025-08-04T09:21:27.0660000+08:00","The variable ""TempVolume"" is a real number data type, but in your script, you are treating it as an integer.","",""
+"1359343969070354632","wangshu7788_18767","2025-08-04T09:22:53.0190000+08:00","To connect the S7-200, a CP243-1 expansion module needs to be added.","",""
+"352432555926224897","kaiming9463","2025-08-04T10:41:22.9870000+08:00","Hi, I have edited my script to the following but the issues is still there
+
+'----------------------------------------------------------------
+Sub Button1_OnLButtonUp(nFlag, x, y)
+    Form.Tag(""TempVolume"") = CDBL(0)
+    Form.Tag(""Flag"") = ""Start""
+    PrevTime = Now()
+    Do While Form.Tag(""TempCount"") < 100
+        Form.Tag(""TempVolume"") = 1
+        If DateDiff(""s"",PrevTime,Now()) > 1 Then
+            Form.Tag(""TempVolume"") = CDBL(Form.Tag(""TempVolume"")) + CDBL(1)
+        End If
+    Loop
+End Sub
+
+
+'----------------------------------------------------------------
+Sub Button2_OnLButtonUp(nFlag, x, y)
+    Form.Tag(""TempCount"") = 110
+End Sub","",""
+"1359343969070354632","wangshu7788_18767","2025-08-04T10:58:58.2250000+08:00","Why not change the tag type to integer?","",""
+"1323501936674082826","jessielu0411","2025-08-04T13:11:45.8670000+08:00","Hi i just wanted to give you an update regarding the ticket submission issue you reported via email, our technical team solved the issue already, thanks for bringing the issue to us!","","👍 (1)"
+"1401843075810070569","surachai_80356","2025-08-04T16:24:42.3180000+08:00","Joined the server.","",""
+"1402112559397601300","dazzling_raccoon_67182","2025-08-05T10:42:16.5200000+08:00","Joined the server.","",""
+"352432555926224897","kaiming9463","2025-08-05T11:07:13.7120000+08:00","Hi, is it possible to export the reports generated to csv file automatically?","",""
+"1323501936674082826","jessielu0411","2025-08-05T13:05:57.8570000+08:00","yes definitely","",""
+"352432555926224897","kaiming9463","2025-08-05T13:06:28.7360000+08:00","May I know how to do that? Is there any guide or documentation? Thank you","",""
+"1323501936674082826","jessielu0411","2025-08-05T13:11:45.3530000+08:00","Select the finished report and right-click on it, and choose Export.","",""
+"352432555926224897","kaiming9463","2025-08-05T14:03:58.6410000+08:00","I am unable to right-click on it","",""
+"352432555926224897","kaiming9463","2025-08-05T14:04:20.5820000+08:00","nothing pop up after I right-click on the finished report","",""
+"352432555926224897","kaiming9463","2025-08-05T14:05:06.8380000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1402170535730745354/20250805-0604-46.9373185.mp4?ex=68df6792&is=68de1612&hm=2d32e70f2c1cc916ce7147931dbdbd281e5bfd195c66c83808606273994714c0&",""
+"1359343969070354632","wangshu7788_18767","2025-08-05T14:49:46.0000000+08:00","Have you installed the Office Excel software yet?","",""
+"352432555926224897","kaiming9463","2025-08-05T15:22:00.8470000+08:00","is it possible to convert to csv format without installing excel?","",""
+"1359343969070354632","wangshu7788_18767","2025-08-05T15:28:17.6290000+08:00","no","",""
+"352432555926224897","kaiming9463","2025-08-05T15:37:33.1560000+08:00","Thank you","",""
+"1074289073612652554","serdes8289","2025-08-05T16:26:47.9250000+08:00","Joined the server.","",""
+"1294824220068544585","imohd76_29468","2025-08-08T16:36:41.4040000+08:00","Joined the server.","",""
+"1404751167669403690","trung_67201","2025-08-14T18:10:24.4190000+08:00","Joined the server.","",""
+"1391629518971736076","urfuturehusband11","2025-08-14T23:04:57.0430000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-08-15T13:41:50.4120000+08:00","https://www.soliscada.com/about/news/708705095635013","",""
+"1040242368848334899","emmanuelocat","2025-08-15T14:31:55.9990000+08:00","Joined the server.","",""
+"1404751167669403690","trung_67201","2025-08-18T10:03:42.3610000+08:00","hi soliscada team, your software is quite good as object oriented scada. I would like to ask about 50000 free tags, is that commitment long time support? because when I want to switch to use your product, I would like to make sure no frequent change license and product must be stable. For example What if later a new version just support 5000 free tags and when we want to update current scada, need to buy more?","","👍 (1)"
+"1404751167669403690","trung_67201","2025-08-18T10:05:07.0480000+08:00","and I also want to discover your hardware product also such as PLC, because difficult to find your official web ..","",""
+"1323501936674082826","jessielu0411","2025-08-18T10:40:16.8800000+08:00","Hi, thanks for your kind words about SOLISCADA!
+
+About your 50,000 free tags: Don’t worry—this is a long-term commitment (free 50K tags forever), future updates won’t reduce your free tags. You just need to self-activate a new free 50K lic key everytime when you install the software in a new PC.","","👍 (1)"
+"1323501936674082826","jessielu0411","2025-08-18T10:42:05.8300000+08:00","Our parent company SUPCON makes hardware like PLCs that work with SoliSCADA. Sorry you had trouble finding our site! You can browse here: https://global.supcon.com/ To connect you with a local expert for hardware details, please email at soliscada@supcon.com with:
+1. Your full name
+2. Your company name
+3. Your location
+
+I’ll have your regional SUPCON rep contact you directly.","",""
+"1406936674205958155","nikhil_37836","2025-08-18T17:47:03.0980000+08:00","Joined the server.","",""
+"1011806669874937956","vikanchira","2025-08-19T20:48:11.3500000+08:00","🤔","",""
+"1390220023724904458","matanou","2025-08-20T22:18:36.1280000+08:00","Hello
+What does it mean if a subproject is locked?","",""
+"1390220023724904458","matanou","2025-08-20T22:20:38.1180000+08:00","I can’t do the configuration publish which means I can’t monitore or simulate","https://cdn.discordapp.com/attachments/1349624419449962539/1407731055254966332/IMG_0635.jpg?ex=68df32f5&is=68dde175&hm=e2f9d2dfaceba44c83036389abc5c6ecdec3448dd7d5ec2aed6307f687e3f8e9&",""
+"1323501936674082826","jessielu0411","2025-08-21T09:52:48.1430000+08:00","Hi, based on your description, here are the most common causes and steps to resolve them:
+
+Possible Causes:
+1.The configuration service is not running.
+2. The IP address of the operational node is unreachable.
+
+Troubleshooting Steps:
+1. Check if the configuration service is running: Look for the configuration service icon in the system tray (bottom-right corner of your screen). If it is running, proceed to step 3. If not, proceed to step 2.
+
+2. Navigate to the installation directory of the software, locate the CfgDown file, right-click on it, and select ""Run as administrator"".
+
+3. Open the Command Prompt (cmd) and ping the operational node's IP address to ensure it is online.
+
+4. If the IP is unreachable, adjust your computer's network card settings to ensure the IP is active and enabled. This may involve connecting to a local network or device. Alternatively, you can set the IP of the subproject's data server group to 127.0.0.1 (localhost).
+
+Important Note: Simply setting the IP address on the network card is not sufficient; the network card must be actively connected to a network or device for the IP to take effect. Otherwise, the SCADA software may not detect a valid IP address.","",""
+"1407970633635070042","surachai_91420","2025-08-21T14:13:19.0710000+08:00","Joined the server.","",""
+"797740955687190579","malangpanjen","2025-08-23T14:24:02.7490000+08:00","Joined the server.","",""
+"1118566342438703114","vex_0808","2025-08-23T19:10:49.3170000+08:00","Joined the server.","",""
+"1080172049022066788","jeesantony","2025-08-24T01:56:02.4840000+08:00","Joined the server.","",""
+"1080172049022066788","jeesantony","2025-08-24T01:56:19.8800000+08:00","","",""
+"1095336268025569300","thanhlph","2025-08-25T01:10:57.0480000+08:00","Joined the server.","",""
+"1095336268025569300","thanhlph","2025-08-25T01:12:58.2730000+08:00","Hi from Ho Chi Minh Vietnam","",""
+"1095336268025569300","thanhlph","2025-08-25T01:14:17.9330000+08:00","I saw soliscada, can apply it to edgecontroller?","",""
+"1359343969070354632","wangshu7788_18767","2025-08-25T09:02:29.7160000+08:00","What functions do you need it to perform for you?","",""
+"1095336268025569300","thanhlph","2025-08-25T14:17:29.9810000+08:00","SW: input protocols: OPC DA(client, access Local HMI/Scada), OPC UA client(Access Local HMI/Scada, Mitsu, OMRON, Rockwell, Siemens PLC; Output protocols: OPC UA(server), MQTT, REST api or DB connection(MS SQL, MySQL.Maria|SQL, PostgresSQL). HW Embedded system ARM(Octa core or more)/x86_64(4 core or more) RAM 4-8GB, CF/Cfast/SD 64GB, 2x ETH, 1x RS232, 1x RS485 mounting: DIN Rail.","",""
+"1095336268025569300","thanhlph","2025-08-25T14:25:19.3170000+08:00","HW for OPC DA only x86_64 and Windows OS","",""
+"1359343969070354632","wangshu7788_18767","2025-08-25T14:41:45.0110000+08:00","The software currently does not support REST api, but everything else is fine","",""
+"1408661899314200637","surachai_70875","2025-08-25T15:30:00.7990000+08:00","Joined the server.","",""
+"1095336268025569300","thanhlph","2025-08-25T15:33:50.0790000+08:00","thanks, this email is soliscada@supcon.com for contacting, right?","",""
+"1323501936674082826","jessielu0411","2025-08-25T15:34:18.3900000+08:00","correct!","",""
+"1408661899314200637","surachai_70875","2025-08-25T15:43:43.0290000+08:00","Started a thread.","",""
+"942967858172940319","yanriyan7645","2025-08-26T12:21:12.6270000+08:00","Joined the server.","",""
+"1095336268025569300","thanhlph","2025-08-27T10:06:53.3450000+08:00","Have a question as inductroduction from SoliScada(SuCon): https://www.soliscada.com/about/news/709018392617029","",""
+"1095336268025569300","thanhlph","2025-08-27T10:07:31.3790000+08:00","I think Soliscada for 1st HMI/Scada, but it is not free for 2nd one and so on.","",""
+"1095336268025569300","thanhlph","2025-08-27T10:08:08.4460000+08:00","I think SoliScada free for 1st HMI/Scada, but it is not free for 2nd one and so on.","",""
+"1323501936674082826","jessielu0411","2025-08-27T10:37:36.3810000+08:00","Hi thanks for your question! You're correct that the first HMI/SCADA runtime (web portal access) is free, and we charge for additional concurrent users on the web server, but we do have time-limited offer for our new users. Please email us at soliscada@supcon.com with your specific requirements (number of web access users) and we'll get you a detailed reply.","","👍 (1)"
+"1359343969070354632","wangshu7788_18767","2025-08-27T13:20:53.0370000+08:00","Soliscada is free and does not limit the number of licenses you have","","👍 (2)"
+"1410771489502007339","afiq_24287","2025-08-29T07:43:02.2070000+08:00","Joined the server.","",""
+"1095336268025569300","thanhlph","2025-08-30T11:28:10.3700000+08:00","I saw a lot of video on youtube for guiding, if demo projects are available, please them on github or installing as templete.This way will help new users easily.","",""
+"1411258669974159380","lebao_89091","2025-08-30T15:59:02.1150000+08:00","Joined the server.","",""
+"1390220023724904458","matanou","2025-08-30T17:23:49.0590000+08:00","Hello everyone
+I would like while simulating, to have différent dynamics of some objects so  I set tags with différent IO adresses as shown in the photo. The problem is that the objects have the same dynamics and at the same time (the concerned objects here are the small blue circles in the vidéo) , what should I do?","https://cdn.discordapp.com/attachments/1349624419449962539/1411280237622329344/IMG_0680.jpg?ex=68deed64&is=68dd9be4&hm=0500ce53eedc94dc9acfea0c0ec73660a32ad82adc027f1f1196380baf46f443&,https://cdn.discordapp.com/attachments/1349624419449962539/1411280237982908577/IMG_0681.mov?ex=68deed65&is=68dd9be5&hm=08d5178dcbf352683c65a3ec2afa740a1ef72905643c400bc993025099e20b33&",""
+"1095336268025569300","thanhlph","2025-08-30T18:56:02.3450000+08:00","Oh i saw demo project as above","",""
+"1390220023724904458","matanou","2025-08-30T19:05:17.2830000+08:00","Where?","",""
+"1095336268025569300","thanhlph","2025-08-30T20:24:17.9890000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1411325657857654864/image.png?ex=68df17b1&is=68ddc631&hm=f3b52128990a3fc6ba87e24843d0abdcf646bc13f72cf444250c2067f57e90a9&",""
+"1390220023724904458","matanou","2025-08-31T01:31:48.1560000+08:00","Hello 
+Is it possible to make a tag as result of mathematical operations of other tags? Like P=U * I * cos(phi)","",""
+"1323501936674082826","jessielu0411","2025-09-01T09:26:36.0270000+08:00","Select the graphic - Right-click - Select Dynamic - Choose Fill and add color.","",""
+"1390220023724904458","matanou","2025-09-01T09:29:35.0530000+08:00","Okay I will try this, thank you","",""
+"1323501936674082826","jessielu0411","2025-09-01T09:40:53.4780000+08:00","Our demos are located in our shared folder: https://drive.google.com/drive/folders/12GYLLH-yD6sIs2bWHQWxsxB9ievnXb2m?usp=drive_link and the link can also be found from our official website:","https://cdn.discordapp.com/attachments/1349624419449962539/1411888514798321674/1756690826555.png?ex=68df29a5&is=68ddd825&hm=7a7a2fcc0dd6496a1325a96fa823bab72648743fec22f01eaddd3d0ccd2b9f81&",""
+"1323501936674082826","jessielu0411","2025-09-01T09:41:37.2820000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1411888697858588714/1756690851243.png?ex=68df29d1&is=68ddd851&hm=d7cbf105e1a861b6809ce76335d10cf7fd17fac0cac6aa1c5894ebd4124290b3&","💯 (1)"
+"1390220023724904458","matanou","2025-09-01T09:51:03.1950000+08:00","Thanks","","👍 (1)"
+"1390220023724904458","matanou","2025-09-01T09:57:48.1530000+08:00","Very helpful🥳","","👍 (1)"
+"1408661899314200637","surachai_70875","2025-09-02T15:21:42.3600000+08:00","Started a thread.","",""
+"1359738861412028487","damir072875","2025-09-02T17:58:55.8110000+08:00","🤝","",""
+"1359738861412028487","damir072875","2025-09-02T17:59:27.3340000+08:00","Hello, I need your help. I currently have a real-time indicator with a range from 0 to 100. When the indicator reaches 80, the motor should turn on. If the indicator exceeds 80, the motor should turn off. Is it possible to set this up?","",""
+"1359738861412028487","damir072875","2025-09-02T18:02:43.6010000+08:00","🤝","",""
+"1095336268025569300","thanhlph","2025-09-02T20:54:50.9560000+08:00","The soliscada have lib for small process control Demo(motorsx valves, loop controllers) including faceplate with 3rd Party PLCs like Rockwell/Siemens/Schneiders...?","",""
+"1323501936674082826","jessielu0411","2025-09-03T09:46:49.6070000+08:00","Hi it is possible, our SCADA engineer drafted a step-by-step guide doc for your reference, please check it out and let us know if you need any further assist!","https://cdn.discordapp.com/attachments/1349624419449962539/1412614783676579850/Scheduling_Task.docx?ex=68df2b09&is=68ddd989&hm=41a6b17fc918dcc6fb2bde9a38ef84d9f5df34af728c464b48b1ded4f67faa4a&",""
+"1323501936674082826","jessielu0411","2025-09-03T09:50:31.0020000+08:00","In the object model of the engineering configuration interface, panels are included. The system model provides pre-made panels. If none are suitable, you can of course custom-create panels in the user model.","https://cdn.discordapp.com/attachments/1349624419449962539/1412615711574065162/175686353517.png?ex=68df2be6&is=68ddda66&hm=7d247849b3e79be0a17d6d8c79cbc2431acec05cfc3328f876036fca3b7c00a2&,https://cdn.discordapp.com/attachments/1349624419449962539/1412615712110805003/1756863434962.png?ex=68df2be6&is=68ddda66&hm=946a02c440c6fd7a6df2af90f168882a8c84bc0ae3c78a9d35c6e58a784c70de&",""
+"1359738861412028487","damir072875","2025-09-03T12:42:16.4610000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1412658934124384356/IMG_20250903_094009.jpg?ex=68df5427&is=68de02a7&hm=ae4b0c65fff9df51ac7819df68ee3339fcb9094658fb0d50001aca8adbb3abb8&,https://cdn.discordapp.com/attachments/1349624419449962539/1412658934703194112/IMG_20250903_094018.jpg?ex=68df5427&is=68de02a7&hm=fc194363794836cf7fd79fab21fd97ec49f141392cc86141bc2a46d1e4b92289&,https://cdn.discordapp.com/attachments/1349624419449962539/1412658935441260625/IMG_20250903_094025.jpg?ex=68df5428&is=68de02a8&hm=92f14178c16357e4db473e1f04c273e8122c83a7dd1fcd0111c651773fbc0ac0&,https://cdn.discordapp.com/attachments/1349624419449962539/1412658935940251788/IMG_20250903_094045.jpg?ex=68df5428&is=68de02a8&hm=17f9205c66ad60f7501dd5a57a8556d4b66b49479e6fe84a4ac946769dea6972&,https://cdn.discordapp.com/attachments/1349624419449962539/1412658936510812223/IMG_20250903_094126.jpg?ex=68df5428&is=68de02a8&hm=20408a0ab4115bd7676430b9a58f38500774220d93581cd2981e4dee8adeee74&",""
+"1359738861412028487","damir072875","2025-09-03T12:44:02.6080000+08:00","I tried this before, but it doesn’t work!","",""
+"1323501936674082826","jessielu0411","2025-09-03T13:39:28.3060000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1412673329369845760/17568777096257.png?ex=68df618f&is=68de100f&hm=11d61b4d6f567511051212e55ef995b48d376a29a4357530c1547dc1308e041d&,https://cdn.discordapp.com/attachments/1349624419449962539/1412673329856512090/17568777606542.png?ex=68df6190&is=68de1010&hm=d953c5689fde27be523a889d6f3e99febc0f255848b1b6c314ecdb31d050b861&,https://cdn.discordapp.com/attachments/1349624419449962539/1412673330170826793/17568777806847.png?ex=68df6190&is=68de1010&hm=c5791a1d48dafc146074874befee4018e75ee539f8ec5f55b3f46066322fe5f6&,https://cdn.discordapp.com/attachments/1349624419449962539/1412673330544250900/2025_09_03_13_30_20_44.mp4?ex=68df6190&is=68de1010&hm=c2002999079ee67450369d723cc268a6545e2b9d11dba05c5c9e2bca4d8a2c07&",""
+"1359738861412028487","damir072875","2025-09-03T13:44:30.0410000+08:00","👍","","😋 (1)"
+"1359738861412028487","damir072875","2025-09-03T13:44:36.3890000+08:00","🤝","",""
+"1342393964879417365","thoe_82280","2025-09-03T17:26:29.1850000+08:00","Joined the server.","",""
+"1342393964879417365","thoe_82280","2025-09-03T17:36:30.6580000+08:00","","",""
+"318146110759763968","hazzem00","2025-09-04T09:09:19.6450000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-09-04T09:16:00.3630000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-09-04T09:16:10.3930000+08:00","","",""
+"755392125524246538","boonyom","2025-09-04T09:58:13.0720000+08:00","Joined the server.","",""
+"318146110759763968","hazzem00","2025-09-04T10:36:05.5710000+08:00","","",""
+"755392125524246538","boonyom","2025-09-04T10:36:15.6390000+08:00","","",""
+"1342393964879417365","thoe_82280","2025-09-05T14:16:35.9380000+08:00","Hello @BOONYOM","","👍 (1)"
+"755392125524246538","boonyom","2025-09-07T01:03:33.9270000+08:00","ครับผม","",""
+"770598156189696010","babygollum","2025-09-08T13:17:05.0430000+08:00","Joined the server.","",""
+"1375328985130733568","rafis0592","2025-09-13T15:40:26.7200000+08:00","Hello 👋! Can you tell me where I can see demo projects on HVAC. The simplest projects. For education.","",""
+"1375328985130733568","rafis0592","2025-09-13T21:43:47.7470000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1416419093371818134/totalautomatic_scr1.png?ex=68df2a53&is=68ddd8d3&hm=c768b9a6f03441e0e7bda79198debb8f8b14747871a87da8add9bfb8c794a641&",""
+"1375328985130733568","rafis0592","2025-09-13T21:44:14.4450000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1416419205321850930/Centralized-SCADA-system-for-air-conditioning-Reliance-SCADA-for-HVAC-Figures-3-and-4.png?ex=68df2a6e&is=68ddd8ee&hm=9adda489e9aa86e3c5340681479d1ba0872d22f42ec2e7e32346296cffc35f97&",""
+"917094966738714684","kenny_mccomick9774","2025-09-14T17:24:43.5660000+08:00","Joined the server.","",""
+"917094966738714684","kenny_mccomick9774","2025-09-14T17:25:51.7270000+08:00","","",""
+"917094966738714684","kenny_mccomick9774","2025-09-14T17:26:09.7030000+08:00","Report is showing nothing in the table.","",""
+"917094966738714684","kenny_mccomick9774","2025-09-14T17:26:37.1610000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1416716758319890482/IMG_6673.jpg?ex=68deee0c&is=68dd9c8c&hm=968d2832360023769ef35ca5aa64de910c2ee3562dde0086bbd40225ab2a2c59&,https://cdn.discordapp.com/attachments/1349624419449962539/1416716759054155857/IMG_6674.jpg?ex=68deee0c&is=68dd9c8c&hm=e68673ebd5dc4f3920e340aa4824a1a307e9cbcd1ad5dae76e8a00881cbcf085&,https://cdn.discordapp.com/attachments/1349624419449962539/1416716759611736074/IMG_6672.jpg?ex=68deee0c&is=68dd9c8c&hm=7c9c7b74ecc366017d98491581d28ff665f63107a9e303cf1660a0043f66ef7a&,https://cdn.discordapp.com/attachments/1349624419449962539/1416716760476029051/IMG_6671.jpg?ex=68deee0d&is=68dd9c8d&hm=5a2ef0a8cfd92bdb9ec153859a54375bff03d32421ee0f7d4ceaf7f09dfd7129&",""
+"917094966738714684","kenny_mccomick9774","2025-09-14T17:26:58.0570000+08:00","Can anyone tell me what am I missing?","",""
+"1359343969070354632","wangshu7788_18767","2025-09-15T09:25:48.5660000+08:00","We're doing a similar Demo","https://cdn.discordapp.com/attachments/1349624419449962539/1416958149189046272/image.png?ex=68df261c&is=68ddd49c&hm=bc7d513c093b06f7579d1da7d04946055ac81b5e1f5d6f39b9a943d28cac5583&","👍 (2)"
+"1359343969070354632","wangshu7788_18767","2025-09-15T09:27:38.8570000+08:00","你的填充事件和输出事件不能用同一个","",""
+"1323501936674082826","jessielu0411","2025-09-15T09:30:47.3160000+08:00","Hi Kenny, thanks for your patience! Please refer to our Report tutorial video and the demo project: https://drive.google.com/file/d/1M-X_GvZNwcEtWdLtPaAvodnqbvjr1htY/view?usp=drive_link; https://youtu.be/zcQ5sbbRdqw?si=7CxNrXINTKh_VkVL","",""
+"1323501936674082826","jessielu0411","2025-09-15T09:55:46.3590000+08:00","During testing, event information is populated using a time that has not yet occurred. For example, if the current time is 08:00, set the event start time to 08:03. After publishing, wait and refresh the report. During non-testing operations, event population follows the configured event fill cycle and may not necessarily be displayed in the first row. If this is unclear, it is recommended to test the functionality first. If the events are recorded successfully, you can review them in the production environment the next day.","",""
+"1416970603008622623","samir_17398","2025-09-15T10:16:10.8910000+08:00","Joined the server.","",""
+"1375328985130733568","rafis0592","2025-09-15T12:18:05.7640000+08:00","Hello 👋. Thank you.","","😋 (1)"
+"1417019595289657448","yashpatel715","2025-09-15T13:43:35.3530000+08:00","Joined the server.","",""
+"1417019595289657448","yashpatel715","2025-09-15T13:44:47.5860000+08:00","Hi all","",""
+"1323501936674082826","jessielu0411","2025-09-15T13:45:26.6570000+08:00","","",""
+"1323501936674082826","jessielu0411","2025-09-15T13:45:26.6790000+08:00","","",""
+"1417019595289657448","yashpatel715","2025-09-15T13:45:49.7900000+08:00","How to change this background?","https://cdn.discordapp.com/attachments/1349624419449962539/1417023584844644433/IMG20250915111510.jpg?ex=68df630d&is=68de118d&hm=9e51ffc11db98aace73a04040c23ec32c71612721bc46d477c1c49ea48cf53cf&",""
+"1417019595289657448","yashpatel715","2025-09-15T13:53:28.4130000+08:00","?","",""
+"1323501936674082826","jessielu0411","2025-09-15T13:54:51.1450000+08:00","Change the homepage name to index.pic","",""
+"1417019595289657448","yashpatel715","2025-09-15T13:55:34.1450000+08:00","From where?","",""
+"1417019595289657448","yashpatel715","2025-09-15T13:59:39.4650000+08:00","?","",""
+"1323501936674082826","jessielu0411","2025-09-15T14:03:00.0190000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1417027906323877888/17579161511306.png?ex=68df6713&is=68de1593&hm=0a7dd01844fb435f7db912b2da6a644c43f71e38879121758433b1a95df4d927&",""
+"1417019595289657448","yashpatel715","2025-09-15T14:07:05.5160000+08:00","Working thank u","","😋 (1)"
+"1417019595289657448","yashpatel715","2025-09-15T14:56:28.1140000+08:00","How link page in button?","https://cdn.discordapp.com/attachments/1349624419449962539/1417041361932390452/IMG20250915122548.jpg?ex=68df739c&is=68de221c&hm=2e932c682552a9b41ea068b26a53bb3830633d9989ab841024c3a93ed468cc52&",""
+"1359343969070354632","wangshu7788_18767","2025-09-15T15:02:23.3590000+08:00","Select the button, and then right-click","",""
+"1417019595289657448","yashpatel715","2025-09-15T15:09:35.4880000+08:00","Then","",""
+"1417019595289657448","yashpatel715","2025-09-15T15:35:01.4010000+08:00","Got it","",""
+"1375328985130733568","rafis0592","2025-09-15T20:17:57.9520000+08:00","Can you tell me how this will be available? Thank you very much!","",""
+"1417019595289657448","yashpatel715","2025-09-15T21:05:28.6080000+08:00","Data is automatically goes out ?
+Any idea about?
+
+Communication is normal","https://cdn.discordapp.com/attachments/1349624419449962539/1417134225781555280/IMG20250915183437.jpg?ex=68df2158&is=68ddcfd8&hm=e5adaeb66c52214a14744bd051204b3ccfda08685c1d741fb9e0876b7275373f&",""
+"1323501936674082826","jessielu0411","2025-09-16T15:22:45.2100000+08:00","Check the device status and whether the IP is functioning properly. Verify that the configuration information, including the IP, port, and device ID, is correctly entered.","",""
+"1417019595289657448","yashpatel715","2025-09-16T21:09:08.8870000+08:00","Hi can you please this pic file..to use","",""
+"1359343969070354632","wangshu7788_18767","2025-09-17T09:12:56.6120000+08:00","we're still working on it, will share it with you asap","","👍 (1)"
+"1417019595289657448","yashpatel715","2025-09-18T13:15:52.3930000+08:00","Hence please help on it team","",""
+"1417019595289657448","yashpatel715","2025-09-18T13:15:53.8190000+08:00","I have added dashboard meter in vfdraw and published but it is showing in only scada application not showing in web page and web page services  is also showing published","https://cdn.discordapp.com/attachments/1349624419449962539/1418103215408414810/IMG20250918103300.jpg?ex=68df5c09&is=68de0a89&hm=c7b3431cb6a8c46f54caea6c9f107062ea675a657a19e7b453b41f6379c0af4b&,https://cdn.discordapp.com/attachments/1349624419449962539/1418103215873855578/IMG20250918103314.jpg?ex=68df5c09&is=68de0a89&hm=42c0374778567fc921a4ba1f9c73fd90989d451c5e0b1542a9680b800e6b31fd&",""
+"1359343969070354632","wangshu7788_18767","2025-09-18T13:59:44.4250000+08:00","the dashboard controls do not support display on the web end, and we will optimize this in future versions.","",""
+"1417019595289657448","yashpatel715","2025-09-18T16:39:57.1030000+08:00","Noted tq","",""
+"1418174985226424412","bert_36399","2025-09-18T18:01:58.0500000+08:00","Joined the server.","",""
+"1418174985226424412","bert_36399","2025-09-18T18:09:55.6040000+08:00","Can anyone help me for connecting to an siemens s7-1200 plc","",""
+"1359343969070354632","wangshu7788_18767","2025-09-18T18:11:28.2380000+08:00","Take a look at your driver configuration page","",""
+"1418174985226424412","bert_36399","2025-09-18T18:26:09.7800000+08:00","I did, I watch the instruction video and read the manual, but no results. What I don't understand is the Tag adressing. Normaly we use the adress DB1.DBX.0.1, in Soliscada the adres is: DB1.bool.0.1 Can the plc read this?","",""
+"1359343969070354632","wangshu7788_18767","2025-09-18T18:28:58.8550000+08:00","I need you to provide some pictures.","",""
+"1418174985226424412","bert_36399","2025-09-18T19:06:06.0500000+08:00","hereby some photo's","https://cdn.discordapp.com/attachments/1349624419449962539/1418191347214581852/Z.png?ex=68df055d&is=68ddb3dd&hm=5d2cff62e90cc8a6532ede98bb9d8646e9bcb2f6cfcc89e1c86ddc2843e712c2&,https://cdn.discordapp.com/attachments/1349624419449962539/1418191347604783237/Z.png?ex=68df055d&is=68ddb3dd&hm=bfc7c5fd3a9104b9bac278cb256cbf9fafb79dfe2ef866b3c41b2e002ee5e50a&",""
+"1359343969070354632","wangshu7788_18767","2025-09-19T09:22:06.3510000+08:00","PACA  and Slot，0 and 1？","",""
+"1401877588749848740","rezi_amber_85428","2025-09-19T17:53:18.6810000+08:00","Joined the server.","",""
+"1418536142336430110","jimmy_99048_41906","2025-09-19T17:59:54.3860000+08:00","Joined the server.","",""
+"1095336268025569300","thanhlph","2025-09-22T21:54:02.0250000+08:00","How to subscribe news as like https://www.soliscada.com/about/news/713643875512389 by email?","",""
+"1323501936674082826","jessielu0411","2025-09-23T09:35:23.8940000+08:00","Hey, thanks for asking! We’re rolling out an EDM/newsletter platform as we’ve grown to thousands of registered users. Anyone who signs up through our official SOLISCADA website will automatically receive newsletters with posts like that one, plus insights, tips & tricks, tutorials, release notes and software updates.","",""
+"1375328985130733568","rafis0592","2025-09-25T09:37:29.9590000+08:00","Hi! 👋 Does  SoliScada have a PID block with discrete (ON/OFF) output using time-proportional control (like PWM for heaters)? Or should it be built manually with a normal PID + timers?","",""
+"1359343969070354632","wangshu7788_18767","2025-09-25T10:27:35.8750000+08:00","SCADA does not support the PID control module. Its core function is data acquisition and display.","",""
+"1375328985130733568","rafis0592","2025-09-25T16:49:08.9200000+08:00","Sorry, VFSysBuilder, 
+VFExplorer.","",""
+"1420803638682452069","tenacious_unicorn_66384","2025-09-26T00:07:11.6520000+08:00","Joined the server.","",""
+"1417019595289657448","yashpatel715","2025-09-26T18:41:03.1410000+08:00","I need a duct template for vfdraw","",""
+"1417019595289657448","yashpatel715","2025-09-27T11:28:15.3110000+08:00","Pls help on it","",""
+"1421344528862023720","minh_64232","2025-09-27T11:58:05.6020000+08:00","Joined the server.","",""
+"1421345208037019769","moimoi_18863","2025-09-27T12:03:13.4140000+08:00","Joined the server.","",""
+"1050264863290707968","nguyenmoi903","2025-09-27T12:06:35.4330000+08:00","Joined the server.","",""
+"1417019595289657448","yashpatel715","2025-09-27T19:23:51.3600000+08:00","I have tried to modify the value for binary output post configuration of tag but it is not changing.","",""
+"1417019595289657448","yashpatel715","2025-09-27T19:24:14.8080000+08:00","Any special configuration requirements?","",""
+"1417019595289657448","yashpatel715","2025-09-27T21:06:08.4570000+08:00","Pls response","",""
+"1323501936674082826","jessielu0411","2025-09-28T09:40:50.8380000+08:00","Hi Yash, my apologies for the delay in responding. We are offline over the weekend, and I am just now seeing your messages from Friday and Saturday. For the duct template, please reference the screenshot:","https://cdn.discordapp.com/attachments/1349624419449962539/1421672975454830783/17590234613569.png?ex=68df29a2&is=68ddd822&hm=899d94d7eecdb20ddc98c87db3498dec7380530e000f345d46bd402e4f98e66d&",""
+"1323501936674082826","jessielu0411","2025-09-28T09:41:43.3410000+08:00","can you please provide the screenshot for this?","",""
+"1417019595289657448","yashpatel715","2025-09-28T10:44:19.1090000+08:00","This AHU cmd need to be changed 0 to 1  for turn on Digital output but while I enter 1 value it automatically becomes 0","https://cdn.discordapp.com/attachments/1349624419449962539/1421688948429688873/Screenshot_2025-09-28-08-13-05-83_92460851df6f172a4592fca41cc2d2e6.jpg?ex=68df3883&is=68dde703&hm=cebee8811fa50b00b9ccb8e6183a47279088841cf849306e6d873a8337e54113&",""
+"1323501936674082826","jessielu0411","2025-09-28T10:52:37.8060000+08:00","Thank you for the screenshot and the clear explanation. I understand the issue – the value for the AHU command is reverting from 1 back to 0 after you enter it. Could you please share a short screen recording showing the exact steps you take? Seeing the process will help us identify the issue more efficiently. Thanks for your patience in advance!","",""
+"1417019595289657448","yashpatel715","2025-09-28T10:54:53.3580000+08:00","Currently I am out of site  . But   I changed the value from 0 to 1 the value showing 1 but it automatically becomes 0 within less than 2 sec yesterday.","",""
+"1323501936674082826","jessielu0411","2025-09-28T11:08:13.9590000+08:00","@Yash We've also received your support ticket regarding the watrer flow graphics: To create the rotation effect, prepare an animated GIF and a static image, then right click to select Dynamic and choose Visibility. (see the attached screenshot) 
+For the water-flow effect, right-click the drawn pipe, select Dynamic, and bind the flowing animation.","https://cdn.discordapp.com/attachments/1349624419449962539/1421694966736093315/17590287606385.png?ex=68df3e1d&is=68ddec9d&hm=83eccdc7bbc65d6994d911bec9a0434dedaf46eec872667697f43f1bb3ee2484&",""
+"1417019595289657448","yashpatel715","2025-09-28T11:25:29.3980000+08:00","Kk thanks","",""
+"1417019595289657448","yashpatel715","2025-09-28T11:25:52.3000000+08:00","Pls give the solution for this also...!!","",""
+"1417019595289657448","yashpatel715","2025-09-28T13:39:15.6500000+08:00","?","",""
+"1323501936674082826","jessielu0411","2025-09-28T13:44:35.9580000+08:00","Could you please confirm if the specific tag (point ID) is configured with ""Read/Write"" property, and not set to ""Read-Only""? (You can check this in the tag's properties. Additionally, if this tag is mapped from a PLC address, please also verify that the corresponding point in the PLC itself is writable.) Also, is the write operation failing for all tags under your current login identity/credentials, or only for this particular one? 
+If the problem persists after these checks, we would need you to provide a short screen video. It would be very helpful if the video could show:
+1. The complete steps you take from logging in to accessing this specific command.
+2. You entering the value ""1"" and confirming it.
+3. The moment the system automatically reverts it back to ""0"".
+
+A video recording often captures details that are hard to convey in screenshots, and it would significantly speed up our troubleshooting process.","",""
+"1417019595289657448","yashpatel715","2025-09-28T13:52:06.0510000+08:00","I have configured for bacnet objects point and in read and write mode with correct point id.
+
+Write operation failed with all points (tags)
+
+
+Required video will share by tomorrow","",""
+"1323501936674082826","jessielu0411","2025-09-28T14:08:25.4340000+08:00","Please also refer to our I/O Driver User Manual (especially the section on tag configuration and writing) to ensure all steps are correct: https://drive.google.com/file/d/1mtTrqbRKp-MjN1cS0eg9Az_mkkHqNnT_/view?usp=sharing; If all else fails, we suggest reinstall the software using the installation package — right-click on the installer and select “Run as administrator” to perform a repair or overlay installation.
+Follow the installation guide steps precisely: https://drive.google.com/file/d/1xUnyhmIpqmbCdxJI0jR4AcEcZ1flSJsl/view?usp=drive_link","",""
+"1417019595289657448","yashpatel715","2025-09-29T00:11:31.1750000+08:00","Ok will check","",""
+"1422040304139239538","lamngocliem_32310","2025-09-29T10:01:30.8750000+08:00","Joined the server.","",""
+"1417019595289657448","yashpatel715","2025-09-29T16:14:51.4700000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1422134519137308722/rn_image_picker_lib_temp_d6eb0a4a-5bf0-46ab-b5f2-4eacf1b3349f.jpg?ex=68dedd3b&is=68dd8bbb&hm=a5a3e3a9fcabf36e133258b5d133b2349f6a3371f9462c617cf9222ceb51965b&",""
+"1417019595289657448","yashpatel715","2025-09-29T16:17:04.2720000+08:00","@jessielu pfa","",""
+"1417019595289657448","yashpatel715","2025-09-29T16:17:06.7230000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1422135086513389589/VID20250929134616.mp4?ex=68deddc2&is=68dd8c42&hm=f22cc48bcaddbf3ce1d3b8f0b0528a5f65be1ef7115e933e1c1d8faee9006ee7&",""
+"1417019595289657448","yashpatel715","2025-09-29T16:19:04.4350000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1422135580199751680/rn_image_picker_lib_temp_ec3ef2e5-7e6d-41e8-a149-857413f2ae96.jpg?ex=68dede38&is=68dd8cb8&hm=f96da058671f49ac1604f11e1060fec564d668729fd19c7c41ea08ca5db0842e&",""
+"1417019595289657448","yashpatel715","2025-09-29T16:21:58.0230000+08:00","Attached log also @jessielu","",""
+"1359343969070354632","wangshu7788_18767","2025-09-29T16:42:29.8950000+08:00","","https://cdn.discordapp.com/attachments/1349624419449962539/1422141475638083704/image.png?ex=68dee3b5&is=68dd9235&hm=0161e591731440668a5ef3958bf69d9eb3207746aa1766ed4714b1f7cc925ff9&",""
+"1359343969070354632","wangshu7788_18767","2025-09-29T16:43:15.3390000+08:00","You can try setting the tag type to an on/off value","",""
+"1417019595289657448","yashpatel715","2025-09-29T17:05:26.1800000+08:00","Already try","",""
+"1417019595289657448","yashpatel715","2025-09-29T17:05:34.1790000+08:00","But same error reflect","",""
+"1359343969070354632","wangshu7788_18767","2025-09-29T17:18:22.6520000+08:00","Try using other software to see if it can change the value of this position number, or also try AO type position numbers.","",""
+"1417019595289657448","yashpatel715","2025-09-29T17:19:16.3670000+08:00","Yes I tried from the BDT tool ...it was working normally from the BDT Tool ..","",""
+"1417019595289657448","yashpatel715","2025-09-29T17:20:55.6330000+08:00","AO also not working","",""
+"1417019595289657448","yashpatel715","2025-09-29T18:24:31.2280000+08:00","Pls support","",""
+"1323501936674082826","jessielu0411","2025-09-29T18:50:23.1330000+08:00","Hi, our initial assessment indicates that your issue is quite intricate and will require dedicated time from our senior engineers to diagnose properly. However, we’re currently offline (out of office hours). Our team will look into this first thing tomorrow morning (our time, GMT+8) and get back to you with an update. We appreciate your patience as we work to thoroughly resolve this for you.","",""
+"1417019595289657448","yashpatel715","2025-09-30T09:45:55.0890000+08:00","Good morning team","",""
+"1422401218655031379","kriangkraik.","2025-09-30T09:57:55.4840000+08:00","Joined the server.","",""
+"1323501936674082826","jessielu0411","2025-09-30T10:23:24.5390000+08:00","📢 SOLISCADA: National Holiday Notice
+
+Hello @everyone, quick heads up: our team will be on national holiday from October 1 – October 8, 2025. During this period our ability to respond to technical issues will be limited.
+
+✅ If you encounter any issues, please leave a message in this channel.
+✉️ Or email us at soliscada@supcon.com
+🛠️ For complex problems, we'll need to investigate after the holiday and will follow up once we're back.
+
+We will resume normal operations on Thursday, October 9, 2025.
+ ⏰ Our regular office hours: Mon–Fri, 9:00 AM – 5:00 PM (UTC+8).
+
+🖥️ Self-learning resources:
+
+Video tutorials: https://www.youtube.com/@SOLISCADA
+Demo files: https://drive.google.com/drive/folders/12GYLLH-yD6sIs2bWHQWxsxB9ievnXb2m?usp=drive_link
+Technical documents: https://www.soliscada.com/about/news
+
+Thank you for your understanding and patience!
+
+Regards,
+The SOLISCADA Support Team","",""
+"1323501936674082826","jessielu0411","2025-09-30T10:24:02.6110000+08:00","Pinned a message.","",""
+"1417019595289657448","yashpatel715","2025-09-30T10:27:17.2790000+08:00","Noted..","",""
+"1417019595289657448","yashpatel715","2025-09-30T10:27:55.8700000+08:00","Request you please on this..if possible before national holiday intervals...","",""
+"1359343969070354632","wangshu7788_18767","2025-09-30T11:05:24.4470000+08:00","After thorough testing on our end, we have confirmed that our software is functioning as expected without any issues. This leads us to believe that the problem might be related to the connection or configuration with your on-site equipment.
+
+To investigate further, we will need to perform a remote check of your setup. We will be able to arrange a remote session with you after we return on October 9.","",""
+"1417019595289657448","yashpatel715","2025-09-30T11:18:59.5170000+08:00","Ok thank you for the update..but please note that while I am using another software to control DO /AO it is working normal.......","",""
+"1034543232190795887","nozberkarya","2025-10-01T00:50:58.4760000+08:00","Joined the server.","",""
+"910676209346703370","viv_newman1423","2025-10-01T12:44:35.5330000+08:00","","",""
+"1034543232190795887","nozberkarya","2025-10-01T15:10:58.6300000+08:00","Hi","",""
+"1359738861412028487","damir072875","2025-10-01T20:25:29.6600000+08:00","Hi","",""
+"1359738861412028487","damir072875","2025-10-01T20:25:35.7680000+08:00","I currently have two servers running SoliSCADA, and I need to connect them to each other through OPC to share tags. I have already configured the DCOM settings, but it didn’t work. Both servers are on the same Ethernet network.","",""
+"1148206515908513862","chenbihan_66422","2025-10-02T15:07:06.0260000+08:00","Joined the server.","",""
+"1415228634960101406","gerry_39_66946_34511","2025-10-02T15:08:44.0800000+08:00","Joined the server.","",""
+"1423202705115054102","gerrymini_10","2025-10-02T15:11:54.6030000+08:00","Joined the server.","",""

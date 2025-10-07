@@ -1,0 +1,2774 @@
+{
+  "keyword": "machine learning",
+  "platform": "youtube",
+  "data_source": "time_all",
+  "collection_time": "2025-10-07T15:08:52.423842",
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "PeMlggyqz0Y",
+      "title": "Machine Learning Explained in 100 Seconds",
+      "content": "Machine Learning is the process of teaching a computer how perform a task with out explicitly programming it. The process feeds algorithms with large amounts of data to gradually improve predictive performance. #ai #python #100SecondsOfCode 🔗 Resources Machine Learning Tutorials https://fireship.io/tags/machine-learning/ What is ML https://www.ibm.com/cloud/learn/machine-learning Neural Networks https://towardsdatascience.com/a-beginners-guide-to-convolutional-neural-networks-cnns-14649dbddce8 ML Wiki https://en.wikipedia.org/wiki/Machine_learning 🔥 Watch more with Fireship PRO Upgrade to Fireship PRO at https://fireship.io/pro Use code lORhwXd2 for 25% off your first payment. 🎨 My Editor Settings - Atom One Dark - vscode-icons - Fira Code Font Topics Covered - Convolutional Neural Networks - Machine Learning Basics - How Data Science Works - Big Data and Feature Engineering - Artificial Intelligence History - Supervised Machine Learning",
+      "author": "Fireship",
+      "timestamp": "2021-09-09T17:31:56+00:00",
+      "url": "https://www.youtube.com/watch?v=PeMlggyqz0Y",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "webdev",
+          "app development",
+          "lesson",
+          "tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PeMlggyqz0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PeMlggyqz0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PeMlggyqz0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PeMlggyqz0Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PeMlggyqz0Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "PeMlggyqz0Y",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "view_count": 912475,
+      "like_count": 35794,
+      "comment_count": 578,
+      "duration": "PT2M35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "E0Hmnixke2g",
+      "title": "All Machine Learning algorithms explained in 17 min",
+      "content": "All Machine Learning algorithms intuitively explained in 17 min ######################################### I just started my own Patreon, in case you want to support! Patreon Link: https://www.patreon.com/c/InfiniteCodes ######################################### In this video I will go through all machine learning algorithms in less than 17 minutes to get you an intuitive understanding of how they work and how they relate to each other as well as help you decide how to pick the right one for your problem. Going all the way from Linear Regression to Neural Networks / Deep Learning and Unsupervised Learning. Also Watch: How to Learn Machine Learning in 2024 (7 step roadmap) https://youtu.be/jwTaBztqTZ0 The Math Skills that make Machine Learning easy (and how you can learn it) https://youtu.be/wOTFGRSUQ6Q ######### Chapters: 00:00 - Intro: What is Machine Learning? 00:59 - Supervised Learning 01:37 - Unsupervised Learning 02:20 - Linear Regression 04:04 - Logistic Regression 04:53 -",
+      "author": "Infinite Codes",
+      "timestamp": "2024-09-17T08:57:32+00:00",
+      "url": "https://www.youtube.com/watch?v=E0Hmnixke2g",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning algorithms",
+          "machine learning",
+          "machine learning tutorial",
+          "what is machine learning",
+          "machine learning models explained",
+          "machine learning algorithms explained",
+          "machine learning basics",
+          "machine learning explained in 10 minutes",
+          "machine learning algorithms in python",
+          "machine learning tutorial for beginners",
+          "machine learning course",
+          "machine learning python",
+          "algorithms",
+          "introduction to machine learning",
+          "complete machine learning algorithms",
+          "data science",
+          "deep learning"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E0Hmnixke2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E0Hmnixke2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E0Hmnixke2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E0Hmnixke2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E0Hmnixke2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "E0Hmnixke2g",
+      "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+      "view_count": 1403922,
+      "like_count": 54629,
+      "comment_count": 496,
+      "duration": "PT16M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qYNweeDHiyU",
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "content": "Want to learn more about Agentic AI + Data? Register here → https://ibm.biz/BdeGLe Want to play with the technology yourself? Explore our interactive demo → https://ibm.biz/BdKSer Join Jeff Crume as he dives into the distinctions between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Foundation Models and how these technologies have evolved over time. He also explores the latest advancements in Generative AI, including large language models, chatbots, and deepfakes - and clarifies common misconceptions, simplifies complex concepts, and discusses the impact these technologies have on various fields. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdKSei",
+      "author": "IBM Technology",
+      "timestamp": "2024-08-05T11:00:52+00:00",
+      "url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "IBM",
+          "IBM Cloud",
+          "AI",
+          "MachineLearning",
+          "DeepLearning",
+          "GenerativeAI",
+          "GenAI",
+          "Gen AI",
+          "LargeLanguageModels",
+          "LLMs",
+          "Deepfakes",
+          "Deep Fakes",
+          "TechExplained",
+          "ArtificialIntelligence",
+          "Artificial Intelligence",
+          "ML",
+          "DL",
+          "AIExplained",
+          "TechTrends",
+          "DataScience",
+          "NeuralNetworks",
+          "Chatbots",
+          "FutureOfAI",
+          "TechSimplified"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYNweeDHiyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYNweeDHiyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYNweeDHiyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYNweeDHiyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYNweeDHiyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qYNweeDHiyU",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 2303341,
+      "like_count": 55186,
+      "comment_count": 1426,
+      "duration": "PT10M1S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "i_LwzRVP7bg",
+      "title": "Machine Learning for Everybody – Full Course",
+      "content": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how to use TensorFlow to implement many different concepts. ✏️ Kylie Ying developed this course. Check out her channel: https://www.youtube.com/c/YCubed ⭐️ Code and Resources ⭐️ 🔗 Supervised learning (classification/MAGIC): https://colab.research.google.com/drive/16w3TDn_tAku17mum98EWTmjaLHAJcsk0?usp=sharing 🔗 Supervised learning (regression/bikes): https://colab.research.google.com/drive/1m3oQ9b0oYOT-DXEy0JCdgWPLGllHMb4V?usp=sharing 🔗 Unsupervised learning (seeds): https://colab.research.google.com/drive/1zw_6ZnFPCCh6mWDAd_VBMZB4VkC3ys2q?usp=sharing 🔗 Dataets (add a note that for the bikes dataset, they may have to open the downloaded csv file and remove special characters) 🔗 MAGIC dataset: https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope 🔗 Bikes dataset: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand 🔗 Seeds/wheat dataset: https",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2022-09-26T16:00:28+00:00",
+      "url": "https://www.youtube.com/watch?v=i_LwzRVP7bg",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "i_LwzRVP7bg",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 9200189,
+      "like_count": 96516,
+      "comment_count": 2076,
+      "duration": "PT3H53M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7IgVGSaQPaw",
+      "title": "The Complete Machine Learning Roadmap",
+      "content": "Go from zero to a machine learning engineer in 12 months. This step-by-step roadmap covers the essential skills you must learn to become a machine learning engineer in 2024. ❤️ Join this channel to get access to perks: https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA/join Download the FREE roadmap PDF here: https://mosh.link/machine-learning-roadmap ✋ Stay connected - Complete courses: https://codewithmosh.com - Twitter: https://twitter.com/moshhamedani - Facebook: https://www.facebook.com/programmingwithmosh/ - Instagram: https://www.instagram.com/codewithmosh.official/ - LinkedIn: https://www.linkedin.com/school/codewithmosh/ 🔗 Other roadmaps https://youtu.be/Tef1e9FiSR0?si=QpVnZ_o9-DAXzT71 https://youtu.be/OeEHJgzqS1k?si=qd0ZIqAzUpZQn6BX 📚 Tutorials https://youtu.be/_uQrJ0TkZlc?si=ZhlCrQs1SkaPNVa8 https://youtu.be/8JJ101D3knE?si=OGTuS35LQqSunuhh https://youtu.be/BBpAmxU_NQo?si=dm-ZCPxVBYWS1Qhn https://youtu.be/7S_tz1z_5bA?si=QL7s_M2Ao90RDwG8 📖 Chapters 00:00 - In",
+      "author": "Programming with Mosh",
+      "timestamp": "2024-07-18T13:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=7IgVGSaQPaw",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning roadmap",
+          "machine learning",
+          "ml roadmap",
+          "ml career path",
+          "complete machine learning roadmap",
+          "machine learning python",
+          "roadmap for machine learning",
+          "code with mosh",
+          "programming with mosh",
+          "mosh hamedani",
+          "programming",
+          "coding",
+          "machine learning engineer",
+          "ai engineer roadmap",
+          "data science",
+          "tech career"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7IgVGSaQPaw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7IgVGSaQPaw",
+      "channel_id": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+      "view_count": 776300,
+      "like_count": 22635,
+      "comment_count": 716,
+      "duration": "PT5M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9gGnTQTYNaE",
+      "title": "What is Machine Learning?",
+      "content": "Learn about watsonx: https://ibm.biz/BdvxRR What is Machine Learning and how do businesses leverage it today? How does Machine Learning differ from Artificial Intelligence (AI) and Deep Learning, or are they all the same? In this lightboard video, Luv Aggarwal with IBM Cloud, answers these questions and many more as he visually explains what Machine Learning is, how it compares to AI and Deep Learning, as well as why and how an enterprise would use a Machine Learning solution. Chapters 0:00 - Intro 0:17 - Differences between Machine Learning, AI, and Deep Learning 1:32 - Supervised Learning 4:26 - Unsupervised Learning 6:38 - Reinforcement Learning 7:44 - Summary #MachineLearning #AI #DeepLearning #watsonx",
+      "author": "IBM Technology",
+      "timestamp": "2021-07-14T14:07:15+00:00",
+      "url": "https://www.youtube.com/watch?v=9gGnTQTYNaE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Machine Learning",
+          "Deep Learning",
+          "AI",
+          "Artificial Intelligence",
+          "supervised learning",
+          "unsupervised learning",
+          "Neural Networks",
+          "cloud computing",
+          "IBM",
+          "IBM Cloud",
+          "IBM Watson"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9gGnTQTYNaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9gGnTQTYNaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9gGnTQTYNaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9gGnTQTYNaE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9gGnTQTYNaE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9gGnTQTYNaE",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 321008,
+      "like_count": 5671,
+      "comment_count": 103,
+      "duration": "PT8M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0YdpwSYMY6I",
+      "title": "All Machine Learning Models Clearly Explained!",
+      "content": "#ml #machinelearning #ai #artificialintelligence #datascience #regression #classification 🔥 In this video, we explain every major Machine Learning algorithm. Regression models: Linear Regression, Polynomial Regression. Classification models: Logistic Regression, Naive Bayes. Models used for both: Decision Tree, Random Forest, Support Vector Machines, K-Nearest Neighbors. Ensembles: Bagging, Boosting, Voting and Stacking. Deep Learning: Fully Connected (Dense) Neural Networks. Unsupervised learning: K-Means clustering and Principal Component Analysis (PCA) dimensionality reduction technique. Heads up! You can't learn Machine Learning in just 22 minutes, a day, a week or even in a month! It needs a continuous dedication, patience, and consistent effort. I’m here to guide you every step of the way with clear explanations, tips, and resources to make your learning experience easier! Don't worry if there were concepts that were hard to understand! Keep at it, and you’ll get there.",
+      "author": "AI For Beginners",
+      "timestamp": "2025-02-02T18:35:04+00:00",
+      "url": "https://www.youtube.com/watch?v=0YdpwSYMY6I",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning",
+          "artificial intelligence",
+          "data science",
+          "ai for beginners",
+          "ml for beginners",
+          "ml explained",
+          "machine learning explained",
+          "all machine learning algorithms explained",
+          "all ml algorithms clearly explained",
+          "classification",
+          "regression",
+          "unsupervised learning",
+          "neural networks",
+          "deep learning",
+          "machine learning course",
+          "ml full course",
+          "learn machine learning",
+          "machine learning easily explained",
+          "ml for dummies",
+          "major machine learning algorithms",
+          "how to learn ml",
+          "supervised"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YdpwSYMY6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YdpwSYMY6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YdpwSYMY6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0YdpwSYMY6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0YdpwSYMY6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0YdpwSYMY6I",
+      "channel_id": "UCj_ftUuFQwBOiKJicsE_72A",
+      "view_count": 332154,
+      "like_count": 11413,
+      "comment_count": 172,
+      "duration": "PT22M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4RixMPF4xis",
+      "title": "AI vs Machine Learning",
+      "content": "Learn more about watsonx: https://ibm.biz/BdvxDS What is really the difference between Artificial intelligence (AI) and machine learning (ML)? Are they actually the same thing? In this video, Jeff Crume explains the differences and relationship between AI & ML, as well as how related topics like Deep Learning (DL) and other types and properties of each. #ai #ml #dl #artificialintelligence #machinelearning #deeplearning #watsonx",
+      "author": "IBM Technology",
+      "timestamp": "2023-04-10T11:00:03+00:00",
+      "url": "https://www.youtube.com/watch?v=4RixMPF4xis",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "IBM",
+          "IBM Cloud",
+          "ai",
+          "artificialintelligence",
+          "artificial intelligence",
+          "ML",
+          "machinelearning",
+          "machine learning",
+          "deep learning",
+          "deeplearning"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4RixMPF4xis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4RixMPF4xis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RixMPF4xis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4RixMPF4xis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4RixMPF4xis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4RixMPF4xis",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 1448234,
+      "like_count": 42255,
+      "comment_count": 980,
+      "duration": "PT5M49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Lg_oqSEfLdE",
+      "title": "Imersão SEFAZ-RN: TI (Machine Learning) – Prof. Sergio Sierro",
+      "content": "🚨📚 IMERSÃO SEFAZ RN – PREPARAÇÃO INTENSA E GRATUITA! 🚨 A oportunidade que você esperava chegou! De 05 a 12 de outubro, as 7 Fontes vão entregar um calendário completo de aulas e dicas de preparação focadas no concurso da SEFAZ RN. ➡️ Serão aulas gratuitas, com professores especialistas que já viveram na prática a carreira fiscal. ➡️ Conteúdo atualizado, estratégico e objetivo. ➡️ Foco no que realmente importa para você gabaritar a prova da Cebraspe. 📅 Confira o calendário: ✔️ 05/10 – TI (Machine Learning) – Prof. Sergio Sierro ✔️ 06/10 – Reforma Tributária – Prof. Eliezer Santos ✔️ 07/10 – Contabilidade – Prof. Igor Cintra ✔️ 08/10 – Como acelerar sua preparação (Cebraspe) – Prof. Jhonatas Santos ✔️ 09/10 – Auditoria Fiscal – Prof. Arthur Leone ✔️ 10/10 – Economia – Prof. Alex Mendes ✔️ 11/10 – Matemática Financeira – Prof. Sérgio Carvalho ✔️ 12/10 – Legislação Tributária (Lei 6.967/96 – IPVA-RN) – Prof. Eliezer Santos 🎯 Gratuito. Intenso. Decisivo.",
+      "author": "Prof. Eliezer Santos - 7FONTES",
+      "timestamp": "2025-10-06T12:20:57+00:00",
+      "url": "https://www.youtube.com/watch?v=Lg_oqSEfLdE",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lg_oqSEfLdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lg_oqSEfLdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lg_oqSEfLdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lg_oqSEfLdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lg_oqSEfLdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "pt-PT",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Lg_oqSEfLdE",
+      "channel_id": "UCPJQr9s6o36omP4VxJTbi0Q",
+      "view_count": 691,
+      "like_count": 75,
+      "comment_count": 1,
+      "duration": "PT1H38M38S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "q6kJ71tEYqM",
+      "title": "Machine Learning vs Deep Learning",
+      "content": "Learn about watsonx → https://ibm.biz/BdvxDm Get a unique perspective on what the difference is between Machine Learning and Deep Learning - explained and illustrated in a delicious analogy of ordering pizza by IBMer and Master Inventor, Martin Keen. #AI #Software #ITModernization #DeepLearning #MachineLearning",
+      "author": "IBM Technology",
+      "timestamp": "2022-03-31T11:00:32+00:00",
+      "url": "https://www.youtube.com/watch?v=q6kJ71tEYqM",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q6kJ71tEYqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q6kJ71tEYqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q6kJ71tEYqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q6kJ71tEYqM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q6kJ71tEYqM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "q6kJ71tEYqM",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 870456,
+      "like_count": 27116,
+      "comment_count": 344,
+      "duration": "PT7M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "PcbuKRNtCUc",
+      "title": "Essential Machine Learning and AI Concepts Animated",
+      "content": "Learn about all the most important concepts and terms related to machine learning and AI. Course developed by https://www.youtube.com/@turingtimemachine ❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp ⭐️ Contents ⭐️ 0:00:00 Introduction 0:00:31 Variance 0:00:58 Unsupervised Learning 0:01:11 Time Series Analysis 0:01:26 Transfer Learning 0:01:41 Gradient Descent 0:01:59 Stochastic Gradient Descent 0:02:12 Sentiment Analysis 0:02:24 Regression 0:02:33 Regularization 0:02:45 Logistic Regression 0:03:01 Linear Regression 0:03:20 Reinforcement Learning 0:03:33 Decision Trees 0:03:47 Random Forest 0:04:03 Truncation 0:04:16 Principal Component Analysis (PCA) 0:04:29 Pre-training 0:04:39 Object Detection 0:04:58 Oversampling 0:05:16 Outlier 0:05:28 Overfitting 0:05:44 One-Hot Encoding 0:05:57 Nearest Neighbor Search 0:06:09 Normal Distribution 0:06:18 Normalization 0:06:35 Natural L",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2025-04-22T15:40:29+00:00",
+      "url": "https://www.youtube.com/watch?v=PcbuKRNtCUc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PcbuKRNtCUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PcbuKRNtCUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PcbuKRNtCUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PcbuKRNtCUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PcbuKRNtCUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "PcbuKRNtCUc",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 206035,
+      "like_count": 7926,
+      "comment_count": 110,
+      "duration": "PT27M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9vM4p9NN0Ts",
+      "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
+      "content": "For more information about Stanford's Artificial Intelligence programs visit: https://stanford.io/ai This lecture provides a concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF). For each component, it explores common practices in data collection, algorithms, and evaluation methods. This guest lecture was delivered by Yann Dubois in Stanford’s CS229: Machine Learning course, in Summer 2024. Yann Dubois PhD Student at Stanford https://yanndubs.github.io/ About the speaker: Yann Dubois is a fourth-year CS PhD student advised by Percy Liang and Tatsu Hashimoto. His research focuses on improving the effectiveness of AI when resources are scarce. Most recently, he has been part of the Alpaca team, working on training and evaluating language models more efficiently using other LLMs. To view all online courses and programs offered by Stanford, visit: http://online.stanford.edu Chapters: 00:00 - Introduction 00:10",
+      "author": "Stanford Online",
+      "timestamp": "2024-08-27T22:02:57+00:00",
+      "url": "https://www.youtube.com/watch?v=9vM4p9NN0Ts",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Stanford",
+          "Stanford Online"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9vM4p9NN0Ts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9vM4p9NN0Ts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9vM4p9NN0Ts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9vM4p9NN0Ts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9vM4p9NN0Ts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9vM4p9NN0Ts",
+      "channel_id": "UCBa5G_ESCn8Yd4vw5U-gIcg",
+      "view_count": 1571904,
+      "like_count": 42976,
+      "comment_count": 366,
+      "duration": "PT1H44M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qNxrPri1V0I",
+      "title": "Learn Machine Learning Like a GENIUS and Not Waste Time",
+      "content": "Learn Machine Learning Like a GENIUS and Not Waste Time ######################################### I just started my own Patreon, in case you want to support! Patreon Link: https://www.patreon.com/c/InfiniteCodes ######################################### You won’t learn Machine Learning in 3 months. I don’t know how long it will take you but here I am sharing everything I know to get you started and make it as fast as possible. Also Watch: All Machine Learning algorithms explained in 17 min https://youtu.be/E0Hmnixke2g The Math that make Machine Learning easy (and how you can learn it) https://youtu.be/wOTFGRSUQ6Q 15 Machine Learning Lessons I Wish I Knew Earlier https://youtu.be/espQDESe07w Machine Learning Playlist: https://www.youtube.com/watch?v=wOTFGRSUQ6Q&list=PLbdTl8vSSyUDAvDPc1r3j9itciu_kb5vG&ab_channel=InfiniteCodes Git/Github Playlist: https://www.youtube.com/watch?v=ZFFtMyOFPe8&list=PLbdTl8vSSyUBJg6PI9AqfJBw8U0y9J3kY&ab_channel=InfiniteCodes 👇🏻 Links Resources I me",
+      "author": "Infinite Codes",
+      "timestamp": "2024-11-14T15:44:06+00:00",
+      "url": "https://www.youtube.com/watch?v=qNxrPri1V0I",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning",
+          "learn machine learning",
+          "learn faster",
+          "ilya machine learning",
+          "machine learning advice",
+          "machine learning tutorial",
+          "deep learning",
+          "machine learning specialization",
+          "learning",
+          "learn programming",
+          "how to learn coding",
+          "how to learn anything",
+          "how to learn machine learning",
+          "how to learn ml",
+          "machine learning for beginners",
+          "ml for beginners",
+          "ml roadmap",
+          "machine learning roadmap",
+          "learn machine learning fast",
+          "learn ml fast",
+          "how to learn machine learning for beginners"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qNxrPri1V0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qNxrPri1V0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qNxrPri1V0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qNxrPri1V0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qNxrPri1V0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qNxrPri1V0I",
+      "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+      "view_count": 990783,
+      "like_count": 62464,
+      "comment_count": 662,
+      "duration": "PT15M3S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vdRp_w9f-qM",
+      "title": "I can't STOP reading these Machine Learning Books!",
+      "content": "Get notified of the free Python course on the home page at https://www.coursesfromnick.com Sign up for the Full Stack course here and use YOUTUBE50 to get 50% off: https://www.coursesfromnick.com/bundl... Hopefully you enjoyed this video. 💼 Find AWESOME ML Jobs: https://www.jobsfromnick.com Oh, and don't forget to connect with me! LinkedIn: https://bit.ly/324Epgo Facebook: https://bit.ly/3mB1sZD GitHub: https://bit.ly/3mDJllD Patreon: https://bit.ly/2OCn3UW Join the Discussion on Discord: https://bit.ly/3dQiZsV Happy coding! Nick P.s. Let me know how you go and drop a comment if you need a hand! #machinelearning #python #datascience",
+      "author": "Nicholas Renotte",
+      "timestamp": "2023-01-24T02:32:13+00:00",
+      "url": "https://www.youtube.com/watch?v=vdRp_w9f-qM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdRp_w9f-qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdRp_w9f-qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdRp_w9f-qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vdRp_w9f-qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vdRp_w9f-qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vdRp_w9f-qM",
+      "channel_id": "UCHXa4OpASJEwrHrLeIzw7Yg",
+      "view_count": 1065306,
+      "like_count": 67862,
+      "comment_count": 233,
+      "duration": "PT26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "-h4tNBsceWs",
+      "title": "Machine Learning basics explained in Tamil | Machine Learning என்றால் என்ன? | Karthik's Show",
+      "content": "This video explains, What is Machine Learning? in Tamil, Basics of Machine Learning in Tamil, Basic Machine Learning Algorithms in Tamil, Types of Machine Learning Algorithms in Tamil . Subscribe to this channel for more such videos. Happy to share that we have launched our website https://www.karthiksshow.com and first course in Tamil will go live on Jan 15, 2023. Our first course will be 'Python Programming for Beginners' - This course is on pre-launch sale now with special discounts. For more details visit our website. To get updates and offers for courses related to Data Science, Data Engineering, Data Analyst and Machine Learning in Tamil, subscribe to our newsletter: https://karthiksshow.substack.com AWS Certification Path: https://youtu.be/Pe5Lp7Er6F8 Azure Certification Path: https://youtu.be/X8FJnXs7BJk Other Social media links: https://www.instagram.com/Karthiksshow https://www.Facebook.com/Karthiksshow Tools we use: Recommended Mic (beginners):https://amzn.to/3PY93ze Rec",
+      "author": "Karthik's Show",
+      "timestamp": "2022-06-19T12:30:00+00:00",
+      "url": "https://www.youtube.com/watch?v=-h4tNBsceWs",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning",
+          "machine learning in tamil",
+          "deep learning",
+          "Karthik's Show",
+          "supervised learning artificial intelligence",
+          "unsupervised learning in artificial intelligence"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-h4tNBsceWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-h4tNBsceWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-h4tNBsceWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-h4tNBsceWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-h4tNBsceWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "-h4tNBsceWs",
+      "channel_id": "UCBF5i6PogoMwnoAP0LFiCmQ",
+      "view_count": 59986,
+      "like_count": 2304,
+      "comment_count": 108,
+      "duration": "PT12M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Fa_V9fP2tpU",
+      "title": "All Machine Learning Concepts Explained in 22 Minutes",
+      "content": "All Basic Machine Learning Terms Explained in 22 Minutes ######################################### I just started my own Patreon, in case you want to support! Patreon Link: https://www.patreon.com/c/InfiniteCodes ######################################### To get you out of your confusion with all the Machine Learning Vocabulary, here an overview of all basic terms you will encounter as you start your Journey in Machine Learning and Data Science. Also Watch: All Machine Learning algorithms explained in 17 min https://youtu.be/E0Hmnixke2g Learn Machine Learning Like a GENIUS and Not Waste Time https://youtu.be/qNxrPri1V0I The Math that make Machine Learning easy (and how you can learn it) https://youtu.be/wOTFGRSUQ6Q 15 Machine Learning Lessons I Wish I Knew Earlier https://youtu.be/espQDESe07w Machine Learning Playlist: https://www.youtube.com/watch?v=wOTFGRSUQ6Q&list=PLbdTl8vSSyUDAvDPc1r3j9itciu_kb5vG&ab_channel=InfiniteCodes ================== Timestamps ================ 00:04",
+      "author": "Infinite Codes",
+      "timestamp": "2024-11-27T21:26:58+00:00",
+      "url": "https://www.youtube.com/watch?v=Fa_V9fP2tpU",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning",
+          "machine learning tutorial",
+          "machine learning course",
+          "machine learning tutorial for beginners",
+          "machine learning python",
+          "machine learning algorithms",
+          "what is machine learning",
+          "machine learning for beginners",
+          "learn machine learning",
+          "machine learning basics",
+          "python machine learning",
+          "machine learning full course",
+          "introduction to machine learning",
+          "learn machine learning with python",
+          "machine learning explained",
+          "machine learning terms",
+          "ml terms",
+          "data science terms"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fa_V9fP2tpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fa_V9fP2tpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fa_V9fP2tpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fa_V9fP2tpU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fa_V9fP2tpU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Fa_V9fP2tpU",
+      "channel_id": "UCktMIWomeuj4pwvBb-OBwMw",
+      "view_count": 320589,
+      "like_count": 13133,
+      "comment_count": 132,
+      "duration": "PT22M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "PopKlyqTPAI",
+      "title": "AI vs ML vs DL vs DS: What's the Difference?",
+      "content": "AI vs ML vs DL vs DS: What's the Difference? Confused about Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Data Science (DS)? 🤔 This video breaks down the key differences between these fields, their applications, and how they are shaping the tech industry. From understanding how AI powers intelligent systems, ML enables machines to learn, DL drives advancements in neural networks, and DS uncovers actionable insights from data, this video will give you a clear comparison of these domains. Perfect for beginners and tech enthusiasts looking to decide which path to pursue! Welcome to the Three 90 Challenge by GeeksforGeeks! ✅ Complete 90% of your course in 90 days ✅ Get 90% of your fee refunded! Yes, you read that right! 🌟 Over ₹5 CRORE in refunds processed already, and YOURS could be next. Start the challenge now: https://gfgcdn.com/tu/U4a/ Follow us for more tips, knowledge, and resources: 📱 Download GeeksforGeeks' Official App: https://play.google.com",
+      "author": "GeeksforGeeks",
+      "timestamp": "2025-01-25T03:30:15+00:00",
+      "url": "https://www.youtube.com/watch?v=PopKlyqTPAI",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "AIvsMLvsDLvsDS",
+          "ArtificialIntelligence",
+          "MachineLearning",
+          "DeepLearning",
+          "DataScience",
+          "GfGTech",
+          "LearnWithGfG",
+          "EmergingTechnologies",
+          "AIApplications",
+          "MLTechniques",
+          "DLConcepts",
+          "DSProjects",
+          "TechEducation",
+          "CareerInAI",
+          "FutureTechnologies",
+          "GfGDataScience"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PopKlyqTPAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PopKlyqTPAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PopKlyqTPAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PopKlyqTPAI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PopKlyqTPAI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "PopKlyqTPAI",
+      "channel_id": "UC0RhatS1pyxInC00YKjjBqQ",
+      "view_count": 1248211,
+      "like_count": 52524,
+      "comment_count": 138,
+      "duration": "PT1M2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "PFbXCIMlfc8",
+      "title": "What I *actually* do as a Machine Learning Engineer (salary, job, reality)",
+      "content": "Datacamp Machine Learning Fundamentals Track → https://datacamp.pxf.io/MAB3BN Datacamp Machine Learning Engineer Career Track → https://datacamp.pxf.io/7aOkOO Prerequisites - Datacamp Associate Data Scientist Track → https://datacamp.pxf.io/xL5D5O Video transcript: https://medium.com/data-science-collective/what-do-machine-learning-engineers-do-9533395cdb5d?sk=0437856503a22e4d895c3b2e63a327b0 🎯 1:1 Coaching / Mentoring → https://topmate.io/egorhowell CONNECT WITH ME 📸 Instagram — https://www.instagram.com/egorhowell 💼 LinkedIn — https://www.linkedin.com/in/egorhowell 🌍 Website — https://egorhowell.com 💌 Newsletter / FREE Resume Template — https://newsletter.egorhowell.com TIMESTAMPS 0:00 Intro 0:22 What is a machine learning engineer? 3:39 What do I do? 5:51 What is the structure of machine learning teams? 8:11 What is a typical day in the life? 10:00 Why am I a machine learning engineer? DISCLAIMERS & DISCLOSURES This content is for educational and entertainment purposes and does",
+      "author": "Egor Howell",
+      "timestamp": "2025-03-16T08:56:24+00:00",
+      "url": "https://www.youtube.com/watch?v=PFbXCIMlfc8",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "learn to code",
+          "data science",
+          "data science for beginners",
+          "what is data science",
+          "learn fast",
+          "machine learning",
+          "AI",
+          "learn machine learning",
+          "learn data science",
+          "learn AI",
+          "good at data science",
+          "software engineer",
+          "learn software engineering",
+          "learn coding",
+          "learn python",
+          "become a data scientist",
+          "science",
+          "statistics",
+          "maths",
+          "artificial intelligence",
+          "learn ai",
+          "neural networks",
+          "study maths",
+          "study data science",
+          "study machine learning",
+          "how to study data science"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFbXCIMlfc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFbXCIMlfc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFbXCIMlfc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PFbXCIMlfc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PFbXCIMlfc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "PFbXCIMlfc8",
+      "channel_id": "UC9Tl0-lzeDPH4y7LcRwRSQA",
+      "view_count": 112633,
+      "like_count": 3258,
+      "comment_count": 256,
+      "duration": "PT12M35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "_3pgLrYWZfo",
+      "title": "Roadmap to learn machine learning #math #programming #database #machinelearning #engineer",
+      "content": "",
+      "author": "Math360",
+      "timestamp": "2024-02-15T06:55:00+00:00",
+      "url": "https://www.youtube.com/watch?v=_3pgLrYWZfo",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_3pgLrYWZfo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_3pgLrYWZfo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_3pgLrYWZfo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_3pgLrYWZfo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_3pgLrYWZfo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "eo",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "_3pgLrYWZfo",
+      "channel_id": "UCYwB9QWdSIQvTVBVUUibfgw",
+      "view_count": 697159,
+      "like_count": 7362,
+      "comment_count": 59,
+      "duration": "PT2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "HN2vSUgzPyE",
+      "title": "Deep Learning Vs Machine Learning #shorts #ai #ml #machinelearning #deeplearning #computerscience",
+      "content": "Deep Learning Vs Machine Learning Your Queries :- Machine learning tutorial for beginners Deep learning tutorial for beginners Machine learning vs deep learning Programming for beginners [Thanks For Watching This Video] #machinelearning #tech #tips #tutorial #programming #computerscience #coding #deeplearning #artificialintelligence #study #motivation #students",
+      "author": "WebKnower",
+      "timestamp": "2025-06-04T14:16:45+00:00",
+      "url": "https://www.youtube.com/watch?v=HN2vSUgzPyE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "machine learning",
+          "deep learning",
+          "what is machine learning",
+          "what is deep learning",
+          "machine learning vs deep learning",
+          "machine learning tutorial for beginners",
+          "Deep learning tutorial for beginners",
+          "machine learning full course",
+          "deep learning full course",
+          "learn programming",
+          "learn coding",
+          "ai and ml",
+          "artificial intelligence",
+          "ml",
+          "ai",
+          "Coding for beginners",
+          "programming for beginners"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HN2vSUgzPyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HN2vSUgzPyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HN2vSUgzPyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HN2vSUgzPyE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HN2vSUgzPyE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "HN2vSUgzPyE",
+      "channel_id": "UCJfCYYF5b1wqfTCn6u34Q4Q",
+      "view_count": 606605,
+      "like_count": 26646,
+      "comment_count": 20,
+      "duration": "PT17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5q87K1WaoFI",
+      "title": "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty | WIRED",
+      "content": "WIRED has challenged computer scientist and Hidden Door cofounder and CEO Hilary Mason to explain machine learning to 5 different people; a child, teen, a college student, a grad student and an expert. Still haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 Listen to the Get WIRED podcast ►► https://link.chtbl.com/wired-ytc-desc Want more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ Get more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT Also, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft. ABOUT WIRED WIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture. Computer Scientist Explains Machine Learning in",
+      "author": "WIRED",
+      "timestamp": "2021-08-18T16:00:08+00:00",
+      "url": "https://www.youtube.com/watch?v=5q87K1WaoFI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "5 levels",
+          "5 levels machine learning",
+          "5 levels of machine learning",
+          "computer science",
+          "computer scientist",
+          "explanation machine learning",
+          "hidden door",
+          "innovation",
+          "machine learned",
+          "machine learning computer scientist",
+          "machine learning explained",
+          "machine learning explanation",
+          "machine learning hidden door",
+          "machine learning wired",
+          "machine learning youtube",
+          "ott 5 levels",
+          "science & tech",
+          "science & technology",
+          "wired",
+          "wired 5 levels",
+          "wired computer science",
+          "wired machine learning"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5q87K1WaoFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5q87K1WaoFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5q87K1WaoFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5q87K1WaoFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5q87K1WaoFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5q87K1WaoFI",
+      "channel_id": "UCftwRNsjfRo08xYE31tkiyw",
+      "view_count": 2483925,
+      "like_count": 70091,
+      "comment_count": 2207,
+      "duration": "PT26M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "JxgmHe2NyeY",
+      "title": "Complete Machine Learning In 6 Hours| Krish Naik",
+      "content": "All the materials are available in the below link https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials/tree/main Visit https://krishnaik.in for data sscience blogs Time Stamp: 00:00:00 Introduction 00:01:25 AI Vs ML vs DL vs Data Science 00:07:56 Machine LEarning and Deep Learning 00:09:05 Regression And Classification 00:18:14 Linear Regression Algorithm 01:07:14 Ridge And Lasso Regression Algorithms 01:33:08 Logistic Regression Algorithm 02:13:52 Linear Regression Practical Implementation 02:28:30 Ridge And Lasso Regression Practical Implementation 02:54:21 Naive Baye's Algorithms 03:16:02 KNN Algorithm Intuition 03:23:47 Decision Tree Classification Algorithms 03:57:05 Decision Tree Regression Algorithms 04:02:57 Practical Implementation Of Deicsion Tree Classifier 04:09:14 Ensemble Bagging And Bossting Techniques 04:21:29 Random Forest Classifier And Regressor 04:29:58 Boosting, Adaboost Machine Learning Algorithms 04:47:30 K Means Clustering Algorithm 05:01:",
+      "author": "Krish Naik",
+      "timestamp": "2022-05-28T04:37:31+00:00",
+      "url": "https://www.youtube.com/watch?v=JxgmHe2NyeY",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "yt:cc=on",
+          "complete machine learning algorithms",
+          "AI Vs ML vs DL vs Data Science",
+          "Regression And Classification",
+          "Linear Regression Algorithm",
+          "Logistic Regression Algorithm",
+          "Linear Regression Practical Implementation",
+          "Ridge And Lasso Regression Practical Implementation",
+          "Naive Baye's Algorithms",
+          "Decision Tree Classification Algorithms",
+          "Hierarichal Clustering Algorithms",
+          "Silhoutte Clustering",
+          "krish naik complete machine learning playlist"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JxgmHe2NyeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JxgmHe2NyeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JxgmHe2NyeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JxgmHe2NyeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JxgmHe2NyeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "JxgmHe2NyeY",
+      "channel_id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "view_count": 1548819,
+      "like_count": 25584,
+      "comment_count": 625,
+      "duration": "PT6H37M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "VhfS-G6PDLE",
+      "title": "🔥What Is Machine Learning ? | Machine Learning Explained in 60 Seconds #Shorts #simplilearn",
+      "content": "In this video on What Is Machine Learning, we'll explore the fascinating world of machine learning and explain it in the simplest way possible. Imagine you have a toy robot that learns from pictures of cats and dogs. Every time you show the robot a picture and tell it what animal it is, the robot starts to remember and gets better at recognizing them on its own. This process is similar to how machine learning works! Machine learning involves teaching computers to learn from data, allowing them to make predictions and decisions without being explicitly programmed for each task. By feeding the computer lots of examples, it can recognize patterns and improve over time. This technology is behind many of the smart applications we use today, from voice assistants to recommendation systems. Join us as we break down the basics of machine learning, discuss its importance, and show you how it shapes the technology we use every day. Whether you're a complete beginner or looking to refresh your",
+      "author": "Simplilearn",
+      "timestamp": "2024-06-20T14:47:46+00:00",
+      "url": "https://www.youtube.com/watch?v=VhfS-G6PDLE",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "what is machine learning",
+          "machine learning",
+          "machine learning explained",
+          "ml engineer",
+          "ml engineer career path",
+          "machine learning engineer career",
+          "artificial intelligence and machine learning",
+          "ai ml jobs",
+          "machine learning jobs",
+          "machine learning career",
+          "how to become ai ml engineer",
+          "artificial intelligence and machine learning explained",
+          "artificial intelligence and machine learning engineering",
+          "machine learning roadmap",
+          "ai ml",
+          "ai ml course",
+          "ml",
+          "shorts",
+          "yt shorts",
+          "simplilearn"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VhfS-G6PDLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VhfS-G6PDLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VhfS-G6PDLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VhfS-G6PDLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VhfS-G6PDLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "VhfS-G6PDLE",
+      "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+      "view_count": 466226,
+      "like_count": 16565,
+      "comment_count": 12,
+      "duration": "PT45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NWONeJKn6kc",
+      "title": "Machine Learning Course for Beginners",
+      "content": "Learn the theory and practical application of machine learning concepts in this comprehensive course for beginners. 🔗 Learning resources: https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials 💻 Code: https://github.com/ayush714/ML001-Project-Sources-Code-and-Learning-Materials ✏️ Course developed by Ayush Singh. Check out his channel: https://www.youtube.com/c/neweraa ❤️ Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba) ⭐️ Course Contents ⭐️ ⌨️ (0:00:00) Course Introduction ⌨️ (0:04:34) Fundamentals of Machine Learning ⌨️ (0:25:22) Supervised Learning and Unsupervised Learning In Depth ⌨️ (0:35:39) Linear Regression ⌨️ (1:07:06) Logistic Regression ⌨️ (1:24:12) Project: House Price Predictor ⌨️ (1:45:16) Regularization ⌨️ (2:01:12) Support Vector Machines ⌨️ (2:29:55) Project: Stock Price Predictor ⌨️ (3:05:55) Principal Component Analysis ⌨️ (3:29:14) Learnin",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2021-08-30T13:23:10+00:00",
+      "url": "https://www.youtube.com/watch?v=NWONeJKn6kc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NWONeJKn6kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NWONeJKn6kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NWONeJKn6kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NWONeJKn6kc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NWONeJKn6kc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NWONeJKn6kc",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 1910140,
+      "like_count": 54924,
+      "comment_count": 1383,
+      "duration": "PT9H52M19S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tmB5JIX3Lxk",
+      "title": "Intro to Machine Learning featuring Generative AI",
+      "content": "Welcome to this intro to machine learning course. The course starts with the fundamentals, covering what machine learning is, how it differs from traditional approaches, and where it’s used. It then dives deeper into the mechanics, exploring different models, algorithms, and training processes. Next, it introduces Generative AI, explaining how it creates new content, before wrapping up with the architecture of AI systems and how to design and deploy them effectively. ✏️ Rola Dali created this course. Rola is an AI Engineer and has a PHD in NeuroScience. https://rdali.github.io/ 💻 Code and Slides: https://github.com/rdali/miniMLseries ❤️ Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba) Contents 0:00:00 Course Introduction 0:02:51 Intro to Machine Learning 0:29:32 Machine Learning Under the Hood 0:45:30 ML vs Software Demo 1:06:43 Intro to Generative AI 1:57:36 Architecting GenAI Sys",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2025-03-05T17:44:48+00:00",
+      "url": "https://www.youtube.com/watch?v=tmB5JIX3Lxk",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tmB5JIX3Lxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tmB5JIX3Lxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tmB5JIX3Lxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tmB5JIX3Lxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tmB5JIX3Lxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tmB5JIX3Lxk",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 96159,
+      "like_count": 2496,
+      "comment_count": 70,
+      "duration": "PT2H17M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "KgolhE7p-KY",
+      "title": "How To Learn Math for Machine Learning FAST (Even With Zero Math Background)",
+      "content": "I dropped out of high school and managed to became an Applied Scientist at Amazon by self-learning math (and other ML skills). In this video I'll show you exactly how I did it, sharing the resources and study techniques that worked for me, along with practical advice on what math you actually need (and don't need) to break into machine learning and data science. ---------------------------------------- 📬 Sign up for my newsletter for access to a FREE 80+ page e-book on how to get your first data science job (learning resources, project ideas, LinkedIn checklist, and more): https://www.gratitudedriven.com/subscribe 💬 If you'd like to chat with me 1:1, you can book a call here: https://topmate.io/marina_wyss ☕ If you'd like to support my work, you can buy me a coffee (thank you!): https://ko-fi.com/marinawyss 📝 Transcript: https://medium.com/@gratitudedriven/how-to-learn-math-for-machine-learning-fast-even-with-zero-math-background-159757833c3a ---------------------------------------",
+      "author": "Marina Wyss - AI & Machine Learning",
+      "timestamp": "2025-01-02T15:00:20+00:00",
+      "url": "https://www.youtube.com/watch?v=KgolhE7p-KY",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "MachineLearning",
+          "MathForML",
+          "DataScience",
+          "TechCareer",
+          "SelfTaught",
+          "DataScienceTips",
+          "CareerChange",
+          "CodingJourney",
+          "TechEducation",
+          "Amazon",
+          "AppliedScience",
+          "MLEngineering",
+          "techjobs",
+          "careertransitoon",
+          "careeradvice",
+          "machinelearningtips"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KgolhE7p-KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KgolhE7p-KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KgolhE7p-KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KgolhE7p-KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KgolhE7p-KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "KgolhE7p-KY",
+      "channel_id": "UCZf_9SblvM8iTTkouFEcHtA",
+      "view_count": 178530,
+      "like_count": 10205,
+      "comment_count": 305,
+      "duration": "PT12M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7gEzEAIELgQ",
+      "title": "Machine Learning Explained🔥in 30 Seconds. #shorts #machinelearning",
+      "content": "In this video, we learn about Machine learning in 30 seconds: What is meant by machine learning? Just like a toddler learns that fire is hot by touching it, machine learning helps computers learn from examples. For beginners, if you show a machine many pictures of dogs, it learns to spot dogs. Show it a picture of a cat, and it’ll know it’s not a dog but won't identify it as a cat. This introduction to machine learning helps you understand how machine learning programs work. If you want to learn tech in just 30 Seconds, don’t forget to follow \"Error Makes Clever.\" #machinelearning #ai #errormakesclever",
+      "author": "Error Makes Clever",
+      "timestamp": "2023-05-17T14:45:24+00:00",
+      "url": "https://www.youtube.com/watch?v=7gEzEAIELgQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7gEzEAIELgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7gEzEAIELgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7gEzEAIELgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7gEzEAIELgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7gEzEAIELgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7gEzEAIELgQ",
+      "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+      "view_count": 506587,
+      "like_count": 44950,
+      "comment_count": 156,
+      "duration": "PT49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "WAhLGfQ9Nj8",
+      "title": "Machine Learning Ep1 - Introduction AI, Machine Learning & Supervised Learning (Sinhala | සිංහල)",
+      "content": "අපි මේ Series එකේදී කතා කරන්නේ Machine Learning ගැන. මේ series එකේ කරන practicle implementation වලට use කරන්නේ Scikit Learn, OpenCV modules සහ Python programming language එක. මේ series එකෙන් Machine Learining ගැන basics වල ඉදන් advance concept දක්වාම කතා කරනවා. මේ topics වලට interested ඔනෙම කෙනෙකුට, beginner කෙනෙකුට උනත් follow කරන්න පුලුවන් විදියට තමා මේ series ටික හදල තියෙන්නෙ. ඒ නිසා ඔයාට මේ Machine Learning series එක follow කරන්න කිසිම prior knowledge එකක් ඔනේ වෙන්නේ නැ. ඒ උනාට ඔයාට Python programming basic knowledge එක ඔනේ වෙනවා. ඉතින් ඔයාට Python programming basic knowledge හරි Python knowledge එක refresh කරගන්න හරි ඔනි නම්, මේ video series එකේ පලවෙනි videos 5 බලලා එන්න. Python Programming Basics: https://www.youtube.com/playlist?list=PLw7f_swC6ZDVoTr1MKUx8ir9HoYM9iGwZ අපි මේ Machine Learning series එකේදි main topics 7 ක් කතා කරනවා. ඊට අමතරව ඒ topics ඇසුරින් projects 5 ක් implement කරනවා Python Programming language එක සහ Scikit Learing, OpenCV modules use කරලා. Main Topics",
+      "author": "AI with Thakshila (සිංහල)",
+      "timestamp": "2024-10-20T06:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=WAhLGfQ9Nj8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WAhLGfQ9Nj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WAhLGfQ9Nj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WAhLGfQ9Nj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WAhLGfQ9Nj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WAhLGfQ9Nj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "si",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "WAhLGfQ9Nj8",
+      "channel_id": "UCJfKpjlnsYtnNm44YP8sVKg",
+      "view_count": 12772,
+      "like_count": 385,
+      "comment_count": 22,
+      "duration": "PT2H40M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "SmZmBKc7Lrs",
+      "title": "The Most Important Algorithm in Machine Learning",
+      "content": "Shortform link: https://shortform.com/artem In this video we will talk about backpropagation – an algorithm powering the entire field of machine learning and try to derive it from first principles. OUTLINE: 00:00 Introduction 01:28 Historical background 02:50 Curve Fitting problem 06:26 Random vs guided adjustments 09:43 Derivatives 14:34 Gradient Descent 16:23 Higher dimensions 21:36 Chain Rule Intuition 27:01 Computational Graph and Autodiff 36:24 Summary 38:16 Shortform 39:20 Outro USEFUL RESOURCES: Andrej Karpathy's playlist: https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=zBUZW5kufVPLVy9E Jürgen Schmidhuber's blog on the history of backprop: https://people.idsia.ch/~juergen/who-invented-backpropagation.html CREDITS: Icons by https://www.freepik.com/",
+      "author": "Artem Kirsanov",
+      "timestamp": "2024-04-01T03:23:54+00:00",
+      "url": "https://www.youtube.com/watch?v=SmZmBKc7Lrs",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "AI",
+          "Machine learning",
+          "Backpropagation",
+          "Gradient Descend",
+          "Regression",
+          "Neural Networks"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmZmBKc7Lrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmZmBKc7Lrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmZmBKc7Lrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmZmBKc7Lrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmZmBKc7Lrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "SmZmBKc7Lrs",
+      "channel_id": "UCR2uRTQ53V_egXKFflMMaaw",
+      "view_count": 838988,
+      "like_count": 34825,
+      "comment_count": 688,
+      "duration": "PT40M8S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hDKCxebp88A",
+      "title": "Machine Learning with Python and Scikit-Learn – Full Course",
+      "content": "This course is a practical and hands-on introduction to Machine Learning with Python and Scikit-Learn for beginners with basic knowledge of Python and statistics. It is designed and taught by Aakash N S, CEO and co-founder of Jovian. Check out their YouTube channel here: https://youtube.com/@jovianhq We'll start with the basics of machine learning by exploring models like linear & logistic regression and then move on to tree-based models like decision trees, random forests, and gradient-boosting machines. We'll also discuss best practices for approaching and managing machine learning projects and build a state-of-the-art machine learning model for a real-world dataset from scratch. We'll also look at unsupervised learning & recommendations briefly and walk through the process of deploying a machine-learning model to the cloud using the Flask web framework. By the end of this course, you'll be able to confidently build, train, and deploy machine learning models in the real world. To",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2023-11-22T14:04:54+00:00",
+      "url": "https://www.youtube.com/watch?v=hDKCxebp88A",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hDKCxebp88A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hDKCxebp88A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hDKCxebp88A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hDKCxebp88A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hDKCxebp88A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hDKCxebp88A",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 816695,
+      "like_count": 19546,
+      "comment_count": 651,
+      "duration": "PT18H35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "rn8Yp6otAh8",
+      "title": "Learn Machine Learning for FREE in Tamil | Ultimate Course for Beginners",
+      "content": "machine learning python in tamil, data science roadmap tamil, machine learning full course, machine learning life cycle in tamil, machine learning introduction in tamil, what is machine learning in tamil, feature engineering in machine learning tamil In this video I have explained all the basic machine learning algorithms and concepts in tamil. 00:01 - Introduction to Machine Learning 10:00 - Supervised Algorithm - Regression 22:55 - Decision Trees 34:55 - K Nearest Neighbors (KNN) 42:55 - Bias, Variance, Underfitting, Overfitting 55:40 - Random Forest 1:05:25 - Support Vector Machine (SVM) 1:16:00 - Naive Bayes 1:28:45 - Numpy Tutorial 1:45:50 - Pandas Tutorial 2:15:15 - Feature Engineering - Feature Selection 2:38:15 - Feature Encoding 2:52:15 - Balanced and Imbalanced Dataset 2:59:45 - Train Test Split 3:07:35 - Feature Scaling 3:15:25 - Outliers 3:23:00 - Classification Evaluation Metrics 3:37:20 - Regression Evaluation Metrics 3:46:35 - Unsupervised learning - Clustering - K mea",
+      "author": "Chill and Grow",
+      "timestamp": "2023-10-13T12:30:28+00:00",
+      "url": "https://www.youtube.com/watch?v=rn8Yp6otAh8",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning python in tamil",
+          "data science roadmap tamil",
+          "machine learning full course",
+          "machine learning life cycle in tamil",
+          "machine learning introduction in tamil",
+          "what is machine learning in tamil",
+          "feature engineering in machine learning tamil",
+          "machine learning",
+          "data science",
+          "data science jobs",
+          "data analyst",
+          "fresher jobs tamil",
+          "machine learning jobs"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rn8Yp6otAh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rn8Yp6otAh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rn8Yp6otAh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rn8Yp6otAh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rn8Yp6otAh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "rn8Yp6otAh8",
+      "channel_id": "UCos_WjZSSpb2YH9M3YLoVug",
+      "view_count": 125570,
+      "like_count": 3890,
+      "comment_count": 193,
+      "duration": "PT4H12M56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0-reLsDhAPg",
+      "title": "Calculus for Machine Learning and Data Science",
+      "content": "📘 Introduction to Calculus for Machine Learning & Data Science | Derivatives, Gradients, and Optimization Explained 📘 Struggling to understand the role of calculus in machine learning and deep learning? This comprehensive tutorial is your gateway to mastering the core concepts of calculus used in data-driven AI systems. From derivatives and gradients to gradient descent and Newton's method, we cover everything you need to know to build a strong mathematical foundation. 0:00 Introduction to Calculus 11:58 Derivatives 1:30:46 Gradients 2:00:54 Gradient Descent 2:24:21 Optimization in Neural Networks 3:20:34 Newton's Method Resources link - https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization 🔍 In This Video, You Will Learn: ✅ Introduction to Calculus – What is calculus and why it's crucial for AI ✅ Derivatives – Understand how rates of change apply to model training ✅ Gradients – Dive deep into how gradients power learning in",
+      "author": "Machine Learning and Data Science made Easier",
+      "timestamp": "2025-06-23T08:06:05+00:00",
+      "url": "https://www.youtube.com/watch?v=0-reLsDhAPg",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Calculus",
+          "Data Science",
+          "Machine Learning",
+          "Deep Learning",
+          "Math4ML",
+          "Derivatives",
+          "Gradient",
+          "Gradient Descent",
+          "Newton Method",
+          "Neural Networks",
+          "MathForDataScience",
+          "DataScienceBootcamp"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0-reLsDhAPg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0-reLsDhAPg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0-reLsDhAPg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0-reLsDhAPg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0-reLsDhAPg",
+      "channel_id": "UCRY9Majo-SSWHUgQeIbdy4A",
+      "view_count": 22212,
+      "like_count": 805,
+      "comment_count": 32,
+      "duration": "PT3H55M14S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "GXxjd1za6jk",
+      "title": "Learning Machine Learning has never been easier #shorts #machinelearning #statistics #datascience",
+      "content": "Introduction to Statistical Learning: https://statlearning.com Take my courses at https://mlnow.ai/! Best Courses for Analytics: --------------------------------------------------------------------------------------------------------- + IBM Data Science (Python): https://bit.ly/3Rn00ZA + Google Analytics (R): https://bit.ly/3cPikLQ + SQL Basics: https://bit.ly/3Bd9nFu Best Courses for Programming: --------------------------------------------------------------------------------------------------------- + Data Science in R: https://bit.ly/3RhvfFp + Python for Everybody: https://bit.ly/3ARQ1Ei + Data Structures & Algorithms: https://bit.ly/3CYR6wR Best Courses for Machine Learning: --------------------------------------------------------------------------------------------------------- + Math Prerequisites: https://bit.ly/3ASUtTi + Machine Learning: https://bit.ly/3d1QATT + Deep Learning: https://bit.ly/3KPfint + ML Ops: https://bit.ly/3AWRrxE Best Courses for St",
+      "author": "Greg Hogg",
+      "timestamp": "2022-04-20T18:16:10+00:00",
+      "url": "https://www.youtube.com/watch?v=GXxjd1za6jk",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GXxjd1za6jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GXxjd1za6jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GXxjd1za6jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GXxjd1za6jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GXxjd1za6jk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "GXxjd1za6jk",
+      "channel_id": "UCJublDh2UsiIKsAE1553miw",
+      "view_count": 1329181,
+      "like_count": 67629,
+      "comment_count": 310,
+      "duration": "PT28S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bmmQA8A-yUA",
+      "title": "Machine Learning in 2024 – Beginner's Course",
+      "content": "This machine learning course is created for beginners who are learning in 2024. The course begins with a Machine Learning Roadmap for 2024, emphasizing career paths and beginner-friendly theory. Then it the course moves on to hands-on practical applications and a comprehensive end-to-end project using Python. ✏️ Course created by Tatev Karen Aslanyan. More from Tatev here: https://lunartech.ai/ Colab Code: https://colab.research.google.com/drive/16HdFVhvRq-DEmNU61Qp8YXMTA3CxUmg-?usp=sharing ❤️ Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba) Contents ⌨️ (0:00:00) Introduction ⌨️ (0:03:13) Machine Learning Roadmap for 2024 ⌨️ (0:10:39) Must Have Skill Set for Career in Machine Learning ⌨️ (0:38:54) Machine Learning Common Career Paths ⌨️ (0:45:48) Machine Learning Basics ⌨️ (1:00:59) Bias-Variance Trade-Off ⌨️ (1:08:04) Overfitting and Regularization ⌨️ (1:23:38) Linear Regression Ba",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2024-02-29T15:28:50+00:00",
+      "url": "https://www.youtube.com/watch?v=bmmQA8A-yUA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bmmQA8A-yUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bmmQA8A-yUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmmQA8A-yUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bmmQA8A-yUA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bmmQA8A-yUA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bmmQA8A-yUA",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 398675,
+      "like_count": 10602,
+      "comment_count": 199,
+      "duration": "PT4H19M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "pv5DAtLQTjc",
+      "title": "How to learn the math behind Machine Learning (for free)",
+      "content": "",
+      "author": "Andrew Codesmith",
+      "timestamp": "2025-08-12T16:36:03+00:00",
+      "url": "https://www.youtube.com/watch?v=pv5DAtLQTjc",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pv5DAtLQTjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pv5DAtLQTjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pv5DAtLQTjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pv5DAtLQTjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pv5DAtLQTjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "pv5DAtLQTjc",
+      "channel_id": "UCcgNiiErDGHICbNYtuyxW4A",
+      "view_count": 18419,
+      "like_count": 962,
+      "comment_count": 71,
+      "duration": "PT30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Z4dNMYj-bPk",
+      "title": "Andrew Ng's Secret to Mastering Machine Learning - Part 2 #shorts",
+      "content": "start your deep learning journey with andrew ng here: https://shorturl.at/tVYLW in this 2 part series Andrew Ng explains how he would learn machine learning Follow me on tiktok: https://www.tiktok.com/@datasensei1 My instagram: https://www.instagram.com/datasensei_21/reels/ #lexfridman #lexfridmanpodcast #datascience #machinelearning #deeplearning #study",
+      "author": "Data Sensei",
+      "timestamp": "2023-07-22T17:29:52+00:00",
+      "url": "https://www.youtube.com/watch?v=Z4dNMYj-bPk",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "data science tutorials",
+          "machine learning",
+          "data sensei",
+          "andrew ng",
+          "how to study",
+          "how to learn machine learning",
+          "how to study deep learning",
+          "productivity advice",
+          "professor in machine learning",
+          "deep learning expert",
+          "best tips to learn machine learning",
+          "datascience tips",
+          "coding",
+          "learning on coursera",
+          "artificial intelligence",
+          "online courses"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z4dNMYj-bPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z4dNMYj-bPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z4dNMYj-bPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z4dNMYj-bPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z4dNMYj-bPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Z4dNMYj-bPk",
+      "channel_id": "UCsxJ9QfYa6qRbSA7TYnxk1A",
+      "view_count": 132797,
+      "like_count": 4859,
+      "comment_count": 24,
+      "duration": "PT29S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "dl8pcs7I3Ow",
+      "title": "Machine Learning For Everybody #shorts #machinelearning #course #ai #ytshorts #programming",
+      "content": "Machine Learning For Everybody Your Queries :- Machine learning tutorial for beginners What is machine learning How to learn machine learning Machine learning free course for all Programming for beginners Artificial intelligence and machine learning [Thanks For Watching This Video] #artificialintelligence #machinelearning #computerscience #bca #students #programming #coding #tutorial #education #tips #motivation #softwareengineer",
+      "author": "WebKnower",
+      "timestamp": "2025-06-03T12:56:04+00:00",
+      "url": "https://www.youtube.com/watch?v=dl8pcs7I3Ow",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "machine learning",
+          "learn machine learning",
+          "machine learning tutorial for beginners",
+          "machine learning full course",
+          "artificial intelligence",
+          "machine learning free course",
+          "best youtube channels for machine learning",
+          "best videos for computer science students",
+          "free courses",
+          "IT free course",
+          "ml",
+          "machine learning tutorial",
+          "how to learn machine learning",
+          "what is machine learning",
+          "learn programming",
+          "learn coding",
+          "coding for beginners",
+          "programming for beginners"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dl8pcs7I3Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dl8pcs7I3Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dl8pcs7I3Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dl8pcs7I3Ow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "dl8pcs7I3Ow",
+      "channel_id": "UCJfCYYF5b1wqfTCn6u34Q4Q",
+      "view_count": 2555416,
+      "like_count": 67088,
+      "comment_count": 104,
+      "duration": "PT18S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "V_xro1bcAuA",
+      "title": "PyTorch for Deep Learning & Machine Learning – Full Course",
+      "content": "Learn PyTorch for deep learning in this comprehensive course for beginners. PyTorch is a machine learning framework written in Python. ✏️ Daniel Bourke developed this course. Check out his channel: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ 🔗 Code: https://github.com/mrdbourke/pytorch-deep-learning 🔗 Ask a question: https://github.com/mrdbourke/pytorch-deep-learning/discussions 🔗 Course materials online: https://learnpytorch.io 🔗 Full course on Zero to Mastery (20+ hours more video): https://dbourke.link/ZTMPyTorch Some sections below have been left out because of the YouTube limit for timestamps. 0:00:00 Introduction 🛠 Chapter 0 – PyTorch Fundamentals 0:01:45 0. Welcome and \"what is deep learning?\" 0:07:41 1. Why use machine/deep learning? 0:11:15 2. The number one rule of ML 0:16:55 3. Machine learning vs deep learning 0:23:02 4. Anatomy of neural networks 0:32:24 5. Different learning paradigms 0:36:56 6. What can deep learning be used for? 0:43:18 7. What is/why",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2022-10-06T14:13:05+00:00",
+      "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_xro1bcAuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_xro1bcAuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_xro1bcAuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V_xro1bcAuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V_xro1bcAuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "V_xro1bcAuA",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 2837302,
+      "like_count": 58096,
+      "comment_count": 1752,
+      "duration": "P1DT1H37M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "uz6vFX91dg8",
+      "title": "What is Machine Learning?? Dr Tanu Jain Interview #upscinterview #upscaspirants #shortsfeed #fypage",
+      "content": "🌟 Become a Channel Member & Unlock Exclusive Perks! 🌟 Members-only Shorts,Direct connection with us, etc Join by Clicking Here:- https://www.youtube.com/channel/UCGYpyF5mo5vsSa9YsokQCpg/join What is Machine Learning?? Dr Tanu Jain Asked very interesting Question. #shortsfeed #motivation #iasinterviwes #civilserviceinterview #fypage #upsc #iasinterveiw #publicserviceinterview #interview #iasintrview #fypage #fypyoutube #fypviral #fyp #fypp #fypviralシ #drishtiiasinterview #drishtiias #drishti_ias #iasintrview #ias #iasinterview #iasinterview #ips #ipsinterview #ipsofficer #ipsmotivationalvideo #drtanujain #tanujain",
+      "author": "UPSC Brilliance",
+      "timestamp": "2025-02-17T14:31:02+00:00",
+      "url": "https://www.youtube.com/watch?v=uz6vFX91dg8",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uz6vFX91dg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uz6vFX91dg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uz6vFX91dg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uz6vFX91dg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uz6vFX91dg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "uz6vFX91dg8",
+      "channel_id": "UCGYpyF5mo5vsSa9YsokQCpg",
+      "view_count": 4282810,
+      "like_count": 80877,
+      "comment_count": 322,
+      "duration": "PT20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "FMkxSsfvMI4",
+      "title": "MACHINE LEARNING | Aprendizaje Supervisado, No Supervisado y Por Refuerzo",
+      "content": "Machine Learning es una de las ramas de la Inteligencia Artificial que está revolucionando el mundo, ChatGPT, GPT3, Dalle2, miniDalle, Stable Diffusion, MidJourney, alguna de estas IAs te sonarán pero seguro que aparte de saber que son IA, no sabes cómo aprenden. Échate unas risas y aprende conmigo qué es el ML y las 3 ramas principales del ML: Aprendizaje Supervisado, Aprendizaje No Supervisado y Aprendizaje por Refuerzo. · Apoya este proyecto: Patreon: https://www.patreon.com/bitboss · Sígueme por redes: Twitter: https://twitter.com/bitboss0 TikTok: https://www.tiktok.com/@bitboss0 Instagram: https://www.instagram.com/bitboss0/ #machinelearning #ias #inteligenciaartificial",
+      "author": "BitBoss",
+      "timestamp": "2023-02-25T00:18:20+00:00",
+      "url": "https://www.youtube.com/watch?v=FMkxSsfvMI4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "inteligencia artificial",
+          "machine learning",
+          "aprendizaje automático",
+          "aprendizaje",
+          "aprendizaje supervisado",
+          "aprendizaje no supervisado",
+          "aprendizaje por refuerzo",
+          "supervised learning",
+          "unsupervised learning",
+          "reinforcement learning",
+          "ML",
+          "supervisado",
+          "no supervisado",
+          "por refuerzo",
+          "que es el aprendizaje por refuerzo",
+          "que es el aprendizaje supervisado",
+          "que es el aprendizaje no supervisado",
+          "que es el reinforcement learning",
+          "que es el supervised learning",
+          "que es el machine learning",
+          "ia"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FMkxSsfvMI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FMkxSsfvMI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FMkxSsfvMI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FMkxSsfvMI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FMkxSsfvMI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "es",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "FMkxSsfvMI4",
+      "channel_id": "UC51m1mQmjKJ10YZWtRr8tgA",
+      "view_count": 53212,
+      "like_count": 2319,
+      "comment_count": 67,
+      "duration": "PT8M2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "HpXa68RgeSc",
+      "title": "¿Cómo estudiaría machine learning, si tuviese que empezar de nuevo? 🤖 #coding #ai #machinelearning",
+      "content": "",
+      "author": "Francisco Erramuspe",
+      "timestamp": "2024-02-13T21:12:14+00:00",
+      "url": "https://www.youtube.com/watch?v=HpXa68RgeSc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HpXa68RgeSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HpXa68RgeSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HpXa68RgeSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HpXa68RgeSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HpXa68RgeSc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "es",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "HpXa68RgeSc",
+      "channel_id": "UCPVHKEqvOyuuta7La6oG_3g",
+      "view_count": 17300,
+      "like_count": 1359,
+      "comment_count": 14,
+      "duration": "PT49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "wFYAV_Wk5bc",
+      "title": "Qual a diferença entre Inteligência Artificial, Machine Learning e Deep Learning",
+      "content": "Qual a diferença entre Inteligência Artificial, Machine Learning e Deep Learning? Neste vídeo trato das diferenças que existem entre as tecnologias de Inteligência Artificial, Aprendizado de Máquina e Aprendizado Profundo, além de abordar as aplicações de cada tecnologia. Leia também: O que é Machine Learning? http://www.bosontreinamentos.com.br/inteligencia-artificial/o-que-e-machine-learning-uma-introducao-ao-aprendizado-de-maquina/ Ajude o canal adquirindo meus cursos na Udemy: Bancos de Dados com MySQL Básico: https://bit.ly/35QdWE4 Lógica de Programação com Português Estruturado: https://bit.ly/3QKPn22 Programação em Python do Zero: https://bit.ly/python-boson Adquira também livros e outros itens na loja da Bóson Treinamentos na Amazon e ajude o canal a se manter e crescer: https://www.amazon.com.br/shop/bosontreinamentos Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCzOGJclZQvPVgYZIwERsf5g/join Contribua com a Bóson Treinamentos!: http://www.b",
+      "author": "Bóson Treinamentos",
+      "timestamp": "2023-04-13T09:30:15+00:00",
+      "url": "https://www.youtube.com/watch?v=wFYAV_Wk5bc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "boson treinamentos",
+          "fabio dos reis",
+          "fabio boson",
+          "curso de tecnologia",
+          "diferenca entre inteligencia artificial e machine learning",
+          "machine learning deep learning diferenca",
+          "o que e aprendizado profundo",
+          "deep learning o que e",
+          "o que e aprendizado de maquina",
+          "aprendizado de maquina x aprendizado profundo",
+          "IA x ML x DL",
+          "inteligencia artificial versus deep learning",
+          "para que serve inteligencia artificial",
+          "aplicacoes do deep learning"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFYAV_Wk5bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFYAV_Wk5bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFYAV_Wk5bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wFYAV_Wk5bc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wFYAV_Wk5bc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "pt",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "wFYAV_Wk5bc",
+      "channel_id": "UCzOGJclZQvPVgYZIwERsf5g",
+      "view_count": 37321,
+      "like_count": 3256,
+      "comment_count": 76,
+      "duration": "PT10M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "FzVkDDjaRAY",
+      "title": "Machine Learning Interview Questions asked 90% of the time | Check the Description Perfect eLearning",
+      "content": "Follow for more Tech Content Fill the form for FREE 1:1 Counselling ✨https://forms.gle/D7fqiy4xLcGE4SnD6✨ ----------------------------------------------------------------------------- Top 10 Machine Learning Interview Questions and Answers (2023) 1. Explain the linear regression model and discuss its assumption. 2. Describe the motivation behind random forests and mention two reasons why they are better than individual decision trees. 3. What are the differences and similarities between gradient boosting and random forest? And what are the advantages and disadvantages of each when compared to each other? 4. Briefly explain the K-Means clustering and how can we find the best value of K. 5. What is dimensionality reduction? Can you discuss one method of it? 6. What are L1 and L2 regularizations? What are the differences between the two? 7. What is the difference between overfitting and underfitting, and how can you avoid them? 8. What are the bias and variance in a machine lear",
+      "author": "Perfect eLearning",
+      "timestamp": "2023-06-18T12:45:02+00:00",
+      "url": "https://www.youtube.com/watch?v=FzVkDDjaRAY",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Machine Learning",
+          "interview questions",
+          "90% of the time",
+          "data science",
+          "artificial intelligence",
+          "data analysis",
+          "predictive modeling",
+          "algorithms",
+          "statistical analysis",
+          "deep learning",
+          "neural networks",
+          "classification",
+          "regression",
+          "clustering",
+          "feature engineering",
+          "model evaluation",
+          "overfitting",
+          "underfitting",
+          "bias-variance tradeoff",
+          "cross-validation",
+          "ensemble methods",
+          "regularization",
+          "Python",
+          "machine learning libraries",
+          "problem-solving",
+          "critical thinking",
+          "analytical skills",
+          "programming",
+          "coding"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FzVkDDjaRAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FzVkDDjaRAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FzVkDDjaRAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FzVkDDjaRAY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FzVkDDjaRAY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "FzVkDDjaRAY",
+      "channel_id": "UCQJFQlCdcq4XxJDqE3IqmbQ",
+      "view_count": 50405,
+      "like_count": 586,
+      "comment_count": 0,
+      "duration": "PT9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "URtF_UHYBSo",
+      "title": "The Elegant Math Behind Machine Learning",
+      "content": "Anil Ananthaswamy is an award-winning science writer and former staff writer and deputy news editor for the London-based New Scientist magazine. Machine learning systems are making life-altering decisions for us: approving mortgage loans, determining whether a tumor is cancerous, or deciding if someone gets bail. They now influence developments and discoveries in chemistry, biology, and physics—the study of genomes, extrasolar planets, even the intricacies of quantum systems. And all this before large language models such as ChatGPT came on the scene. We are living through a revolution in machine learning-powered AI that shows no signs of slowing down. This technology is based on relatively simple mathematical ideas, some of which go back centuries, including linear algebra and calculus, the stuff of seventeenth- and eighteenth-century mathematics. It took the birth and advancement of computer science and the kindling of 1990s computer chips designed for video games to ignite the ex",
+      "author": "Machine Learning Street Talk",
+      "timestamp": "2024-11-03T01:18:28+00:00",
+      "url": "https://www.youtube.com/watch?v=URtF_UHYBSo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/URtF_UHYBSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/URtF_UHYBSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/URtF_UHYBSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/URtF_UHYBSo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/URtF_UHYBSo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "URtF_UHYBSo",
+      "channel_id": "UCMLtBahI5DMrt0NPvDSoIRQ",
+      "view_count": 469485,
+      "like_count": 9953,
+      "comment_count": 196,
+      "duration": "PT1H53M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "uBLdIrvIzIc",
+      "title": "¿Qué es el Machine Learning y Deep Learning?",
+      "content": "¿Sabías que la IA aprende a reconocer un gato viendo millones de fotos? Así funciona el machine learning... ¡y el deep learning va aún más allá! 🧠🐱 porque en español, #NadieExplicaMejor que EDteam. #InteligenciaArtificial #MachineLearning #DeepLearning #IA #Tecnología #AprendizajeAutomático #EDteam",
+      "author": "EDteam",
+      "timestamp": "2025-04-08T18:47:24+00:00",
+      "url": "https://www.youtube.com/watch?v=uBLdIrvIzIc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBLdIrvIzIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBLdIrvIzIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBLdIrvIzIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uBLdIrvIzIc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uBLdIrvIzIc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "es",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "uBLdIrvIzIc",
+      "channel_id": "UCP15FVAA2UL-QOcGhy7-ezA",
+      "view_count": 47867,
+      "like_count": 2217,
+      "comment_count": 15,
+      "duration": "PT1M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "uyOMOIEIRMI",
+      "title": "Genius Machine Learning Advice for 10 Minutes Straight",
+      "content": "Start your deep learning journey with Andrew Ng here: https://shorturl.at/tVYLW All the credit goes to the Lex Fridman Podcast. make sure to go and check these full episodes out and make it a habit to listen to this insightful podcast. Best SQL Course Online (Medium article): https://shorturl.at/buJRS In this video, I've compiled some of the best machine learning advice from the Lex Fridman Podcast. I tried to feature the brightest minds of our time that are currently working on AI like Andrew Ng, George Hotz, Yann lecun, Ilya Sutskever, Sam Altman and Demis Hassabis amongst many others. Hope you enjoy it and get enough motivation out of it to catapault you in your AI learning Journey. 00:00:00 Andrew Ng 00:00:33 Goerge Hotz 00:00:59 Andrew Ng 00:01:21 Andrej Karpathy 00:01:54 Andrew Ng 00:02:12 George Hotz 00:02:50 Joscha Bach 00:03:04 Ilya Sutskever 00:03:26 Yann LeCun 00:04:08 Demis Hassabis 00:05:00 Ilya Sutskever 00:05:40 Wojciech Zaremba 00:06:02 Sergey Levine 00:0",
+      "author": "Data Sensei",
+      "timestamp": "2024-09-14T21:16:28+00:00",
+      "url": "https://www.youtube.com/watch?v=uyOMOIEIRMI",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "machine learning",
+          "data sensei",
+          "AI",
+          "machine learning advice",
+          "best AI advice",
+          "guide to AI",
+          "lex fridman podcast",
+          "andrew ng",
+          "george hotz",
+          "sam altman",
+          "andrew ng advice",
+          "yann lecun",
+          "ilya sutskever",
+          "ilya machine learning",
+          "openAI",
+          "best lex fridman compilation",
+          "demis hassabis",
+          "advanced AI",
+          "ishan misra",
+          "learn data science",
+          "data science advice",
+          "data analytics"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uyOMOIEIRMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uyOMOIEIRMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uyOMOIEIRMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uyOMOIEIRMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uyOMOIEIRMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "uyOMOIEIRMI",
+      "channel_id": "UCsxJ9QfYa6qRbSA7TYnxk1A",
+      "view_count": 131419,
+      "like_count": 5705,
+      "comment_count": 88,
+      "duration": "PT9M46S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "-8qzzN7CWxA",
+      "title": "Machine Learning is Probably Not a Good Career for You",
+      "content": "This isn't a career most will succeed in.",
+      "author": "the data janitor",
+      "timestamp": "2022-12-09T16:09:24+00:00",
+      "url": "https://www.youtube.com/watch?v=-8qzzN7CWxA",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-8qzzN7CWxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-8qzzN7CWxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-8qzzN7CWxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-8qzzN7CWxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "-8qzzN7CWxA",
+      "channel_id": "UCR68xPzQK7Etq2YfJ6Oe_2A",
+      "view_count": 110677,
+      "like_count": 2850,
+      "comment_count": 275,
+      "duration": "PT1M38S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hgjsLmFSkxo",
+      "title": "AI Learns Insane Way to Jump",
+      "content": "AI Teaches Itself to Jump! In this video an AI Warehouse agent named Albert learns how to jump. The AI was trained using Deep Reinforcement Learning, a method of Machine Learning which involves rewarding the agent for doing something correctly, and punishing it for doing anything incorrectly. Albert's actions are controlled by a Neural Network that's updated after each attempt in order to try to give Albert more rewards and less punishments over time. Check the related video for more information on how the AI was trained!",
+      "author": "AI Warehouse",
+      "timestamp": "2024-03-25T22:08:29+00:00",
+      "url": "https://www.youtube.com/watch?v=hgjsLmFSkxo",
+      "metadata": {
+        "category_id": "24",
+        "tags": [
+          "AI",
+          "Artificial Intelligence",
+          "Evolution",
+          "Reinforcement Learning",
+          "Simulation",
+          "Neural Network",
+          "Neural Net",
+          "AIHouse",
+          "Simulate",
+          "AI Learning",
+          "AI Learns",
+          "Machine Learning",
+          "Machine-Learning",
+          "Robot Learning",
+          "Deep Learning",
+          "Deep-Learning"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hgjsLmFSkxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hgjsLmFSkxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hgjsLmFSkxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hgjsLmFSkxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hgjsLmFSkxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hgjsLmFSkxo",
+      "channel_id": "UCMT1Aw4R4nf_sFNDeuJqc6w",
+      "view_count": 7047173,
+      "like_count": 280525,
+      "comment_count": 1381,
+      "duration": "PT50S"
+    }
+  ],
+  "total_posts": 48
+}

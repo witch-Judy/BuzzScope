@@ -1,0 +1,185 @@
+{
+  "keyword": "machine learning",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collected_at": "2025-10-07T15:08:32.733054",
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "machine learning",
+    "total_posts": 8281,
+    "total_interactions": 25176,
+    "unique_authors": 4858,
+    "top_contributors": [
+      {
+        "author": "PaulHoule",
+        "post_count": 54,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=PaulHoule"
+      },
+      {
+        "author": "YeGoblynQueenne",
+        "post_count": 50,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=YeGoblynQueenne"
+      },
+      {
+        "author": "Ukv",
+        "post_count": 36,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Ukv"
+      },
+      {
+        "author": "godelski",
+        "post_count": 32,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=godelski"
+      },
+      {
+        "author": "dekhn",
+        "post_count": 30,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=dekhn"
+      },
+      {
+        "author": "Anon84",
+        "post_count": 29,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Anon84"
+      },
+      {
+        "author": "teleforce",
+        "post_count": 28,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=teleforce"
+      },
+      {
+        "author": "Animats",
+        "post_count": 27,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Animats"
+      },
+      {
+        "author": "esafak",
+        "post_count": 27,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=esafak"
+      },
+      {
+        "author": "simonw",
+        "post_count": 24,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=simonw"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Show HN: I built the most over-engineered Deal With It emoji generator",
+        "interactions": 980,
+        "author": "klimeryk",
+        "created_at": "2024-10-15 13:05:05 UTC",
+        "url": "https://news.ycombinator.com/item?id=41848150",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: Every mountain, building and tree shadow mapped for any date and time",
+        "interactions": 868,
+        "author": "tppiotrowski",
+        "created_at": "2024-05-30 20:10:28 UTC",
+        "url": "https://news.ycombinator.com/item?id=40528045",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: OK-Robot: open, modular home robot framework for pick-and-drop anywhere",
+        "interactions": 652,
+        "author": "MahiShafiullah",
+        "created_at": "2024-02-23 17:23:23 UTC",
+        "url": "https://news.ycombinator.com/item?id=39483482",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: Machine learning engineers, what do you do at work?",
+        "interactions": 591,
+        "author": "Gooblebrai",
+        "created_at": "2024-06-07 17:26:34 UTC",
+        "url": "https://news.ycombinator.com/item?id=40610794",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: FastGraphRAG – Better RAG using good old PageRank",
+        "interactions": 576,
+        "author": "liukidar",
+        "created_at": "2024-11-18 17:43:13 UTC",
+        "url": "https://news.ycombinator.com/item?id=42174829",
+        "platform": "hackernews"
+      },
+      {
+        "title": "USGS uses machine learning to show large lithium potential in Arkansas",
+        "interactions": 559,
+        "author": "antidnan",
+        "created_at": "2024-10-22 17:05:01 UTC",
+        "url": "https://news.ycombinator.com/item?id=41916322",
+        "platform": "hackernews"
+      },
+      {
+        "title": "We’ll call it AI to sell it, machine learning to build it",
+        "interactions": 556,
+        "author": "participant1138",
+        "created_at": "2023-10-11 12:30:10 UTC",
+        "url": "https://news.ycombinator.com/item?id=37843595",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Machine Learning in Production (CMU Course)",
+        "interactions": 545,
+        "author": "azhenley",
+        "created_at": "2025-01-28 01:18:55 UTC",
+        "url": "https://news.ycombinator.com/item?id=42847834",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Opus 1.5 released: Opus gets a machine learning upgrade",
+        "interactions": 525,
+        "author": "summm",
+        "created_at": "2024-03-04 17:36:42 UTC",
+        "url": "https://news.ycombinator.com/item?id=39593256",
+        "platform": "hackernews"
+      },
+      {
+        "title": "TikTok has turned culture into a feedback loop of impulse and machine learning",
+        "interactions": 508,
+        "author": "natalie3p",
+        "created_at": "2025-09-10 16:08:39 UTC",
+        "url": "https://news.ycombinator.com/item?id=45199760",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 83,
+      "2025-09": 301,
+      "2025-08": 287,
+      "2025-07": 291,
+      "2025-06": 301,
+      "2025-05": 313,
+      "2025-04": 305,
+      "2025-03": 336,
+      "2025-02": 282,
+      "2025-01": 307,
+      "2024-12": 299,
+      "2024-10": 343,
+      "2024-09": 311,
+      "2024-08": 327,
+      "2024-06": 386,
+      "2024-05": 413,
+      "2024-04": 391,
+      "2024-07": 368,
+      "2024-03": 425,
+      "2024-02": 384,
+      "2024-01": 440,
+      "2023-12": 367,
+      "2023-11": 412,
+      "2024-11": 298,
+      "2023-10": 311
+    }
+  },
+  "total_posts": 8281
+}

@@ -1,0 +1,185 @@
+{
+  "keyword": "iot",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collection_date": "2025-10-07T13:40:00.000000",
+  "total_posts": 3707,
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "iot",
+    "total_posts": 3707,
+    "total_interactions": 6291,
+    "unique_authors": 2333,
+    "top_contributors": [
+      {
+        "author": "teleforce",
+        "post_count": 43,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=teleforce"
+      },
+      {
+        "author": "pjmlp",
+        "post_count": 26,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=pjmlp"
+      },
+      {
+        "author": "ptx2",
+        "post_count": 25,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ptx2"
+      },
+      {
+        "author": "datameta",
+        "post_count": 21,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=datameta"
+      },
+      {
+        "author": "cldcntrl",
+        "post_count": 19,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=cldcntrl"
+      },
+      {
+        "author": "eternityforest",
+        "post_count": 19,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=eternityforest"
+      },
+      {
+        "author": "TeMPOraL",
+        "post_count": 17,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=TeMPOraL"
+      },
+      {
+        "author": "transpute",
+        "post_count": 16,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=transpute"
+      },
+      {
+        "author": "jeroenhd",
+        "post_count": 16,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=jeroenhd"
+      },
+      {
+        "author": "lxgr",
+        "post_count": 15,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=lxgr"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Show HN: Pangolin – Open source alternative to Cloudflare Tunnels",
+        "interactions": 625,
+        "author": "miloschwartz",
+        "created_at": "2025-07-10 21:50:43 UTC",
+        "url": "https://news.ycombinator.com/item?id=44526015",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: What was an interesting project you started and finished over a weekend?",
+        "interactions": 410,
+        "author": "nishithfolly",
+        "created_at": "2024-04-06 10:24:48 UTC",
+        "url": "https://news.ycombinator.com/item?id=39951422",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: We open-sourced our compost monitoring tech",
+        "interactions": 293,
+        "author": "montycompostco",
+        "created_at": "2024-11-21 01:30:07 UTC",
+        "url": "https://news.ycombinator.com/item?id=42200099",
+        "platform": "hackernews"
+      },
+      {
+        "title": "AtomVM, the Erlang virtual machine for IoT devices",
+        "interactions": 288,
+        "author": "ahamez",
+        "created_at": "2025-05-28 13:35:27 UTC",
+        "url": "https://news.ycombinator.com/item?id=44115897",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Reverse-engineering an encrypted IoT protocol",
+        "interactions": 272,
+        "author": "smlx",
+        "created_at": "2024-02-14 16:34:22 UTC",
+        "url": "https://news.ycombinator.com/item?id=39371831",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Orange Pi RV2 $40 RISC-V SBC: Friendly Gateway to IoT and AI Projects",
+        "interactions": 241,
+        "author": "warrenm",
+        "created_at": "2025-09-15 15:46:02 UTC",
+        "url": "https://news.ycombinator.com/item?id=45251111",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Training myself to run farther with Strava's API and an IoT dog feeder of M&Ms",
+        "interactions": 238,
+        "author": "danielwmayer",
+        "created_at": "2024-12-02 00:35:57 UTC",
+        "url": "https://news.ycombinator.com/item?id=42291933",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Wokwi – Simulate IoT Projects in the Browser",
+        "interactions": 237,
+        "author": "gadiyar",
+        "created_at": "2024-01-13 13:42:58 UTC",
+        "url": "https://news.ycombinator.com/item?id=38979792",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: Driverless print server for legacy printers, profit goes to open-source",
+        "interactions": 230,
+        "author": "ValdikSS",
+        "created_at": "2025-05-04 17:43:00 UTC",
+        "url": "https://news.ycombinator.com/item?id=43888157",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Smallest particulate matter air quality sensor for ultra-compact IoT devices",
+        "interactions": 223,
+        "author": "Liftyee",
+        "created_at": "2025-07-27 03:34:47 UTC",
+        "url": "https://news.ycombinator.com/item?id=44698733",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 41,
+      "2025-09": 140,
+      "2025-08": 137,
+      "2025-07": 161,
+      "2025-06": 145,
+      "2025-05": 165,
+      "2025-04": 143,
+      "2025-03": 174,
+      "2025-02": 158,
+      "2025-01": 167,
+      "2024-12": 147,
+      "2024-10": 132,
+      "2024-09": 131,
+      "2024-08": 127,
+      "2024-06": 124,
+      "2024-05": 125,
+      "2024-04": 153,
+      "2024-07": 130,
+      "2024-03": 113,
+      "2024-02": 187,
+      "2024-01": 271,
+      "2023-12": 151,
+      "2023-11": 206,
+      "2024-11": 110,
+      "2023-10": 169
+    }
+  }
+}

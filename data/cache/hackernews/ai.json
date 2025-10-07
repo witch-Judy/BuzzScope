@@ -1,0 +1,185 @@
+{
+  "keyword": "ai",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collection_date": "2025-10-07T13:40:00.000000",
+  "total_posts": 296630,
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "ai",
+    "total_posts": 296630,
+    "total_interactions": 1110560,
+    "unique_authors": 59749,
+    "top_contributors": [
+      {
+        "author": "ben_w",
+        "post_count": 1062,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ben_w"
+      },
+      {
+        "author": "rntn",
+        "post_count": 1025,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=rntn"
+      },
+      {
+        "author": "rbanffy",
+        "post_count": 661,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=rbanffy"
+      },
+      {
+        "author": "belter",
+        "post_count": 618,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=belter"
+      },
+      {
+        "author": "simonw",
+        "post_count": 602,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=simonw"
+      },
+      {
+        "author": "Brajeshwar",
+        "post_count": 588,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Brajeshwar"
+      },
+      {
+        "author": "vouaobrasil",
+        "post_count": 468,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=vouaobrasil"
+      },
+      {
+        "author": "bookofjoe",
+        "post_count": 463,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=bookofjoe"
+      },
+      {
+        "author": "pseudolus",
+        "post_count": 462,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=pseudolus"
+      },
+      {
+        "author": "TeMPOraL",
+        "post_count": 398,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=TeMPOraL"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "My AI skeptic friends are all nuts",
+        "interactions": 5182,
+        "author": "tabletcorry",
+        "created_at": "2025-06-02 21:09:53 UTC",
+        "url": "https://news.ycombinator.com/item?id=44163063",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Gemini AI",
+        "interactions": 3737,
+        "author": "dmotz",
+        "created_at": "2023-12-06 15:03:47 UTC",
+        "url": "https://news.ycombinator.com/item?id=38544729",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Open source AI is the path forward",
+        "interactions": 3247,
+        "author": "atgctg",
+        "created_at": "2024-07-23 15:08:41 UTC",
+        "url": "https://news.ycombinator.com/item?id=41046773",
+        "platform": "hackernews"
+      },
+      {
+        "title": "'Lavender': The AI machine directing Israel's bombing in Gaza",
+        "interactions": 2851,
+        "author": "contemporary343",
+        "created_at": "2024-04-03 14:50:30 UTC",
+        "url": "https://news.ycombinator.com/item?id=39918245",
+        "platform": "hackernews"
+      },
+      {
+        "title": "AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'",
+        "interactions": 2441,
+        "author": "JustExAWS",
+        "created_at": "2025-08-21 12:53:16 UTC",
+        "url": "https://news.ycombinator.com/item?id=44972151",
+        "platform": "hackernews"
+      },
+      {
+        "title": "I Am Tired of AI",
+        "interactions": 2330,
+        "author": "Liriel",
+        "created_at": "2024-09-27 08:20:24 UTC",
+        "url": "https://news.ycombinator.com/item?id=41667652",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Andrej Karpathy: Software in the era of AI [video]",
+        "interactions": 2264,
+        "author": "sandslash",
+        "created_at": "2025-06-19 00:33:21 UTC",
+        "url": "https://news.ycombinator.com/item?id=44314423",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Shai-Hulud malware attack: Tinycolor and over 40 NPM packages compromised",
+        "interactions": 2252,
+        "author": "jamesberthoty",
+        "created_at": "2025-09-16 11:22:03 UTC",
+        "url": "https://news.ycombinator.com/item?id=45260741",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Cursor IDE support hallucinates lockout policy, causes user cancellations",
+        "interactions": 2117,
+        "author": "scaredpelican",
+        "created_at": "2025-04-14 16:24:28 UTC",
+        "url": "https://news.ycombinator.com/item?id=43683012",
+        "platform": "hackernews"
+      },
+      {
+        "title": "OpenAI researchers warned board of AI breakthrough ahead of CEO ouster",
+        "interactions": 2096,
+        "author": "mfiguiere",
+        "created_at": "2023-11-22 23:07:38 UTC",
+        "url": "https://news.ycombinator.com/item?id=38386487",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 2445,
+      "2025-09": 17118,
+      "2025-08": 21134,
+      "2025-07": 19235,
+      "2025-06": 16155,
+      "2025-05": 16898,
+      "2025-04": 14982,
+      "2025-03": 12929,
+      "2025-02": 13037,
+      "2025-01": 13483,
+      "2024-12": 10596,
+      "2024-10": 10653,
+      "2024-09": 9855,
+      "2024-08": 8708,
+      "2024-06": 10634,
+      "2024-05": 12078,
+      "2024-04": 9994,
+      "2024-07": 9029,
+      "2024-03": 10248,
+      "2024-02": 10754,
+      "2024-01": 9858,
+      "2023-12": 9240,
+      "2023-11": 13056,
+      "2024-11": 7733,
+      "2023-10": 6778
+    }
+  }
+}

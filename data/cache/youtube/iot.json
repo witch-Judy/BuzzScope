@@ -1,0 +1,3301 @@
+{
+  "status": "success",
+  "data_source": "time_all",
+  "total_posts": 50,
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "om-5QTbLCCs",
+      "title": "IoT Introduction | Fundamentals of IoT | Definition of IoT | Importance of IoT | History of IoT",
+      "content": "IoT Introduction is explained with the following timecodes: 0:00 - IoT Introduction - Internet of Things 0:14 - General Definition of IoT 4:18 - Importance of IoT 6:27 - Technical Definition of IoT 9:42 - ABCD\u2019s of IoT 11:29 - History of IoT IoT Introduction is explained with the following Outlines: 0. General Definition of IoT 1. Importance of IoT 2. Technical Definition of IoT 3. ABCD\u2019s of IoT 4. History of IoT Chapter-wise detailed Syllabus of the Internet of Things - IoT Course is as follows: Chapter-1 IoT Fundamentals: https://www.youtube.com/playlist?list=PLgwJf8NK-2e4_VQdy5Yd-tSHF2U8zu9pN IoT Introduction, IoT Components, Advantages and Disadvantages of IoT, IoT Statistics, IoT Characteristics, M2M Network, IoT and M2M differences, IoT Reference model by CISCO, IoT Architecture, Physical Design of IoT, IoT Functional Block Diagram, Communication Models used in IoT, Communication APIs in IoT, IoT Levels or IoT Deployment Templets, IoT Functional Stack, IoT Operating Systems,",
+      "author": "Engineering Funda",
+      "timestamp": "2023-10-20 03:45:02+00:00",
+      "url": "https://www.youtube.com/watch?v=om-5QTbLCCs",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Internet of Things",
+          "IoT",
+          "Engineering Funda",
+          "IoT Introduction",
+          "General Definition of IoT",
+          "Importance of IoT",
+          "Technical Definition of IoT",
+          "ABCD\u2019s of IoT",
+          "History of IoT",
+          "IoT definition",
+          "IoT History",
+          "iot internet of things",
+          "iot playlist",
+          "internet of things playlist",
+          "IoT Tutorial",
+          "IoT Basics",
+          "IoT Devices",
+          "IoT Connectivity",
+          "IoT Playlist",
+          "IoT Hardware",
+          "IoT Software",
+          "IoT Security",
+          "IoT - Internet of Things"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/om-5QTbLCCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/om-5QTbLCCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/om-5QTbLCCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/om-5QTbLCCs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/om-5QTbLCCs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "om-5QTbLCCs",
+      "channel_id": "UCdlnqMpRrMcClK2fT6z8EEw",
+      "view_count": 92528,
+      "like_count": 1059,
+      "comment_count": 56,
+      "duration": "PT13M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "xZZrnDtK0qc",
+      "title": "DAY - 1:\ud83c\udf10 Understanding IoT: How the Internet of Things Transforms Our Lives! \ud83c\udf10! #shorts #iot",
+      "content": "Welcome to Day 1 of our 30 Days 30 Terms Series! Today, we\u2019re exploring IoT (Internet of Things) and its incredible impact on our daily lives. \ud83c\udf31\ud83d\udca1 What is IoT? Imagine placing a sensor on your plant to monitor water levels and humidity. This sensor uploads the data to the internet, allowing you to check via an app whether your plant needs water. \ud83c\udf3f\ud83d\udca7 Similarly, smartwatches monitor our heartbeat and send the data to hospitals\u2014this is the power of IoT! From smart home devices to advanced healthcare monitoring, IoT connects the physical world to the digital, making our lives smarter and more efficient. Got more questions or suggestions for our next topic? Leave a comment below! #iot #iotworking #iotprocess #plantwater #plantiot #whatisiot #techtips #30days30terms #learnwithus #techeducation",
+      "author": "Error Makes Clever",
+      "timestamp": "2023-11-15 12:30:36+00:00",
+      "url": "https://www.youtube.com/watch?v=xZZrnDtK0qc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xZZrnDtK0qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xZZrnDtK0qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xZZrnDtK0qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xZZrnDtK0qc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xZZrnDtK0qc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "xZZrnDtK0qc",
+      "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+      "view_count": 153247,
+      "like_count": 12976,
+      "comment_count": 131,
+      "duration": "PT50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8VOuA2LFRYA",
+      "title": "IoT Components: Working of IoT, Sensors & Actuators, Role of IoT, IoT Cloud, IoT Analytics",
+      "content": "IoT Components are explained with the following timecodes: 0:00 - IoT Components - Internet of Things 0:30 - How does IoT work 4:07 - Sensors 6:19 - Actuators 7:22 - Connectivity and Gateway 8:51 - IoT Gateways 9:21 - Role of an IoT Gateway 10:42 - IoT Cloud 12:45 - IoT analytics and data management 14:43 - User Interface IoT Components are explained with the following Outlines: 0. Sensors and Actuators 1. Connectivity and Gateway 2. IoT cloud 3. IoT Analytics and data management 4. User Interface Chapter-wise detailed Syllabus of the Internet of Things - IoT Course is as follows: Chapter-1 IoT Fundamentals: https://www.youtube.com/playlist?list=PLgwJf8NK-2e4_VQdy5Yd-tSHF2U8zu9pN IoT Introduction, IoT Components, Advantages and Disadvantages of IoT, IoT Statistics, IoT Characteristics, M2M Network, IoT and M2M differences, IoT Reference model by CISCO, IoT Architecture, Physical Design of IoT, IoT Functional Block Diagram, Communication Models used in IoT, Communication APIs in I",
+      "author": "Engineering Funda",
+      "timestamp": "2023-10-21 13:30:03+00:00",
+      "url": "https://www.youtube.com/watch?v=8VOuA2LFRYA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Internet of Things",
+          "IoT",
+          "Engineering Funda",
+          "Components of IoT",
+          "How does IoT work",
+          "Sensors in IoT",
+          "Actuators in IoT",
+          "Connectivity and Gateway in IoT",
+          "IoT Gateways",
+          "IoT Cloud",
+          "Role of an IoT cloud",
+          "IoT analytics and data management",
+          "User Interface in IoT",
+          "Sensors and Actuators in IoT",
+          "IoT cloud",
+          "IoT Analytics and data management",
+          "components of iot ecosystem",
+          "IoT Tutorial",
+          "IoT Basics",
+          "IoT Devices",
+          "IoT Connectivity",
+          "IoT Playlist",
+          "IoT Components",
+          "IoT Working"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8VOuA2LFRYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8VOuA2LFRYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VOuA2LFRYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8VOuA2LFRYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8VOuA2LFRYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8VOuA2LFRYA",
+      "channel_id": "UCdlnqMpRrMcClK2fT6z8EEw",
+      "view_count": 58822,
+      "like_count": 763,
+      "comment_count": 26,
+      "duration": "PT16M40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ps9ucSDH8s4",
+      "title": "IoT In 2 Minutes | What Is IoT | Introduction To IoT | IoT Explained | Simplilearn",
+      "content": "\ud83d\udd25 Full Stack Developer - MERN Stack: https://l.linklyhq.com/l/1yhx4 \ud83d\udd25 Full Stack Java Developer - MEAN Stack : https://l.linklyhq.com/l/1yhxA \ud83d\udd25 Automation Test Engineer Masters Program https://www.simplilearn.com/coding-bootcamp?utm_campaign=ps9ucSDH8s4&utm_medium=Descriptionff&utm_source=youtube The Internet of Things or IoT is a system of interconnected devices that transfer and exchange data over a wireless network without any human intervention. This short video on What is IoT will explain what IoT is and how IoT works. 0:00 - Introduction to IoT 0:15 - What is IoT 0:33 - Working of IoT 1:05 - Applications of IoT \u2705Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH \u23e9 Check out the IoT training videos: https://bit.ly/30ofSD6 #IoT #InternetOfThings #IoTIn2Minutes #IntroductiontoIoT #WhatIsIoT #WhatIsIoTTechnology #IoTExplained #IoTForBeginners #Simplilearn What is the Internet of Things? IoT is the interconnection of computing devices emb",
+      "author": "Simplilearn",
+      "timestamp": "2021-03-25 15:30:02+00:00",
+      "url": "https://www.youtube.com/watch?v=ps9ucSDH8s4",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "how iot works",
+          "internet of things",
+          "internet of things (iot)",
+          "internet of things explained",
+          "introduction to iot",
+          "iot",
+          "iot applications",
+          "iot architecture",
+          "iot basics",
+          "iot explained",
+          "iot simplilearn",
+          "iot technology",
+          "iot training",
+          "iot tutorial",
+          "iot tutorial for beginners in english",
+          "simplilearn",
+          "simplilearn iot",
+          "understanding iot",
+          "what is iot",
+          "what is iot and how it works",
+          "what is iot explain in brief",
+          "what is iot internet of things",
+          "what is iot platform",
+          "what is iot technology"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ps9ucSDH8s4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ps9ucSDH8s4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ps9ucSDH8s4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ps9ucSDH8s4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ps9ucSDH8s4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ps9ucSDH8s4",
+      "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+      "view_count": 140793,
+      "like_count": 2388,
+      "comment_count": 21,
+      "duration": "PT1M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "rc64Ixb5O5M",
+      "title": "What is IoT? | How the Internet of Things Transforms Your Daily Life! #shorts #iot",
+      "content": "Imagine waking up to your favorite music, coffee ready, and weather updates right in your mirror - all without lifting a finger. That\u2019s the power of IoT (Internet of Things)! This video explains how IoT seamlessly connects smart devices to automate everyday tasks, making life easier and smarter. From smart clocks to IoT-enabled health monitoring, explore real-life applications of the Internet of Things that are revolutionizing our routines. Next time you use a smart device, remember - it\u2019s IoT at work! Watch to learn what IoT is and how it\u2019s changing the world around us. #iot #internetofthings #smarthome #errormakesclever",
+      "author": "Error Makes Clever",
+      "timestamp": "2024-11-13 12:30:48+00:00",
+      "url": "https://www.youtube.com/watch?v=rc64Ixb5O5M",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rc64Ixb5O5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rc64Ixb5O5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rc64Ixb5O5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rc64Ixb5O5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rc64Ixb5O5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "rc64Ixb5O5M",
+      "channel_id": "UCwr-evhuzGZgDFrq_1pLt_A",
+      "view_count": 81196,
+      "like_count": 6784,
+      "comment_count": 32,
+      "duration": "PT54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "N_z4OaSuoAA",
+      "title": "Top 10 IoT Projects 2022 | Useful IoT Devices | Smart IoT Projects | IoT Applications | Simplilearn",
+      "content": "\ud83d\udd25Full Stack Developer (MERN Stack): https://www.simplilearn.com/full-stack-developer-course-mern-certification-training?utm_campaign=TopIOTProjects2021&utm_medium=Descriptionff&utm_source=youtube \ud83d\udd25Full Stack Java Developer (Masters): https://www.simplilearn.com/java-full-stack-developer-certification?utm_campaign=TopIOTProjects2021&utm_medium=Descriptionff&utm_source=youtube \ud83d\udd25 Full Stack Developer - MEAN Stack - https://www.simplilearn.com/full-stack-web-developer-mean-stack-certification-training?utm_campaign=TopIOTProjects2021&utm_medium=Descriptionff&utm_source=youtube \ud83d\udd25 Full Stack Java Developer - https://www.simplilearn.com/java-full-stack-developer-certification?utm_campaign=TopIOTProjects2021&utm_medium=Descriptionff&utm_source=youtube This video on IoT Projects covers all the latest projects and innovations happening in IoT. This Internet of Things Projects video also covers all the different ways one can use IoT in day to day life and for industrial purpose. Stay Tuned till",
+      "author": "Simplilearn",
+      "timestamp": "2020-10-28 13:30:01+00:00",
+      "url": "https://www.youtube.com/watch?v=N_z4OaSuoAA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "best internet of things projects",
+          "best iot based projects",
+          "best iot projects",
+          "best iot projects 2022",
+          "internet of things",
+          "iot",
+          "iot applications",
+          "iot devices",
+          "iot devices 2020",
+          "iot devices 2022",
+          "iot devices examples",
+          "iot devices project",
+          "iot ideas",
+          "iot ideas 2022",
+          "iot ideas for business",
+          "iot ideas for home",
+          "iot ideas for project",
+          "iot projects",
+          "iot projects 2022",
+          "simplilearn",
+          "simplilearn iot",
+          "smart iot devices",
+          "smart iot projects",
+          "useful iot devices",
+          "useful iot projects"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N_z4OaSuoAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N_z4OaSuoAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_z4OaSuoAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N_z4OaSuoAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N_z4OaSuoAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "N_z4OaSuoAA",
+      "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+      "view_count": 714593,
+      "like_count": 9084,
+      "comment_count": 131,
+      "duration": "PT7M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7zWVxrjjIpE",
+      "title": "Securing Your IoT Devices",
+      "content": "X-Force Threat Management for IoT \u2192 https://ibm.biz/Secure_Your_IoT_Devices Thanks to the Internet of Things (IoT), devices are much \"smarter\". But because these are essentially small computers, everything from a programmable light bulb to programmable thermostat can be hacked, as well as the myriad other modern conveniences like cloud-enabled refrigerators, cars, and security cameras. In this video, IBM Distinguished Engineer Jeff Crume explains the risks of IoT devices and ways you can reduce your security exposure both at home and the office. Get started for free on IBM Cloud \u2192 https://ibm.biz/ibm-cloud-sign-up Subscribe to see more videos like this in the future \u2192 http://ibm.biz/subscribe-now #AI #Software #ITModernization #IoT #cybersecurity #JeffCrume",
+      "author": "IBM Technology",
+      "timestamp": "2023-10-02 11:00:05+00:00",
+      "url": "https://www.youtube.com/watch?v=7zWVxrjjIpE",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "IBM",
+          "IBM Cloud",
+          "IOT",
+          "Internet of Thinks",
+          "ASM",
+          "Attack Surface management",
+          "Linux",
+          "Security",
+          "Cyber Security",
+          "Cybersecurity"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zWVxrjjIpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zWVxrjjIpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zWVxrjjIpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zWVxrjjIpE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7zWVxrjjIpE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7zWVxrjjIpE",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 67252,
+      "like_count": 1735,
+      "comment_count": 51,
+      "duration": "PT13M55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "siztlT3SCW4",
+      "title": "Hacking a Smart Camera: IoT Hacking With Andrew Bellini (Part 4)",
+      "content": "Part 4 of our smart camera hacking series has arrived! Andrew Bellini gets a shell - and despite not being able to crack the root hash, he successfully patches the firmware to bypass the login altogether. See how he lands a direct root shell in this short. \ud83d\udc40 Make sure you subscribe to our channel to see more smart device hacking features like this! The Practical Junior IoT Tester cert, created by Andrew, is now available: https://www.tcm.rocks/pjit-y And if you want to try our IoT and hardware hacking course instead, you can read about it here: https://www.tcm.rocks/hh-y Watch Part 1 here: https://www.youtube.com/shorts/LgurdIN1KW0 Watch Part 2 here: https://youtube.com/shorts/jlGNIt4ZpHc Watch Part 3 here: https://www.youtube.com/shorts/MXWGIiHlzFw Ideas on smart devices we should hack in future shorts? Let us know! #shorts #hackingtutorial #iotsecurity #iot #smartcamera #hardwarehacking Sponsor a Video: https://www.tcm.rocks/Sponsors Pentests & Security Consulting: https://t",
+      "author": "The Cyber Mentor",
+      "timestamp": "2024-05-14 18:11:39+00:00",
+      "url": "https://www.youtube.com/watch?v=siztlT3SCW4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/siztlT3SCW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/siztlT3SCW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/siztlT3SCW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/siztlT3SCW4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/siztlT3SCW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "siztlT3SCW4",
+      "channel_id": "UC0ArlFuFYMpEewyRBzdLHiw",
+      "view_count": 156167,
+      "like_count": 6864,
+      "comment_count": 100,
+      "duration": "PT1M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6QUVzvhEhu4",
+      "title": "You\u2019ve Never Seen Cellular Like This",
+      "content": "Big Telco will hate this... This video explores Walter, a new open-source cellular board that combines GPS, LTE-M, NB-IoT, WiFi, and Bluetooth in one ultra-low-power module built for real-world IoT deployments. I test its capabilities in live environments and sit down with its creator to unpack how it's changing the game for developers, from SIM options to deep sleep power efficiency. If you\u2019re building anything from smart collars to off-grid trackers, this is the cellular breakthrough you've been waiting for. Watch these next: You've Never Seen Texting Like This https://youtu.be/gtCiRuC62Ns You've Never Seen AI Like This https://youtu.be/H0cCa2W61OY You've Never Seen WiFi Like This https://youtu.be/9azEfCQNhSA **Product Links** Houdini M2 (Dog Tracker) \ud83d\udc49 https://buildwithparallel.com/products/new-houdini-m2-meshtastic-powered-open-source-dog-tracker-sensecap-t1000-e-clip Houdini M2 (Dog Tracker) STL 3D Printing Files \ud83d\udc49 https://buildwithparallel.com/products/houdini-m1-meshtas",
+      "author": "Data Slayer",
+      "timestamp": "2025-05-18 13:39:07+00:00",
+      "url": "https://www.youtube.com/watch?v=6QUVzvhEhu4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Data Slayer",
+          "walter",
+          "nbiot",
+          "lte-m",
+          "hologram",
+          "soracom",
+          "esp32-s3",
+          "sequans monarch",
+          "arduino",
+          "platformio",
+          "meshtastic",
+          "cellular",
+          "1nce",
+          "narrow band",
+          "espidf",
+          "micropython",
+          "open source",
+          "lora",
+          "sigfox",
+          "4g",
+          "45g",
+          "lte",
+          "gps",
+          "passive antenna",
+          "taoglas antenna",
+          "radio",
+          "wifi",
+          "ble",
+          "deep sleep",
+          "iot",
+          "sim",
+          "gnss",
+          "esp32",
+          "modem",
+          "dptechnics",
+          "dog tracker",
+          "houdini m1",
+          "system-on-module",
+          "system-on-chip",
+          "nanosim",
+          "toit",
+          "pycom",
+          "zepyr",
+          "gpio",
+          "quickspot",
+          "embedded"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6QUVzvhEhu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6QUVzvhEhu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QUVzvhEhu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6QUVzvhEhu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6QUVzvhEhu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6QUVzvhEhu4",
+      "channel_id": "UCiO0K2xt5irIN6x13FNzYTg",
+      "view_count": 475301,
+      "like_count": 15134,
+      "comment_count": 684,
+      "duration": "PT15M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "cqjZms_7R_0",
+      "title": "IoT Examples In Daily Life | IoT devices examples | DeepSea Developments",
+      "content": "These are some examples of IoT devices in daily life and their features. These products are being really useful for many people, and they will continue growing in the market. Learn more at: https://bit.ly/432IeQT Need help developing an IoT product? Check out our development service: https://bit.ly/3RIm4Q4 Subscribe to our Channel to learn more about the IoT and its applications: https://bit.ly/3GwLTx9 For more information about DeepSea Developments, visit: - Facebook: https://bit.ly/3LpDxJA - Instagram: https://bit.ly/42bigdc - Twitter: https://bit.ly/3Nrqnyg - LinkedIn: https://bit.ly/3n1Htb3 - Website: https://www.deepseadev.com/en/",
+      "author": "DeepSea Developments",
+      "timestamp": "2023-05-23 15:39:02+00:00",
+      "url": "https://www.youtube.com/watch?v=cqjZms_7R_0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "IoT examples in daily life",
+          "IoT examples",
+          "IoT device examples",
+          "how internet of things will change your life",
+          "impact of internet of things on our lives",
+          "the impact of the internet of things on our daily life",
+          "how internet improve our lives",
+          "iot in day to day life",
+          "impact of iot on our lives",
+          "impact of iot on society",
+          "iot examples in daily life",
+          "IoT devices",
+          "IoT sensors",
+          "smart baby monitors",
+          "vacuum cleaners",
+          "gps trackers",
+          "dog collars"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cqjZms_7R_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cqjZms_7R_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqjZms_7R_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cqjZms_7R_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cqjZms_7R_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "cqjZms_7R_0",
+      "channel_id": "UCJTbXEmS9tsYwqhwRwa2gPg",
+      "view_count": 32150,
+      "like_count": 391,
+      "comment_count": 7,
+      "duration": "PT1M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "FLIUGmBlABw",
+      "title": "What is IoT? Internet of Things Explained",
+      "content": "Absolutely! Here's a comprehensive YouTube video description, complete with timestamps and references, built around the provided keywords: Video Title: What is IoT? Simple Explanation + Cool IoT Examples for Beginners Description Ready to learn about the tech that's changing how we live? This video is your beginner-friendly guide to IoT! We'll answer questions like: What is IoT? How does IoT work? What are some amazing IoT examples? What are the benefits of IoT? What about IoT security? What does the future of IoT look like? Whether you're entirely new to IoT or want to understand it better, this video is for you! Timestamps 0:00 - Intro 0:35 - What is IoT? 2:10 - Cool IoT Examples 4:00 - How IoT Works 5:25 - Benefits of IoT 6:30 - IoT Security 7:20 - Future of IoT 8:15 - Wrap up & Your Thoughts References What is the Internet of Things (IoT)? - Easy Explanation: https://www.youtube.com/watch?v=LlhmzVL5bm8 What is the Internet of Things (IoT)? With Examples - Coursera: https://w",
+      "author": "SciTech",
+      "timestamp": "2024-02-17 20:15:44+00:00",
+      "url": "https://www.youtube.com/watch?v=FLIUGmBlABw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "SciTech",
+          "SciTech4k",
+          "What is IoT",
+          "How IoT works",
+          "IoT devices",
+          "IoT security",
+          "Benefits of IoT",
+          "IoT for beginners",
+          "IoT applications",
+          "Future of IoT",
+          "iiot",
+          "iot revolution",
+          "iot 2022",
+          "iot solution",
+          "how iot sensors works",
+          "iot",
+          "internet of things",
+          "inernet of things",
+          "intarnet of things",
+          "internit of things",
+          "IOT",
+          "smart home",
+          "smarthome",
+          "smarthome iot",
+          "iot device",
+          "iot devices",
+          "iot senser",
+          "iot sensors",
+          "iot security",
+          "iot benifits",
+          "iot solutions",
+          "iot applications",
+          "what is iot",
+          "industry 4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FLIUGmBlABw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FLIUGmBlABw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FLIUGmBlABw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FLIUGmBlABw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FLIUGmBlABw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "FLIUGmBlABw",
+      "channel_id": "UCAxtasr1vEQmHcpgnrkuq5w",
+      "view_count": 16889,
+      "like_count": 165,
+      "comment_count": 11,
+      "duration": "PT4M55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vfApdHmME3U",
+      "title": "\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \"\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\" \u0e1f\u0e31\u0e07\u0e02\u0e49\u0e2d\u0e40\u0e17\u0e47\u0e08\u0e08\u0e23\u0e34\u0e07\u0e44\u0e17\u0e22-\u0e40\u0e02\u0e21\u0e23 \u0e0a\u0e21\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e40\u0e1f\u0e04\u0e19\u0e34\u0e27\u0e2a\u0e4c! |\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27|5\u0e15.\u0e04.68",
+      "content": "\u0e04\u0e13\u0e30 IOT 3 \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28 \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \"\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\" \u0e1f\u0e31\u0e07\u0e02\u0e49\u0e2d\u0e40\u0e17\u0e47\u0e08\u0e08\u0e23\u0e34\u0e07\u0e44\u0e17\u0e22-\u0e40\u0e02\u0e21\u0e23 \u0e0a\u0e21\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e40\u0e1f\u0e04\u0e19\u0e34\u0e27\u0e2a\u0e4c! #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 . \ud83d\udccc\u0e2a\u0e19\u0e43\u0e08\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d Email : onlinenewsch8@rs.co.th . \ud83d\udc49 \u0e21\u0e32\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 : https://bit.ly/\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 . \ud83d\udccc \u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e01\u0e14\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 & \u0e01\u0e14\u0e01\u0e23\u0e30\u0e14\u0e34\u0e48\u0e07 \ud83d\udd14 \u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : https://bit.ly/3xlMjC5 . \ud83d\udc49 \u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e15\u0e01\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e2a\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e48\u0e32\u0e27\u0e04\u0e23\u0e1a\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e04\u0e25\u0e34\u0e01\u0e40\u0e25\u0e22\u203c Line Official : https://bit.ly/LineThaiCH8News . \ud83d\udccc \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : . Website : http://www.thaich8.com Facebook : https://www.fb.com/thaich8news Twitter : https://twitter.com/thaich8news Instagram : http://instagram.com/thaich8news Tiktok : https://www.tiktok.com/@thaich8_news",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+      "timestamp": "2025-10-05 16:45:09+00:00",
+      "url": "https://www.youtube.com/watch?v=vfApdHmME3U",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e04\u0e13\u0e30IOT3\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39",
+          "\u0e02\u0e49\u0e2d\u0e40\u0e17\u0e47\u0e08\u0e08\u0e23\u0e34\u0e07\u0e44\u0e17\u0e22\u0e40\u0e02\u0e21\u0e23",
+          "\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e40\u0e1f\u0e04\u0e19\u0e34\u0e27\u0e2a\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07",
+          "\u0e44\u0e17\u0e22",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e2e\u0e38\u0e19\u0e40\u0e0b\u0e19",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "f16",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "Thailand Cambodia conflict",
+          "Thai-Cambodian border",
+          "Preah Vihear Temple",
+          "Thailand news",
+          "Cambodia news",
+          "ASEAN conflict",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e1e\u0e38\u0e17\u0e18\u0e2d\u0e20\u0e34\u0e27\u0e23\u0e23\u0e13",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e2a\u0e14\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e2a\u0e14\u0e2a\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfApdHmME3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfApdHmME3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfApdHmME3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vfApdHmME3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vfApdHmME3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vfApdHmME3U",
+      "channel_id": "UC6x41swVZP3rEmy-ODxLMFA",
+      "view_count": 11597,
+      "like_count": 131,
+      "comment_count": 2,
+      "duration": "PT7M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "peNkYXtjtKs",
+      "title": "What is IoT (Internet of Things)? \u2013 [Hindi] \u2013 Quick Support",
+      "content": "#WhatisIoT? #Technology #Education IoT means Internet of Things. The reason for giving this technology this unique name IoT is that this technique creates a network by connecting the things of daily life to the internet. These things are equipped with sensors, software and network connectivity, due to which they are able to connect to the internet and communicate with each other. We are going to know further how the technology works and also understand its benefits, drawbacks and its relation with AI, so stay till the end in this video of Quick Support and easily understand and identify the IoT that is present around you. Facebook: https://www.facebook.com/QuickSupportChannel Twitter: https://twitter.com/QS_Channel Instagram: https://www.instagram.com/quick_support007 Youtube: https://www.youtube.com/c/QuickSupport Linkedin: https://www.linkedin.com/in/Anil-Nakrani Channel Owner: Anil Nakrani",
+      "author": "Quick Support",
+      "timestamp": "2025-02-08 05:57:50+00:00",
+      "url": "https://www.youtube.com/watch?v=peNkYXtjtKs",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "What is IoT?",
+          "What is IoT in Hindi?",
+          "What is iot in computer?",
+          "IoT definition and examples",
+          "What is iot applications?",
+          "IoT examples",
+          "Characteristics of IoT",
+          "Advantages of IoT",
+          "Importance of IoT",
+          "What is iot and how does it work?",
+          "What is IoT in simple words?",
+          "What is the definition of IoT?",
+          "What is IoT using an example?",
+          "What is the main purpose of IoT?",
+          "Where is IoT used in daily life?",
+          "Why is it called IoT?",
+          "Is Alexa an IoT device?",
+          "What is the future of IoT?",
+          "Khan Sir"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/peNkYXtjtKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/peNkYXtjtKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/peNkYXtjtKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/peNkYXtjtKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/peNkYXtjtKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "peNkYXtjtKs",
+      "channel_id": "UCN3-BVMnr44LIUheSuppw1A",
+      "view_count": 123187,
+      "like_count": 3824,
+      "comment_count": 126,
+      "duration": "PT9M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "dnHNMXC-L9I",
+      "title": "\u0e09\u0e35\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e02\u0e21\u0e23! \u0e04\u0e13\u0e30 IOT \u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e21\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22\u0e22\u0e36\u0e14\u0e21\u0e31\u0e48\u0e19\u0e02\u0e49\u0e2d\u0e15\u0e01\u0e25\u0e07\u0e2b\u0e22\u0e38\u0e14\u0e22\u0e34\u0e07 | \u0e17\u0e38\u0e1a\u0e42\u0e15\u0e4a\u0e30\u0e02\u0e48\u0e32\u0e27 | 05/10/68",
+      "content": "\u0e09\u0e35\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e40\u0e02\u0e21\u0e23! \u0e04\u0e13\u0e30 IOT \u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e21\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22\u0e22\u0e36\u0e14\u0e21\u0e31\u0e48\u0e19\u0e02\u0e49\u0e2d\u0e15\u0e01\u0e25\u0e07\u0e2b\u0e22\u0e38\u0e14\u0e22\u0e34\u0e07 --------------------------------------------------- \u0e23\u0e32\u0e22\u0e01\u0e32\u0e23\u0e17\u0e38\u0e1a\u0e42\u0e15\u0e4a\u0e30\u0e02\u0e48\u0e32\u0e27 \u0e2d\u0e2d\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e17\u0e32\u0e07\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e42\u0e17\u0e23\u0e17\u0e31\u0e28\u0e19\u0e4c Amarin TV \u0e40\u0e27\u0e25\u0e32\u0e2d\u0e2d\u0e01\u0e2d\u0e32\u0e01\u0e32\u0e28 \u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c-\u0e28\u0e38\u0e01\u0e23\u0e4c \u0e40\u0e27\u0e25\u0e32 18.50-22.30 \u0e19. \u0e41\u0e25\u0e30\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c-\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c \u0e40\u0e27\u0e25\u0e32 19.00-21.45 \u0e19. #\u0e17\u0e38\u0e1a\u0e42\u0e15\u0e4a\u0e30\u0e02\u0e48\u0e32\u0e27 #AmarinTV -------------------------- #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c AmarinTV HD 34 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27 \u0e41\u0e25\u0e30\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23 #\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a #\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e32\u0e01 #\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e0a\u0e48\u0e2d\u0e0734 \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.amarintv.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 social media YouTube AmarinTV : https://www.youtube.com/@AMARINTVHD Facebook : https://www.facebook.com/AMARINTVHD Instagram : https://www.instagram.com/amarintvhd TikTok : https://www.tiktok.com/@amarintvhd",
+      "author": "AMARINTV : \u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+      "timestamp": "2025-10-05 13:23:44+00:00",
+      "url": "https://www.youtube.com/watch?v=dnHNMXC-L9I",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "AMARIN TV HD",
+          "amarin tv",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e17\u0e35\u0e27\u0e35",
+          "amarin",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e14\u0e39\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15",
+          "\u0e14\u0e39\u0e0a\u0e48\u0e2d\u0e0734",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "amarintvonline",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "IOT",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e22\u0e34\u0e07",
+          "\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e0d\u0e49\u0e32\u0e41\u0e01\u0e49\u0e27",
+          "\u0e40\u0e02\u0e21\u0e23\u0e1b\u0e48\u0e27\u0e19\u0e44\u0e17\u0e22",
+          "\u0e40\u0e02\u0e21\u0e23\u0e02\u0e19\u0e2d\u0e32\u0e27\u0e38\u0e18",
+          "\u0e40\u0e02\u0e21\u0e23\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e01\u0e33\u0e25\u0e31\u0e07\u0e1e\u0e25",
+          "\u0e2b\u0e19\u0e2d\u0e07\u0e08\u0e32\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e40\u0e02\u0e21\u0e23",
+          "\u0e44\u0e17\u0e22",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e02\u0e21\u0e23",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "thailand cambodia",
+          "\u0e17\u0e38\u0e1a\u0e42\u0e15\u0e4a\u0e30\u0e02\u0e48\u0e32\u0e27"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnHNMXC-L9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnHNMXC-L9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnHNMXC-L9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dnHNMXC-L9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dnHNMXC-L9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "dnHNMXC-L9I",
+      "channel_id": "UCzMoibQRslh_1bTuW0YXc6A",
+      "view_count": 36539,
+      "like_count": 548,
+      "comment_count": 78,
+      "duration": "PT14M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NSXIJDl5ONc",
+      "title": "\u0e0a\u0e38\u0e14 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e23\u0e27\u0e08\u0e40\u0e02\u0e21\u0e23\u0e25\u0e2d\u0e1a\u0e27\u0e32\u0e07\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 \u0e41\u0e25\u0e30\u0e08\u0e38\u0e14\u0e1b\u0e30\u0e17\u0e30 | \u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27 | 4 \u0e15.\u0e04. 68",
+      "content": "\u0e0a\u0e38\u0e14 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e23\u0e27\u0e08\u0e40\u0e02\u0e21\u0e23\u0e25\u0e2d\u0e1a\u0e27\u0e32\u0e07\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 \u0e41\u0e25\u0e30\u0e08\u0e38\u0e14\u0e1b\u0e30\u0e17\u0e30 #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 . \ud83d\udccc\u0e2a\u0e19\u0e43\u0e08\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d Email : onlinenewsch8@rs.co.th . \ud83d\udc49 \u0e21\u0e32\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 : https://bit.ly/\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 . \ud83d\udccc \u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e01\u0e14\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 & \u0e01\u0e14\u0e01\u0e23\u0e30\u0e14\u0e34\u0e48\u0e07 \ud83d\udd14 \u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : https://bit.ly/3xlMjC5 . \ud83d\udc49 \u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e15\u0e01\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e2a\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e48\u0e32\u0e27\u0e04\u0e23\u0e1a\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e04\u0e25\u0e34\u0e01\u0e40\u0e25\u0e22\u203c Line Official : https://bit.ly/LineThaiCH8News . \ud83d\udccc \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : . Website : http://www.thaich8.com Facebook : https://www.fb.com/thaich8news Twitter : https://twitter.com/thaich8news Instagram : http://instagram.com/thaich8news Tiktok : https://www.tiktok.com/@thaich8_news",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+      "timestamp": "2025-10-04 15:37:20+00:00",
+      "url": "https://www.youtube.com/watch?v=NSXIJDl5ONc",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e40\u0e02\u0e21\u0e23",
+          "IOT",
+          "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e33\u0e41\u0e1e\u0e07",
+          "\u0e19\u0e32\u0e22\u0e01\u0e2f \u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e1e\u0e38\u0e17\u0e18\u0e2d\u0e20\u0e34\u0e27\u0e23\u0e23\u0e13",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e14\u0e48\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e2a\u0e14\u0e2a\u0e14",
+          "Thailand",
+          "news",
+          "TV",
+          "Live",
+          "\u0e14\u0e39\u0e17\u0e35\u0e27\u0e35",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e0a\u0e48\u0e2d\u0e078"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSXIJDl5ONc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSXIJDl5ONc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSXIJDl5ONc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NSXIJDl5ONc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NSXIJDl5ONc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NSXIJDl5ONc",
+      "channel_id": "UC6x41swVZP3rEmy-ODxLMFA",
+      "view_count": 16676,
+      "like_count": 242,
+      "comment_count": 5,
+      "duration": "PT11M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "YPcOwKtRuDQ",
+      "title": "DEF CON 32 - Anyone can hack IoT- Beginner\u2019s Guide to Hacking Your First IoT Device - Andrew Bellini",
+      "content": "Yes, anyone can hack IoT devices and I\u2019ll show you how! It doesn\u2019t matter if you\u2019re an experienced pen tester in other fields, completely new to cybersecurity or just IoT curious, by the end of this talk you\u2019ll have the knowledge to hack your first device. You might be thinking - but I thought IoT was complicated, required knowledge of hardware, and expensive tools. In this talk, I\u2019m here to dispel those myths by directly showing you the methodology, tools and tactics you can use to go and hack an IoT device today (or maybe when you get home). I\u2019ll cover what IoT devices are best for beginners, what tools you need (and don\u2019t need), how to build a small toolkit for less than $100, common tactics to get a foothold into IoT devices and how to find your first vulnerability or bug.",
+      "author": "DEFCONConference",
+      "timestamp": "2024-10-16 21:29:30+00:00",
+      "url": "https://www.youtube.com/watch?v=YPcOwKtRuDQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "DEF",
+          "CON",
+          "DEFCON",
+          "DEF CON",
+          "hacker conference",
+          "security conference",
+          "information security conference",
+          "information security",
+          "conference speakers",
+          "hackers",
+          "hacking",
+          "hacking videos",
+          "security research"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPcOwKtRuDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPcOwKtRuDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPcOwKtRuDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YPcOwKtRuDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YPcOwKtRuDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "YPcOwKtRuDQ",
+      "channel_id": "UC6Om9kAkl32dWlDSNlDS9Iw",
+      "view_count": 225302,
+      "like_count": 6655,
+      "comment_count": 74,
+      "duration": "PT54M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0Iz6U6F9CQ8",
+      "title": "Top 5 IOT Projects For Beginners | IOT Projects 2022 | Internet Of Things | #Shorts | Simplilearn",
+      "content": "This video on IoT Projects covers all the latest projects and innovations happening in IoT. This Internet of Things Projects video also covers all the different ways one can use IoT in day to day life and for industrial purpose. \ud83d\udd25Enroll for Free JavaScript Course & Get Your Completion Certificate: https://www.simplilearn.com/learn-javascript-basics-free-course-skillup?utm_campaign=Top5IOTProjectsForBeginnersShorts&utm_medium=ShortsDescription&utm_source=youtube \u2705Subscribe to our Channel to learn more programming languages: https://bit.ly/3eGepgQ \u23e9 Check out our JavaScript training videos playlist: https://www.youtube.com/playlist?list=PLGevxjyhYfA6GOvbGgcfEcyC4aUlJJcPb #IOTProjectsForBeginners #IOTProjects #IOT #InternetOfThings #IOT2022 #Shorts #ytshorts #Simplicode Introduction to JavaScript: JavaScript is a scripting language that is used to create and manage dynamic web pages, basically anything that moves on your screen without requiring you to refresh your browser. It can be",
+      "author": "Simplilearn",
+      "timestamp": "2022-06-06 08:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=0Iz6U6F9CQ8",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "simplilearn",
+          "iot projects",
+          "iot projects 2022",
+          "iot projects for beginners",
+          "internet of things",
+          "iot projects using arduino",
+          "iot projects using arduino for beginners",
+          "iot projects with source code",
+          "iot projects with source code free",
+          "iot projects using python",
+          "list of iot projects",
+          "iot based project",
+          "list of iot projects using arduino",
+          "iot",
+          "shorts",
+          "internet of things projects",
+          "iot internet of things project",
+          "internet of things project examples",
+          "internet of things project topics"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Iz6U6F9CQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Iz6U6F9CQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Iz6U6F9CQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Iz6U6F9CQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Iz6U6F9CQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0Iz6U6F9CQ8",
+      "channel_id": "UCsvqVGtbbyHaMoevxPAq9Fg",
+      "view_count": 76560,
+      "like_count": 1487,
+      "comment_count": 1,
+      "duration": "PT18S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4FxU-xpuCww",
+      "title": "What is IoT (Internet of Things)? An Introduction",
+      "content": "Of course we relate the word \"internet\" to things like our phones and computers. But, in the Internet of Things, or IoT, a \"thing\" is anything that connects to the internet. So yes, phones and computers, but also... humans, cars, and farm animals. Watch to learn why. Read more What is IoT: https://www.techtarget.com/iotagenda/definition/Internet-of-Things-IoT Future of IoT: https://www.techtarget.com/iotagenda/opinion/IoT-trends-to-keep-an-eye-on Subscribe to Eye on Tech: https://www.youtube.com/@EyeonTech Follow us on X: https://twitter.com/EyeonTech_TT Like us on LinkedIn: https://www.linkedin.com/showcase/eyeontech/ Follow us on TikTok: https://www.tiktok.com/@eyeontech Follow us on Instagram: https://www.instagram.com/eyeontech_tt/ #iot #internetofthings #iotai #eyeontech",
+      "author": "Eye on Tech",
+      "timestamp": "2024-04-11 13:30:05+00:00",
+      "url": "https://www.youtube.com/watch?v=4FxU-xpuCww",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4FxU-xpuCww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4FxU-xpuCww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4FxU-xpuCww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4FxU-xpuCww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4FxU-xpuCww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4FxU-xpuCww",
+      "channel_id": "UC-e2aGRMGMl67MDJoqcj19Q",
+      "view_count": 33660,
+      "like_count": 230,
+      "comment_count": 15,
+      "duration": "PT3M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ahZYZPFoHq4",
+      "title": "Introduction to Internet of Things ( IoT ) \ud83d\udd25",
+      "content": "This video is an Introduction to Internet of Things ( IoT ) in Hindi. In this video tutorial I have explained basic concept of IoT also what is People to Things, Things to Things & Machine to Machine communication is been explained in this video in short. This video also talks about what Internet of Everything Comprises of. Purchase notes right now, more details below: https://perfectcomputerengineer.teachcode.in/new-courses/15-internet-of-things-notes Cryptography and System Security Playlist: https://youtube.com/playlist?list=PLPIwNooIb9viexdR0fCeMwTThgZBx4lBJ System Programming & Compiler Construction Playlist: https://www.youtube.com/playlist?list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5 *Mobile Computing Playlist: https://youtube.com/playlist?list=PLPIwNooIb9vj5gQ64BL7iVpFtymBt9A22 *Digital Signal & Image Processing Playlist: https://youtube.com/playlist?list=PLPIwNooIb9vjfb5tG52zBmSFTHXQR81zr * Artificial Intelligence: https://youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC",
+      "author": "Perfect Computer Engineer",
+      "timestamp": "2022-04-06 06:30:00+00:00",
+      "url": "https://www.youtube.com/watch?v=ahZYZPFoHq4",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "what is Internet of things",
+          "what is iot",
+          "iot introduction",
+          "what is iot in hindi",
+          "what is internet of things in hindi",
+          "internet of things in hindi",
+          "iot in hindi",
+          "internet of things playlist",
+          "internet of things playlist in hindi",
+          "internet of things explained",
+          "internet of things explained in hindi",
+          "5 minutes engineering",
+          "simplilearn",
+          "edureks"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahZYZPFoHq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahZYZPFoHq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahZYZPFoHq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ahZYZPFoHq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ahZYZPFoHq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ahZYZPFoHq4",
+      "channel_id": "UCfGkxkJDQG7fBbX9mBtYz0A",
+      "view_count": 99194,
+      "like_count": 2298,
+      "comment_count": 35,
+      "duration": "PT7M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zCirGTMTf30",
+      "title": "IoT Architecture Explained | Complete IoT Tutorial for Beginners #IoTArchitecture #IoTTutorial #iot",
+      "content": "Curious about IoT Architecture and how the Internet of Things really works? \ud83e\udd14 In this video, we break down the layers of IoT systems and explain the architecture step by step, making it simple for beginners, students, and tech enthusiasts. \u2705 What you\u2019ll learn in this tutorial: Introduction to IoT Architecture Understanding the 3-layer and 5-layer IoT models Key components: Perception layer, Network layer, Application layer Role of sensors, gateways, cloud platforms, and applications Real-world IoT examples in smart cities, healthcare, and automation Tips to design and understand IoT systems efficiently Whether you\u2019re a student, IoT enthusiast, or aspiring developer, this video will give you a solid foundation of IoT architecture and help you understand how IoT solutions are structured and deployed. \ud83d\udca1 Don\u2019t forget to like, share, and subscribe for more tutorials on IoT, AI, and emerging technologies! ======================================================== Our Official Website: htt",
+      "author": "The IoT Academy",
+      "timestamp": "2025-09-29 13:45:14+00:00",
+      "url": "https://www.youtube.com/watch?v=zCirGTMTf30",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "internet of things architecture",
+          "internet of things architecture for beginners",
+          "iot architecture",
+          "iot architecture explained",
+          "iot architecture explanation",
+          "iot architecture reference model",
+          "iot based smart farming system",
+          "iot device architecture",
+          "iot internet of things",
+          "iot reference architecture",
+          "iot smart farm",
+          "iot standardization"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zCirGTMTf30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zCirGTMTf30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zCirGTMTf30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zCirGTMTf30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zCirGTMTf30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zCirGTMTf30",
+      "channel_id": "UCyIXtUMsOX02mpi5PKex9aA",
+      "view_count": 144,
+      "like_count": 6,
+      "comment_count": 0,
+      "duration": "PT14M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "QBbWXH_OOLI",
+      "title": "\u0e0a\u0e38\u0e14 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e23\u0e27\u0e08\u0e40\u0e02\u0e21\u0e23\u0e25\u0e2d\u0e1a\u0e27\u0e32\u0e07\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 \u0e41\u0e25\u0e30\u0e08\u0e38\u0e14\u0e1b\u0e30\u0e17\u0e30 | \u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27 | 4 \u0e15.\u0e04. 68",
+      "content": "\u0e0a\u0e38\u0e14 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e33\u0e23\u0e27\u0e08\u0e40\u0e02\u0e21\u0e23\u0e25\u0e2d\u0e1a\u0e27\u0e32\u0e07\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 \u0e41\u0e25\u0e30\u0e08\u0e38\u0e14\u0e1b\u0e30\u0e17\u0e30 #\u0e1e\u0e38\u0e17\u0e18\u0e2d\u0e20\u0e34\u0e27\u0e23\u0e23\u0e13 #\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49 #\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e0a\u0e48\u0e2d\u0e078 . \ud83d\udccc\u0e2a\u0e19\u0e43\u0e08\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d Email : onlinenewsch8@rs.co.th . \ud83d\udc47 \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 \ud83d\udc47 : Website : http://www.thaich8.com Facebook : https://www.facebook.com/Luichonkhao",
+      "author": "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+      "timestamp": "2025-10-04 15:40:38+00:00",
+      "url": "https://www.youtube.com/watch?v=QBbWXH_OOLI",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e40\u0e02\u0e21\u0e23",
+          "IOT",
+          "\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e33\u0e41\u0e1e\u0e07",
+          "\u0e19\u0e32\u0e22\u0e01\u0e2f \u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e1e\u0e38\u0e17\u0e18\u0e2d\u0e20\u0e34\u0e27\u0e23\u0e23\u0e13",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e14\u0e48\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e2a\u0e14\u0e2a\u0e14",
+          "Thailand",
+          "news",
+          "TV",
+          "Live",
+          "\u0e14\u0e39\u0e17\u0e35\u0e27\u0e35",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e0a\u0e48\u0e2d\u0e078"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QBbWXH_OOLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QBbWXH_OOLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QBbWXH_OOLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QBbWXH_OOLI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QBbWXH_OOLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "QBbWXH_OOLI",
+      "channel_id": "UC3emMIK0Xd1tr_pc07OYudw",
+      "view_count": 17679,
+      "like_count": 360,
+      "comment_count": 6,
+      "duration": "PT11M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jITW6On7MIk",
+      "title": "IoT Smart Garden Project for #arduino Opl\u00e0 IoT Kit #engineering #plants #programming #tme",
+      "content": "\ud83c\udfac Thank you for watching! \u2726\u2726\u2726 See where else you can find us! \u2726\u2726\u2726 \u2714 Subscribe to our YouTube channel \u27a1 https://www.youtube.com/@TME.ElectronicComponents?sub_confirmation=1 \u2714 Visit our website \u27a1 https://www.tme.eu/ \u2714 Like us on Facebook \u27a1 https://www.facebook.com/TME.eu/ \u2714 Our Instagram \u27a1 https://www.instagram.com/tme.eu/ \u2714 Join our TEAM \u27a1 https://kariera.tme.eu/en/ #TransferMultisortElektronik",
+      "author": "Transfer Multisort Elektronik",
+      "timestamp": "2024-04-29 09:06:55+00:00",
+      "url": "https://www.youtube.com/watch?v=jITW6On7MIk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Transfer Multisort Elektronik",
+          "TME"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jITW6On7MIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jITW6On7MIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jITW6On7MIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jITW6On7MIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jITW6On7MIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jITW6On7MIk",
+      "channel_id": "UC86KFSTToleA0TpR-1YhDIw",
+      "view_count": 119845,
+      "like_count": 1423,
+      "comment_count": 8,
+      "duration": "PT12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "u4Z5MfhthlY",
+      "title": "\u0e44\u0e23\u0e49\u0e21\u0e32\u0e23\u0e22\u0e32\u0e17! \u0e40\u0e02\u0e21\u0e23 \u0e1b\u0e48\u0e27\u0e19 IOT \u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 | \u0e15\u0e25\u0e32\u0e14-\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c | 6 \u0e15.\u0e04.68",
+      "content": "\u0e2d.\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e27\u0e14 \u0e08.\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c - \u0e04\u0e13\u0e30 IOT\u0e40\u0e22\u0e35\u0e48\u0e22\u0e21 \u201c18 \u0e40\u0e0a\u0e25\u0e22\u0e28\u0e36\u0e01\u201d \u0e01\u0e48\u0e2d\u0e19\u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \u201c\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\u201d \u0e0a\u0e32\u0e22 \u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u2013\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e21\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e44\u0e17\u0e22\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e15\u0e32\u0e21\u0e02\u0e49\u0e2d\u0e15\u0e01\u0e25\u0e07\u0e2b\u0e22\u0e38\u0e14\u0e22\u0e34\u0e07\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e40\u0e04\u0e23\u0e48\u0e07\u0e04\u0e23\u0e31\u0e14 \u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e1c\u0e25\u0e15\u0e48\u0e2d\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e2a\u0e39\u0e07 \u0e02\u0e13\u0e30\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e19\u0e22\u0e31\u0e07\u0e1e\u0e1a \u201c\u0e01\u0e32\u0e2a\u0e34\u0e42\u0e19\u201d \u0e0a\u0e34\u0e14\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19 \u0e25\u0e30\u0e40\u0e21\u0e34\u0e14 MOU \u0e0b\u0e36\u0e48\u0e07\u0e02\u0e13\u0e30\u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e21\u0e35\u0e0a\u0e32\u0e27\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e40\u0e02\u0e49\u0e32\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19\u0e01\u0e27\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e30\u0e22\u0e30 #\u0e40\u0e02\u0e21\u0e23\u0e1b\u0e48\u0e27\u0e19 #\u0e02\u0e48\u0e32\u0e27IOT #\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c\u0e0a\u0e48\u0e2d\u0e0723 \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : \u25cf \u0e17\u0e35\u0e27\u0e35\u0e0a\u0e48\u0e2d\u0e07 \u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c (\u0e01\u0e14\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e25\u0e02 23) \u25cf \u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c : https://workpointnews.com \u25cf Facebook : https://www.facebook.com/NewsWorkpoint \u25cf YouTube : https://www.youtube.com/workpointnews23 \u25cf Tiktok : https://www.tiktok.com/@workpointnews23 \u25cf Twitter : https://twitter.com/wpnews23 #\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c23 #\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c23 -------------------------------------------------------------------------------------- \u0e1c\u0e25\u0e34\u0e15\u0e42\u0e14\u0e22 \u0e1a\u0e23\u0e34\u0e29\u0e31\u0e17 \u0e44\u0e17\u0e22 \u0e1a\u0e23\u0e2d\u0e14\u0e04\u0e32\u0e2a\u0e15\u0e34\u0e49\u0e07 \u0e08\u0e33\u0e01\u0e31\u0e14 Created by THAI BROADCASTING COMPANY LIMITED \u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e42\u0e17\u0e23 02-833-2000",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c 23",
+      "timestamp": "2025-10-06 02:49:41+00:00",
+      "url": "https://www.youtube.com/watch?v=u4Z5MfhthlY",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e44\u0e23\u0e49\u0e21\u0e32\u0e23\u0e22\u0e32\u0e17",
+          "\u0e40\u0e02\u0e21\u0e23\u0e1b\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27IOT",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19",
+          "\u0e15\u0e25\u0e32\u0e14\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c23",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e04\u0e1e\u0e2d\u0e22\u0e17\u0e4c23\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "Workpoint News",
+          "WorkpointNews",
+          "Workpoint",
+          "\u0e02\u0e48\u0e32\u0e27\u0e17\u0e31\u0e48\u0e27\u0e44\u0e1b",
+          "\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e14\u0e48\u0e19",
+          "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "news",
+          "onlinenews",
+          "workpointentertainment",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u4Z5MfhthlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u4Z5MfhthlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4Z5MfhthlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u4Z5MfhthlY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u4Z5MfhthlY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "u4Z5MfhthlY",
+      "channel_id": "UC3WyfUir0HD8sFI4AVAl6SQ",
+      "view_count": 969,
+      "like_count": 22,
+      "comment_count": 8,
+      "duration": "PT7M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fugG1MTymhw",
+      "title": "SAMSARA (IOT STOCK): Next Palantir?",
+      "content": "Samsara has a lot of what I love! Well aligned management with a history of shareholder value creation. Rapid growth. Huge addressable opportunity. Positive free cash flow. Management believes Samsara and Palantir are a very small cohort of exceptional companies and yet IOT stock hasn't gone anywhere this past year while Palantir has rocketed higher. Let's dig in! TAKE CHARGE OF YOUR FINANCIAL JOURNEY: \u2705 : https://www.unrivaledinvesting.com \ud83d\udca1UNRIVALED INVESTING MEMBERSHIP: Includes weekly letters with new stock ideas, stock market commentary, real-money portfolio updates, and a community of like-minded investors at Discord (for Premium subscribers). \ud83d\udcc8: WHICH BROKERAGE DO I USE? \u25ba Interactive Brokers Link: https://www.interactivebrokers.com/mkt/?src=unrivaledNPY2&url=%2Fen%2Findex.php%3Ff%3D1338 \ud83e\udd16 FLASH - FREE AI RESEARCH ASSISTANT: https://flash.stocksentinel.ai/ \ud83c\udf93AFFORDABLE EDUCATIONAL COURSES! \u25ba Learn how to RESEARCH financial statements: https://www.unrivaledinvesting.com/off",
+      "author": "UNRIVALED INVESTING",
+      "timestamp": "2025-08-07 17:28:35+00:00",
+      "url": "https://www.youtube.com/watch?v=fugG1MTymhw",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fugG1MTymhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fugG1MTymhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fugG1MTymhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fugG1MTymhw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fugG1MTymhw",
+      "channel_id": "UCnlyaLgmqTcmXLRLLfH1Rsg",
+      "view_count": 34947,
+      "like_count": 998,
+      "comment_count": 117,
+      "duration": "PT13M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ndnYFyTIcpI",
+      "title": "IOT \u0e25\u0e38\u0e22\u0e14\u0e39\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e17\u0e39\u0e15\u0e21\u0e32\u0e40\u0e25\u0e22\u0e4c\u0e0a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e2d\u0e14\u0e17\u0e19\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 | \u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c | 5 \u0e15.\u0e04. 68",
+      "content": "IOT \u0e25\u0e38\u0e22\u0e14\u0e39\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e17\u0e39\u0e15\u0e21\u0e32\u0e40\u0e25\u0e22\u0e4c\u0e0a\u0e21\u0e04\u0e27\u0e32\u0e21\u0e2d\u0e14\u0e17\u0e19\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 #\u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c #AmarinTV -------------------------- #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c AmarinTV HD 34 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27 \u0e41\u0e25\u0e30\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23 #\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a #\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e32\u0e01 #\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e0a\u0e48\u0e2d\u0e0734 \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.amarintv.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 social media YouTube AmarinTV : https://www.youtube.com/@AMARINTVHD Facebook : https://www.facebook.com/AMARINTVHD Instagram : https://www.instagram.com/amarintvhd TikTok : https://www.tiktok.com/@amarintvhd",
+      "author": "AMARINTV : \u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+      "timestamp": "2025-10-05 06:25:03+00:00",
+      "url": "https://www.youtube.com/watch?v=ndnYFyTIcpI",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "AMARIN TV HD",
+          "amarin tv",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e17\u0e35\u0e27\u0e35",
+          "amarin",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e14\u0e39\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15",
+          "\u0e14\u0e39\u0e0a\u0e48\u0e2d\u0e0734",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "amarintvonline",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "IOT",
+          "\u0e14\u0e39\u0e04\u0e27\u0e32\u0e21\u0e08\u0e23\u0e34\u0e07",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39",
+          "\u0e17\u0e39\u0e15\u0e21\u0e32\u0e40\u0e25\u0e22\u0e4c",
+          "\u0e04\u0e27\u0e32\u0e21\u0e2d\u0e14\u0e17\u0e19\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e40\u0e02\u0e21\u0e23"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndnYFyTIcpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndnYFyTIcpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndnYFyTIcpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ndnYFyTIcpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ndnYFyTIcpI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ndnYFyTIcpI",
+      "channel_id": "UCzMoibQRslh_1bTuW0YXc6A",
+      "view_count": 30987,
+      "like_count": 565,
+      "comment_count": 92,
+      "duration": "PT10M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "yMdTgsqWGAA",
+      "title": "Components of IoT",
+      "content": "IoT Components \u2013 IoT components concept is explained with the following timecodes: 0:00 - Components of IoT - Internet of Things 0:30 - How does IoT work 1:50 - Sensors 3:36 - Actuators 4:52 - Connectivity and Gateway 6:55 - IoT Gateways 7:11 - Role of an IoT Gateway 8:28 - IoT Cloud 8:40 - Role of an IoT cloud 10:00 - IoT analytics and data management 11:39 - User Interface The following points are covered in this video: 0. Sensors and Actuators 1. Connectivity and Gateway 2. IoT cloud 3. IoT Analytics and data management 4. User Interface Engineering Funda channel is all about Engineering and Technology. Here, this video is a part of Internet of Things. #IoT #InternetofThings #IoTcomponents @EngineeringFunda",
+      "author": "Engineering Funda",
+      "timestamp": "2023-06-27 13:30:21+00:00",
+      "url": "https://www.youtube.com/watch?v=yMdTgsqWGAA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Internet of Things",
+          "IoT",
+          "Engineering Funda",
+          "Components of IoT",
+          "How does IoT work",
+          "Sensors in IoT",
+          "Actuators in IoT",
+          "Connectivity and Gateway in IoT",
+          "IoT Gateways",
+          "Role of an IoT Gateway",
+          "IoT Cloud",
+          "Role of an IoT cloud",
+          "IoT analytics and data management",
+          "User Interface in IoT",
+          "Sensors and Actuators in IoT",
+          "IoT cloud",
+          "IoT Analytics and data management"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMdTgsqWGAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMdTgsqWGAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMdTgsqWGAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yMdTgsqWGAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yMdTgsqWGAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "yMdTgsqWGAA",
+      "channel_id": "UCdlnqMpRrMcClK2fT6z8EEw",
+      "view_count": 28898,
+      "like_count": 450,
+      "comment_count": 10,
+      "duration": "PT12M48S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tvNV2MweDJ0",
+      "title": "IOT Home Automation #arduino #project #iot #technology #ytshorts #ideas",
+      "content": "IOT Home Automation using arduino esp 8266 #arduino #project #iot #technology #ytshorts #ideas Complete video link https://www.youtube.com/watch?v=8QMB6kOGVck to buy this project contact us 9810326343 xilirprojects.com",
+      "author": "XiLiR Technologies",
+      "timestamp": "2024-08-31 15:46:53+00:00",
+      "url": "https://www.youtube.com/watch?v=tvNV2MweDJ0",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tvNV2MweDJ0",
+      "channel_id": "UC2_t6GbaEitHjxbHwDbvhRg",
+      "view_count": 463421,
+      "like_count": 5203,
+      "comment_count": 83,
+      "duration": "PT16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "I22NLaqJ5ZE",
+      "title": "What is IoT? Explained in a Minute #shorts #iot",
+      "content": "Have you seen the TV series \"Black Mirror\"? If Yes, then you would have seen to what extent IoT can grow in the near future If not, Let's understand it through a simple example. IoT has \u27a1\ufe0f Sensors \u27a1\ufe0f Connectivity \u27a1\ufe0f Data processing \u27a1\ufe0f User interface The whole world will be connected to the internet in a very short time from now ( don't know if it's good or bad) But are you ready for that future? Let us know in the comments #iot #iotproject #iotsolutions #internet #internetofthings #internetechnologies #technology #techtips #TechInAminute #bnm #bnmit #bnmitsocial #vrooksocial",
+      "author": "VROOK Learning",
+      "timestamp": "2022-06-10 09:23:06+00:00",
+      "url": "https://www.youtube.com/watch?v=I22NLaqJ5ZE",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I22NLaqJ5ZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I22NLaqJ5ZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I22NLaqJ5ZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I22NLaqJ5ZE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I22NLaqJ5ZE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "I22NLaqJ5ZE",
+      "channel_id": "UCv-OBAd6y1GeNK1Qx1aaJjg",
+      "view_count": 237512,
+      "like_count": 13708,
+      "comment_count": 73,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "KN9JK2hIboM",
+      "title": "Pengendalian lampu jarak jauh berbasis NodeMCU dan Blynk #IOT #projekiot",
+      "content": "",
+      "author": "AixxAjahh",
+      "timestamp": "2025-06-15 13:10:24+00:00",
+      "url": "https://www.youtube.com/watch?v=KN9JK2hIboM",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KN9JK2hIboM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KN9JK2hIboM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KN9JK2hIboM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KN9JK2hIboM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KN9JK2hIboM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "id",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "KN9JK2hIboM",
+      "channel_id": "UCDeU6uTOr6fhfqUZouSDwUw",
+      "view_count": 501,
+      "like_count": 6,
+      "comment_count": 1,
+      "duration": "PT1M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nMDxoMCbgMk",
+      "title": "\u0e17\u0e2b\u0e32\u0e23\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e02\u0e35\u0e48 \u0e08\u0e22\u0e22.\u0e1b\u0e48\u0e27\u0e19 \u0e1a\u0e35\u0e1a\u0e41\u0e15\u0e23-\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b \u0e04\u0e13\u0e30 IOT-\u0e2a\u0e37\u0e48\u0e2d\u0e44\u0e17\u0e22 | \u0e40\u0e02\u0e49\u0e21\u0e02\u0e48\u0e32\u0e27\u0e04\u0e48\u0e33 | 5 \u0e15.\u0e04. 68",
+      "content": "\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e2d.\u0e1a\u0e49\u0e32\u0e19\u0e01\u0e23\u0e27\u0e14 \u0e08.\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c \u0e23\u0e31\u0e1a\u0e1f\u0e31\u0e07\u0e02\u0e49\u0e2d\u0e40\u0e17\u0e47\u0e08\u0e08\u0e23\u0e34\u0e07\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e44\u0e17\u0e22-\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e23\u0e27\u0e21\u0e16\u0e36\u0e07\u0e1a\u0e48\u0e2d\u0e19\u0e01\u0e32\u0e2a\u0e34\u0e42\u0e19\u0e41\u0e25\u0e30\u0e04\u0e2d\u0e25\u0e40\u0e0b\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e02\u0e19\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48 1 \u0e41\u0e2b\u0e48\u0e07 \u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e1e\u0e1a\u0e27\u0e48\u0e32\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27 14 \u0e1b\u0e35 \u0e21\u0e35\u0e19\u0e31\u0e01\u0e18\u0e38\u0e23\u0e01\u0e34\u0e08\u0e43\u0e2b\u0e0d\u0e48\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e41\u0e25\u0e30\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32\u0e19\u0e32\u0e22\u0e2e\u0e38\u0e19\u0e40\u0e0b\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07 \u0e2a\u0e23\u0e49\u0e32\u0e07\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e17\u0e32\u0e07\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e21\u0e2b\u0e32\u0e28\u0e32\u0e25 \u0e41\u0e25\u0e30\u0e02\u0e13\u0e30\u0e17\u0e35\u0e48\u0e04\u0e13\u0e30\u0e41\u0e25\u0e30\u0e2a\u0e37\u0e48\u0e2d\u0e21\u0e27\u0e25\u0e0a\u0e19\u0e02\u0e2d\u0e07\u0e44\u0e17\u0e22\u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \u0e1e\u0e1a\u0e27\u0e48\u0e32\u0e21\u0e35\u0e17\u0e2b\u0e32\u0e23\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e41\u0e2b\u0e48\u0e21\u0e32\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b \u0e02\u0e35\u0e48\u0e21\u0e2d\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e44\u0e0b\u0e04\u0e4c \u0e1a\u0e35\u0e1a\u0e41\u0e15\u0e23\u0e01\u0e48\u0e2d\u0e01\u0e27\u0e19 #\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22 #\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e40\u0e02\u0e49\u0e21\u0e02\u0e48\u0e32\u0e27\u0e04\u0e48\u0e33 #\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e48\u0e32\u0e27\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48 #PPTVHD36 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.pptvhd36.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 Social Media ------------------------------------------------------------------- === \u0e2a\u0e21\u0e31\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e22\u0e39\u0e17\u0e39\u0e1b\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e40\u0e02\u0e49\u0e32\u0e16\u0e36\u0e07\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e15\u0e48\u0e32\u0e07\u0e46 === PPTV HD 36 : https://www.youtube.com/@PPTVHD36/join PPTV SPORTS : https://www.youtube.com/@PPTV_SPORTS/join ===================================== Facebook : https://www.facebook.com/PPTVHD36 Instagram : https://www.instagram.com/pptvhd36/ X : https://twitter.com/PPTVHD36 TikTok : https://www.tiktok.com/@pptv.thailand LI",
+      "author": "PPTV HD 36",
+      "timestamp": "2025-10-05 12:18:53+00:00",
+      "url": "https://www.youtube.com/watch?v=nMDxoMCbgMk",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "PPTVHD36",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22",
+          "\u0e40\u0e02\u0e49\u0e21\u0e02\u0e48\u0e32\u0e27\u0e04\u0e48\u0e33",
+          "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e48\u0e32\u0e27\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMDxoMCbgMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMDxoMCbgMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMDxoMCbgMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nMDxoMCbgMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nMDxoMCbgMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nMDxoMCbgMk",
+      "channel_id": "UC7FCQJFK1sfwD_uobB45Xng",
+      "view_count": 34299,
+      "like_count": 495,
+      "comment_count": 148,
+      "duration": "PT12M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "MR3sW6vTm5Y",
+      "title": "IoT Developer Roadmap - 2025 | How to Become IoT Software Developer (Beginner Step-by-Step Guide)",
+      "content": "\ud83d\udd25 (Discount Link) Discover KernelCare Now: https://bit.ly/3Rvb3RY \ud83d\ude80 Try An Introduction to Programming the Internet of Things (IOT) Specialization: https://imp.i384100.net/nXoDr9 The Internet of Things is transforming industries, and the demand for skilled IoT developers is skyrocketing. In this video, we break down the IoT Developer Roadmap 2025, covering the essential skills, tools, and career paths to help you land your first IoT job. Whether you're new to tech or an experienced developer looking to transition, this guide will set you on the right path. Watch now to explore programming languages, hardware, cloud platforms, security best practices, and salary expectations in the growing IoT field. \u23f1\ufe0fCHAPTERS: 0:00 IoT Developer Roadmap 0:41 What Is IoT? 2:01 Why Should You Become an Internet of Things Expert? 3:04 IoT Developer Skillset 6:20 How To Become An IoT Developer 10:54 Demand for IoT Developers and Salary Expectations 12:33 Is Becoming An IoT Developer Worth It In 2025?",
+      "author": "Daniel | Tech & Data",
+      "timestamp": "2025-04-04 17:44:59+00:00",
+      "url": "https://www.youtube.com/watch?v=MR3sW6vTm5Y",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "iot developer roadmap",
+          "learn iot developer roadmap",
+          "skills iot developer roadmap",
+          "internet of things",
+          "iot explained",
+          "iot career",
+          "iot as a career",
+          "iot developer guide",
+          "iot developer tutorial",
+          "iot developer pros cons",
+          "iot developer salary",
+          "how to become iot software developer",
+          "how to become iot developer"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MR3sW6vTm5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MR3sW6vTm5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MR3sW6vTm5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MR3sW6vTm5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MR3sW6vTm5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "MR3sW6vTm5Y",
+      "channel_id": "UC3iyLcDyYxk2nN7M5DsYaYQ",
+      "view_count": 33548,
+      "like_count": 917,
+      "comment_count": 51,
+      "duration": "PT13M47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "1g-BCe81gbQ",
+      "title": "IoT\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0SORACOM\u306e\u5168\u4f53\u50cf\u3010IoT\u306a\u3089\u30bd\u30e9\u30b3\u30e0\u3011",
+      "content": "\u5916\u90e8\u767b\u58c7\u3082\u884c\u3063\u3066\u3044\u308b\u30bd\u30e9\u30b3\u30e0\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\uff65\u30a8\u30d0\u30f3\u30b8\u30a7\u30ea\u30b9\u30c8\u306e\u677e\u4e0b\u304c\u300cIoT\u901a\u4fe1\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0SORACOM\u300d\u306b\u3064\u3044\u3066\u3001\u6539\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\uff01 --------------------------- \u30bd\u30e9\u30b3\u30e0\u306f\u3053\u3093\u306a\u4f1a\u793e\u3067\u3059\uff01 \u30b3\u30fc\u30dd\u30ec\u30fc\u30c8\u30e0\u30fc\u30d3\u30fc https://www.youtube.com/watch?v=--IQwD7XcG0 \u3010\u516c\u5f0f\u30b5\u30a4\u30c8\u3011 \u25a0\u30bd\u30e9\u30b3\u30e0\u3063\u3066\u3069\u3093\u306a\u4f1a\u793e\uff1f\u6700\u65b0\u306e\u304a\u77e5\u3089\u305b\u306a\u3069\u306f\u3001\u30b3\u30fc\u30dd\u30ec\u30fc\u30c8\u30b5\u30a4\u30c8\u306b\u3066 \u21d2https://soracom.com/ \u25a0SORACOM\u304c\u63d0\u4f9b\u3059\u308b\u5404\u7a2e\u30b5\u30fc\u30d3\u30b9\u3084\u3054\u5229\u7528\u65b9\u6cd5\u3001IoT\u306e\u59cb\u3081\u65b9\u306a\u3069\u3092\u30c1\u30a7\u30c3\u30af\uff01 \u21d2https://soracom.jp/ \u25a0\u4e8b\u4f8b\u3067\u308f\u304b\u308b\u30d3\u30b8\u30cd\u30b9\u306b\u5f79\u7acb\u3064IoT\uff01\u6700\u65b0\u306e\u5c0e\u5165\u4e8b\u4f8b\u306a\u3069\u306f\u30b3\u30c1\u30e9\uff01 \u21d2https://iot-usecase.com/ \u3010\u516c\u5f0fSNS\u3011 \u25a0Instagram @soracom.official \u21d2 https://www.instagram.com/soracom.official/ \u25a0X\uff08Twitter\uff09 @SORACOM_PR \u21d2 https://x.com/SORACOM_PR \u25a0Facebook @soracom.jp \u21d2 https://www.facebook.com/soracom.jp ===== SORACOM \u5c0e\u5165/\u6d3b\u7528\u306e\u3054\u76f8\u8ac7\u306f\u3053\u3061\u3089\u304b\u3089\uff01 \u21d2https://soracom.jp/contact/?id=yt #IoT #SORACOM #DX #\u30bd\u30e9\u30b3\u30e0",
+      "author": "SORACOM\u3008\u30bd\u30e9\u30b3\u30e0\u516c\u5f0f\u3009",
+      "timestamp": "2024-12-29 15:00:04+00:00",
+      "url": "https://www.youtube.com/watch?v=1g-BCe81gbQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "SORACOM",
+          "\u30bd\u30e9\u30b3\u30e0",
+          "SIM",
+          "IoT",
+          "\u3064\u306a\u3050",
+          "DX",
+          "UI",
+          "UX",
+          "\u30c7\u30b8\u30bf\u30eb",
+          "\u30a8\u30f3\u30b8\u30cb\u30a2",
+          "\u30af\u30e9\u30a6\u30c9",
+          "cloud",
+          "\u30b3\u30cd\u30af\u30c6\u30a3\u30d3\u30c6\u30a3",
+          "\u30b5\u30fc\u30d3\u30b9",
+          "\u30cd\u30c3\u30c8\u30ef\u30fc\u30af",
+          "\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3",
+          "\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
+          "\u901a\u4fe1",
+          "\u30c7\u30fc\u30bf",
+          "\u30c7\u30d0\u30a4\u30b9",
+          "\u30e9\u30ba\u30d1\u30a4",
+          "IT",
+          "\u30ce\u30a6\u30cf\u30a6",
+          "PoC",
+          "internet of things",
+          "AWS",
+          "Technology",
+          "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+          "AI",
+          "\u88fd\u9020\u696d",
+          "\u5c0f\u58f2\u308a",
+          "\u30ab\u30e1\u30e9",
+          "aws"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1g-BCe81gbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1g-BCe81gbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1g-BCe81gbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1g-BCe81gbQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1g-BCe81gbQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "ja",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "1g-BCe81gbQ",
+      "channel_id": "UCvKC6pXJYWYML9VVxmHegOg",
+      "view_count": 1352,
+      "like_count": 14,
+      "comment_count": 0,
+      "duration": "PT14M15S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "egP8SIblt7k",
+      "title": "\u0e17\u0e39\u0e15 IOT \u0e25\u0e38\u0e22\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01\u0e01\u0e31\u0e1a\u0e1d\u0e31\u0e48\u0e07\u0e44\u0e17\u0e22 \u0e08\u0e31\u0e1a\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e02\u0e21\u0e23 | \u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c | 4 \u0e15.\u0e04. 68",
+      "content": "\u0e17\u0e39\u0e15 IOT \u0e25\u0e38\u0e22\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01\u0e01\u0e31\u0e1a\u0e1d\u0e31\u0e48\u0e07\u0e44\u0e17\u0e22 \u0e08\u0e31\u0e1a\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e02\u0e21\u0e23 #\u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c #AmarinTV -------------------------- #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c AmarinTV HD 34 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27 \u0e41\u0e25\u0e30\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23 #\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a #\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e32\u0e01 #\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e0a\u0e48\u0e2d\u0e0734 \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.amarintv.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 social media YouTube AmarinTV : https://www.youtube.com/@AMARINTVHD Facebook : https://www.facebook.com/AMARINTVHD Instagram : https://www.instagram.com/amarintvhd TikTok : https://www.tiktok.com/@amarintvhd",
+      "author": "AMARINTV : \u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+      "timestamp": "2025-10-04 05:45:06+00:00",
+      "url": "https://www.youtube.com/watch?v=egP8SIblt7k",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "AMARIN TV HD",
+          "amarin tv",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e17\u0e35\u0e27\u0e35",
+          "amarin",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e14\u0e39\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15",
+          "\u0e14\u0e39\u0e0a\u0e48\u0e2d\u0e0734",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "amarintvonline",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e17\u0e39\u0e15 IOT",
+          "\u0e17\u0e39\u0e15",
+          "IOT",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01",
+          "\u0e08\u0e31\u0e1a\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e02\u0e21\u0e23",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e40\u0e02\u0e21\u0e23"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/egP8SIblt7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/egP8SIblt7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/egP8SIblt7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/egP8SIblt7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/egP8SIblt7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "egP8SIblt7k",
+      "channel_id": "UCzMoibQRslh_1bTuW0YXc6A",
+      "view_count": 267561,
+      "like_count": 3319,
+      "comment_count": 534,
+      "duration": "PT5M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ExSS2QWYRZk",
+      "title": "Voice control IOT smart home #sritu_hobby #iot #esp32 @sritu_hobby",
+      "content": "",
+      "author": "SriTu Hobby",
+      "timestamp": "2024-06-16 16:28:00+00:00",
+      "url": "https://www.youtube.com/watch?v=ExSS2QWYRZk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "iot smart home",
+          "smart home with esp32",
+          "smart home kit",
+          "sritu hobby shorts",
+          "esp32 shorts",
+          "shorts",
+          "smart home"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ExSS2QWYRZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ExSS2QWYRZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ExSS2QWYRZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ExSS2QWYRZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ExSS2QWYRZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ExSS2QWYRZk",
+      "channel_id": "UCC3G1NO0V-xRNyl5ckkfsxQ",
+      "view_count": 40768,
+      "like_count": 1235,
+      "comment_count": 13,
+      "duration": "PT26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Wh2m2s49Oa8",
+      "title": "\u0e04\u0e13\u0e30 IOT \u0e14\u0e39\u0e08\u0e38\u0e14\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e01\u0e32\u0e2a\u0e34\u0e42\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e34\u0e14\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22 | 6 \u0e15.\u0e04. 68 | \u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e0a\u0e48\u0e2d\u0e078",
+      "content": "\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \u0e08.\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e02\u0e49\u0e2d\u0e40\u0e17\u0e47\u0e08\u0e08\u0e23\u0e34\u0e07\u0e1b\u0e31\u0e0d\u0e2b\u0e32\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22 - \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e42\u0e14\u0e22\u0e01\u0e25\u0e48\u0e32\u0e27\u0e0a\u0e37\u0e48\u0e19\u0e0a\u0e21\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 \u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e29\u0e32\u0e02\u0e49\u0e2d\u0e15\u0e01\u0e25\u0e07\u0e2b\u0e22\u0e38\u0e14\u0e22\u0e34\u0e07\u0e21\u0e32\u0e42\u0e14\u0e22\u0e15\u0e25\u0e2d\u0e14 #\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 #\u0e44\u0e17\u0e22\u0e40\u0e02\u0e21\u0e23 . \ud83d\udccc\u0e2a\u0e19\u0e43\u0e08\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d Email : onlinenewsch8@rs.co.th . \ud83d\udc49 \u0e21\u0e32\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 : https://bit.ly/\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 . \ud83d\udccc \u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e01\u0e14\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 & \u0e01\u0e14\u0e01\u0e23\u0e30\u0e14\u0e34\u0e48\u0e07 \ud83d\udd14 \u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : https://bit.ly/3xlMjC5 . \ud83d\udc49 \u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e15\u0e01\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e2a\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e48\u0e32\u0e27\u0e04\u0e23\u0e1a\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e04\u0e25\u0e34\u0e01\u0e40\u0e25\u0e22\u203c Line Official : https://bit.ly/LineThaiCH8News . \ud83d\udccc \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : . Website : http://www.thaich8.com Facebook : https://www.fb.com/thaich8news Twitter : https://twitter.com/thaich8news Instagram : http://instagram.com/thaich8news Tiktok : https://www.tiktok.com/@thaich8_news",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+      "timestamp": "2025-10-06 00:45:22+00:00",
+      "url": "https://www.youtube.com/watch?v=Wh2m2s49Oa8",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32",
+          "\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e2b\u0e0d\u0e49\u0e32\u0e41\u0e01\u0e49\u0e27",
+          "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e08\u0e32\u0e19",
+          "\u0e20\u0e39\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d",
+          "\u0e17\u0e2b\u0e32\u0e23\u0e40\u0e2b\u0e22\u0e35\u0e22\u0e1a\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14",
+          "\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14",
+          "\u0e17\u0e38\u0e48\u0e19\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14",
+          "\u0e25\u0e49\u0e2d\u0e21\u0e23\u0e31\u0e49\u0e27\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19",
+          "PMN-2",
+          "\u0e2e\u0e38\u0e19\u0e40\u0e0b\u0e19",
+          "Hunsen",
+          "CambodiaOpenedFire",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e22\u0e34\u0e07\u0e01\u0e48\u0e2d\u0e19",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e32\u0e23\u0e40\u0e21\u0e37\u0e2d\u0e07",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e14\u0e48\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e2a\u0e14\u0e2a\u0e14",
+          "Thailand",
+          "TV",
+          "Live",
+          "\u0e14\u0e39\u0e17\u0e35\u0e27\u0e35",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e0a\u0e48\u0e2d\u0e078"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wh2m2s49Oa8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wh2m2s49Oa8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wh2m2s49Oa8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wh2m2s49Oa8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wh2m2s49Oa8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Wh2m2s49Oa8",
+      "channel_id": "UC6x41swVZP3rEmy-ODxLMFA",
+      "view_count": 2509,
+      "like_count": 39,
+      "comment_count": 2,
+      "duration": "PT3M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zI49Q85wO60",
+      "title": "\u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e2a\u0e14! \u0e17\u0e35\u0e21 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e14\u0e39\u0e08\u0e38\u0e14\u0e1e\u0e34\u0e1e\u0e32\u0e17\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22-\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 | 4 \u0e15.\u0e04. 68 | \u0e02\u0e48\u0e32\u0e27\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10 \u0e40\u0e2a\u0e32\u0e23\u0e4c-\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c",
+      "content": "\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e04\u0e17\u0e35\u0e48 2 \u0e19\u0e33\u0e04\u0e13\u0e30\u0e1c\u0e39\u0e49\u0e2a\u0e31\u0e07\u0e40\u0e01\u0e15\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u2013\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e44\u0e1b\u0e14\u0e39\u0e08\u0e38\u0e14\u0e17\u0e35\u0e48 \u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22\u0e15\u0e23\u0e27\u0e08\u0e1e\u0e1a\u0e17\u0e38\u0e48\u0e19\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14\u0e17\u0e35\u0e48\u0e17\u0e2b\u0e32\u0e23\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e41\u0e2d\u0e1a\u0e19\u0e33\u0e21\u0e32\u0e27\u0e32\u0e07\u0e43\u0e19\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01 \u0e08.\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e08\u0e32\u0e01 \u0e04\u0e38\u0e13\u0e19\u0e31\u0e17 \u0e1b\u0e34\u0e22\u0e30\u0e0a\u0e32\u0e15\u0e34 \u0e04\u0e07\u0e16\u0e34\u0e48\u0e19 \u0e1c\u0e39\u0e49\u0e2a\u0e37\u0e48\u0e2d\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10\u0e17\u0e35\u0e27\u0e35 \u0e23\u0e32\u0e22\u0e07\u0e32\u0e19\u0e2a\u0e14\u0e08\u0e32\u0e01\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e04\u0e23\u0e31\u0e1a #\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01 #\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e04\u0e17\u0e35\u0e482 #\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e042 #\u0e17\u0e38\u0e48\u0e19\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 #\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 #\u0e04\u0e13\u0e30IOT #IOT #\u0e40\u0e02\u0e21\u0e23 #\u0e2e\u0e38\u0e19\u0e40\u0e0b\u0e19 #\u0e2e\u0e38\u0e19\u0e40\u0e0b\u0e19\u0e2d\u0e32\u0e0a\u0e0d\u0e32\u0e01\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21 #\u0e2e\u0e38\u0e19\u0e21\u0e32\u0e40\u0e19\u0e15 #\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e42\u0e08\u0e21\u0e15\u0e35\u0e44\u0e17\u0e22 #\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e22\u0e34\u0e07\u0e01\u0e48\u0e2d\u0e19 #\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 #\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22 #\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e40\u0e02\u0e21\u0e23 #\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22\u0e40\u0e2b\u0e22\u0e35\u0e22\u0e1a\u0e01\u0e31\u0e1a\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14 #\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 #\u0e44\u0e17\u0e22\u0e19\u0e35\u0e49\u0e23\u0e31\u0e01\u0e2a\u0e07\u0e1a\u0e41\u0e15\u0e48\u0e16\u0e36\u0e07\u0e23\u0e1a\u0e44\u0e21\u0e48\u0e02\u0e25\u0e32\u0e14 #\u0e44\u0e17\u0e22\u0e23\u0e1a\u0e40\u0e02\u0e21\u0e23 #\u0e41\u0e21\u0e48\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e042 #\u0e40\u0e02\u0e21\u0e23\u0e22\u0e34\u0e07\u0e01\u0e48\u0e2d\u0e19 #cambodiaopenedfire #cambodiaopnedfire ------------------------------------------------- \ud83d\udd14 \u0e01\u0e14 Subscribe \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 & \u0e01\u0e14\u0e01\u0e23\u0e30\u0e14\u0e34\u0e48\u0e07\u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : https://bit.ly/3J2YF7v \ud83d\udc9a \u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e40\u0e40\u0e1f\u0e19\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10 : https://bit.ly/4jhFaZ6 . \u0e22\u0e34\u0e19\u0e14\u0e35\u0e15\u0e49\u0e2d\u0e19\u0e23\u0e31\u0e1a\u0e41\u0e1f\u0e19\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e39\u0e48 Thairath News - \u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10 \u0e2a\u0e33\u0e19\u0e31\u0e01\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a 1 \u0e02\u0e2d\u0e07\u0e44\u0e17\u0e22 \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e41\u0e1f\u0e19\u0e02\u0e48\u0e32\u0e27\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e02\u0e48\u0e32\u0e27\u0e41\u0e1a\u0e1a\u0e2a\u0e14 \u0e46 \u0e40\u0e01\u0e32\u0e30\u0e15\u0e34\u0e14\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e1b\u0e31\u0e08\u0e08\u0e38\u0e1a\u0e31\u0e19\u0e41\u0e25\u0e30\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e1b\u0e23\u0e30\u0e40\u0e14\u0e47\u0e19\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07\u0e44\u0e14\u0e49\u0e15\u0e25\u0e2d\u0e14 24 \u0e0a\u0e21. \u0e23\u0e31\u0e1a\u0e0a\u0e21\u0e2a\u0e14\u0e41\u0e25\u0e30\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31",
+      "author": "Thairath News - \u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10",
+      "timestamp": "2025-10-04 05:26:56+00:00",
+      "url": "https://www.youtube.com/watch?v=zI49Q85wO60",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e04\u0e17\u0e35\u0e48 2",
+          "\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e20\u0e32\u0e04 2",
+          "\u0e04\u0e13\u0e30 IOT",
+          "\u0e17\u0e38\u0e48\u0e19\u0e23\u0e30\u0e40\u0e1a\u0e34\u0e14",
+          "\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e1a\u0e01\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35",
+          "\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c \u0e44\u0e17\u0e22 \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e40\u0e02\u0e21\u0e23\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 vs \u0e44\u0e17\u0e22",
+          "\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21 \u0e44\u0e17\u0e22-\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27 \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10",
+          "\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10\u0e17\u0e35\u0e27\u0e35",
+          "\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10",
+          "\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10\u0e17\u0e35\u0e27\u0e35",
+          "\u0e44\u0e17\u0e22\u0e23\u0e31\u0e10\u0e19\u0e34\u0e27\u0e2a\u0e4c\u0e42\u0e0a\u0e27\u0e4c",
+          "thairath",
+          "thairathtv",
+          "thairath news",
+          "thairathnews"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zI49Q85wO60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zI49Q85wO60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zI49Q85wO60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zI49Q85wO60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zI49Q85wO60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zI49Q85wO60",
+      "channel_id": "UCrFDdD-EE05N7gjwZho2wqw",
+      "view_count": 24436,
+      "like_count": 300,
+      "comment_count": 18,
+      "duration": "PT11M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nlaJz851Dyk",
+      "title": "\u0e04\u0e13\u0e30 IOT \u0e15\u0e23\u0e27\u0e08\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e08\u0e31\u0e1a\u0e15\u0e32\u0e1a\u0e48\u0e2d\u0e19\u0e43\u0e01\u0e25\u0e49\u0e23\u0e31\u0e49\u0e27\u0e44\u0e17\u0e22 | \u0e02\u0e48\u0e32\u0e27\u0e40\u0e22\u0e47\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e31\u0e19 | \u0e2a\u0e33\u0e19\u0e31\u0e01\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e34\u0e27\u0e2a\u0e4c",
+      "content": "\u0e40\u0e01\u0e32\u0e30\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22-\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 \u0e44\u0e17\u0e22\u0e40\u0e14\u0e34\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e1e\u0e32\u0e04\u0e13\u0e30 IOT \u0e40\u0e02\u0e49\u0e32\u0e15\u0e23\u0e27\u0e08\u0e2a\u0e2d\u0e1a\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48 2 \u0e1e\u0e1a\u0e21\u0e35\u0e1a\u0e48\u0e2d\u0e19\u0e41\u0e25\u0e30\u0e04\u0e2d\u0e25\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e43\u0e01\u0e25\u0e49\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22 \u0e02\u0e13\u0e30\u0e17\u0e35\u0e48\u0e1d\u0e48\u0e32\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e2a\u0e48\u0e07\u0e40\u0e14\u0e47\u0e01\u0e40\u0e02\u0e49\u0e32\u0e01\u0e48\u0e2d\u0e01\u0e27\u0e19 #\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #IOT _______________________________________ \"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e34\u0e27\u0e2a\u0e4c \u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21\u0e31\u0e48\u0e19\u0e43\u0e19\u0e02\u0e48\u0e32\u0e27 \u0e21\u0e31\u0e48\u0e19\u0e43\u0e08\u0e27\u0e31\u0e19\u0e19\u0e34\u0e27\u0e2a\u0e4c\" \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e0a\u0e21 #\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e34\u0e27\u0e2a\u0e4c \u0e44\u0e14\u0e49\u0e15\u0e25\u0e2d\u0e14\u0e17\u0e31\u0e49\u0e07\u0e27\u0e31\u0e19\u0e17\u0e32\u0e07\u0e2b\u0e19\u0e49\u0e32\u0e08\u0e2d #\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e31\u0e1931 \u0e41\u0e25\u0e30\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e44\u0e14\u0e49\u0e14\u0e31\u0e07\u0e19\u0e35\u0e49 Facebook / Instagram / X / TikTok / Youtube : onenews31 #one31news _______________________________________ \u0e25\u0e30\u0e04\u0e23\u0e14\u0e35 \u0e27\u0e32\u0e44\u0e23\u0e15\u0e35\u0e49\u0e40\u0e14\u0e47\u0e14 \u0e14\u0e39\u0e1f\u0e23\u0e35\u0e1c\u0e48\u0e32\u0e19\u0e41\u0e2d\u0e1b #oneD \u0e14\u0e39\u0e1a\u0e19\u0e40\u0e27\u0e47\u0e1a : https://bit.ly/3rmYls1 \u0e14\u0e39\u0e1a\u0e19\u0e41\u0e2d\u0e1b : https://bit.ly/3JgNpCp #one31 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e31\u0e19",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e07\u0e27\u0e31\u0e19",
+      "timestamp": "2025-10-05 11:10:24+00:00",
+      "url": "https://www.youtube.com/watch?v=nlaJz851Dyk",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "IOT",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nlaJz851Dyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nlaJz851Dyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nlaJz851Dyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nlaJz851Dyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nlaJz851Dyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nlaJz851Dyk",
+      "channel_id": "UCqZ3is1Z4ck-I0ObYFw8OEQ",
+      "view_count": 10241,
+      "like_count": 189,
+      "comment_count": 46,
+      "duration": "PT11M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4i7bD1iDD8Y",
+      "title": "\ud83d\udd34 Live \u0e42\u0e0a\u0e27\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e19\u0e35\u0e49 |\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e2a\u0e48\u0e07\u0e04\u0e19\u0e1b\u0e48\u0e27\u0e19\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e40\u0e21\u0e34\u0e19\u0e17\u0e33\u0e41\u0e1c\u0e19\u0e2d\u0e1e\u0e22\u0e1e| 6 \u0e15.\u0e04. 68",
+      "content": "\u0e0a\u0e21\u0e2a\u0e14! \"\u0e42\u0e0a\u0e27\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e19\u0e35\u0e49\" \u0e17\u0e38\u0e01\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c - \u0e28\u0e38\u0e01\u0e23\u0e4c \u0e40\u0e27\u0e25\u0e32 08.20 \u0e19. - 09.30 \u0e19. \u0e17\u0e32\u0e07 PPTV HD \u0e0a\u0e48\u0e2d\u0e07 36 - \u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e2a\u0e48\u0e07\u0e04\u0e19\u0e1b\u0e48\u0e27\u0e19\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e40\u0e21\u0e34\u0e19\u0e17\u0e33\u0e41\u0e1c\u0e19\u0e2d\u0e1e\u0e22\u0e1e - \"\u0e41\u0e1e\u0e17\u0e2d\u0e07\u0e18\u0e32\u0e23\" \u0e22\u0e01\u0e40\u0e25\u0e34\u0e01\u0e0a\u0e48\u0e27\u0e22\u0e2b\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e4c \u0e25\u0e38\u0e22\u0e19\u0e49\u0e33\u0e17\u0e48\u0e27\u0e21\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c\u0e41\u0e17\u0e19 - \u0e04\u0e19\u0e23\u0e49\u0e32\u0e22\u0e1a\u0e38\u0e01\u0e1b\u0e25\u0e49\u0e19\u0e17\u0e2d\u0e07\u0e2b\u0e49\u0e32\u0e07\u0e14\u0e31\u0e07 \u0e01\u0e27\u0e32\u0e14\u0e17\u0e2d\u0e07\u0e44\u0e1b\u0e01\u0e27\u0e48\u0e32 400 \u0e1a\u0e32\u0e17 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e02\u0e48\u0e32\u0e27\u0e1b\u0e23\u0e30\u0e40\u0e14\u0e47\u0e19\u0e2d\u0e37\u0e48\u0e19 \u0e46 \u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e2a\u0e19\u0e43\u0e08\u0e21\u0e32\u0e01\u0e21\u0e32\u0e22... #\u0e42\u0e0a\u0e27\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e19\u0e35\u0e49 #PPTVHD36 \u0e42\u0e0a\u0e27\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e19\u0e35\u0e49 6 \u0e15\u0e38\u0e25\u0e32\u0e04\u0e21 2568 #\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32 #IOT #\u0e41\u0e1e\u0e17\u0e2d\u0e07\u0e18\u0e32\u0e23 #\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e48\u0e32\u0e27\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48 #PPTVHD36 #\u0e42\u0e0a\u0e27\u0e4c\u0e02\u0e48\u0e32\u0e27\u0e40\u0e0a\u0e49\u0e32\u0e19\u0e35\u0e49 ---------- \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.pptvhd36.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 social media Facebook : https://www.facebook.com/PPTVHD36 Twitter : https://twitter.com/PPTVHD36 Instagram : https://www.instagram.com/pptvhd36/ LINE VOOM : https://pptv36.tv/174l TikTok : https://www.tiktok.com/@pptv.thailand",
+      "author": "PPTV HD 36",
+      "timestamp": "2025-10-06 02:30:12+00:00",
+      "url": "https://www.youtube.com/watch?v=4i7bD1iDD8Y",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e22\u0e34\u0e07\u0e01\u0e48\u0e2d\u0e19",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+          "\u0e02\u0e48\u0e32\u0e27\u0e15\u0e48\u0e32\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28",
+          "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e48\u0e32\u0e27\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e43\u0e2b\u0e0d\u0e48",
+          "\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e1a\u0e34\u0e19\u0e02\u0e31\u0e1a\u0e44\u0e25\u0e48",
+          "\u0e01\u0e23\u0e34\u0e1e\u0e40\u0e1e\u0e19",
+          "\u0e2a\u0e27\u0e35\u0e40\u0e14\u0e19"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4i7bD1iDD8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4i7bD1iDD8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4i7bD1iDD8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4i7bD1iDD8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4i7bD1iDD8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4i7bD1iDD8Y",
+      "channel_id": "UC7FCQJFK1sfwD_uobB45Xng",
+      "view_count": 8977,
+      "like_count": 216,
+      "comment_count": 6,
+      "duration": "PT1H4M28S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "TjlJp-US2IQ",
+      "title": "Internet Of Things Kya Hota Hai? #Shorts #IOT #InternetOfThings #GfG",
+      "content": "What is the Internet of Things (IoT) and why is everyone talking about it? In this video, we explain IoT in simple and clear terms, perfect for beginners. You'll learn how everyday devices like smartwatches, home appliances, and vehicles connect to the internet to collect and exchange data. We also cover real-life examples and future applications of IoT in industries like healthcare, agriculture, and smart cities. If you're curious about modern technology or planning a career in tech, this is the perfect starting point! Get all important links here: \ud83d\udd17 Visit website: https://geeksforgeeks.org/ Explore Premium LIVE, Online & Offline Courses (For maximum discount use code - GFGYT30) : https://geeksforgeeks.org/courses/ Solve POTD: https://www.geeksforgeeks.org/problem-of-the-day Ongoing contests, hackathons and events: https://www.geeksforgeeks.org/events Follow us for more fun, knowledge and resources, join us on our social handles: \ud83d\udcf1Take GeeksforGeeks everywhere in your pockets!",
+      "author": "GeeksforGeeks",
+      "timestamp": "2025-06-26 07:30:27+00:00",
+      "url": "https://www.youtube.com/watch?v=TjlJp-US2IQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "iot",
+          "internet of things",
+          "what is internet of things",
+          "iot explained",
+          "iot for begineers",
+          "]iot application",
+          "iot based projects",
+          "what is iot",
+          "how iot works",
+          "iot explained simply",
+          "iot hardware",
+          "internet der dinge",
+          "iot projects",
+          "iot technology",
+          "iot internet of things",
+          "iot applications",
+          "what is internet of things and how it works",
+          "iot architecture",
+          "internet of things explained",
+          "getting started with the internet of things",
+          "internet of things basics",
+          "smart devices",
+          "iot basics",
+          "shorts"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TjlJp-US2IQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TjlJp-US2IQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TjlJp-US2IQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TjlJp-US2IQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TjlJp-US2IQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "TjlJp-US2IQ",
+      "channel_id": "UC0RhatS1pyxInC00YKjjBqQ",
+      "view_count": 20792,
+      "like_count": 1075,
+      "comment_count": 11,
+      "duration": "PT51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jaO8DY16A4U",
+      "title": "How IoT Technology Works in The Oil and Gas Industry Operations",
+      "content": "Discover how engineers leverage #IoT to monitor #vibration patterns and other critical parameters in real-time. This advanced monitoring system swiftly detects potential anomalies, allowing us to nip problems in the bud before they escalate. Dive into the fascinating world of IoT technology and its impact on the oil and gas industry. Visit https://ncd.io/ to learn more about industrial monitoring and control. NCD Official website \u27a1 https://ncd.io/ Buy it here \u27a1 https://store.ncd.io/ Have a question \u27a1 https://community.ncd.io/ Latest Updates \u27a1 https://ncd.io/blog For the latest updates from NCD follow us: https://www.youtube.com/@ncd-io/ https://www.facebook.com/ncd.io https://twitter.com/ncdiot https://www.linkedin.com/company/ncdio/ https://github.com/ncd-io #ncd #oilindustry #gasindustry #vibrationsensor #vibrations #industrial #industrialelectronics #industrialsolutions #iotapplications #nodered #advancetechnology #industrialproducts #wirelesssensors #wireless",
+      "author": "NCD",
+      "timestamp": "2023-05-26 03:28:56+00:00",
+      "url": "https://www.youtube.com/watch?v=jaO8DY16A4U",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jaO8DY16A4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jaO8DY16A4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jaO8DY16A4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jaO8DY16A4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jaO8DY16A4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jaO8DY16A4U",
+      "channel_id": "UCbg-4CiZwklyBe6iKIZE3Hg",
+      "view_count": 11281,
+      "like_count": 256,
+      "comment_count": 2,
+      "duration": "PT33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8vxAHNCIqBo",
+      "title": "Banyak pemula belajar IoT tapi terjebak dalam kesalahan ini...- Indobot Academy #iot",
+      "content": "Banyak pemula belajar IoT tapi terjebak dalam kesalahan ini: \ud83d\udeab Langsung ke proyek kompleks \u2192 Mulai dari dasar seperti sensor & mikrokontroler. \ud83d\udeab Mengabaikan konsep dasar pemrograman \u2192 Kuasai dulu Python/C sebelum masuk ke IoT. \ud83d\udeab Tidak memahami protokol komunikasi \u2192 MQTT, HTTP, & CoAP itu penting! \ud83d\udeab Kurang latihan praktik \u2192 IoT butuh eksperimen & troubleshooting langsung! Mau belajar IoT dengan bimbingan yang tepat? Komentar \"MAU BELAJAR\" & kami kasih akses ke materi GRATIS! \ud83d\udc47 Belajar dan kembangkan skill dibidang Internet of Things bersama Indobot Academy! Dengan belajar secara bertahap step by step, kami yakin anda akan dapat menerapkan teknologi IoT sendiri. Dapatkan akses ke pengetahuan mendalam tentang pemrograman dan elektronika untuk mengembangkan teknologi Internet of Things yang inovatif. Daftarkan diri Anda untuk bergabung ke kelas kami dan buka pintu menuju peluang tanpa batas dengan klik link dibawah ini ! \ud83e\udd16\ud83d\udca1 https://indobot.co.id/links/youtube/ Follow kami di : Faceb",
+      "author": "Indobot Academy",
+      "timestamp": "2025-02-14 02:15:19+00:00",
+      "url": "https://www.youtube.com/watch?v=8vxAHNCIqBo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "indobot",
+          "academy",
+          "belajar arduino",
+          "belajar iot",
+          "info teknologi"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vxAHNCIqBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vxAHNCIqBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vxAHNCIqBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8vxAHNCIqBo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8vxAHNCIqBo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "id",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8vxAHNCIqBo",
+      "channel_id": "UC-ZywYDy3QcJM5UiO5NTTzg",
+      "view_count": 7671,
+      "like_count": 87,
+      "comment_count": 2,
+      "duration": "PT8S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Fz2gbf8c4Go",
+      "title": "Components of MQTT protocol explained for IoT in 60 seconds\ud83d\udca1",
+      "content": "Discover how your smart devices communicate using MQTT! Learn about its key players\u2014the broker, publisher, subscriber, and topics\u2014and how they work together to make IoT systems seamless and efficient. Dive into the basics of this powerful IoT protocol! Learn about the components of the MQTT protocol in just 60 seconds! If you're into IoT and need to understand MQTT, this quick video will break it down for you. ---------------- HOW TO MQTT SERIES ----------------- How To MQTT Series: https://youtube.com/playlist?list=PLGlKxZrcyaVDFqdtvZwfy326rurYZovuO ESP8266 WifiManager: https://youtu.be/VKqr-RDmRpY What is MQTT: https://youtu.be/DAOa4uuYaGQ Raspberry pi as MQTT broker: https://youtu.be/4LnxB_iJ380\u200b ESP8266 Publish/Subscribe local MQTT broker: https://youtu.be/7gjJfJgi6uE ESP8266 Publish/subscribe to Cloud | MQTT: https://youtu.be/eQvlHKTlYCE Arduino real-time plotting MATLAB: https://youtu.be/hk-RQgofyEw Arduino Real-time plotting PYTHON: https://youtu.be/COhkJwJtWG0 MQT",
+      "author": "High Voltages",
+      "timestamp": "2024-12-24 11:44:13+00:00",
+      "url": "https://www.youtube.com/watch?v=Fz2gbf8c4Go",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "MQTT components",
+          "MQTT broker",
+          "MQTT publisher",
+          "MQTT subscriber",
+          "MQTT topics",
+          "MQTT explained",
+          "how MQTT works",
+          "IoT protocol",
+          "MQTT system",
+          "smart device communication",
+          "mqtt protocol",
+          "iot protocols",
+          "mqtt",
+          "internet of things",
+          "what is mqtt",
+          "mqtt client",
+          "message queuing telemetry transport",
+          "mqtt tutorial",
+          "mqtt methods and components",
+          "mqtt broker home assistant",
+          "mqtt tutorial for beginners",
+          "how to use mqtt"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fz2gbf8c4Go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fz2gbf8c4Go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fz2gbf8c4Go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fz2gbf8c4Go/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fz2gbf8c4Go/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Fz2gbf8c4Go",
+      "channel_id": "UCzOAiIISvLxNVdlf2suEZFw",
+      "view_count": 5160,
+      "like_count": 128,
+      "comment_count": 2,
+      "duration": "PT1M10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "yigetFuQMOQ",
+      "title": "Raspberry Pi Pico 2 & SunFouder Controller #maker #iot",
+      "content": "Welcome to our Public Raspberry Pi & Arduino Enthusiasts Community \u2764 https://linktr.ee/sunfounder",
+      "author": "SunFounder Maker Education",
+      "timestamp": "2025-01-06 01:13:38+00:00",
+      "url": "https://www.youtube.com/watch?v=yigetFuQMOQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yigetFuQMOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yigetFuQMOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yigetFuQMOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yigetFuQMOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yigetFuQMOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "yigetFuQMOQ",
+      "channel_id": "UCf5Q-WNdLaYEx6MfLIPSTgg",
+      "view_count": 240886,
+      "like_count": 1981,
+      "comment_count": 21,
+      "duration": "PT13S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3RPXUAh3osg",
+      "title": "\u0e17\u0e39\u0e15 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\u0e1e\u0e1a\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19\u0e15\u0e31\u0e49\u0e07\u0e1c\u0e34\u0e14 MOU | \u0e02\u0e48\u0e32\u0e27\u0e2d\u0e23\u0e38\u0e13\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c | 6/10/68",
+      "content": "\u0e17\u0e39\u0e15 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\u0e1e\u0e1a\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19\u0e15\u0e31\u0e49\u0e07\u0e1c\u0e34\u0e14 MOU #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e23\u0e38\u0e13\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c #AmarinTV -------------------------- #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c AmarinTV HD 34 \u0e15\u0e34\u0e14\u0e15\u0e32\u0e21\u0e04\u0e27\u0e32\u0e21\u0e40\u0e04\u0e25\u0e37\u0e48\u0e2d\u0e19\u0e44\u0e2b\u0e27 \u0e41\u0e25\u0e30\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e32\u0e23 #\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a #\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e08\u0e32\u0e01 #\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e0a\u0e48\u0e2d\u0e0734 \u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21\u0e17\u0e35\u0e48\u0e40\u0e27\u0e47\u0e1a\u0e44\u0e0b\u0e15\u0e4c https://www.amarintv.com \u0e41\u0e25\u0e30\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07 social media YouTube AmarinTV : https://www.youtube.com/@AMARINTVHD Facebook : https://www.facebook.com/AMARINTVHD Instagram : https://www.instagram.com/amarintvhd TikTok : https://www.tiktok.com/@amarintvhd",
+      "author": "AMARINTV : \u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+      "timestamp": "2025-10-06 02:25:00+00:00",
+      "url": "https://www.youtube.com/watch?v=3RPXUAh3osg",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "AMARIN TV HD",
+          "amarin tv",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c \u0e17\u0e35\u0e27\u0e35",
+          "amarin",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35",
+          "\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e14\u0e39\u0e2d\u0e31\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15",
+          "\u0e14\u0e39\u0e0a\u0e48\u0e2d\u0e0734",
+          "\u0e2d\u0e21\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c\u0e17\u0e35\u0e27\u0e35\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "amarintvonline",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e40\u0e02\u0e21\u0e23",
+          "\u0e44\u0e17\u0e22",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e02\u0e21\u0e23",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "thailand cambodia",
+          "\u0e17\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22",
+          "\u0e17\u0e2b\u0e32\u0e23\u0e40\u0e02\u0e21\u0e23",
+          "\u0e17\u0e2b\u0e32\u0e23\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2d\u0e32\u0e19\u0e21\u0e49\u0e32",
+          "\u0e40\u0e02\u0e21\u0e23\u0e40\u0e1b\u0e34\u0e14\u0e09\u0e32\u0e01\u0e22\u0e34\u0e07",
+          "\u0e0a\u0e32\u0e22\u0e41\u0e14\u0e19\u0e44\u0e17\u0e22\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3RPXUAh3osg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3RPXUAh3osg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3RPXUAh3osg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3RPXUAh3osg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3RPXUAh3osg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3RPXUAh3osg",
+      "channel_id": "UCzMoibQRslh_1bTuW0YXc6A",
+      "view_count": 8078,
+      "like_count": 336,
+      "comment_count": 39,
+      "duration": "PT11M14S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BeOfGD5Dn8c",
+      "title": "Esta Placa IoT Puede Hacerlo TODO (LTE, NB-IoT, GNSS, MQTT...)",
+      "content": "\ud83d\udd17 \u00daNETE A LA COMUNIDAD IOT \ud83d\ude80 https://www.skool.com/iot-builders-8349/about?ref=fd852b788efb41f59a577a727a654b05 \ud83c\udf93 MI PLATAFORMA DE CURSOS IoT Aprende con proyectos reales \ud83d\udc49 https://iotcursosonline.com/ \ud83d\udcf2 Telegram: https://t.me/iotlaboficial \ud83d\udc49WALTER https://www.dptechnics.com/en/products/walter.html \ud83d\udcda RECURSOS GRATUITOS \ud83d\ude80 +50 comandos de Mosquitto con ejemplos reales: \ud83d\udc49 https://shop.beacons.ai/iotlab/b2d20692-b693-4692-9481-569ef6dec36f \ud83e\udd16 Herramientas de IA aplicadas a IoT: \ud83d\udc49 https://shop.beacons.ai/iotlab/d0b88fdf-5919-4577-a2ba-4a24c92eb11c \ud83d\udd30 Gu\u00eda definitiva para empezar en IoT (paso a paso): \ud83d\udc49 https://shop.beacons.ai/iotlab/e69bb8dc-2417-4368-8ea8-0defe0b5afa0 \ud83d\udcec CONTACTO \ud83d\udce7 izan.iot4@gmail.com \ud83d\udcf2 S\u00cdGUEME EN REDES Instagram: https://www.instagram.com/_iot_lab/ TikTok: https://www.tiktok.com/@iot.lab",
+      "author": "IoT Lab",
+      "timestamp": "2025-08-02 09:48:14+00:00",
+      "url": "https://www.youtube.com/watch?v=BeOfGD5Dn8c",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "IoT",
+          "Internet of Things",
+          "dom\u00f3tica",
+          "smart home",
+          "automatizaci\u00f3n",
+          "dispositivos inteligentes",
+          "sensores IoT",
+          "Arduino IoT",
+          "ESP32",
+          "NodeMCU",
+          "MQTT",
+          "Node-RED",
+          "redes IoT",
+          "cloud IoT",
+          "edge computing",
+          "plataformas IoT",
+          "IoT tutorial",
+          "proyectos IoT",
+          "tecnolog\u00eda IoT",
+          "IoT en espa\u00f1ol",
+          "casa inteligente",
+          "hogar inteligente",
+          "sistemas embebidos",
+          "IoT industrial",
+          "seguridad IoT",
+          "IoT para principiantes",
+          "integraci\u00f3n IoT",
+          "control remoto",
+          "IoT con Arduino",
+          "IoT con ESP32",
+          "dashboard IoT",
+          "dispositivos conectados"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BeOfGD5Dn8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BeOfGD5Dn8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BeOfGD5Dn8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BeOfGD5Dn8c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BeOfGD5Dn8c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "es-ES",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BeOfGD5Dn8c",
+      "channel_id": "UCa1kKElk93dAf4eIvg7fg2g",
+      "view_count": 55199,
+      "like_count": 2512,
+      "comment_count": 94,
+      "duration": "PT13M10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "eSSUehUxF9Q",
+      "title": "Remote Plant Irrigation - Arduino IoT Cloud Project #diy #arduino #tech #iot #programming #robotic",
+      "content": "",
+      "author": "SunFounder Maker Education",
+      "timestamp": "2024-07-27 07:29:14+00:00",
+      "url": "https://www.youtube.com/watch?v=eSSUehUxF9Q",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eSSUehUxF9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eSSUehUxF9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eSSUehUxF9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eSSUehUxF9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eSSUehUxF9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "eSSUehUxF9Q",
+      "channel_id": "UCf5Q-WNdLaYEx6MfLIPSTgg",
+      "view_count": 43397,
+      "like_count": 686,
+      "comment_count": 8,
+      "duration": "PT17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "LgurdIN1KW0",
+      "title": "Hacking a Smart Camera: IoT Hacking With Andrew Bellini (Part 1)",
+      "content": "Introducing our new short series where TCM Content Creator Andrew Bellini walks through hacking a smart camera. Follow along with him and up your IoT hacking skills! Subscribe to our channel to see similar shorts, videos, and livestreams in the future. And remember, our Practical Junior IoT Tester (PJIT) cert is live! https://www.tcm.rocks/pjit-y We also offer an IoT & hardware hacking course in our Academy that you can check out if you want to learn how to hack smart devices like Andrew. https://www.tcm.rocks/hh-y Watch Part 2 here: https://youtube.com/shorts/jlGNIt4ZpHc Watch Part 3 here: https://www.youtube.com/shorts/MXWGIiHlzFw Watch Part 4 here: https://www.youtube.com/shorts/siztlT3SCW4 #shorts #hackingtutorial #iotsecurity #iot #infosec #hardwarehacking Sponsor a Video: https://www.tcm.rocks/Sponsors Pentests & Security Consulting: https://tcm-sec.com Get Trained: https://academy.tcm-sec.com Get Certified: https://certifications.tcm-sec.com Merch: https://merch.tcm-sec.co",
+      "author": "The Cyber Mentor",
+      "timestamp": "2024-04-30 20:50:03+00:00",
+      "url": "https://www.youtube.com/watch?v=LgurdIN1KW0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LgurdIN1KW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LgurdIN1KW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LgurdIN1KW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LgurdIN1KW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LgurdIN1KW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "LgurdIN1KW0",
+      "channel_id": "UC0ArlFuFYMpEewyRBzdLHiw",
+      "view_count": 215921,
+      "like_count": 7964,
+      "comment_count": 69,
+      "duration": "PT55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "o9rlLuUpYxo",
+      "title": "Hacking IoT devices with Python (it's too easy to take control)",
+      "content": "Internet of Things (IoT) devices often have very poor security. It's important to be aware of their vulnerabilities - make sure you put those devices on a separate VLAN. Don't trust that your IOT devices have the necessary security to be trusted on networks that have confidential or important data. // Lights used // Amazon.com: https://amzn.to/41vpusL Amazon.co.uk: https://amzn.to/3KPE5bi // GitHub // Yeelight Discovery: https://davidbombal.wiki/yeelightdiscovery Telnet to Yeelight: https://davidbombal.wiki/yeelighttelnet Yeelight1 Python script: https://davidbombal.wiki/yeelight1 Yeelight2 Python script: https://davidbombal.wiki/yeelight2 // MY STUFF // https://www.amazon.com/shop/davidbombal // David SOCIAL // Discord: https://discord.com/invite/usKSyzb Twitter: https://www.twitter.com/davidbombal Instagram: https://www.instagram.com/davidbombal LinkedIn: https://www.linkedin.com/in/davidbombal Facebook: https://www.facebook.com/davidbombal.co TikTok: http://tiktok.com/@david",
+      "author": "David Bombal",
+      "timestamp": "2023-04-21 14:00:35+00:00",
+      "url": "https://www.youtube.com/watch?v=o9rlLuUpYxo",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "python",
+          "kali linux",
+          "linux",
+          "yeelight",
+          "yeelight python",
+          "yeelight telnet",
+          "yeelight hack",
+          "hack yeelight",
+          "yeelight automation",
+          "yeelight bulb",
+          "xiaomi",
+          "xiaomi yeelight",
+          "iot",
+          "iot hack",
+          "iot hacking",
+          "smart home",
+          "yeelight review",
+          "kali linux tutorial",
+          "kali linux tools",
+          "python hack",
+          "hack python",
+          "infosec",
+          "cybersecurity",
+          "security",
+          "how secure",
+          "home hack",
+          "home security",
+          "wifi",
+          "android",
+          "iphone",
+          "samsung",
+          "app",
+          "app security",
+          "iot security",
+          "internet of things",
+          "wireshark",
+          "authentication",
+          "encryption"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o9rlLuUpYxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o9rlLuUpYxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o9rlLuUpYxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o9rlLuUpYxo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o9rlLuUpYxo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "o9rlLuUpYxo",
+      "channel_id": "UCP7WmQ_U4GB3K51Od9QvM0w",
+      "view_count": 187926,
+      "like_count": 6700,
+      "comment_count": 315,
+      "duration": "PT9M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0CCyrjYzJ4A",
+      "title": "\u0e40\u0e02\u0e21\u0e23\u0e01\u0e48\u0e2d\u0e01\u0e27\u0e19! \u0e1a\u0e35\u0e1a\u0e41\u0e15\u0e23-\u0e41\u0e2b\u0e48\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b\u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48 \"\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39\" | 5 \u0e15.\u0e04. 68 | \u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e22\u0e47\u0e19\u0e0a\u0e48\u0e2d\u0e078",
+      "content": "\u0e40\u0e02\u0e21\u0e23\u0e01\u0e48\u0e2d\u0e01\u0e27\u0e19! \u0e1a\u0e35\u0e1a\u0e41\u0e15\u0e23-\u0e41\u0e2b\u0e48\u0e16\u0e48\u0e32\u0e22\u0e23\u0e39\u0e1b \u0e04\u0e13\u0e30 IOT \u0e25\u0e07\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39 \u0e2a\u0e48\u0e2d\u0e07\u0e01\u0e32\u0e2a\u0e34\u0e42\u0e19-\u0e10\u0e32\u0e19\u0e17\u0e31\u0e1e\u0e04\u0e2d\u0e25\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e02\u0e21\u0e23 \u0e14\u0e49\u0e32\u0e19\u0e17\u0e39\u0e15\u0e17\u0e2b\u0e32\u0e23\u0e21\u0e32\u0e40\u0e25\u0e40\u0e0b\u0e35\u0e22 \u0e0a\u0e21\u0e01\u0e2d\u0e07\u0e17\u0e31\u0e1e\u0e1a\u0e01\u0e44\u0e17\u0e22\u0e17\u0e33\u0e15\u0e32\u0e21\u0e02\u0e49\u0e2d\u0e15\u0e01\u0e25\u0e07\u0e2b\u0e22\u0e38\u0e14\u0e22\u0e34\u0e07 \u0e44\u0e21\u0e48\u0e40\u0e2a\u0e23\u0e34\u0e21\u0e01\u0e33\u0e25\u0e31\u0e07-\u0e2d\u0e32\u0e27\u0e38\u0e18 \u0e41\u0e25\u0e30\u0e44\u0e21\u0e48\u0e43\u0e2b\u0e49\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e40\u0e17\u0e47\u0e08 #\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e22\u0e47\u0e19\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 #\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 . \ud83d\udccc\u0e2a\u0e19\u0e43\u0e08\u0e25\u0e07\u0e42\u0e06\u0e29\u0e13\u0e32\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d Email : onlinenewsch8@rs.co.th . \ud83d\udc49 \u0e21\u0e32\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 : https://bit.ly/\u0e2a\u0e21\u0e31\u0e04\u0e23\u0e2a\u0e21\u0e32\u0e0a\u0e34\u0e01\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078 . \ud83d\udccc \u0e2d\u0e22\u0e48\u0e32\u0e25\u0e37\u0e21\u0e01\u0e14\u0e15\u0e34\u0e14\u0e15\u0e32\u0e21 & \u0e01\u0e14\u0e01\u0e23\u0e30\u0e14\u0e34\u0e48\u0e07 \ud83d\udd14 \u0e44\u0e14\u0e49\u0e17\u0e35\u0e48 : https://bit.ly/3xlMjC5 . \ud83d\udc49 \u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e15\u0e01\u0e40\u0e17\u0e23\u0e19\u0e14\u0e4c \u0e43\u0e2b\u0e49\u0e40\u0e23\u0e32\u0e2a\u0e48\u0e07\u0e15\u0e23\u0e07\u0e02\u0e48\u0e32\u0e27\u0e04\u0e23\u0e1a\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e04\u0e25\u0e34\u0e01\u0e40\u0e25\u0e22\u203c Line Official : https://bit.ly/LineThaiCH8News . \ud83d\udccc \u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e40\u0e1e\u0e34\u0e48\u0e21\u0e40\u0e15\u0e34\u0e21 : . Website : http://www.thaich8.com Facebook : https://www.fb.com/thaich8news Twitter : https://twitter.com/thaich8news Instagram : http://instagram.com/thaich8news Tiktok : https://www.tiktok.com/@thaich8_news",
+      "author": "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+      "timestamp": "2025-10-05 10:44:49+00:00",
+      "url": "https://www.youtube.com/watch?v=0CCyrjYzJ4A",
+      "metadata": {
+        "category_id": "25",
+        "tags": [
+          "\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e22\u0e47\u0e19",
+          "\u0e04\u0e38\u0e22\u0e02\u0e48\u0e32\u0e27\u0e40\u0e22\u0e47\u0e19\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e40\u0e02\u0e21\u0e23",
+          "\u0e04\u0e13\u0e30 IOT",
+          "\u0e0a\u0e48\u0e2d\u0e07\u0e2a\u0e32\u0e22\u0e15\u0e30\u0e01\u0e39",
+          "\u0e01\u0e32\u0e2a\u0e34\u0e42\u0e19",
+          "\u0e04\u0e2d\u0e25\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e02\u0e21\u0e23",
+          "\u0e17\u0e39\u0e15\u0e17\u0e2b\u0e32\u0e23",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27",
+          "\u0e25\u0e38\u0e22\u0e0a\u0e19\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e1e\u0e38\u0e17\u0e18\u0e2d\u0e20\u0e34\u0e27\u0e23\u0e23\u0e13",
+          "\u0e02\u0e48\u0e32\u0e27\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e02\u0e48\u0e32\u0e27",
+          "\u0e02\u0e48\u0e32\u0e27\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e14\u0e48\u0e27\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e14\u0e48\u0e19",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2d\u0e2d\u0e19\u0e44\u0e25\u0e19\u0e4c",
+          "\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e40\u0e01\u0e32\u0e30\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49",
+          "\u0e02\u0e48\u0e32\u0e27\u0e01\u0e23\u0e30\u0e41\u0e2a",
+          "\u0e02\u0e48\u0e32\u0e27\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27",
+          "\u0e14\u0e39\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e02\u0e48\u0e32\u0e27\u0e22\u0e49\u0e2d\u0e19\u0e2b\u0e25\u0e31\u0e07",
+          "\u0e0a\u0e48\u0e2d\u0e078",
+          "\u0e2a\u0e14\u0e2a\u0e14",
+          "Thailand",
+          "news",
+          "TV",
+          "Live",
+          "\u0e14\u0e39\u0e17\u0e35\u0e27\u0e35",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14",
+          "\u0e02\u0e48\u0e32\u0e27\u0e2a\u0e14\u0e0a\u0e48\u0e2d\u0e078"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0CCyrjYzJ4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0CCyrjYzJ4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0CCyrjYzJ4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0CCyrjYzJ4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0CCyrjYzJ4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "th",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0CCyrjYzJ4A",
+      "channel_id": "UC6x41swVZP3rEmy-ODxLMFA",
+      "view_count": 68584,
+      "like_count": 933,
+      "comment_count": 31,
+      "duration": "PT9M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zenPU_uOWf0",
+      "title": "Amazing Arduino IoT Project\ud83e\udd2f",
+      "content": "Learn how to create an amazing Arduino IoT project that will blow your mind! Dive into the world of the Internet of Things with this innovative tutorial.",
+      "author": "THE ELECTRONIC GUY",
+      "timestamp": "2024-08-20 14:30:23+00:00",
+      "url": "https://www.youtube.com/watch?v=zenPU_uOWf0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "iot remote",
+          "internet of things development",
+          "arduino iot",
+          "arduino iot cloud esp32",
+          "Arduino",
+          "ESP32",
+          "iot projects"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zenPU_uOWf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zenPU_uOWf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zenPU_uOWf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zenPU_uOWf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zenPU_uOWf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zenPU_uOWf0",
+      "channel_id": "UCevlfy8fq9tYTx9T77LuLng",
+      "view_count": 473032,
+      "like_count": 6400,
+      "comment_count": 52,
+      "duration": "PT24S"
+    }
+  ],
+  "collection_time": "2025-10-06T11:54:30.982574",
+  "keyword": "iot",
+  "exact_match": true
+}

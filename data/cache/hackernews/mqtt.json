@@ -1,0 +1,185 @@
+{
+  "keyword": "mqtt",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collection_date": "2025-10-07T13:40:00.000000",
+  "total_posts": 683,
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "mqtt",
+    "total_posts": 683,
+    "total_interactions": 1652,
+    "unique_authors": 463,
+    "top_contributors": [
+      {
+        "author": "datameta",
+        "post_count": 19,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=datameta"
+      },
+      {
+        "author": "dlandiak",
+        "post_count": 11,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=dlandiak"
+      },
+      {
+        "author": "kkfx",
+        "post_count": 8,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=kkfx"
+      },
+      {
+        "author": "mindslight",
+        "post_count": 8,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=mindslight"
+      },
+      {
+        "author": "parasubvert",
+        "post_count": 7,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=parasubvert"
+      },
+      {
+        "author": "willhschmid",
+        "post_count": 6,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=willhschmid"
+      },
+      {
+        "author": "blutack",
+        "post_count": 6,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=blutack"
+      },
+      {
+        "author": "joshuanapoli",
+        "post_count": 5,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=joshuanapoli"
+      },
+      {
+        "author": "NortySpock",
+        "post_count": 5,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=NortySpock"
+      },
+      {
+        "author": "zer00eyz",
+        "post_count": 5,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=zer00eyz"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Show HN: Trolling SMS spammers with Ollama",
+        "interactions": 444,
+        "author": "Evidlo",
+        "created_at": "2025-01-22 19:23:48 UTC",
+        "url": "https://news.ycombinator.com/item?id=42796496",
+        "platform": "hackernews"
+      },
+      {
+        "title": "MQTT turns 25",
+        "interactions": 363,
+        "author": "andypiper",
+        "created_at": "2024-10-22 10:01:24 UTC",
+        "url": "https://news.ycombinator.com/item?id=41912787",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Libwebsockets: pure C library for http, websockets, MQTT",
+        "interactions": 232,
+        "author": "seansh",
+        "created_at": "2024-01-06 22:17:37 UTC",
+        "url": "https://news.ycombinator.com/item?id=38896096",
+        "platform": "hackernews"
+      },
+      {
+        "title": "New scalable, fault-tolerant, and efficient open-source MQTT broker",
+        "interactions": 193,
+        "author": "ashvayka",
+        "created_at": "2023-12-18 14:28:56 UTC",
+        "url": "https://news.ycombinator.com/item?id=38682964",
+        "platform": "hackernews"
+      },
+      {
+        "title": "High Available Mosquitto MQTT on Kubernetes",
+        "interactions": 82,
+        "author": "jandeboevrie",
+        "created_at": "2025-05-14 20:42:36 UTC",
+        "url": "https://news.ycombinator.com/item?id=43988975",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Android SMS Gateway Using MQTT",
+        "interactions": 58,
+        "author": "modinfo",
+        "created_at": "2025-01-25 00:38:18 UTC",
+        "url": "https://news.ycombinator.com/item?id=42818337",
+        "platform": "hackernews"
+      },
+      {
+        "title": "DoS Attacks in Available MQTT Implementations (2021)",
+        "interactions": 58,
+        "author": "goodburb",
+        "created_at": "2024-01-25 05:55:24 UTC",
+        "url": "https://news.ycombinator.com/item?id=39126618",
+        "platform": "hackernews"
+      },
+      {
+        "title": "MQTT, once the cornerstone of IoT communication, is starting to show its age",
+        "interactions": 36,
+        "author": "debadyutirc",
+        "created_at": "2024-10-16 21:26:31 UTC",
+        "url": "https://news.ycombinator.com/item?id=41864001",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: Turn Kafka into an MQTT Broker for IoT with Zilla",
+        "interactions": 27,
+        "author": "luk212",
+        "created_at": "2023-12-18 16:40:52 UTC",
+        "url": "https://news.ycombinator.com/item?id=38684879",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: Transitive, an open-source framework for full-stack robotic software",
+        "interactions": 12,
+        "author": "chfritz",
+        "created_at": "2024-01-17 18:20:37 UTC",
+        "url": "https://news.ycombinator.com/item?id=39031399",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 5,
+      "2025-09": 13,
+      "2025-08": 31,
+      "2025-07": 25,
+      "2025-06": 12,
+      "2025-05": 36,
+      "2025-04": 15,
+      "2025-03": 42,
+      "2025-02": 15,
+      "2025-01": 52,
+      "2024-12": 43,
+      "2024-10": 62,
+      "2024-09": 11,
+      "2024-08": 15,
+      "2024-06": 13,
+      "2024-05": 18,
+      "2024-04": 27,
+      "2024-07": 16,
+      "2024-03": 16,
+      "2024-02": 46,
+      "2024-01": 41,
+      "2023-12": 58,
+      "2023-11": 40,
+      "2024-11": 18,
+      "2023-10": 13
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "keyword": "chatgpt",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collected_at": "2025-10-07T14:38:09.995582",
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "chatgpt",
+    "total_posts": 46783,
+    "total_interactions": 134250,
+    "unique_authors": 17931,
+    "top_contributors": [
+      {
+        "author": "simonw",
+        "post_count": 269,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=simonw"
+      },
+      {
+        "author": "ben_w",
+        "post_count": 266,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ben_w"
+      },
+      {
+        "author": "fragmede",
+        "post_count": 255,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=fragmede"
+      },
+      {
+        "author": "scarface_74",
+        "post_count": 147,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=scarface_74"
+      },
+      {
+        "author": "TeMPOraL",
+        "post_count": 114,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=TeMPOraL"
+      },
+      {
+        "author": "minimaxir",
+        "post_count": 87,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=minimaxir"
+      },
+      {
+        "author": "solardev",
+        "post_count": 76,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=solardev"
+      },
+      {
+        "author": "talldayo",
+        "post_count": 64,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=talldayo"
+      },
+      {
+        "author": "franze",
+        "post_count": 63,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=franze"
+      },
+      {
+        "author": "tombert",
+        "post_count": 63,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=tombert"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "ChatGPT Search",
+        "interactions": 2737,
+        "author": "thm",
+        "created_at": "2024-10-31 16:41:22 UTC",
+        "url": "https://news.ycombinator.com/item?id=42008569",
+        "platform": "hackernews"
+      },
+      {
+        "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
+        "interactions": 2064,
+        "author": "ColinWright",
+        "created_at": "2025-06-04 21:47:33 UTC",
+        "url": "https://news.ycombinator.com/item?id=44185913",
+        "platform": "hackernews"
+      },
+      {
+        "title": "ChatGPT Pro",
+        "interactions": 2010,
+        "author": "meetpateltech",
+        "created_at": "2024-12-05 18:09:31 UTC",
+        "url": "https://news.ycombinator.com/item?id=42330732",
+        "platform": "hackernews"
+      },
+      {
+        "title": "OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show",
+        "interactions": 1780,
+        "author": "richardatlarge",
+        "created_at": "2024-05-22 23:16:52 UTC",
+        "url": "https://news.ycombinator.com/item?id=40448045",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Adding a feature because ChatGPT incorrectly thinks it exists",
+        "interactions": 1723,
+        "author": "adrianh",
+        "created_at": "2025-07-07 14:58:09 UTC",
+        "url": "https://news.ycombinator.com/item?id=44491071",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Canvas is a new way to write and code with ChatGPT",
+        "interactions": 1664,
+        "author": "davidbarker",
+        "created_at": "2024-10-03 17:07:23 UTC",
+        "url": "https://news.ycombinator.com/item?id=41732634",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world",
+        "interactions": 1534,
+        "author": "ctbergstrom",
+        "created_at": "2025-02-09 08:24:17 UTC",
+        "url": "https://news.ycombinator.com/item?id=42989320",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT",
+        "interactions": 1415,
+        "author": "882542F3884314B",
+        "created_at": "2023-12-31 02:32:22 UTC",
+        "url": "https://news.ycombinator.com/item?id=38821248",
+        "platform": "hackernews"
+      },
+      {
+        "title": "ChatGPT Pulse",
+        "interactions": 1355,
+        "author": "meetpateltech",
+        "created_at": "2025-09-25 16:59:55 UTC",
+        "url": "https://news.ycombinator.com/item?id=45375477",
+        "platform": "hackernews"
+      },
+      {
+        "title": "ChatGPT’s system prompts",
+        "interactions": 1216,
+        "author": "spdustin",
+        "created_at": "2023-10-14 09:02:23 UTC",
+        "url": "https://news.ycombinator.com/item?id=37879077",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 334,
+      "2025-09": 2102,
+      "2025-08": 2686,
+      "2025-07": 2249,
+      "2025-06": 2060,
+      "2025-05": 2147,
+      "2025-04": 2158,
+      "2025-03": 1562,
+      "2025-02": 1705,
+      "2025-01": 1954,
+      "2024-12": 1825,
+      "2024-10": 1715,
+      "2024-09": 1503,
+      "2024-08": 1303,
+      "2024-06": 1847,
+      "2024-05": 2247,
+      "2024-04": 1334,
+      "2024-07": 1317,
+      "2024-03": 1572,
+      "2024-02": 2166,
+      "2024-01": 2187,
+      "2023-12": 2226,
+      "2023-11": 3740,
+      "2024-11": 1269,
+      "2023-10": 1575
+    }
+  },
+  "total_posts": 46783
+}

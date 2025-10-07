@@ -1,0 +1,2882 @@
+{
+  "keyword": "LLM",
+  "platform": "youtube",
+  "data_source": "time_all",
+  "collection_time": "2025-10-07T14:45:06.698584",
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "B7GDr-VFuEo",
+      "title": "Nvidia, You’re Late. World’s First 128GB LLM Mini Is Here!",
+      "content": "DGX Spark keeps getting delayed?! This 128GB powerhouse is already out and will only get better - the GMKTec EVO-X2. Check out ChatLLM: https://chatllm.abacus.ai/ltf 🛒 Gear Links 🛒 * 📦🎮 Mini Rack: https://amzn.to/4dXfwan * 💻🔄 The GmkTec EVO X2: https://amzn.to/4l5BHOh or if sold out try directly from them: https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc * 🍏💥 M4 Mac Mini Deal: https://amzn.to/3ZVDfly * 🍏💥 M4 Pro Mac Mini Deal: https://amzn.to/3ZVDfly * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 👨‍💻 This Laptop Runs LLMs Better Than Most Desktops - https://youtu.be/AcTmeGpzhBk * 👨‍💻 Full Z13 review - https://youtu.be/fGEqxHurxZM * 🌗 How long can they last? | ULTIMATE BATTERY TEST - https://youtu.be/u1XJAOf_W5w * 👨‍💻 Set up laptop for Software Development - https://youtu.be/3mCZ3WUcM8s * 👨‍💻 15\" MacBook Air | developer's dream -",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-06-10T16:13:23+00:00",
+      "url": "https://www.youtube.com/watch?v=B7GDr-VFuEo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "tech news",
+          "tech",
+          "news",
+          "Microsoft",
+          "Surface",
+          "Copilot Plus PCs",
+          "Snapdragon X Elite",
+          "Windows 11",
+          "AI PC",
+          "NPU",
+          "Arm64",
+          "Arm PCs",
+          "ASUS",
+          "windows arm",
+          "benchmarks",
+          "x elite",
+          "x plus",
+          "x elite benchmarks",
+          "x elite vs m3",
+          "m3 vs x elite",
+          "amd",
+          "asus",
+          "asus zenbook",
+          "zenbook",
+          "battery",
+          "battery test",
+          "laptop",
+          "long lasting laptop",
+          "arrow lake",
+          "285H",
+          "amd ai",
+          "amd ai max+",
+          "max+",
+          "max+ 395",
+          "flow z13",
+          "asus flow",
+          "asus flow z13",
+          "gmktec",
+          "evo",
+          "gmktec evo",
+          "evo x2",
+          "evo-x2",
+          "gmktec x2",
+          "gmktec evo x2",
+          "llm",
+          "ai",
+          "dgx spark"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7GDr-VFuEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7GDr-VFuEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7GDr-VFuEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B7GDr-VFuEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B7GDr-VFuEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "B7GDr-VFuEo",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 691316,
+      "like_count": 15347,
+      "comment_count": 1128,
+      "duration": "PT20M11S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5sLYAQS9sWQ",
+      "title": "How Large Language Models Work",
+      "content": "Learn in-demand Machine Learning skills now → https://ibm.biz/BdK65D Learn about watsonx → https://ibm.biz/BdvxRj Large language models-- or LLMs --are a type of generative pretrained transformer (GPT) that can create human-like text and code. There's a lot of talk about GPTs and LLMs lately, but they've actually been around for years! In this video, Martin Keen briefly explains what a LLM is, how they relate to foundation models, and then covers how they work and how they can be used to address various business problems. AI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdK65X #llm #gpt #gpt3 #largelanguagemodel #watsonx #GenerativeAI #Foundationmodels",
+      "author": "IBM Technology",
+      "timestamp": "2023-07-28T13:13:59+00:00",
+      "url": "https://www.youtube.com/watch?v=5sLYAQS9sWQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "IBM",
+          "IBM Cloud",
+          "Foundationmodels",
+          "Generativeai",
+          "LLM",
+          "foundation modeles",
+          "GAI",
+          "genai",
+          "Gen AI",
+          "Generative AI",
+          "Large Language Models",
+          "LLMs",
+          "AI",
+          "Artificial Intellegence",
+          "Text Generator",
+          "GPT",
+          "ChatGPT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5sLYAQS9sWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5sLYAQS9sWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sLYAQS9sWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5sLYAQS9sWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5sLYAQS9sWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5sLYAQS9sWQ",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 1190846,
+      "like_count": 17895,
+      "comment_count": 329,
+      "duration": "PT5M34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "wW-Rj5MW2EU",
+      "title": "4 levels of LLMs (on the go)",
+      "content": "I put four portable systems to the local LLM test. 🛒 Gear Links 🛒 * 💻🔄 K8 Plus with 32GB RAM: https://amzn.to/3FnjJY0 * 📦🎮 GPU2: https://onexplayerstore.com/products/onexgpu-2-ultimate-egpu-with-amd-radeon-rx-7800m?variant=49781029437734 * 🛠️🚀 96GB RAM kit: https://amzn.to/3ZhQ4qR * 🍏💥 M4 Max: https://amzn.to/3XIRw3X * 🎧⚡ RTX 4090: https://amzn.to/3YvvHpg * 🛠️🚀 Mini PC with Oculink: https://amzn.to/3UgLNAK * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🤯 Cheap mini runs a 70B LLM - https://youtu.be/xyKEQjUzfAk * 🤖 It’s over…my new LLM Rig - https://youtu.be/IXixbu7Kkd8 * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k * 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX 🔗 AI for Coding Play",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-03-11T12:01:31+00:00",
+      "url": "https://www.youtube.com/watch?v=wW-Rj5MW2EU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "apple silicon",
+          "apple event",
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "machine learning",
+          "llm",
+          "m3max",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "nucbox",
+          "rtx 4090",
+          "rtx4090",
+          "llm on 4090",
+          "local llm",
+          "m2 pro",
+          "mac mini",
+          "mac mini m2 pro",
+          "5080",
+          "rtx5080",
+          "rtx 5080",
+          "k8 plus",
+          "m4",
+          "m4 max",
+          "m4 ml",
+          "m4 max llm",
+          "ml on m4",
+          "m4 chip"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wW-Rj5MW2EU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wW-Rj5MW2EU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wW-Rj5MW2EU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wW-Rj5MW2EU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wW-Rj5MW2EU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "wW-Rj5MW2EU",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 85643,
+      "like_count": 3546,
+      "comment_count": 308,
+      "duration": "PT14M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "cpfQA-JdSDU",
+      "title": "Raspberry Pi 5 LLM Ai Kit #largelanguagemodels #raspberrypi #llm #ai elecrow.com #offlineai",
+      "content": "LLM stands for Large Language Models, basically the ability to host your own offline ai model free of strings.",
+      "author": "Valleytech Custom Solutions",
+      "timestamp": "2025-09-01T10:01:10+00:00",
+      "url": "https://www.youtube.com/watch?v=cpfQA-JdSDU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cpfQA-JdSDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cpfQA-JdSDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cpfQA-JdSDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cpfQA-JdSDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cpfQA-JdSDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "cpfQA-JdSDU",
+      "channel_id": "UCTEwUEqrf_OQ0lV4rbO_Beg",
+      "view_count": 22792,
+      "like_count": 421,
+      "comment_count": 39,
+      "duration": "PT18S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "HeGIdjmrZYU",
+      "title": "Top Python Libraries for LLMs #python #llm #coding",
+      "content": "These are the top Python libraries for working with LLMs. 1. TensorFlow is widely used in both industry and research for tasks like NLP and image recognition. TensorFlow Hub offers many pre-trained models and TensorFlow Serving supports scalable deployment with A/B testing and model versioning. Its integration with Keras simplifies model building, and its XLA compiler boosts performance across different hardware. 2. PyTorch is a favorite in the research community and is often cited in academic papers and AI conferences. It’s known for its dynamic computation graph, allowing you to adjust models as you run them. It excels at scaling LLMs with TorchServe and offers GPU acceleration too. 3. Transformers by Hugging Face is tailored for NLP with access to over 30,000 pre-trained models. It integrates smoothly with both PyTorch and TensorFlow, making it easy to fine-tune and deploy models for tasks like text generation and summarization. What's more, it is supported by a strong global com",
+      "author": "Plivo",
+      "timestamp": "2024-09-09T10:04:06+00:00",
+      "url": "https://www.youtube.com/watch?v=HeGIdjmrZYU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "python",
+          "llm",
+          "llms",
+          "ai",
+          "TensorFlow",
+          "PyTorch",
+          "Hugging Face",
+          "Hugging Face Transformers",
+          "TensorFlow Serving",
+          "TensorFlow Hub",
+          "Keras",
+          "XLA",
+          "XLA Compiler",
+          "TorchServe",
+          "PyTorch TorchServe",
+          "NLP",
+          "coding",
+          "tech",
+          "developer",
+          "pythonic"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HeGIdjmrZYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HeGIdjmrZYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HeGIdjmrZYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HeGIdjmrZYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HeGIdjmrZYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "HeGIdjmrZYU",
+      "channel_id": "UCNL8MQasO7O-q_g_8X6CI2g",
+      "view_count": 3399,
+      "like_count": 160,
+      "comment_count": 0,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Ov_cfarGoNk",
+      "title": "I ran LLM from a thumb drive… here’s how speed really scales",
+      "content": "I tested how long it takes to load massive AI models from the world’s slowest thumb drive to the fastest SSD ever made. 🛒 Gear Links 🛒 🗄️⚡ Mini Rack: https://amzn.to/4dXfwan 📡💾 SSD NAS: https://amzn.to/45LBv1H 🔗📦 SSD DAS: https://amzn.to/3HIrlpv ⚡🚀 7450MB/s SSD: https://amzn.to/4lZp7Qz 🔥💿 14900MB/s SSD: https://amzn.to/3JHjbhL 🔌⚙️ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW ⚡🛸 My nvme ssd: https://amzn.to/3YLEySo 🛠️🛍️ My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🧬🐍 Mac Studio CLUSTER vs M3 Ultra 🤯 - https://youtu.be/d8yS-2OyJhw 🧳🧰 Mini PC portable setup - https://youtu.be/4RYmsrarOSw 🍎💻 Dev setup on Mac - https://youtu.be/KiKUN4i1SeU 💸🧠 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk 🧪🔥 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M 🍏⚡ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo 🧠📉 REALITY vs Apple’s Memory Claims | vs RTX4090m - https://youtu.be/fdvzQAWXU7A ⚡💥 Thunderbolt 5 BREAKS Apple’s",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-09-03T14:19:09+00:00",
+      "url": "https://www.youtube.com/watch?v=Ov_cfarGoNk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec k9",
+          "mac mini",
+          "m4 pro mac mini",
+          "m4 max",
+          "mac studio",
+          "m3 ultra",
+          "m4 max mac studio",
+          "mac cluster",
+          "nas",
+          "das",
+          "terramaster",
+          "f4 ssd",
+          "ssd nas",
+          "ssd das",
+          "d4 ssd"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ov_cfarGoNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ov_cfarGoNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ov_cfarGoNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ov_cfarGoNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ov_cfarGoNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Ov_cfarGoNk",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 16169,
+      "like_count": 774,
+      "comment_count": 67,
+      "duration": "PT10M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "LQ0malI_yNU",
+      "title": "AI 開放模型打破壟斷? 天下模型源出Google? LLM 百家爭鳴誰會勝出? | 未來學 ep16",
+      "content": "點解 Elon Musk 會串 OpenAI 其實係 closed AI? 開放權重係咩一回事? LLM 未來發展會越嚟越開放? Google、DeepSeek、仲有咁多間 AI 公司，邊個先會係終極贏家？ 00:00:00 - 介紹主題同主持 00:01:27 - 開放模型/開放權重 00:05:50 - 使用開放模型同一般AI有咩分別 00:10:46 - OpenAI 並唔開放? 00:15:03 - 天下模型源出Google? 00:17:52 - DeepSeek 打破壟斷, 百家爭鳴? 00:23:36 - 開放定專屬會勝出? 00:28:42 - 建議使用開放模型? 00:35:02 - 未來 AI 模型嘅發展方向 主持: 江啟明 - 新南威爾斯大學工程學博士，學識平台負責人。 Keith 李勁華 - 香港無線科技商會主席。 如果想了解更多關於安裝自己的AI, 可以上 hok6.com, 報讀「免費又安全的AI : 本地 LLM入門」影片課程: https://www.hok6.com/course-group/639 ---------- 【未來學】https://youtube.com/playlist?list=PLkasUa74E1ox3ADGor80ZZkHbn3faSjxY 【學識開咪】https://youtube.com/playlist?list=PLkasUa74E1oybwqSLhpUUTTbNqeAHQSxy&si=Q0zg8BhrTGpfm7bK 【精選免費講座】https://youtube.com/playlist?list=PLkasUa74E1ozFs6_wM2B18Zqn-1LD70tT&si=Asqy9cRgEIdHvWgJ 【平台介紹】https://www.youtube.com/watch?v=za-v0qf7tjA&list=PLkasUa74E1ow5Lnsad6AVL8Ehj38y_4M2 【課程介紹】https://youtube.com/playlist?list=PLkasUa74E1oyhm8KforsdkZ8PcmiP5XuS&si=9r5MIDN2UmEkdgv0 ------- 記得 subscribe 學識嘅頻道 https://www.youtube.com/@Hok6 ,",
+      "author": "學識 Hok6",
+      "timestamp": "2025-10-04T13:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=LQ0malI_yNU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "學識",
+          "廣東話",
+          "知識",
+          "香港",
+          "AI",
+          "學習",
+          "未來",
+          "粵語",
+          "人文",
+          "哲學",
+          "思想",
+          "思考",
+          "開放模型",
+          "deepseek",
+          "anthropic",
+          "Google",
+          "OpenAI",
+          "李勁華",
+          "江啟明",
+          "LLM",
+          "百家爭鳴",
+          "Elon Musk",
+          "Sam Altman",
+          "Kimi",
+          "Mac"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQ0malI_yNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQ0malI_yNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQ0malI_yNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LQ0malI_yNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LQ0malI_yNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "zh-HK",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "LQ0malI_yNU",
+      "channel_id": "UCNGVAymtaW8FxUjWKGwGfUA",
+      "view_count": 2851,
+      "like_count": 127,
+      "comment_count": 8,
+      "duration": "PT37M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "xyKEQjUzfAk",
+      "title": "Cheap mini runs a 70B LLM 🤯",
+      "content": "I put 96GB of RAM in this tiny mini PC and ran Llama 70B LLM on it. Chair: Doro S100 Chair - enjoy 6%OFF: YTBZIS USA&CA: https://sihoooffice.com/DoroS100-AlexZiskind EU&UK: https://de.sihoooffice.com/DoroS100-AlexZiskind Amazon：https://amzn.to/3V9A5t8 🛒 Gear Links 🛒 * 🍏💥 K9 Mini with 32GB RAM: https://amzn.to/3ZiKjcp * 🛠️🚀 96GB RAM kit: https://amzn.to/3ZhQ4qR * 💻🔄 Renewed MacBook Air M1 Deal: https://amzn.to/45K1Gmk * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k * 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX 🔗 AI for Coding Playlist: 📚 - h",
+      "author": "Alex Ziskind",
+      "timestamp": "2024-09-09T14:28:35+00:00",
+      "url": "https://www.youtube.com/watch?v=xyKEQjUzfAk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "apple silicon",
+          "apple event",
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "ipx",
+          "intel",
+          "intel llm",
+          "intel ipx",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "nucbox"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xyKEQjUzfAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xyKEQjUzfAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xyKEQjUzfAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xyKEQjUzfAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xyKEQjUzfAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "xyKEQjUzfAk",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 577557,
+      "like_count": 9269,
+      "comment_count": 698,
+      "duration": "PT11M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0EInsMyH87Q",
+      "title": "Local LLM Challenge | Speed vs Efficiency",
+      "content": "I put three systems to the local LLM test. 🛒 Gear Links 🛒 * 💻🔄 K9 Mini with 32GB RAM: https://amzn.to/3ZiKjcp * 🛠️🚀 96GB RAM kit: https://amzn.to/3ZhQ4qR * 🍏💥 Mac Mini M2 Pro: https://amzn.to/4fbgmzY * 🎧⚡ RTX 4090: https://amzn.to/3YvvHpg * 🛠️🚀 Mini PC with Oculink: https://amzn.to/3UgLNAK * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🤯 Cheap mini runs a 70B LLM - https://youtu.be/xyKEQjUzfAk * 🤖 It’s over…my new LLM Rig - https://youtu.be/IXixbu7Kkd8 * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k * 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX 🔗 AI for Coding Playlist: 📚 - https://www.youtube.com/playlist?list=PLPwbI_iIX3aSlUmRtYPfbQHt4n0YaX0qw — — — — — — — — — ❤️ SUBSCRIBE TO",
+      "author": "Alex Ziskind",
+      "timestamp": "2024-10-21T15:20:30+00:00",
+      "url": "https://www.youtube.com/watch?v=0EInsMyH87Q",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "apple silicon",
+          "apple event",
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "ipx",
+          "intel",
+          "intel llm",
+          "intel ipx",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "nucbox",
+          "rtx 4090",
+          "rtx4090",
+          "llm on 4090",
+          "local llm",
+          "m2 pro",
+          "mac mini",
+          "mac mini m2 pro"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0EInsMyH87Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0EInsMyH87Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EInsMyH87Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0EInsMyH87Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0EInsMyH87Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0EInsMyH87Q",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 252529,
+      "like_count": 6595,
+      "comment_count": 500,
+      "duration": "PT16M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hNkvTDqeQl0",
+      "title": "Mac Mini vs RTX 3060 for Local LLM Mind Blowing Results! #localllms #tailscale #linux",
+      "content": "#n8n #localllms #llms #lmstudio #tailscale #linux In this video, we’ll connect your local resources to the cloud using Tailscale. You’ll learn how to run N8n and local LLMs remotely, integrating cloud-based N8n with your local machines. This practical, cost-effective solution will save you time and money, whether you’re doing research, generating images, or managing long-running processes. Watch FULL VIDEO here 👉🏻 https://youtu.be/AoOLhJXjIQY?si=fjjOlexaWxaL8hpl ## Links 👉🏻 UsWork.ai https://uswork.ai/ 👉🏻 Forum Sign Details https://training.dailyai.studio/ 👉🏻 NewsLetter https://signup.dailyai.studio/ 👉🏻 Training https://training.dailyai.studio/ 👉🏻 Scrapegraphai - SUPPORT https://scrapegraphai.com/welcome?via=alfred 👉🏻 Clothing https://www.stitchfix.com/invite/zwkjpzn4xs?utm_campaign=InviteReferral&sod=w&som=c 👉🏻 Swag https://store.dailyai.studio/",
+      "author": "Alfred @ DailyAi",
+      "timestamp": "2025-06-18T15:01:13+00:00",
+      "url": "https://www.youtube.com/watch?v=hNkvTDqeQl0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "nocode",
+          "automations",
+          "n8n",
+          "actionpieces"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hNkvTDqeQl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hNkvTDqeQl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hNkvTDqeQl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hNkvTDqeQl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hNkvTDqeQl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hNkvTDqeQl0",
+      "channel_id": "UCZa3QWzy1z1G9FIw02pytdA",
+      "view_count": 26838,
+      "like_count": 140,
+      "comment_count": 17,
+      "duration": "PT1M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "JuU1JQL6S2w",
+      "title": "Qwen 3 Coder Plus: BEST Agentic Coding LLM! Insanely Powerful, Fast, & Free! (Opensource)",
+      "content": "Register free for ZapConnect 2025 now at https://try.zapier.com/zc2025worldofai and light the way to AI-powered work! Alibaba just released Qwen 3 Coder Plus, the ultimate agentic coding LLM! With 128K token context, advanced tool-calling, and autonomous programming capabilities, this open-source powerhouse can handle complex coding tasks like building games, apps, and full-stack projects. Whether you’re generating a Minecraft clone, automating scripts, or creating multi-file projects, Qwen 3 Coder Plus is fast, smart, and free to use. 🔗 My Links: Sponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com 🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi ☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall 🧠 Follow me on Twitter: https://twitter.com/intheworldofai 🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCY",
+      "author": "WorldofAI",
+      "timestamp": "2025-09-24T00:13:05+00:00",
+      "url": "https://www.youtube.com/watch?v=JuU1JQL6S2w",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "qwen 3 coder",
+          "kimi k2",
+          "qwen 3",
+          "qwen 3 max",
+          "qwen 3 coder plus",
+          "agentic coding llm",
+          "opensource coder",
+          "free ai coder",
+          "best opensource llm",
+          "open source llm",
+          "qwen3-coder",
+          "alibaba ai",
+          "open-source coding model",
+          "agentic coding",
+          "qwen code cli",
+          "swe-bench",
+          "qwen3 480b",
+          "coding llm",
+          "coding assistant",
+          "ai coding tools",
+          "free ai coding model",
+          "code generation ai",
+          "qwen code",
+          "qwen3 235b a22b 2507",
+          "qwen 3 2507",
+          "qwen3 benchmark",
+          "qwen 2507",
+          "qwen 235b",
+          "claude opus 4",
+          "agentic ai"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuU1JQL6S2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuU1JQL6S2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuU1JQL6S2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuU1JQL6S2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuU1JQL6S2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "JuU1JQL6S2w",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "view_count": 23032,
+      "like_count": 472,
+      "comment_count": 33,
+      "duration": "PT10M43S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "mni63pkxZfA",
+      "title": "5 FREE AI APIs You Should Use #ai #developer #llm #softwaredeveloper #code #coding",
+      "content": "Here are 5 FREE AI APIs that you can use in your next application. The Hugging Face Serverless Inference API gives you access to thousands of ML models. With the Hugging Face Serverless Inference API you get 50 requests per hour for free. If you want to upgrade to the Hugging Face Serverless Inference API PRO and Enterprise plans, you get 500 requests per hour. AssemblyAI gives you up 416 free hours of speech-to-text. Also, AssemblyAI does not require your credit card! AssemblyAI has built the industry's most accurate Automatic Speech Recognition (ASR) model. EdenAI is an AI API that gives businesses access to multiple AI models. EdenAI has a free tier for 1-member teams where you get one API call per second, no credit card required. EdenAI also offers a number of paid API plans as well, should you wish to upgrade. Cohere, an AI platform for enterprises, will give you a trial API key for free for their suite of AI tools. However, Cohere does have fairly strict rate limits. Google",
+      "author": "Plivo",
+      "timestamp": "2024-10-01T11:27:18+00:00",
+      "url": "https://www.youtube.com/watch?v=mni63pkxZfA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Hugging Face Serverless Inference API",
+          "Hugging Face",
+          "Hugging Face API",
+          "Hugging Face Free API",
+          "AssemblyAI",
+          "AssemblyAI free API",
+          "AssemblyAI API",
+          "EdenAI",
+          "EdenAI API",
+          "EdenAI free API",
+          "Cohere",
+          "Cohere API",
+          "Cohere Free API",
+          "Google Cloud",
+          "Google Cloud API",
+          "Google Cloud Free API",
+          "Google Cloud $300 Credit",
+          "Free APIs",
+          "Free AI APIs",
+          "Top Free AI APIs",
+          "Top Free APIs"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mni63pkxZfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mni63pkxZfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mni63pkxZfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mni63pkxZfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mni63pkxZfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "mni63pkxZfA",
+      "channel_id": "UCNL8MQasO7O-q_g_8X6CI2g",
+      "view_count": 384242,
+      "like_count": 28465,
+      "comment_count": 130,
+      "duration": "PT45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "48o1DM1dM4s",
+      "title": "Run AI LLM Chatbots Locally on Your Phone: Full Control & Privacy! 🤖📱 | Open Source Revolution #llm",
+      "content": "Imagine having the power of Large Language Models (LLMs) right in your pocket—running locally on your phone with full privacy, control, and even customization. In this video, I’m exploring PocketPal, an incredible open-source app that lets you: Run chat models like Llama and Smollm locally on your device. Load your own AI models from Hugging Face or your file system. Take back control of your AI without relying on online services. Enjoy the flexibility to tweak, modify, or optimize your setup. PocketPal is available on both the Play Store for Android and App Store for iOS, making it accessible to everyone. And yes, it’s completely open-source, empowering users to shape their AI experience. ⚙️ What I Love About PocketPal: True data privacy with no reliance on external servers. Offline capability as a bonus. Easy-to-use interface with a range of phone-optimized models. 🌟My Gear: Tripod https://amzn.to/2UFENOB Mobile mount for Tripod https://amzn.to/32VoYI0 🎙 Mic https://amzn.to/3feR",
+      "author": "Pushakar Gaikwad",
+      "timestamp": "2024-11-29T14:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=48o1DM1dM4s",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Local AI Models on Phone",
+          "Privacy Focused AI Tools",
+          "Large Language Models Offline",
+          "Llama AI on Android",
+          "Open Source AI",
+          "self hosted ai",
+          "open source",
+          "on device LLM",
+          "LLMs on mobile",
+          "offline",
+          "free",
+          "AI assistant",
+          "AI tools",
+          "local AI",
+          "private AI",
+          "open source AI",
+          "AI ethics",
+          "machine learning",
+          "chatbot",
+          "tech experiments",
+          "MIT license"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/48o1DM1dM4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/48o1DM1dM4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/48o1DM1dM4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/48o1DM1dM4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/48o1DM1dM4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "48o1DM1dM4s",
+      "channel_id": "UC_KTdToZq11v7s3orFuKBTw",
+      "view_count": 72562,
+      "like_count": 0,
+      "comment_count": 57,
+      "duration": "PT50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ZmY35-ifJuo",
+      "title": "Near silent LLM Monster... NVIDIA, take notes",
+      "content": "This is how AMD's Ryzen AI Max+ 395 should be done - a whisper-quiet 128GB powerhouse that’s built for local AI, with the Framework Desktop boards. Check out ChatLLM: https://chatllm.abacus.ai/ltf 🛒 Gear Links 🛒 📦🖥️ Mini Rack: https://amzn.to/4dXfwan 📦📏 Taller Mini Rack: https://amzn.to/4lKdCwb 🌐⚡ 10Gb switch: https://amzn.to/4mxHxsL 🖥️🎛️ Rackmount monitor: https://amzn.to/4mAByDB 💽🔗 Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW 🔧💾 My nvme ssd: https://amzn.to/3YLEySo 🛠️🛒 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🖥️📡 Mac Studio cluster - https://youtu.be/d8yS-2OyJhw 🖥️📡 Mac Mini cluster - https://youtu.be/GBR6pHZ68Ho 💻🔥 This Laptop Runs LLMs Better Than Most Desktops - https://youtu.be/AcTmeGpzhBk 💻🔍 Full Z13 review - https://youtu.be/fGEqxHurxZM 🔋⏳ How long can they last? | ULTIMATE BATTERY TEST - https://youtu.be/u1XJAOf_W5w 💻🛠️ Set up laptop for Software Development - https://youtu.be/3mCZ3WUcM8s 💻✨ 15\" MacBook Air | developer's dream - https://youtu",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-08-25T14:36:19+00:00",
+      "url": "https://www.youtube.com/watch?v=ZmY35-ifJuo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "tech news",
+          "tech",
+          "news",
+          "Microsoft",
+          "Surface",
+          "Copilot Plus PCs",
+          "Snapdragon X Elite",
+          "Windows 11",
+          "AI PC",
+          "NPU",
+          "Arm64",
+          "Arm PCs",
+          "ASUS",
+          "windows arm",
+          "benchmarks",
+          "x elite",
+          "x plus",
+          "x elite benchmarks",
+          "x elite vs m3",
+          "m3 vs x elite",
+          "amd",
+          "asus zenbook",
+          "laptop",
+          "long lasting laptop",
+          "arrow lake",
+          "285H",
+          "amd ai",
+          "amd ai max+",
+          "max+",
+          "max+ 395",
+          "flow z13",
+          "asus flow",
+          "asus flow z13",
+          "gmktec",
+          "evo",
+          "gmktec evo",
+          "evo x2",
+          "evo-x2",
+          "gmktec x2",
+          "gmktec evo x2",
+          "llm",
+          "ai",
+          "dgx spark",
+          "framework",
+          "framework desktop",
+          "mac studio"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmY35-ifJuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmY35-ifJuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmY35-ifJuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZmY35-ifJuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZmY35-ifJuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ZmY35-ifJuo",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 161230,
+      "like_count": 5136,
+      "comment_count": 397,
+      "duration": "PT24M17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3qRQ2Z2NLwM",
+      "title": "Mistral Small 3.1: New Powerful MINI Opensource LLM Beats Gemma 3, Claude, & GPT-4o!",
+      "content": "Mistral is back with a state-of-the-art model that outperforms Google’s Gemma 3, OpenAI’s GPT-4o Mini, and Anthropic’s Claude 3.5 Haiku—all while being lightweight and fast! 🚀 [🔗 My Links]: Sponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com 🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi ☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall 🧠 Follow me on Twitter: https://twitter.com/intheworldofai 📅 Book a 1-On-1 Consulting Call With Me: https://calendly.com/worldzofai/ai-consulting-call-1 📖 Want to Hire Me For AI Projects? Fill Out This Form: https://www.worldzofai.com/ 🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/ 👩‍💻 My Recommended AI Engineer course is Scrimba: https://v2.scrimba.com/the-ai-engineer-path-c02v?via=worldofai\" 👾 Join the World of AI Discord! : https://disc",
+      "author": "WorldofAI",
+      "timestamp": "2025-03-18T10:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=3qRQ2Z2NLwM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "artificial intelligence",
+          "mistral ai",
+          "mistral small 3.1",
+          "best opensource llm",
+          "open source ai",
+          "gemma 3 vs mistral",
+          "gpt-4o mini",
+          "claude 3.5 haiku",
+          "multimodal ai",
+          "best open source model",
+          "mistral small 3.1 benchmarks",
+          "ai chatbot",
+          "llm performance test",
+          "mistral ai new model",
+          "Claude 3.5 Haiku",
+          "gemma 3 tested",
+          "opensource llm",
+          "mistral small 3",
+          "ai news",
+          "google ai",
+          "prompt engineering",
+          "gemma 3",
+          "google gemma",
+          "mistral 7b"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qRQ2Z2NLwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qRQ2Z2NLwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qRQ2Z2NLwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qRQ2Z2NLwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qRQ2Z2NLwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3qRQ2Z2NLwM",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "view_count": 42349,
+      "like_count": 908,
+      "comment_count": 63,
+      "duration": "PT12M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "67_aMPDk2zw",
+      "title": "LLM Explained | What is LLM",
+      "content": "Simple and easy explanation of LLM or Large Language Model in less than 5 minutes. In this short video, you will build an intuition of how a large language model works using animation and simple story telling. This is the explanation that even a high school student can understand easily. Simple Explanation of Neural Network: https://www.youtube.com/watch?v=ER2It2mIagI Do you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses. Need help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website. 🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg #️⃣ Social Media #️⃣ 🔗 Discord: https://discord.gg/r42Kbuk 📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/ 📸 Codebasics Instagram: https://www.instagram.com/codebasicshub/ 🔊 Facebook:",
+      "author": "codebasics",
+      "timestamp": "2023-08-22T13:30:12+00:00",
+      "url": "https://www.youtube.com/watch?v=67_aMPDk2zw",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "yt:cc=on",
+          "LLM Explained",
+          "llc explained for dummies",
+          "how chatgpt works?",
+          "llm explained simply",
+          "llm explanation",
+          "chatgpt llm explained",
+          "what is llm large language model",
+          "how chatgpt works for dummies",
+          "how chatgpt works animation"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/67_aMPDk2zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/67_aMPDk2zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/67_aMPDk2zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/67_aMPDk2zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/67_aMPDk2zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "67_aMPDk2zw",
+      "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+      "view_count": 354814,
+      "like_count": 9252,
+      "comment_count": 252,
+      "duration": "PT4M17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "WoCtFUZXVsY",
+      "title": "How LLM Works (Explained) | The Ultimate Guide To LLM | Day 1:Tokenization 🔥 #shorts #ai",
+      "content": "🚀 **Master Large Language Models (LLMs) in Minutes!** 🚀 Confused about ChatGPT, Gemini, or DeepSeek R1? This **ultimate guide** breaks down LLMs from scratch — no jargon, no fluff. Learn how these AI models work, why they’re revolutionizing tech, and how YOU can use them like a pro! 🔍 **What You’ll Learn**: ✅ **LLM Basics**: What are Large Language Models? (Think: AI brains!) ✅ **Behind the Scenes**: How ChatGPT, Gemini, and DeepSeek R1 actually learn. ✅ **Real-World Uses**: Writing, coding, research — unleash LLMs’ power! ✅ **Future of AI**: Will LLMs replace jobs? The truth revealed. 💥 **Why Watch This?** - **Beginners Welcome**: Zero prior knowledge needed. - **Actionable Tips**: Tools and prompts to try TODAY. - **No Hype**: Honest pros, cons, and limitations of LLMs. 👇 **Watch Now** → Stop feeling left behind in the AI revolution! 📌 **Keywords**: LLM guide, Large Language Models, ChatGPT explained, Gemini AI, DeepSeek R1, AI tutorial, LLM basics, AI for",
+      "author": "Curious Steve",
+      "timestamp": "2025-02-05T17:33:57+00:00",
+      "url": "https://www.youtube.com/watch?v=WoCtFUZXVsY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "LLM guide",
+          "Large Language Models",
+          "ChatGPT explained",
+          "Gemini AI",
+          "DeepSeek R1",
+          "AI tutorial",
+          "LLM basics",
+          "AI for beginners",
+          "How LLMs work",
+          "AI tools 2024",
+          "Future of AI",
+          "AI crash course",
+          "Master AI",
+          "OpenAI",
+          "Google Gemini",
+          "AI models comparison",
+          "tokenization",
+          "tokenisation"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WoCtFUZXVsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WoCtFUZXVsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WoCtFUZXVsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WoCtFUZXVsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WoCtFUZXVsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "WoCtFUZXVsY",
+      "channel_id": "UCQQ-PzzgQJKDOMwfnuVn2gw",
+      "view_count": 101304,
+      "like_count": 4425,
+      "comment_count": 27,
+      "duration": "PT1M55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ezdIOLbUSWg",
+      "title": "Fine Tuning LLM Explained Simply",
+      "content": "Let's understand what is fine tuning llm in a very simple language. Do you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for my affordable video courses. Need help building software or data analytics/AI solutions? My company https://www.atliq.com/ can help. Click on the Contact button on that website. 🎥 Codebasics Hindi channel: https://www.youtube.com/channel/UCTmFBhuhMibVoSfYom1uXEg #️⃣ Social Media #️⃣ 🧑‍🤝‍🧑 Discord for Community Support: https://discord.gg/r42Kbuk 📸 Codebasics' Instagram: https://www.instagram.com/codebasicshub/ 📝 Codebasics' Linkedin : https://www.linkedin.com/company/codebasics/ ------ 📝 Dhaval's Linkedin : https://www.linkedin.com/in/dhavalsays/ 📝 Hem's Linkedin: https://www.linkedin.com/in/hemvad/ 📽️ Hem's Instagram for daily tips: https://www.instagram.com/hemvadivel/ 📸 Dhaval's Personal Instagram: https://www.instagram.com/dhavalsays/ 🔗 Patreon: http",
+      "author": "codebasics",
+      "timestamp": "2025-10-06T13:30:08+00:00",
+      "url": "https://www.youtube.com/watch?v=ezdIOLbUSWg",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "yt:cc=on",
+          "llm",
+          "large language models",
+          "fine tuning",
+          "llm fine tuning",
+          "llama",
+          "fine tuning llm models",
+          "fine tuning llm",
+          "LoRA",
+          "QLoRA"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezdIOLbUSWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezdIOLbUSWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezdIOLbUSWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ezdIOLbUSWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ezdIOLbUSWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ezdIOLbUSWg",
+      "channel_id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+      "view_count": 3426,
+      "like_count": 233,
+      "comment_count": 30,
+      "duration": "PT6M46S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bAao58hXo9w",
+      "title": "Skip M3 Ultra & RTX 5090 for LLMs | NEW 96GB KING",
+      "content": "M3 Ultra Mac Studio users might want to look away. Here is a better way to spend $10000. Check out ChatLLM: https://chatllm.abacus.ai/ltf 🛒 Gear Links 🛒 💻☕ Thunderbolt 5 external SSD: https://amzn.to/3XqetZO 💻☕ Favorite 15\" display with magnet: https://amzn.to/3zD1DhQ 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🛠️ My Mac Mini cluster video: https://youtu.be/GBR6pHZ68Ho * 🛠️ Mini PC portable setup - https://youtu.be/4RYmsrarOSw * 🛠️ Dev setup on Mac - https://youtu.be/KiKUN4i1SeU * 🛠️ Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🌗 REALITY vs Apple’s Memory Claims | vs RTX4090m - https://youtu.be/fdvzQAWXU7A * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://yo",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-06-06T14:30:54+00:00",
+      "url": "https://www.youtube.com/watch?v=bAao58hXo9w",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "llama.cpp",
+          "intel core ultra",
+          "mini pc",
+          "m4",
+          "m4 pro",
+          "apple",
+          "m4 pro mac mini",
+          "m4 max",
+          "mac studio",
+          "m3 ultra",
+          "m4 max mac studio",
+          "mac cluster",
+          "rtx5090",
+          "rtx 5090",
+          "5090",
+          "rtx",
+          "rtx pro",
+          "rtx pro 6000",
+          "5090 vs 6000"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bAao58hXo9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bAao58hXo9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bAao58hXo9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bAao58hXo9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bAao58hXo9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bAao58hXo9w",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 399844,
+      "like_count": 8487,
+      "comment_count": 828,
+      "duration": "PT22M27S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0BHBoDABOfY",
+      "title": "NVIDIA users: QWEN3 is FREE, but you’ll pay double",
+      "content": "Here's why “free” QWEN3 coder can end up costing NVIDIA users twice as much while Apple owners skate free. Check out ChatLLM: https://chatllm.abacus.ai/ltf 🛒 Gear Links 🛒 * 📦🎮 Mini Rack: https://amzn.to/4dXfwan * 💻🔄 The GmkTec EVO X2: https://amzn.to/4l5BHOh or if sold out try directly from them: https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc * 🍏💥 M4 Mac Mini Deal: https://amzn.to/3ZVDfly * 🍏💥 M4 Pro Mac Mini Deal: https://amzn.to/3ZVDfly * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🧬🐍 Mac Studio CLUSTER vs M3 Ultra 🤯 - https://youtu.be/d8yS-2OyJhw 🧳🧰 Mini PC portable setup - https://youtu.be/4RYmsrarOSw 🍎💻 Dev setup on Mac - https://youtu.be/KiKUN4i1SeU 💸🧠 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk 🧪🔥 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M 🍏⚡ FREE Local LLMs on Apple Silicon | FAST! - https://y",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-08-05T14:49:54+00:00",
+      "url": "https://www.youtube.com/watch?v=0BHBoDABOfY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "llama.cpp",
+          "intel core ultra",
+          "mini pc",
+          "m4",
+          "m4 pro",
+          "apple",
+          "m4 pro mac mini",
+          "m4 max",
+          "mac studio",
+          "m3 ultra",
+          "m4 max mac studio",
+          "mac cluster",
+          "rtx5090",
+          "rtx 5090",
+          "5090",
+          "rtx",
+          "rtx pro",
+          "rtx pro 6000",
+          "5090 vs 6000"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0BHBoDABOfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0BHBoDABOfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0BHBoDABOfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0BHBoDABOfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0BHBoDABOfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0BHBoDABOfY",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 120151,
+      "like_count": 3023,
+      "comment_count": 376,
+      "duration": "PT14M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "osKyvYJ3PRM",
+      "title": "Large Language Models (LLMs) - Everything You NEED To Know",
+      "content": "A brief introduction to everything you need to know about Large Language Models (LLMs) to go from knowing nothing to having a solid foundation of understanding to take your learning to the next level. Special thank you to the students at AI Camp who helped craft this video! Join My Newsletter for Regular AI Updates 👇🏼 https://forwardfuture.ai/ My Links 🔗 👉🏻 Subscribe: https://www.youtube.com/@matthew_berman 👉🏻 Twitter: https://twitter.com/matthewberman 👉🏻 Discord: https://discord.gg/xxysSXBxFW 👉🏻 Patreon: https://patreon.com/MatthewBerman Media/Sponsorship Inquiries 📈 https://bit.ly/44TC45V Links: AI Camp - https://ai-camp.org Infinite Memory Vid - https://www.youtube.com/watch?v=QQ2QOPWZKVc Chapters: 0:00 - Intro 0:45 - What is an LLM? 3:44 - History of AI/ML 7:36 - How LLMs Work 15:56 - Fine-tuning 18:42 - Challenges of AI",
+      "author": "Matthew Berman",
+      "timestamp": "2024-03-07T18:13:15+00:00",
+      "url": "https://www.youtube.com/watch?v=osKyvYJ3PRM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ai",
+          "llm",
+          "large language model",
+          "easy llm",
+          "easy ai",
+          "intro to llm",
+          "intro to ai"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/osKyvYJ3PRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/osKyvYJ3PRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/osKyvYJ3PRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/osKyvYJ3PRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/osKyvYJ3PRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "osKyvYJ3PRM",
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "view_count": 345732,
+      "like_count": 9372,
+      "comment_count": 252,
+      "duration": "PT25M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "myzXXHcjhjM",
+      "title": "M5Stack New LLM (large language model) Module Kit (AX630C) #m5stack #arduino #llm",
+      "content": "You can now buy the M5Stack LLM Module kit for the same price as before https://openelab.io/products/m5stack-llm-large-language-model-module-ax630c",
+      "author": "OpenELAB",
+      "timestamp": "2025-03-31T09:02:30+00:00",
+      "url": "https://www.youtube.com/watch?v=myzXXHcjhjM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myzXXHcjhjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myzXXHcjhjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myzXXHcjhjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/myzXXHcjhjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/myzXXHcjhjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "myzXXHcjhjM",
+      "channel_id": "UCu-6DWrMhmjt4duwD9W3TNw",
+      "view_count": 2554,
+      "like_count": 34,
+      "comment_count": 4,
+      "duration": "PT34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "uuRkRmM9XMc",
+      "title": "Running LLM Clusters on ALL THIS 🚀",
+      "content": "I test the cluster workflow on MacBook Pro and MacBook Airs, all sharing LLM models via an all-SSD NAS, while talking to each other via Thunderbolt. 🛒 Gear Links 🛒 * 🍏💥 All SSD NAS: https://amzn.to/3YCTr9R * 💻🔄 Renewed MacBook Air M1 Deal: https://amzn.to/45K1Gmk * 💻🔄 MacBook Air M2 Deal: https://amzn.to/3Ay78PC * 🛠️🚀 MacBook Air M3: https://amzn.to/4fz8Hvq * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🤖 REALITY vs Apple’s Memory Claims - https://youtu.be/fdvzQAWXU7A * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k * 🛠️ Conda setup for Python dev - https://youtu.be/2Acht_5_HTo * 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist",
+      "author": "Alex Ziskind",
+      "timestamp": "2024-11-07T15:18:29+00:00",
+      "url": "https://www.youtube.com/watch?v=uuRkRmM9XMc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "apple silicon",
+          "apple event",
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "ipx",
+          "intel",
+          "intel llm",
+          "intel ipx",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "nucbox"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uuRkRmM9XMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uuRkRmM9XMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuRkRmM9XMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uuRkRmM9XMc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uuRkRmM9XMc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "uuRkRmM9XMc",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 71208,
+      "like_count": 2334,
+      "comment_count": 162,
+      "duration": "PT11M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "IXixbu7Kkd8",
+      "title": "It’s over…my new LLM Rig",
+      "content": "This runs faster than a Thunderbolt eGPU 🛒 Gear Links 🛒 * 🔪🔪 Favorite knife: https://amzn.to/3zIYrkZ * 🍏💥 Oculink dock: https://amzn.to/3Na7s9F * 💻🔄 Mini PC with 32GB RAM: https://amzn.to/3ZJEwNs * 🛠️🚀 My RTX4090: https://amzn.to/3zRMmtG * 🎧⚡ Power supply 1200W: https://amzn.to/3Ya7WDh * 🛠️🚀 96GB RAM kit: https://amzn.to/3ZhQ4qR * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo ⌨️🏢 Keyboard: https://www.keychron.com/products/keychron-q1-max-qmk-via-wireless-custom-mechanical-keyboard?ref=azisk * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 * 🌗 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M * 🛠️ FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo * 🛠️ Set up Conda - https://youtu.be/2Acht_5_HTo * 🤖 INSANE Machine Learning on Neural Engine - https://youtu.be/Y2FOUg_jo7k * 🛠️ Developer productivity Playlist - https://www.youtube.com/playlist?list=PLPwbI_iIX3aQCRdFGM7j4TY_7STfv2aXX 🔗",
+      "author": "Alex Ziskind",
+      "timestamp": "2024-10-03T15:19:03+00:00",
+      "url": "https://www.youtube.com/watch?v=IXixbu7Kkd8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "apple silicon",
+          "apple event",
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "ipx",
+          "intel",
+          "intel llm",
+          "intel ipx",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "nucbox",
+          "minisforum",
+          "deg1",
+          "egpu",
+          "e-gpu",
+          "4090",
+          "rtx4090",
+          "mini pc",
+          "minipc 4090"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXixbu7Kkd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXixbu7Kkd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXixbu7Kkd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IXixbu7Kkd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IXixbu7Kkd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "IXixbu7Kkd8",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 142392,
+      "like_count": 3716,
+      "comment_count": 386,
+      "duration": "PT13M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "_ZvnD73m40o",
+      "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
+      "content": "Learn prompt engineering techniques to get better results from ChatGPT and other LLMs. ✏️ Course developed by @aniakubow ❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp ⭐️ Contents ⭐️ ⌨️ (00:00) Introduction ⌨️ (01:31) What is Prompt Engineering? ⌨️ (02:17) Introduction to AI ⌨️ (03:52) Why is Machine learning useful? ⌨️ (06:36) Linguistics ⌨️ (08:04) Language Models ⌨️ (14:35) Prompt Engineering Mindset ⌨️ (15:38) Using GPT-4 ⌨️ (20:41) Best practices ⌨️ (31:20) Zero shot and few shot prompts ⌨️ (35:06) AI hallucinations ⌨️ (36:43) Vectors/text embeddings ⌨️ (40:28) Recap 🎉 Thanks to our Champion and Sponsor supporters: 👾 davthecoder 👾 jedi-or-sith 👾 南宮千影 👾 Agustín Kussrow 👾 Nattira Maneerat 👾 Heather Wcislo 👾 Serhiy Kalinets 👾 Justin Hual 👾 Otis Morgan 👾 Oscar Rahnama English This video has been dubbed using an artificial voice via https://aloud.area120.google.com to i",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2023-09-05T14:36:07+00:00",
+      "url": "https://www.youtube.com/watch?v=_ZvnD73m40o",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ZvnD73m40o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ZvnD73m40o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZvnD73m40o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ZvnD73m40o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ZvnD73m40o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "_ZvnD73m40o",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 2387275,
+      "like_count": 59286,
+      "comment_count": 1083,
+      "duration": "PT41M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BXI3ZmrqSGA",
+      "title": "Home Assistant Bed Sensor with WLED + LLM Reminders",
+      "content": "In this project, I combined bed presence detection, underbed lighting, and LLM-powered reminders using Home Assistant, ESPHome, and WLED. This setup not only turns on a subtle underglow when you get out of bed at night, it also gives you LLM powered alerts when you've forgotten something, like putting the trash out. Trying this yourself? Be sure to read the full companion blog post for additional information and tips: https://stratobuilds.com/project/home-assistant-bed-sensor-with-wled/ Hardware: Elevated Bed Presence Sensor: 🔗 https://www.elevatedsensors.com/ MagWLED-1 WLED Controller: 🔗 https://magwled.com/ BTF-LIGHTING RGBW SK6812 LED Strip (5m): 🔗 https://www.amazon.com/dp/B01N0MA729 Automations: https://gist.github.com/mediacutlet/aacab7e1648b527cf1ccd1c9b0da4c3a (Includes YAML for segment-based lighting automation) Integrations: LLM Vision Integration: 🔗 https://llmvision.org/ Related Videos: LLM Vision + Home Assistant – Analyzing Camera Feeds with AI: 📺 https://www.youtu",
+      "author": "StratoBuilds",
+      "timestamp": "2025-06-01T12:45:05+00:00",
+      "url": "https://www.youtube.com/watch?v=BXI3ZmrqSGA",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXI3ZmrqSGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXI3ZmrqSGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXI3ZmrqSGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BXI3ZmrqSGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BXI3ZmrqSGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BXI3ZmrqSGA",
+      "channel_id": "UC-e6QUUYKm0Y2qaxXd6p9uA",
+      "view_count": 8811,
+      "like_count": 308,
+      "comment_count": 44,
+      "duration": "PT8M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BxLh-dqPZTo",
+      "title": "I Let AI WATCH My Home For 24h - (Home Assistant + LLM Vision)",
+      "content": "In this video, I demonstrate how I utilise LLM Vision and Home Assistant to enhance the functionality and security of my smart home. From recognising people at the door, protecting packages, and checking on the kids, to spotting forgotten toys and even solving a staged “crime scene,” this AI-powered setup takes home automation to the next level. You’ll see: ✅ Real-time person & package detection ✅ AI memory for family recognition ✅ Kid & toy monitoring ✅ Fun automations with Home Assistant ✅ A complete walkthrough of the setup & integration If you’re curious about using AI with smart homes, this demo will give you practical ideas and inspiration. Chapters: 00:00 Cinematic Intro 00:52 Solution Overview 01:17 Idea 1 - Describing People 02:30 Idea 2 - Identifying People With Memory Feature 03:20 Idea 3 - Package Delivery & Theft Prevention 05:03 Idea 4 - Checking On Kids 06:05 Idea 5 - Tracking Objects & Toys 06:38 Idea 6 - Security Guard 07:37 LLM Vision Installation & Configurati",
+      "author": "Daniel Barczak",
+      "timestamp": "2025-08-23T22:52:02+00:00",
+      "url": "https://www.youtube.com/watch?v=BxLh-dqPZTo",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "smart home automation",
+          "LLM Vision",
+          "AI with Home Assistant",
+          "AI home security"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxLh-dqPZTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxLh-dqPZTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxLh-dqPZTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BxLh-dqPZTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BxLh-dqPZTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BxLh-dqPZTo",
+      "channel_id": "UCSr2e2NZW06Zc_fHGPr3LRg",
+      "view_count": 9166,
+      "like_count": 220,
+      "comment_count": 32,
+      "duration": "PT14M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Cd20e84FnFQ",
+      "title": "Toughest Dev Mini in the world…dev, LLM, and BRUTAL tests",
+      "content": "I smashed it, burned it, maxed it out with 96GB of RAM, ran AI models on it… this mini PC just wouldn’t die. Click this link https://sponsr.is/bootdev_AlexZiskind and use my code ALEXZISKIND to get 25% off your first payment for boot.dev. 🛒 Gear Links 🛒 Geekom IT15 (Use Coupon code 10% Off: IT15ALEXZ) * 💻 Amazon US: https://www.amazon.com/dp/B0F8QKDY2S?maas=maas_adg_BE8011F12B5757D68C7E546EEB6916C7_afap_abs&ref_=aa_maas&tag=maas&th=1 * 💻 Amazon UK: https://www.amazon.co.uk/dp/B0F8VNV747?maas=maas_adg_EE9402C4D73AC647D428090C5FFB4CF4_afap_abs&ref_=aa_maas&tag=maas * 💻 Official US: https://www.geekompc.com/geekom-it15-mini-pc/?mtm_campaign=YTUS_IT15&mtm_kwd=AlexZiskind * 💻 Official UK: https://www.geekom.co.uk/geekom-it15-mini-pc?mtm_campaign=YTUK_IT15&mtm_kwd=AlexZiskind * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🍎💻 M4 Mac Mini in ULTIMATE Mini PC Showdown -",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-07-29T15:26:52+00:00",
+      "url": "https://www.youtube.com/watch?v=Cd20e84FnFQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "chatgpt",
+          "ipx",
+          "intel",
+          "intel llm",
+          "intel ipx",
+          "llama.cpp",
+          "ai on intel",
+          "intel core ultra",
+          "gmktec",
+          "gmktec k9",
+          "nuc",
+          "beelink",
+          "mini pc",
+          "m4",
+          "m4 pro",
+          "mac mini",
+          "apple",
+          "apple mini",
+          "mini",
+          "m4 mini",
+          "m4 pro mac mini",
+          "geekom",
+          "geekom it15"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cd20e84FnFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cd20e84FnFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cd20e84FnFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cd20e84FnFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cd20e84FnFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Cd20e84FnFQ",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 29640,
+      "like_count": 746,
+      "comment_count": 90,
+      "duration": "PT16M19S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5bNDx5XBlLY",
+      "title": "I tried to run a 70B LLM on a MacBook Pro. It didn't go well.",
+      "content": "Today, we're trying to load and use a 70B LLM with ollama on a 14\" M4 Pro MacBook Pro with 48GB RAM. Will it work? In this video: 💻 14\" MacBook Pro M4 Pro (12 cores): https://amzn.to/3ANEPwB 💨 TG Pro (CPU + GPU cores temps and fan speed): https://www.tunabellysoftware.com/tgpro/index.php?fpr=d157l 🎤 Microphone: https://amzn.to/3AFgvNw 🖱️ Mouse: https://amzn.to/3Z3pal4 ⌨️ Keyboard: https://amzn.to/3OdkjZv I tested 7 small LLMs locally to find the fastest 👇 https://www.youtube.com/watch?v=CDdo29LgoRk Models tested: - phi3:14b - 7.9GB - qwen2.5:14b - 9.0GB - gemma2:27b - 16GB - llama3.1:8b (fp16) - 16GB - qwen2.5:32b - 20GB - llama3.1:70b - 39GB 00:00 LLMs tested 00:47 Prompt used 01:05 phi3:14b 01:55 qwen2.5:14b 02:53 gemma2:27b 04:23 how to find alternative models on ollama.com 05:03 llama3.1:8b-instruct-fp16 05:58 qwen2.5:32b 07:15 hearing the fans 07:49 llama3.1:70b 08:15 memory pressure goes through the roof 09:10 fans and temperature are increasing 09:35 llama3.1:70b results 09",
+      "author": "AgenticAlex",
+      "timestamp": "2024-11-27T09:51:58+00:00",
+      "url": "https://www.youtube.com/watch?v=5bNDx5XBlLY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5bNDx5XBlLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5bNDx5XBlLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5bNDx5XBlLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5bNDx5XBlLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5bNDx5XBlLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5bNDx5XBlLY",
+      "channel_id": "UCch3Embptg7pXkZVssx92SA",
+      "view_count": 64184,
+      "like_count": 842,
+      "comment_count": 122,
+      "duration": "PT11M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "WrreIi8LCiw",
+      "title": "Local LLM AI Voice Assistant (Nexus Sneak Peek)",
+      "content": "Order the Sat1: https://futureproofhomes.net/products/satellite1-pcb-dev-kit Nexus Waitlist: https://futureproofhomes.net/products/nexus Nexus Private Beta Survey: https://forms.gle/Gko3DyALgmPfTSrV8 Join Discord: https://discord.gg/BeBjWEPzMV Enclosure Documentation: https://docs.futureproofhomes.net/satellite1-squircle-enclosures/ Twitter: https://x.com/AIVoiceAssist Video Description -------------------- FutureProofHomes.net is gearing up for the Private Beta launch of the NEXUS AI Base Station, powered by a fully private, local LLM to control your home assistant. We're also expanding our store to the EU and UK—with free shipping included. Get the Sat1 and 3D print your own voice assistant and smart speaker! Chapters: -------------------- 0:00 - Intro 0:30 - Store Open For EU & UK 1:00 - Sat1 Enclosure Family 2:20 - What is Nexus? 3:06 - Nexus Live Demo 8:28 - Thoughts on Nexus 11:58 - Closing Remarks",
+      "author": "FutureProofHomes",
+      "timestamp": "2025-06-18T14:00:52+00:00",
+      "url": "https://www.youtube.com/watch?v=WrreIi8LCiw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "local llm",
+          "private ai",
+          "ai",
+          "jetson",
+          "nvidia",
+          "llm",
+          "voice assistant",
+          "satellite1",
+          "3d printing",
+          "smart speaker",
+          "smart home",
+          "home assistant",
+          "voice control"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WrreIi8LCiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WrreIi8LCiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WrreIi8LCiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WrreIi8LCiw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WrreIi8LCiw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "WrreIi8LCiw",
+      "channel_id": "UCP9HhHCaFGLX85D51Z-rgiA",
+      "view_count": 23112,
+      "like_count": 1226,
+      "comment_count": 228,
+      "duration": "PT12M56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Mt_8iNHOHFQ",
+      "title": "AMD Just Put NVIDIA on Notice… While Using Half the Power",
+      "content": "Two identical systems, two top-tier GPUs: RTX 5090 and RX 7900 XTX, and one mission: to push local LLM performance. Check out ChatLLM: https://chatllm.abacus.ai/ltf 🛒 Gear Links 🛒 * 📦🎮 Mini Rack: https://amzn.to/4dXfwan * 💻🔄 The GmkTec EVO X2: https://amzn.to/4l5BHOh or if sold out try directly from them: https://www.gmktec.com/products/amd-ryzen%E2%84%A2-ai-max-395-evo-x2-ai-mini-pc * 🍏💥 M4 Mac Mini Deal: https://amzn.to/3ZVDfly * 🍏💥 M4 Pro Mac Mini Deal: https://amzn.to/3ZVDfly * 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW * 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo * 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🧬🐍 Mac Studio CLUSTER vs M3 Ultra 🤯 - https://youtu.be/d8yS-2OyJhw 🧳🧰 Mini PC portable setup - https://youtu.be/4RYmsrarOSw 🍎💻 Dev setup on Mac - https://youtu.be/KiKUN4i1SeU 💸🧠 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk 🧪🔥 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M 🍏⚡ FREE Local LLMs on Apple Silicon | FAST! -",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-07-24T15:59:55+00:00",
+      "url": "https://www.youtube.com/watch?v=Mt_8iNHOHFQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "tech news",
+          "tech",
+          "news",
+          "Microsoft",
+          "Surface",
+          "Copilot Plus PCs",
+          "Windows 11",
+          "AI PC",
+          "NPU",
+          "Arm64",
+          "Arm PCs",
+          "ASUS",
+          "windows arm",
+          "benchmarks",
+          "x elite",
+          "x plus",
+          "x elite benchmarks",
+          "x elite vs m3",
+          "m3 vs x elite",
+          "amd",
+          "asus",
+          "asus zenbook",
+          "zenbook",
+          "battery",
+          "battery test",
+          "laptop",
+          "amd ai",
+          "amd ai max+",
+          "max+",
+          "max+ 395",
+          "flow z13",
+          "asus flow",
+          "asus flow z13",
+          "gmktec",
+          "evo",
+          "gmktec evo",
+          "evo x2",
+          "evo-x2",
+          "gmktec x2",
+          "gmktec evo x2",
+          "llm",
+          "ai",
+          "dgx spark",
+          "7900xtx",
+          "9070",
+          "9060",
+          "9070xt",
+          "9060xt"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mt_8iNHOHFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mt_8iNHOHFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mt_8iNHOHFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mt_8iNHOHFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mt_8iNHOHFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Mt_8iNHOHFQ",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 86368,
+      "like_count": 2619,
+      "comment_count": 389,
+      "duration": "PT18M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "iOdFUJiB0Zc",
+      "title": "Fine Tuning LLM Models – Generative AI Course",
+      "content": "Learn how to fine tuning LLM models. This course will teach you fine tuning using using QLORA and LORA, as well as Quantization using LLama2, Gradient and the Google Gemma model. This crash course includes both theoretical and practical instruction to help you understand how to perform fine tuning. 💻 Code: https://github.com/krishnaik06/Finetuning-LLM ✏️ Course developed by @krishnaik06 ❤️ Try interactive AI courses we love, right in your browser: https://scrimba.com/freeCodeCamp-AI (Made possible by a grant from our friends at Scrimba) ⌨️ (0:00:00) Introduction ⌨️ (0:01:39) Quantization Intuition ⌨️ (0:34:03) Lora And QLORA Indepth Intuition ⌨️ (0:56:26) Finetuning With LLama2 ⌨️ (1:20:35) 1 bit LLM Indepth Intuition ⌨️ (1:37:33) Finetuning with Google Gemma Models ⌨️ (1:59:45) Building LLm Pipelines With No code ⌨️ (2:20:33) Fine tuning With Own Custom Data 🎉 Thanks to our Champion and Sponsor supporters: 👾 davthecoder 👾 jedi-or-sith 👾 南宮千影 👾 Agustín Kussrow 👾 Nattira Maneerat",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2024-05-21T14:18:24+00:00",
+      "url": "https://www.youtube.com/watch?v=iOdFUJiB0Zc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iOdFUJiB0Zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iOdFUJiB0Zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iOdFUJiB0Zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iOdFUJiB0Zc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iOdFUJiB0Zc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "iOdFUJiB0Zc",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 297833,
+      "like_count": 5911,
+      "comment_count": 201,
+      "duration": "PT2H37M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Huy-Gn4RtGQ",
+      "title": "Build optical character recognition (OCR) using LLM | Ollama | Vision LLM | Open Source",
+      "content": "Today we will cover how to use Meta’s LLaMA 3.2 Vision model via Ollama to extract structured information from a receipt image and convert it into a pandas DataFrame—ideal for downstream analytics or business automation. Extracting text from invoices or documents manually is inefficient, especially when automation is within reach. Optical Character Recognition (OCR) has long served to digitize documents—but pairing it with a large language model (LLM) that understands context takes things to a whole new level. How to setup Ollama and run LLM: https://www.youtube.com/watch?v=CE9umy2NlhE Link to Code: https://github.com/hnawaz007/AI/tree/main/OCR%20with%20Ollama Llama Vision Model: https://ollama.com/blog/llama3.2-vision #ocr #llm #imagetotext 💥Subscribe to our channel: https://www.youtube.com/c/HaqNawaz 📌 Links ----------------------------------------- #️⃣ Follow me on social media! #️⃣ 🔗 GitHub: https://github.com/hnawaz007 📸 Instagram: https://www.instagram.com/bi_insights_inc 📝",
+      "author": "BI Insights Inc",
+      "timestamp": "2025-05-03T17:04:01+00:00",
+      "url": "https://www.youtube.com/watch?v=Huy-Gn4RtGQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "OCR",
+          "Optical Character Recognition",
+          "Ollama",
+          "AI",
+          "Vision LLM",
+          "Lllama",
+          "Llama Vision Model",
+          "convert image to json",
+          "image to dataframe",
+          "document to json",
+          "analyze image data",
+          "image to text",
+          "Llama 3.2-Vision",
+          "image-to-text",
+          "Extract text from images",
+          "Visual Question Answering",
+          "ollama-ocr"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Huy-Gn4RtGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Huy-Gn4RtGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Huy-Gn4RtGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Huy-Gn4RtGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Huy-Gn4RtGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Huy-Gn4RtGQ",
+      "channel_id": "UC8aox1k3cd00tTKuBNt4tMw",
+      "view_count": 13334,
+      "like_count": 240,
+      "comment_count": 9,
+      "duration": "PT3M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "sEq3hMsa58U",
+      "title": "Cos'è e come funziona un LLM (Large Language Model)? - AI Roadmaps - Podcast",
+      "content": "Benvenuti ad AI Roadmpas - Podcast, il podcast che esplora i percorsi dell'intelligenza artificiale e come quest'ultima possa essere una risorsa per le aziende. Il nostro obiettivo: guidarvi attraverso un viaggio informativo che rivoluzionerà il vostro modo di comprendere e utilizzare l'AI nel vostro business. LLM significa Large Language Model, che è una classe di modelli di intelligenza artificiale progettati per comprendere e generare linguaggio naturale. Siamo sicuri che almeno una volta avete utilizzato ChatGPT! In questa puntata capiremo quali sono le caratteristiche e il funzionamento degli LLM come ChatGPT. Se sei interessato ad appronfondire questi argomenti non ti resta che seguire il nostro podcast! Lascia che AI RoadMAps - Podcast ti conduca verso una nuova era di innovazione e successo aziendale grazie all'Intelligenza Artificiale.",
+      "author": "AI Roadmaps - Podcast",
+      "timestamp": "2024-05-17T08:30:16+00:00",
+      "url": "https://www.youtube.com/watch?v=sEq3hMsa58U",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "intelligenza artificiale",
+          "AI",
+          "intelligenza artificiale come funziona",
+          "AI Roadmaps",
+          "AI roadmaps podcast",
+          "podcast sull'AI",
+          "intelligenza artificiale spiegazione",
+          "AI come funziona",
+          "come usare l'intelligenza artificiale",
+          "AI business",
+          "AI Marketing",
+          "opportunità intelligenza artificiale",
+          "AI performance",
+          "AI opportunities",
+          "AI strategy",
+          "Strategia aziendale con l'AI",
+          "AI e strategia aziendale",
+          "LLM",
+          "Large Language Model",
+          "ChatGpt",
+          "GPT",
+          "open ai"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sEq3hMsa58U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sEq3hMsa58U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sEq3hMsa58U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sEq3hMsa58U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sEq3hMsa58U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "it",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "sEq3hMsa58U",
+      "channel_id": "UC0fVwJ6g-0wzuWQ3hIkM05g",
+      "view_count": 5357,
+      "like_count": 120,
+      "comment_count": 4,
+      "duration": "PT24M2S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "T-D1OfcDW1M",
+      "title": "What is Retrieval-Augmented Generation (RAG)?",
+      "content": "Ready to become a certified GenAI engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdGhCF Learn about the technology → https://ibm.biz/BdMsRT Large language models usually give great answers, but because they're limited to the training data used to create the model. Over time they can become incomplete--or worse, generate answers that are just plain wrong. One way of improving the LLM results is called \"retrieval-augmented generation\" or RAG. In this video, IBM Senior Research Scientist Marina Danilevsky explains the LLM/RAG framework and how this combination delivers two big advantages, namely: the model gets the most up-to-date and trustworthy facts, and you can see where the model got its info, lending more credibility to what it generates. Get weekly AI, cloud, security and sustainability industry news, events and insights. → https://ibm.biz/BdK6UY",
+      "author": "IBM Technology",
+      "timestamp": "2023-08-23T11:00:32+00:00",
+      "url": "https://www.youtube.com/watch?v=T-D1OfcDW1M",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "IBM",
+          "IBM Cloud",
+          "AI",
+          "Artificial Intelligence",
+          "LLM",
+          "LLMs",
+          "Large Language Models",
+          "RAG",
+          "Retrieval Augmented Generation",
+          "Retrieval-Augmented Generation",
+          "Retriever-Augmented Generation",
+          "Foundation Models",
+          "GPT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T-D1OfcDW1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T-D1OfcDW1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T-D1OfcDW1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T-D1OfcDW1M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T-D1OfcDW1M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "T-D1OfcDW1M",
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "view_count": 1477515,
+      "like_count": 35377,
+      "comment_count": 804,
+      "duration": "PT6M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4waVVzeL0CQ",
+      "title": "How LLM Works? | How Chat GPT Works? | Large Language Models Explained | Tamil | Karthik's Show",
+      "content": "This video explains in Tamil, How LLM like Chat GPT works and how it is created. Please go through the links provided in this description below for more details. Subscribe to this channel for more such videos. Deep Learning Explained: https://youtu.be/9gRyL5j3NUM Generative AI Explained: https://youtu.be/744Qb-CWfcU Road Map to Learn Generative AI: https://youtu.be/Oh8cojceKoQ Check 'Python Programming for Beginners' Tamil course at https://www.karthiksshow.com/courses/Python-Programming-for-Beginners-638dbf0ce4b09464540754a9. Check 'Python Programming for Machine Learning' Tamil course at https://www.karthiksshow.com/courses/Python-Programming-for-Machine-Learning-649d29ace4b0834a0c48cee3 Check \"Python Programming Package\" at https://www.karthiksshow.com/courses/Python-Programming-Package-64f2c028e4b039bbd3fe6bf5 Download our Android App: https://play.google.com/store/apps/details?id=com.karthik.show More videos you can check from our channel: Simple Python Project: https://you",
+      "author": "Karthik's Show",
+      "timestamp": "2024-03-24T12:30:05+00:00",
+      "url": "https://www.youtube.com/watch?v=4waVVzeL0CQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "large language models",
+          "artificial intelligence",
+          "chatgpt",
+          "KarthiksShow"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4waVVzeL0CQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4waVVzeL0CQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4waVVzeL0CQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4waVVzeL0CQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4waVVzeL0CQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4waVVzeL0CQ",
+      "channel_id": "UCBF5i6PogoMwnoAP0LFiCmQ",
+      "view_count": 34408,
+      "like_count": 1057,
+      "comment_count": 53,
+      "duration": "PT17M35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "U26RWmIf12c",
+      "title": "What is an LLM? | What can I use Large Language Models for?",
+      "content": "Are you fascinated by how AI effortlessly crafts entire paragraphs? Discover the magic behind Large Language Models (LLMs) in our latest video! 🤖 We'll explain what LLMs are, how they work, and provide a comprehensive overview of their training and inference phases. We cover every aspect you need to know through examples and exploration of different types of LLMs along with their applications and challenges. Watch now and see how LLMs are transforming technology! Don't miss this opportunity to stay ahead in the AI revolution! 🌟 🔥1000+ Free Courses With Free Certificates: https://www.mygreatlearning.com/academy?utm_source=CPV_YT&utm_medium=Desc&utm_campaign=YTVids2024 #llm #ai #techinnovation 🏁 Topics Covered: 00:00:00 Beginning 00:00:32 What are LLMs? 00:02:51 How do LLMs work? 00:03:35 Training Phase 00:04:25 Inference Phase 00:06:01 Examples in action 00:07:17 Types of LLMs 00:09:11 How are LLMs revolusaning the world? 00:10:08 Challenges with LLMs 00:11:00 Summary #machinelea",
+      "author": "Great Learning",
+      "timestamp": "2024-05-29T12:32:00+00:00",
+      "url": "https://www.youtube.com/watch?v=U26RWmIf12c",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "What is an LLM",
+          "large language models",
+          "generative ai",
+          "natural language processing",
+          "data science",
+          "llm",
+          "data analytics",
+          "ai",
+          "llms",
+          "large language model",
+          "machine learning",
+          "big data",
+          "ml",
+          "large language models explained",
+          "llm large language model",
+          "what is a large language model",
+          "llm explained",
+          "what is large language model",
+          "prompt engineering",
+          "prompt tuning",
+          "hugging face",
+          "deep learning",
+          "llm explained simply",
+          "great learning",
+          "artificial intelligence",
+          "gpt",
+          "chatgpt",
+          "language model"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U26RWmIf12c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U26RWmIf12c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U26RWmIf12c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U26RWmIf12c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U26RWmIf12c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "U26RWmIf12c",
+      "channel_id": "UCObs0kLIrDjX2LLSybqNaEA",
+      "view_count": 11757,
+      "like_count": 315,
+      "comment_count": 14,
+      "duration": "PT11M46S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Q7mS1VHm3Yw",
+      "title": "LLM Course – Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio)",
+      "content": "Discover how to build an intelligent book recommendation system using the power of large language models and Python. Learn to transform book descriptions into mathematical representations that enable precise content-based matching. By the end of this course, you'll have built a recommendation engine that helps readers discover their next favorite book. 💻 Code from this tutorial: https://github.com/t-redactyl/llm-semantic-book-recommender/tree/main 🏗️ JetBrains provided a grant to make this course possible. ⭐️ Resources ⭐️ Download PyCharm: https://jb.gg/pycharm-fcc The only Python IDE you need to build data models and AI agents. Free forever, plus one month of Pro included. Kaggle datasets: https://kaggle.com/datasets 7K books dataset by Dylan Castillo: https://kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata Hugging Face free NLP course: https://huggingface.co/learn/nlp-course/en/ Explanation of transformer encoder-decoder models (from Hugging Face NLP course): https://hu",
+      "author": "freeCodeCamp.org",
+      "timestamp": "2025-01-27T16:11:06+00:00",
+      "url": "https://www.youtube.com/watch?v=Q7mS1VHm3Yw",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7mS1VHm3Yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7mS1VHm3Yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7mS1VHm3Yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q7mS1VHm3Yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q7mS1VHm3Yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Q7mS1VHm3Yw",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "view_count": 349637,
+      "like_count": 7387,
+      "comment_count": 276,
+      "duration": "PT2H15M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "yspKzRHO3Zg",
+      "title": "Is RTX 5060 the Best Budget GPU for AI & LLM Tasks? Full Review",
+      "content": "💻 Welcome to the Database Mart channel! In this video, we put the NVIDIA RTX 5060 to the test by benchmarking its inference performance on a range of mainstream LLMs, including DeepSeek-R1 and Gemma3n, with model sizes ranging from 1.5B to 8B parameters. 📈 Tested Models: • DeepSeek-R1 with 1.5B Parameters • DeepSeek-R1 with 7B Parameters • DeepSeek-R1 with 8B Parameters • Gemma3n with e2B Parameters • Gemma3n with e4B Parameters 💡 Whether you're an AI developer, ML enthusiast, or just exploring LLM deployment on consumer GPUs, this video gives real-world insights into what the RTX 5060 can handle! 🔗 Full benchmark: https://www.databasemart.com/blog/ollama-gpu-benchmark-rtx5060 🔔 Like, subscribe, and turn on notifications for more GPU hosting insights! #rtx5060 #llm #deepseek #gemma #ollama #ai #gpu #nvidia #gpuserver 🔹If you are looking for a Linux VPS/Windows VPS/Dedicated Server/GPU Server, take a look at: https://bit.ly/3bXdevZ Thanks for watching. If you like our videos",
+      "author": "Database Mart",
+      "timestamp": "2025-07-31T02:01:13+00:00",
+      "url": "https://www.youtube.com/watch?v=yspKzRHO3Zg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "RTX 5060",
+          "NVIDIA RTX 5060",
+          "RTX 5060 benchmark",
+          "RTX 5060 AI performance",
+          "RTX 5060 inference test",
+          "GPU benchmark 2025",
+          "LLM benchmark",
+          "Run AI on GPU",
+          "Ollama test"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yspKzRHO3Zg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yspKzRHO3Zg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yspKzRHO3Zg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yspKzRHO3Zg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yspKzRHO3Zg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "yspKzRHO3Zg",
+      "channel_id": "UCfzGVF6oXi1ywy5g_PgBdFg",
+      "view_count": 563,
+      "like_count": 9,
+      "comment_count": 1,
+      "duration": "PT3M51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3XCunZqvVDA",
+      "title": "THIS is the REAL DEAL 🤯 for local LLMs",
+      "content": "This is the stack that gets me over 4000 tokens per second locally. Download Docker Desktop here: https://dockr.ly/4mOdGMO to get up and running with Docker Model Runner quickly. 🛒 Gear Links 🛒 💻☕ Thunderbolt 5 external SSD: https://amzn.to/3XqetZO 💻☕ Favorite 15\" display with magnet: https://amzn.to/3zD1DhQ 🎧⚡ Great 40Gbps T4 enclosure: https://amzn.to/3JNwBGW 🛠️🚀 My nvme ssd: https://amzn.to/3YLEySo 📦🎮 My gear: https://www.amazon.com/shop/alexziskind 🎥 Related Videos 🎥 🏆 Skip M3 Ultra & RTX 5090 for LLMs | NEW 96GB KING - https://youtu.be/bAao58hXo9w 💻 Smallest RTX Pro 6000 rig | OVERKILL - https://youtu.be/JbnBt_Aytd0 🔧 Cheap mini runs a 70B LLM 🤯 - https://youtu.be/xyKEQjUzfAk 🌙 RAM torture test on Mac - https://youtu.be/l3zIwPgan7M 🚀 FREE Local LLMs on Apple Silicon | FAST! - https://youtu.be/bp2eev21Qfo 🪞 REALITY vs Apple’s Memory Claims | vs RTX4090m - https://youtu.be/fdvzQAWXU7A 📦 Set up Conda - https://youtu.be/2Acht_5_HTo 🤖 INSANE Machine Learning on Neural Engine - https:",
+      "author": "Alex Ziskind",
+      "timestamp": "2025-09-12T14:55:30+00:00",
+      "url": "https://www.youtube.com/watch?v=3XCunZqvVDA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "software developer",
+          "programmer",
+          "software development",
+          "programming",
+          "developer",
+          "developer tests",
+          "m3 chip",
+          "machine learning",
+          "llm",
+          "m3max",
+          "m3 llm",
+          "m3 ml",
+          "m3 max ml",
+          "ml on m3",
+          "machine learning m3",
+          "m3 machine learning",
+          "m3 ai",
+          "webui",
+          "openui",
+          "open webui",
+          "local ai",
+          "local chatgpt",
+          "llama.cpp",
+          "intel core ultra",
+          "mini pc",
+          "m4",
+          "m4 pro",
+          "apple",
+          "m4 pro mac mini",
+          "m4 max",
+          "mac studio",
+          "m3 ultra",
+          "m4 max mac studio",
+          "mac cluster",
+          "rtx5090",
+          "rtx 5090",
+          "5090",
+          "rtx",
+          "rtx pro",
+          "rtx pro 6000",
+          "5090 vs 6000",
+          "docker"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3XCunZqvVDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3XCunZqvVDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3XCunZqvVDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3XCunZqvVDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3XCunZqvVDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3XCunZqvVDA",
+      "channel_id": "UCajiMK_CY9icRhLepS8_3ug",
+      "view_count": 247442,
+      "like_count": 8199,
+      "comment_count": 437,
+      "duration": "PT11M3S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nKSk_TiR8YA",
+      "title": "Most devs don't understand how LLM tokens work",
+      "content": "Most devs are using LLMs daily but don't have a clue about some of the fundamentals. Understanding tokens is crucial because you need to know how you're being billed, and why billing is different per provider. Become an AI Hero with the AI Hero newsletter: https://www.aihero.dev/newsletter Code: https://github.com/mattpocock/ai-sdk-tips/tree/main/exercises/03-tokens 00:00 Intro 00:33 Input & Output Tokens 01:11 Monitoring Token Usage 02:16 What are tokens? 02:50 Tiktoken 03:47 Full LLM Process 04:49 Building Token Vocabularies 05:25 Character-Level Tokenizer 06:37 Vocabulary Size 07:20 Subword-Level Tokenizer 08:33 Building Longer Subwords 08:58 Unusual Words 09:45 Summary",
+      "author": "Matt Pocock",
+      "timestamp": "2025-09-19T11:31:59+00:00",
+      "url": "https://www.youtube.com/watch?v=nKSk_TiR8YA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "typescript",
+          "web development",
+          "advanced typescript"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nKSk_TiR8YA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nKSk_TiR8YA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKSk_TiR8YA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nKSk_TiR8YA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nKSk_TiR8YA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nKSk_TiR8YA",
+      "channel_id": "UCswG6FSbgZjbWtdf_hMLaow",
+      "view_count": 20979,
+      "like_count": 1274,
+      "comment_count": 55,
+      "duration": "PT10M58S"
+    }
+  ],
+  "total_posts": 41
+}

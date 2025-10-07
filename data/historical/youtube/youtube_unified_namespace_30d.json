@@ -1,0 +1,2642 @@
+{
+  "keyword": "unified namespace",
+  "platform": "youtube",
+  "collection_date": "2025-10-06T14:33:59.938437",
+  "days_back": 30,
+  "total_posts": 50,
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "OdNfScc_p50",
+      "title": "Ignition-Powered Unified Namespace bij BMT Aerospace | AT-Automation Case Study",
+      "content": "AT-Automation ontwikkelde een Ignition-powered Unified Namespace (UNS) voor BMT Aerospace, waarmee alle shopfloor-data wordt gecentraliseerd en direct beschikbaar is voor MES, engineers en management. Dit project is geselecteerd als een van de Discover Gallery Projects van Ignition Community Conference 2025, een showcase van de meest innovatieve en impactvolle real-world Ignition-oplossingen wereldwijd. Wat je in deze video ziet: Hoe Ignition en Beckhoff IPCs meer dan 100 PLC’s en 70+ machine/CNC-merken integreren Real-time dashboards en visualisatie via Axiom Efficiëntieverbeteringen: een boorproces werd 25% sneller door datagedreven inzichten Stappen richting Industry 4.0: digitalisering, connectiviteit, digitale tweeling, voorspelbaarheid en adaptieve productie Projectdetails: Start: december 2023 | Live: januari 2025 Team: BMT Aerospace, AT-Automation 16.000+ tags, 50+ schermen, 25+ clients, 20+ Beckhoff IPCs Multi-site integratie met Ignition, Canary, Azure Data Lake, SA",
+      "author": "AT-Automation",
+      "timestamp": "2025-09-22 11:59:05+00:00",
+      "url": "https://www.youtube.com/watch?v=OdNfScc_p50",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OdNfScc_p50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OdNfScc_p50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OdNfScc_p50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OdNfScc_p50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OdNfScc_p50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "nl",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "OdNfScc_p50",
+      "channel_id": "UCDO7RMNTPJUhw9YztyvShLQ",
+      "view_count": 108,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT7M59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "lRS_Ian6UlA",
+      "title": "Building a Unified Namespace with Tatsoft FrameworX",
+      "content": "ProveIt! 2025 Solution Overview: How FrameworX Outperforms Other IIoT Platforms in Speed, Flexibility and Cost ProveIt! 2025 is the premier Industry 4.0 Community Conference, designed to bridge the gap between theory and practice by showcasing real-world applications. At this event, Tatsoft was tasked with a difficult challenge: take messy, unstructured industrial data and turn it into a unified, contextualized model. We built the solution using FrameworX, an IIoT platform designed to support a Unified Namespace (UNS)—and we did it in under 2 weeks.",
+      "author": "TATSOFT",
+      "timestamp": "2025-09-29 22:23:26+00:00",
+      "url": "https://www.youtube.com/watch?v=lRS_Ian6UlA",
+      "metadata": {
+        "category_id": "24",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lRS_Ian6UlA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lRS_Ian6UlA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lRS_Ian6UlA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lRS_Ian6UlA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lRS_Ian6UlA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "lRS_Ian6UlA",
+      "channel_id": "UC9tYXx5zsGyE-nOy-Qc9iYA",
+      "view_count": 77,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT1H3M59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Zhn_rCQmadE",
+      "title": "Webinar: Designing an Information Model for Your UNS",
+      "content": "This webinar provides practical guidance on designing a robust information model for your Unified Namespace (UNS) that serves as a single source of truth and scales with your digital manufacturing strategy. We examine the shift from dynamically created namespaces to a centrally governed information model — a structured approach that ensures consistency, interoperability, and readiness for advanced analytics and AI. The session will walk through key steps for building your information model, including: - Mapping the physical and logical structure of your organization - Modeling data flows between business systems and control systems - Contextualizing equipment resources and operational data within the UNS information model - Creating an edge-to-cloud UNS backbone to integrate shop floor data with advanced analytics and AI systems By the end of the session, you’ll understand how to move beyond dynamic namespaces and establish a scalable, governable information model that becomes th",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-17 10:14:20+00:00",
+      "url": "https://www.youtube.com/watch?v=Zhn_rCQmadE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zhn_rCQmadE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zhn_rCQmadE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zhn_rCQmadE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zhn_rCQmadE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zhn_rCQmadE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Zhn_rCQmadE",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 120,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT1H1M15S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vDNA1EvTfdI",
+      "title": "What Is The Best Way To Integrate IIoT Data For A Unified View? - Industrial Tech Insights",
+      "content": "What Is The Best Way To Integrate IIoT Data For A Unified View? Are you curious about how industrial facilities connect and manage vast amounts of data from different machines and systems? In this video, we explore the most effective way to bring together Industrial Internet of Things (IIoT) data into a single, comprehensive view. We’ll cover how a well-structured approach can help unify data from diverse sources, including legacy equipment and modern digital systems, into a central platform. You’ll learn about the role of a Unified Namespace supported by an industrial IoT platform, which acts as a central hub for collecting, normalizing, and sharing real-time data across the entire factory environment. We’ll explain how this setup enables seamless communication between operational technology and enterprise systems, making data more accessible and trustworthy. Additionally, we’ll discuss how transforming raw data into organized data products enhances analytics, decision-making, and aut",
+      "author": "Industrial Tech Insights",
+      "timestamp": "2025-09-08 04:07:51+00:00",
+      "url": "https://www.youtube.com/watch?v=vDNA1EvTfdI",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "Data Integration",
+          "Data Management",
+          "Edge Computing",
+          "Factory Automation",
+          "I Io T",
+          "Industrial Internet",
+          "Industry40",
+          "Manufacturing Innovation",
+          "Real",
+          "Smart Factories"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vDNA1EvTfdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vDNA1EvTfdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vDNA1EvTfdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vDNA1EvTfdI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vDNA1EvTfdI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vDNA1EvTfdI",
+      "channel_id": "UCH_HxeHfJ1seUrqcU0gwrnQ",
+      "view_count": 1,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT3M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "y9zrrs5kUdo",
+      "title": "How to Connect SparkplugB Devices to UMH Core in Minutes | Product Feature",
+      "content": "Learn how to bring SparkplugB data into the Unified Namespace with UMH Core. In this step-by-step demo, we show you how to: - Connect Ignition with SparkplugB - Create a read bridge in UMH Core - Stream and monitor data in real time - Extend data flows to databases, MQTT brokers, and more 👉 Whether you're an experienced integrator or just starting with UNS, UMH Core makes it simple to bring Sparkplug B data into your architecture. Try it out yourself with our free community edition here: https://www.umh.app/ ------ Interested to learn more? 🌐 Visit our website: https://www.umh.app/ 📚 Explore UMH Learning Center: https://learn.umh.app/ 🔗 Join our Discord Community: https://discord.com/invite/2B6tF6mF4Z ------ #UMH #datamodeling #integration #Kubernetes #deployment #datagovernance #streamprocessing #industrialstandards #softwarearchitecture #UnifiedNamespace #RealTimeArchitecture #EventDrivenArchitecture #ManufacturingTech #ITandOT #UMHPlatform #CustomerSuccess #WebinarRecap #Indu",
+      "author": "United Manufacturing Hub",
+      "timestamp": "2025-09-16 08:44:29+00:00",
+      "url": "https://www.youtube.com/watch?v=y9zrrs5kUdo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9zrrs5kUdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9zrrs5kUdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9zrrs5kUdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y9zrrs5kUdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y9zrrs5kUdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "y9zrrs5kUdo",
+      "channel_id": "UCd8Nq2aAt9t_AbT3w9K4waA",
+      "view_count": 61,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT3M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "xBRc4ORHzU0",
+      "title": "mqtt uns viewer",
+      "content": "Simple demo of the mqtt_uns_viewer application available on github to explore unified namespaces / topic tree on mqtt and start the discussion on the topic.",
+      "author": "Confluence Numérique",
+      "timestamp": "2025-09-24 18:00:59+00:00",
+      "url": "https://www.youtube.com/watch?v=xBRc4ORHzU0",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xBRc4ORHzU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xBRc4ORHzU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xBRc4ORHzU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xBRc4ORHzU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "xBRc4ORHzU0",
+      "channel_id": "UCwDuSe-a1aw1zP-_lqG7PwQ",
+      "view_count": 3,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "2eQupzsLBUo",
+      "title": "Rethinking SCADA: Architecture for DevOps, UNS & Industry 4.0",
+      "content": "Is your Ignition SCADA architecture truly ready for a modern DevOps lifecycle? In this deep dive, we unveil a powerful, scalable architecture that leverages the latest features in Ignition 8.3 to solve common challenges in industrial automation. Discover the core concept of the \"Ignition Tag Gateway,\" a dedicated hub for all tag providers and historian services. We explain how this model creates a true separation of concerns, decoupling your tags and production data from your application and visualization layers. Learn how you can finally achieve fearless DevOps, deploying updates and restoring gateways without ever risking the loss of tag state. We'll walk through the entire data flow, from edge controllers to a centralized Unified Namespace (UNS) published via MQTT. See how tools like Flow Software and Timebase Historian integrate seamlessly for advanced analytics and data management, and how this architecture provides a clean, single point for data modeling before it reaches enter",
+      "author": "Abelara Ascent",
+      "timestamp": "2025-09-24 20:53:20+00:00",
+      "url": "https://www.youtube.com/watch?v=2eQupzsLBUo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "abelara",
+          "predictive maintenance",
+          "cmms",
+          "asset management",
+          "industry 4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2eQupzsLBUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2eQupzsLBUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2eQupzsLBUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2eQupzsLBUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2eQupzsLBUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "2eQupzsLBUo",
+      "channel_id": "UCCllYqlDmyf8pExqTwfkW7Q",
+      "view_count": 227,
+      "like_count": 15,
+      "comment_count": 4,
+      "duration": "PT21M18S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ArGvxPAe9vc",
+      "title": "How to connect MQTT through a data diode",
+      "content": "An MQTT client cannot connect through a data diode because MQTT requires two-way data flow just to send data. Before MQTT data can traverse a data diode, it must be received by a broker and converted to a unidirectional protocol. Outside the diode, the data then gets converted back to MQTT and sent by a second broker to subscribing clients. The MQTT data source connects to a DataHub Smart MQTT Broker, which uses the Tunnel/Mirror feature to pass the data through the diode. A second DataHub Smart MQTT Broker outside the data diode receives the data and makes it available for the MQTT client. Skkynet provides Cogent DataHub secure-by-design software and services to let you acquire, aggregate, monitor, control visualize, and network live process data in-plant or over insecure external networks, making it ideal for OT to IT and cloud connections. You can isolate control networks from cyber attacks and integrate industrial data under a unified namespace, all without compromising the p",
+      "author": "Skkynet",
+      "timestamp": "2025-09-15 17:55:14+00:00",
+      "url": "https://www.youtube.com/watch?v=ArGvxPAe9vc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ArGvxPAe9vc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ArGvxPAe9vc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ArGvxPAe9vc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ArGvxPAe9vc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ArGvxPAe9vc",
+      "channel_id": "UCCfI78d6Zct4LCQSh2bzk5A",
+      "view_count": 37,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT6M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "87koqSDJOgs",
+      "title": "CMMS Asset Hierarchy Explained: Functional Locations vs. Assets vs. Items",
+      "content": "Unlock the full potential of your asset reliability program by mastering the CMMS asset hierarchy. If you've ever struggled to get meaningful data from your maintenance system, an improper configuration is likely the culprit. In this deep dive, we break down the three core entities you MUST understand to build a fruitful and effective asset hierarchy: Functional Locations, Asset Records, and Item Records. Learn how each layer serves a distinct purpose, from high-level process identification down to individual procurable parts. We'll show you how to structure this information correctly so you can finally analyze where your maintenance dollars and hours are truly going. We also bridge the gap between traditional reliability terminology and the Industry 4.0 world, explaining how the CMMS asset hierarchy relates to concepts like the Unified Namespace (UNS) and semantic hierarchies. IN THIS VIDEO, YOU WILL LEARN: • The two primary goals of a well-configured CMMS. • The 3 core entities of",
+      "author": "Abelara Ascent",
+      "timestamp": "2025-10-03 21:01:46+00:00",
+      "url": "https://www.youtube.com/watch?v=87koqSDJOgs",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "abelara",
+          "predictive maintenance",
+          "cmms",
+          "asset management",
+          "industry 4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87koqSDJOgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87koqSDJOgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87koqSDJOgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/87koqSDJOgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/87koqSDJOgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "87koqSDJOgs",
+      "channel_id": "UCCllYqlDmyf8pExqTwfkW7Q",
+      "view_count": 26,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT5M14S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "XDTIyhcYaSs",
+      "title": "Why Portainer Is More Powerful Than You Think",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-16 16:01:03+00:00",
+      "url": "https://www.youtube.com/watch?v=XDTIyhcYaSs",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XDTIyhcYaSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XDTIyhcYaSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XDTIyhcYaSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XDTIyhcYaSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XDTIyhcYaSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "XDTIyhcYaSs",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1470,
+      "like_count": 19,
+      "comment_count": 0,
+      "duration": "PT34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "d_Ky5w4sU4g",
+      "title": "How to connect MQTT through a data diode to a cloud broker",
+      "content": "An MQTT client cannot connect through a data diode because MQTT requires two-way data flow just to send data. Before MQTT data can traverse a data diode, it must be received by a broker and converted to a unidirectional protocol. Outside the diode, the data then gets converted back to MQTT. A typical scenario for MQTT is to connect a device to a cloud server. If that device is behind a data diode, it can be connected to a DataHub Smart MQTT Broker, which uses the Tunnel/Mirror feature to pass the data through the diode. At that point a second DataHub instance receives the data, and acting as an MQTT client, sends the data to an MQTT broker running on the cloud. Skkynet provides Cogent DataHub secure-by-design software and services to let you acquire, aggregate, monitor, control visualize, and network live process data in-plant or over insecure external networks, making it ideal for OT to IT and cloud connections. You can isolate control networks from cyber attacks and integrate ind",
+      "author": "Skkynet",
+      "timestamp": "2025-09-15 16:07:18+00:00",
+      "url": "https://www.youtube.com/watch?v=d_Ky5w4sU4g",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d_Ky5w4sU4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d_Ky5w4sU4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d_Ky5w4sU4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d_Ky5w4sU4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "d_Ky5w4sU4g",
+      "channel_id": "UCCfI78d6Zct4LCQSh2bzk5A",
+      "view_count": 26,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT6M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "aarsqzg1iWM",
+      "title": "ICC Day 1 Recap",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-17 16:30:01+00:00",
+      "url": "https://www.youtube.com/watch?v=aarsqzg1iWM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aarsqzg1iWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aarsqzg1iWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aarsqzg1iWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aarsqzg1iWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aarsqzg1iWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "aarsqzg1iWM",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 353,
+      "like_count": 11,
+      "comment_count": 0,
+      "duration": "PT1M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5CeafTXJNpk",
+      "title": "ProveIt At ICC 2025 Highlights",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-22 16:00:15+00:00",
+      "url": "https://www.youtube.com/watch?v=5CeafTXJNpk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5CeafTXJNpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5CeafTXJNpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5CeafTXJNpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5CeafTXJNpk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5CeafTXJNpk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5CeafTXJNpk",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 522,
+      "like_count": 14,
+      "comment_count": 2,
+      "duration": "PT5M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "SonlPOxqMVU",
+      "title": "UNS Executive Summary",
+      "content": "Kevin Jones explains that many manufacturers struggle with growth because they rely on fragmented systems, paper processes, and ERP-centered operations that create data silos and technical debt. He outlines how a Unified Namespace (UNS) approach - built on standards, incremental problem-solving, and strong change management - can break through these limitations, provide real-time visibility, and enable scalable digital transformation. The process involves assessing digital maturity, building a standards-based foundation, connecting data silos, and progressing toward MES, analytics, and eventually AI/ML.",
+      "author": "Ectobox, Inc.",
+      "timestamp": "2025-09-17 15:53:24+00:00",
+      "url": "https://www.youtube.com/watch?v=SonlPOxqMVU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SonlPOxqMVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SonlPOxqMVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SonlPOxqMVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SonlPOxqMVU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SonlPOxqMVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "SonlPOxqMVU",
+      "channel_id": "UCmN1mg4PGddwknCqe51MCyA",
+      "view_count": 43,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT17M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5sHNHjYu4rU",
+      "title": "You MUST know MCP",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-06 17:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=5sHNHjYu4rU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5sHNHjYu4rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5sHNHjYu4rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5sHNHjYu4rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5sHNHjYu4rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5sHNHjYu4rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5sHNHjYu4rU",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1295,
+      "like_count": 34,
+      "comment_count": 1,
+      "duration": "PT1M17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "x5p1-eZkyf0",
+      "title": "Why Did We Need to Respond?",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-14 19:25:07+00:00",
+      "url": "https://www.youtube.com/watch?v=x5p1-eZkyf0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x5p1-eZkyf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x5p1-eZkyf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x5p1-eZkyf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x5p1-eZkyf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x5p1-eZkyf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "x5p1-eZkyf0",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 934,
+      "like_count": 50,
+      "comment_count": 14,
+      "duration": "PT54M39S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "cnAOp-Ik9Vk",
+      "title": "My First Check",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: Want to learn more about the Integrator Growth Program - https://www.iiot.university/integrator-growth-program 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-29 22:44:51+00:00",
+      "url": "https://www.youtube.com/watch?v=cnAOp-Ik9Vk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cnAOp-Ik9Vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cnAOp-Ik9Vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cnAOp-Ik9Vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cnAOp-Ik9Vk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cnAOp-Ik9Vk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "cnAOp-Ik9Vk",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 492,
+      "like_count": 19,
+      "comment_count": 2,
+      "duration": "PT7M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nDBFMNEhGIs",
+      "title": "AI Turns Bad Data to Sparkle Will It Be Good Enough? #ai #unifiednamespace",
+      "content": "Alejandro Simó Vesperinas, IT/OT Architect at Mayker, presents real world architectures at CONNACK! in Munich. He humorously discusses how AI and generative AI can improve bad data, acknowledging their potential while noting they still have underlying issues. He goes on to humorously talk about LLMs or Agentic AI, pointing out that while it can make things look good, sometimes it still might not be good enough. Watch the full presentation \"Deploying Real World UNS Architectures with MQTT and Node RED - Mayker\": https://youtu.be/KHUB5MwxlAo Visit hivemq.com to find out more about Smart Manufacturing and Industrial Digitalization: https://bit.ly/46womu1 #unifiednamespace #nodered #smartmanufacturing",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-08 22:00:51+00:00",
+      "url": "https://www.youtube.com/watch?v=nDBFMNEhGIs",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nDBFMNEhGIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nDBFMNEhGIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nDBFMNEhGIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nDBFMNEhGIs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nDBFMNEhGIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nDBFMNEhGIs",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 650,
+      "like_count": 7,
+      "comment_count": 1,
+      "duration": "PT1M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qlQikMY-Fm8",
+      "title": "Data Modeling Explained : Instances, Models, and Attributes #datamodeling #unifiednamespace",
+      "content": "Alejandro Simó Vesperinas, IT/OT Architect at Mayker, eexplains instances, models, and attributes, starting with instances as physical equipment, then models as blueprints, and finally attributes as data points. Watch the full presentation \"Deploying Real World UNS Architectures with MQTT and Node RED - Mayker\": https://youtu.be/KHUB5MwxlAo Visit hivemq.com to find out more about Smart Manufacturing and Industrial Digitalization: https://bit.ly/46womu1 #unifiednamespace #nodered #smartmanufacturing",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-14 22:01:01+00:00",
+      "url": "https://www.youtube.com/watch?v=qlQikMY-Fm8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qlQikMY-Fm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qlQikMY-Fm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qlQikMY-Fm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qlQikMY-Fm8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qlQikMY-Fm8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qlQikMY-Fm8",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 86,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "OXrn1syDilA",
+      "title": "This Needs To Be Said",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-12 21:50:59+00:00",
+      "url": "https://www.youtube.com/watch?v=OXrn1syDilA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OXrn1syDilA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OXrn1syDilA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OXrn1syDilA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OXrn1syDilA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OXrn1syDilA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "OXrn1syDilA",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1505,
+      "like_count": 97,
+      "comment_count": 35,
+      "duration": "PT23M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "pc2_Lty0Rqk",
+      "title": "No Hotel California - open data, no lock-in",
+      "content": "Your data shouldn’t be a timeshare. Choose open. #UNS #MQTT #Interoperability",
+      "author": "Ectobox, Inc.",
+      "timestamp": "2025-09-18 14:50:54+00:00",
+      "url": "https://www.youtube.com/watch?v=pc2_Lty0Rqk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pc2_Lty0Rqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pc2_Lty0Rqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pc2_Lty0Rqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pc2_Lty0Rqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pc2_Lty0Rqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "pc2_Lty0Rqk",
+      "channel_id": "UCmN1mg4PGddwknCqe51MCyA",
+      "view_count": 13,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT1M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "RO22laHt4L8",
+      "title": "Kepware is DEAD",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-25 21:13:23+00:00",
+      "url": "https://www.youtube.com/watch?v=RO22laHt4L8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RO22laHt4L8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RO22laHt4L8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RO22laHt4L8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RO22laHt4L8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RO22laHt4L8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "RO22laHt4L8",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1803,
+      "like_count": 69,
+      "comment_count": 9,
+      "duration": "PT15M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "MxTqqCmiTLM",
+      "title": "CTERA Enterprise Intelligence: Unify & Activate Your Private Data for Faster & Smarter Outcomes",
+      "content": "This session offers insight into the seamless integration of AI within the CTERA Intelligent Data Platform. Embedded AI and analytic Enterprise Data Services are explored, along with the underlying data fabric that facilitates secure, global data connectivity and ensures high-performance access. Additionally, the session demonstrates how agentic AI advances productivity, enabling virtual employees to interact efficiently with private data resources while maintaining robust security and operational effectiveness. CTERA's approach to enterprise intelligence is structured around three key pillars. The first pillar focuses on embedding AI and analytics within data management for enhanced security and data quality. This includes real-time inspection of I/O for anomaly detection and integration with security solutions like Purview. The second pillar involves providing a data foundation and fabric for AI training and inferencing, offering a global namespace for data aggregation and access, a",
+      "author": "Tech Field Day",
+      "timestamp": "2025-09-16 03:57:38+00:00",
+      "url": "https://www.youtube.com/watch?v=MxTqqCmiTLM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Tech Field Day",
+          "Gestalt IT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MxTqqCmiTLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MxTqqCmiTLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MxTqqCmiTLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MxTqqCmiTLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MxTqqCmiTLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "MxTqqCmiTLM",
+      "channel_id": "UCSnTTyp4q7jMhwECxXzMAXQ",
+      "view_count": 418,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT23M7S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "aJ2r2c1FrPw",
+      "title": "What is AI Ready Storage, with Hammerspace",
+      "content": "AI Ready Storage is data infrastructure designed to break down silos and give enterprises seamless, high-performance access to their data wherever it lives. With 73% of enterprise data trapped in silos and 87% of AI projects failing to reach production, the bottleneck isn’t GPUs—it’s data. Traditional environments suffer from visualization challenges, high costs, and data gravity that limits AI flexibility. Hammerspace simplifies the enterprise data estate by unifying silos into a single global namespace and providing instant access to data—without forklift upgrades—so organizations can accelerate AI success. The presentation focused on leveraging existing infrastructure and data to make it AI-ready, emphasizing simplicity for AI researchers under pressure to deliver high-quality results quickly. Hammerspace simplifies the data readiness process, enabling easy access and utilization of data within infrastructure projects. While the presentation covers technical aspects, the emphasis r",
+      "author": "Tech Field Day",
+      "timestamp": "2025-09-17 01:35:38+00:00",
+      "url": "https://www.youtube.com/watch?v=aJ2r2c1FrPw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Tech Field Day",
+          "Gestalt IT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aJ2r2c1FrPw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aJ2r2c1FrPw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aJ2r2c1FrPw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aJ2r2c1FrPw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aJ2r2c1FrPw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "aJ2r2c1FrPw",
+      "channel_id": "UCSnTTyp4q7jMhwECxXzMAXQ",
+      "view_count": 410,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT1H6M7S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "E1Q6qUxyiOI",
+      "title": "Why REST API Is Needed For MCP",
+      "content": "Walker Reynolds is joined by Anibal Velarde where they discuss why REST API is needed for MCP 📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studi",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-08 17:00:19+00:00",
+      "url": "https://www.youtube.com/watch?v=E1Q6qUxyiOI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E1Q6qUxyiOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E1Q6qUxyiOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E1Q6qUxyiOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E1Q6qUxyiOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E1Q6qUxyiOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "E1Q6qUxyiOI",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1140,
+      "like_count": 29,
+      "comment_count": 2,
+      "duration": "PT1M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "sKxX4GmGul8",
+      "title": "Creating a Unified XSLT for Multiple SSRS Reports",
+      "content": "Explore how to develop a flexible `XSLT transformation` to handle multiple SSRS reports seamlessly, regardless of namespace variations. --- This video is based on the question https://stackoverflow.com/q/63762829/ asked by the user 'Serhii Proskurnin' ( https://stackoverflow.com/u/7706781/ ) and on the answer https://stackoverflow.com/a/63781785/ provided by the user 'Dimitre Novatchev' ( https://stackoverflow.com/u/36305/ ) at 'Stack Overflow' website. Thanks to these great users and Stackexchange community for their contributions. Visit these links for original content and any more details, such as alternate solutions, latest updates/developments on topic, comments, revision history etc. For example, the original title of the Question was: Unified xslt for multiple SSRS reports (xml export) Also, Content (except music) licensed under CC BY-SA https://meta.stackexchange.com/help/licensing The original Question post is licensed under the 'CC BY-SA 4.0' ( https://creativecommons.org/l",
+      "author": "vlogize",
+      "timestamp": "2025-09-30 18:54:16+00:00",
+      "url": "https://www.youtube.com/watch?v=sKxX4GmGul8",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "Unified xslt for multiple SSRS reports (xml export)",
+          "xml",
+          "xslt",
+          "reporting services",
+          "ssrs 2016"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKxX4GmGul8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKxX4GmGul8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKxX4GmGul8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sKxX4GmGul8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sKxX4GmGul8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "sKxX4GmGul8",
+      "channel_id": "UCqVICHE5XVCpDCmQ1w8a-dQ",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT2M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "driHFpbQX-c",
+      "title": "ICC 2025 Vendor Remarks W/ Walker Reynolds",
+      "content": "Walker Reynolds of 4.0 Solutions and ProveIt! does the opening remarks at ICC 2025 📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in p",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-15 21:53:03+00:00",
+      "url": "https://www.youtube.com/watch?v=driHFpbQX-c",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/driHFpbQX-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/driHFpbQX-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/driHFpbQX-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/driHFpbQX-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/driHFpbQX-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "driHFpbQX-c",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1011,
+      "like_count": 30,
+      "comment_count": 2,
+      "duration": "PT24M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "dY1yaFIFq90",
+      "title": "UNS Architecture Solves IT OT Data Challenges Security & Scalability #nodered #ai",
+      "content": "Alejandro Simó Vesperinas, IT/OT Architect at Mayker, provides an overview of the presentation on UNS architectures, focusing on key areas like data quality, security, and scalability, followed by a discussion on data processing in manufacturing and its importance. He introduces the presentation by discussing adding context, maintaining data quality, security, reducing attacks, and scalability within UNS architectures. Alejandro explains that in manufacturing, 'garbage in, garbage out' applies to data, and emphasizes the importance of processing data before sending it to a broker, highlighting the need for solutions beyond just sending raw data. Watch the full presentation \"Deploying Real World UNS Architectures with MQTT and Node RED - Mayker\": https://youtu.be/KHUB5MwxlAo Visit hivemq.com to find out more about Smart Manufacturing and Industrial Digitalization: https://bit.ly/46womu1 #unifiednamespace #nodered #smartmanufacturing #datamodeling",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-11 22:00:59+00:00",
+      "url": "https://www.youtube.com/watch?v=dY1yaFIFq90",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dY1yaFIFq90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dY1yaFIFq90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dY1yaFIFq90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dY1yaFIFq90/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dY1yaFIFq90/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "dY1yaFIFq90",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 664,
+      "like_count": 10,
+      "comment_count": 0,
+      "duration": "PT1M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6_4KgTWEIH8",
+      "title": "A3 Communications Technology Live! Munich June 2025: Hammerspace",
+      "content": "𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 𝗔𝗜/𝗛𝗣𝗖 𝗨𝘀𝗲 𝗖𝗮𝘀𝗲𝘀 𝘄𝗶𝘁𝗵 𝗘𝘅𝗶𝘀𝘁𝗶𝗻𝗴 𝗜𝗧 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 – 𝗗𝗮𝗻 𝗗𝘂𝗽𝗲𝗿𝗿𝗼𝗻, 𝗛𝗮𝗺𝗺𝗲𝗿𝘀𝗽𝗮𝗰𝗲 HPC and AI workloads require lightning-fast, scalable access to data spread across diverse storage systems and clouds yet traditional architectures struggle with silos, proprietary systems, and orchestration complexity. In this session, Dan Duperron reveals how Hammerspace delivers an open, standards-based data platform that unifies file and object access across edge, data centers, and cloud, eliminating vendor lock-in and enabling linear scalability using an existing infrastructure. This session covers: • Parallel Global File Systems with pNFS 4.2: Harness open standards for high-performance, distributed data access without proprietary clients. • Automated Data Orchestration: Enable real-time, seamless data movement across storage types while ensuring continuous availability. • Optimized Workflows for AI & HPC: Leverage a unified namespace to simplify workflows, accelerate insig",
+      "author": "A3 Communications",
+      "timestamp": "2025-09-23 13:49:43+00:00",
+      "url": "https://www.youtube.com/watch?v=6_4KgTWEIH8",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6_4KgTWEIH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6_4KgTWEIH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6_4KgTWEIH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6_4KgTWEIH8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6_4KgTWEIH8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6_4KgTWEIH8",
+      "channel_id": "UCAZJtFbGzefBq4bU8ut_NlQ",
+      "view_count": 26,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1H27M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "G0I-lBwBhcA",
+      "title": "How to connect OPC DA through a data diode",
+      "content": "An OPC DA client cannot connect to an OPC DA server through a data diode because all incoming data gets blocked. To solve this problem, the DataHub tunnel/mirror approach encapsulates OPC DA within a unidirectional transport layer that can pass through the diode. On the receiving side, a DataHub instance converts the data back into OPC DA data for the client application. A further benefit of this approach is that it eliminates the hassles of configuring DCOM, and any issues with the KB5004442 security patch from Microsoft. Skkynet provides Cogent DataHub secure-by-design software and services to let you acquire, aggregate, monitor, control visualize, and network live process data in-plant or over insecure external networks, making it ideal for OT to IT and cloud connections. You can isolate control networks from cyber attacks and integrate industrial data under a unified namespace, all without compromising the plant. https://cogentdatahub.com/how-to-connect-opc-da-through-a-data-d",
+      "author": "Skkynet",
+      "timestamp": "2025-09-15 16:20:09+00:00",
+      "url": "https://www.youtube.com/watch?v=G0I-lBwBhcA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0I-lBwBhcA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0I-lBwBhcA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0I-lBwBhcA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0I-lBwBhcA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "G0I-lBwBhcA",
+      "channel_id": "UCCfI78d6Zct4LCQSh2bzk5A",
+      "view_count": 12,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT4M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "sZSP-VQYsj0",
+      "title": "Digitalization in Manufacturing Cloetta casestudy powered by AT-Automation",
+      "content": "In deze klantcase video toont AT-Automation hoe Cloetta, een toonaangevend snoepgoedbedrijf in Noord-Europa, hun productieprocessen heeft gedigitaliseerd met behulp van Ignition en Sepasoft MES. Door verouderde systemen te moderniseren en data centraal te verzamelen via een Unified Namespace (UNS), heeft Cloetta realtime inzicht gekregen in hun productie. De implementatie op een Linux-omgeving met Docker-containers zorgt voor snelle uitrol, flexibiliteit en schaalbaarheid. Ontdek hoe deze digitale transformatie bijdraagt aan efficiënter gebruik van middelen en een proactieve, datagestuurde benadering van productie. #Digitalisering #Industry40 #Manufacturing #Ignition #MES #Cloetta #Automation #DataDriven #ATAutomation",
+      "author": "AT-Automation",
+      "timestamp": "2025-09-29 11:15:09+00:00",
+      "url": "https://www.youtube.com/watch?v=sZSP-VQYsj0",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZSP-VQYsj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZSP-VQYsj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZSP-VQYsj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZSP-VQYsj0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZSP-VQYsj0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "nl",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "sZSP-VQYsj0",
+      "channel_id": "UCDO7RMNTPJUhw9YztyvShLQ",
+      "view_count": 36,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT49M39S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vUphhOK8CQQ",
+      "title": "Docker Made Simple with Portainer",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-18 16:01:41+00:00",
+      "url": "https://www.youtube.com/watch?v=vUphhOK8CQQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vUphhOK8CQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vUphhOK8CQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vUphhOK8CQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vUphhOK8CQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vUphhOK8CQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vUphhOK8CQQ",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 2234,
+      "like_count": 38,
+      "comment_count": 2,
+      "duration": "PT40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "eznoNnir_KI",
+      "title": "Node RED - The Hackable Data Modeling Tool #datamodeling #nodered",
+      "content": "Alejandro Simó Vesperinas, IT/OT Architect at Mayker, discusses data modeling challenges and presents Node-RED as a solution, demonstrating a basic setup with OPC-UA data and data transmission options. Alejandro introduces the complexity of data modeling and proposes Node-RED as an accessible solution for handling complex data Watch the full presentation \"Deploying Real World UNS Architectures with MQTT and Node RED - Mayker\": https://youtu.be/KHUB5MwxlAo Visit hivemq.com to find out more about Smart Manufacturing and Industrial Digitalization: https://bit.ly/46womu1 #unifiednamespace #nodered #smartmanufacturing #datamodeling",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-10 22:00:51+00:00",
+      "url": "https://www.youtube.com/watch?v=eznoNnir_KI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eznoNnir_KI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eznoNnir_KI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eznoNnir_KI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eznoNnir_KI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eznoNnir_KI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "eznoNnir_KI",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 785,
+      "like_count": 8,
+      "comment_count": 0,
+      "duration": "PT47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tDBJ1gQKTO8",
+      "title": "Data Modeling Explained - Structure Data for Clarity & Efficiency! #datamodeling #nodered",
+      "content": "Alejandro Simó Vesperinas, IT/OT Architect at Mayker, explains data modeling and the benefits of using Node-RED at the edge, and defines data modeling as structuring raw data, adding context, and making it understandable. He explains the benefits of using Node-RED at the edge, including adding context and reducing network load. Watch the full presentation \"Deploying Real World UNS Architectures with MQTT and Node RED - Mayker\": https://youtu.be/KHUB5MwxlAo Visit hivemq.com to find out more about Smart Manufacturing and Industrial Digitalization: https://bit.ly/46womu1 #unifiednamespace #nodered #smartmanufacturing",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-09 22:00:59+00:00",
+      "url": "https://www.youtube.com/watch?v=tDBJ1gQKTO8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tDBJ1gQKTO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tDBJ1gQKTO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tDBJ1gQKTO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tDBJ1gQKTO8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tDBJ1gQKTO8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tDBJ1gQKTO8",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 512,
+      "like_count": 6,
+      "comment_count": 0,
+      "duration": "PT45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "V7RVDiSt0xQ",
+      "title": "Building a Knowledge Graph Context Layer for Industrial AI",
+      "content": "This podcast explores Industrial AI in Manufacturing applications. In this episode, Kudzai Manditereza speaks with Bob van de Kuilen, Director of Thred. They discuss Building a Knowledge Graph Context Layer for Industrial AI EPISODE LINKS 💼 Bob LinkedIn - https://www.linkedin.com/in/bob-van-de-kuilen-a531403/ 🌐 Thred Website - https://www.thred.cloud/ *** PODCAST SPONSORED BY HiveMQ: https://www.hivemq.com/ *** CHAPTERS 00:00 – Intro 03:25 – Why Manufacturers Struggle to Extract Value from Data 08:24 – Industrial DataOps Explained: Moving, Storing & Defining Factory Data 10:26 – What Does “Context” Really Mean in Industrial Data? 14:51 – Why Rigid Standards Like ISA-95 Fall Short in Practice 18:27 – Building Context Iteratively: Start Small, Validate, Scale 22:15 – Knowledge Graphs vs. Hierarchical Models for Contextualization 24:58 – How Knowledge Graphs Complement the Unified Namespace 26:20 – Introducing Thread Cloud: Visualizing & Relating Factory Data 33:16 – Knowledge Graphs",
+      "author": "Industry40tv",
+      "timestamp": "2025-09-17 07:45:01+00:00",
+      "url": "https://www.youtube.com/watch?v=V7RVDiSt0xQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7RVDiSt0xQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7RVDiSt0xQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7RVDiSt0xQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V7RVDiSt0xQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V7RVDiSt0xQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "V7RVDiSt0xQ",
+      "channel_id": "UCerjTexarRNjdAv_1tbe49A",
+      "view_count": 307,
+      "like_count": 7,
+      "comment_count": 2,
+      "duration": "PT54M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6XmNMlc-FJY",
+      "title": "Data Architecture - Revolutionizing Production with Onsite & Cloud Solutions! #smartmanufacturing",
+      "content": "Sébastien van Laecke - Data Engineer at Orange BS introduces various use cases on a stage, explaining how data is inserted, visualized, and analyzed by different users, including production line supervisors, data analysts, and marketing teams. Watch the full presentation from CONNACK! 2025 in Munich: \"UNS in Action: Real-Time Data Flow in Plastic Film Production\" #smartmanufacturing #unifiednamespace #digitaltransformation",
+      "author": "HiveMQ",
+      "timestamp": "2025-09-07 22:00:07+00:00",
+      "url": "https://www.youtube.com/watch?v=6XmNMlc-FJY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "iot",
+          "smart manufacturing",
+          "iiot",
+          "industry4.0"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6XmNMlc-FJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6XmNMlc-FJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6XmNMlc-FJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6XmNMlc-FJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6XmNMlc-FJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6XmNMlc-FJY",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 96,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7UEvqQQ8e8o",
+      "title": "How to connect OPC UA through a data diode",
+      "content": "An OPC UA client cannot connect to an OPC UA server through a data diode because all incoming data gets blocked. OPC UA pub/sub can make outbound connections, but it relies on UDP, which is not practical for most industrial applications. Data delivered over UDP can be damaged, out of sequence, or incomplete. To solve this problem, the DataHub tunnel/mirror approach encapsulates OPC UA within a unidirectional transport layer that can pass through the diode. On the receiving side, a DataHub instance converts the data back into OPC UA data for the client application. Skkynet provides Cogent DataHub secure-by-design software and services to let you acquire, aggregate, monitor, control visualize, and network live process data in-plant or over insecure external networks, making it ideal for OT to IT and cloud connections. You can isolate control networks from cyber attacks and integrate industrial data under a unified namespace, all without compromising the plant. https://cogentdatahub.",
+      "author": "Skkynet",
+      "timestamp": "2025-09-15 16:19:53+00:00",
+      "url": "https://www.youtube.com/watch?v=7UEvqQQ8e8o",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UEvqQQ8e8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UEvqQQ8e8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UEvqQQ8e8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7UEvqQQ8e8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7UEvqQQ8e8o",
+      "channel_id": "UCCfI78d6Zct4LCQSh2bzk5A",
+      "view_count": 17,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT4M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Hs9qqDb3wwU",
+      "title": "Planujesz wdrożenie MES? Zobacz 5 porad, jak nie utknąć z przestarzałą technologią na dekady.",
+      "content": "Czy systemy MES, jakie znamy dzisiaj, przetrwają do 2030 roku? Jakie są ich największe ograniczenia i jakie megatrendy technologiczne, takie jak Edge Computing, low-code czy Unified Namespace, sprawiają, że tradycyjne podejście do zarządzania produkcją staje się przestarzałe? Zapraszamy na prowokacyjną, ale niezwykle merytoryczną prezentację \"Dlaczego w 2030 nie będziemy już potrzebować systemów MES?\" Aleksandra Geislera z RAION Software, która rzuca nowe światło na przyszłość systemów informatycznych w produkcji. Zobacz, dlaczego klasyczne, monolityczne systemy MES odchodzą do lamusa i czym zastąpi je elastyczny, zdecentralizowany i inteligentny ekosystem oparty na mikroserwisach i sztucznej inteligencji. 🎥 Materiał został nagrany na żywo podczas targów ITM INDUSTRY EUROPE 2025 na scenie Fabryki Przyszłości DBR77. W tym materiale dowiesz się: ✅ Jakie są największe ograniczenia i problemy obecnych systemów MES? ✅ Jakie megatrendy technologiczne \"zjadają\" tradycyjny MES (m.in. Edge C",
+      "author": "DBR77",
+      "timestamp": "2025-09-11 06:17:01+00:00",
+      "url": "https://www.youtube.com/watch?v=Hs9qqDb3wwU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hs9qqDb3wwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hs9qqDb3wwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hs9qqDb3wwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hs9qqDb3wwU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hs9qqDb3wwU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "pl",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Hs9qqDb3wwU",
+      "channel_id": "UCLD-GYiD-fieOk6wtZXoRYg",
+      "view_count": 82,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT27M8S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zQXHv-CWUE0",
+      "title": "ICC 2025 Kickoff W/ Walker Reynolds - ProveIt! Proving Grounds",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-16 17:31:45+00:00",
+      "url": "https://www.youtube.com/watch?v=zQXHv-CWUE0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zQXHv-CWUE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zQXHv-CWUE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zQXHv-CWUE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zQXHv-CWUE0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zQXHv-CWUE0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zQXHv-CWUE0",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 1199,
+      "like_count": 34,
+      "comment_count": 8,
+      "duration": "PT31M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jl-1MVvChvA",
+      "title": "Accelerate the journey to become a Lighthouse Factory in 36 months!",
+      "content": "In today's ever evolving manufacturing landscape, competitiveness is tied to speed, quality and cost of delivery. Since time immemorial, technological innovations have helped in scaling operations and producing quality outcomes, starting from the first use of steam for production to latest advanced robotics that work tirelessly. Lighthouse Factories lead by weaving together data and intelligence into an enterprise-wide digital foundation that enhances coordination across hundreds of thousands of people employed in multiple functions with the right set of contextual intel. ‍ In this session, we’ll explore: 1. Why real-time connectivity and data acquisition are non-negotiable 2. Why a unified data fabric saves time and headaches 3. How AI, MLOps, and GenAI models unlock massive productivity 4. The role of cybersecurity as a crucial enabler 5. Importance of Unified Namespace, Microservices architecture, and more",
+      "author": "Faclon Labs",
+      "timestamp": "2025-09-09 14:24:03+00:00",
+      "url": "https://www.youtube.com/watch?v=jl-1MVvChvA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jl-1MVvChvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jl-1MVvChvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jl-1MVvChvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jl-1MVvChvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jl-1MVvChvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jl-1MVvChvA",
+      "channel_id": "UC8ndB9zEsTLVOLL6XkcRBew",
+      "view_count": 6,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT49M3S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "C9etrsbPQr0",
+      "title": "How Can IIoT Data Acquisition Overcome Protocol Challenges? - Industrial Tech Insights",
+      "content": "How Can IIoT Data Acquisition Overcome Protocol Challenges? Have you ever wondered how factories connect diverse machines and systems to operate smoothly? In this informative video, we'll explain how data acquisition in industrial environments overcomes protocol challenges. We'll start by discussing the common issues faced when integrating old and new equipment with different communication protocols. You'll learn how protocol translation gateways act as interpreters, enabling seamless data sharing across various systems without costly replacements. We'll also explore the role of edge computing in processing data locally, reducing delays, and improving real-time decision making. Additionally, we'll cover the importance of establishing a solid data strategy, including setting standards for data quality, identifying bottlenecks, and planning for future growth. Security measures like encryption and network segmentation are vital to protect sensitive information as more devices connect to t",
+      "author": "Industrial Tech Insights",
+      "timestamp": "2025-09-13 00:16:11+00:00",
+      "url": "https://www.youtube.com/watch?v=C9etrsbPQr0",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "Data Acquisition",
+          "Edge Computing",
+          "Factory Automation",
+          "I Io T",
+          "Indus",
+          "Industrial Automation",
+          "Industry40",
+          "Manufacturing Tech",
+          "Protocol Conversion",
+          "Smart Factories"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C9etrsbPQr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C9etrsbPQr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C9etrsbPQr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C9etrsbPQr0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C9etrsbPQr0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "C9etrsbPQr0",
+      "channel_id": "UCH_HxeHfJ1seUrqcU0gwrnQ",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT3M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3rRuefWg6TI",
+      "title": "Distributed File System in Server 2025 | What is DFS NameSpace | How to create DFS Namespace",
+      "content": "#ipsec #windowsserver2025 #education #activedirectory #windows #microsoft Learn about Windows Server 2025 with System Administration 2025 Step by Step in 60 days with only a 5-minute class every day. For AWS Solution Architect Playlist, please go with below link https://www.youtube.com/playlist?list=PLBjGa4dFIQl_7MBGlCaj_0vZo561JpVYO For System Administrator Playlist, please go with below link https://www.youtube.com/playlist?list=PLBjGa4dFIQl_Gk7oMf2hJm4hlZ-tscXDZ For LINUX Admin Playlist, please go with below link https://www.youtube.com/playlist?list=PLBjGa4dFIQl-paMFr5p8KXXCCu0_RRu0e For Sophos Firewall Playlist, please go to below link https://www.youtube.com/playlist?list=PLBjGa4dFIQl-9_UYhXjTCAHMTgQqViPkL For Symantec Endpoint Protection, please go with below link https://www.youtube.com/playlist?list=PLBjGa4dFIQl8bI58h0i4SI34FDPyqRwoT I hope you enjoy the video. Don't forget to like, share, and subscribe to my channel: https://www.youtube.com/c/DixitITClasses",
+      "author": "Dixit IT Classes",
+      "timestamp": "2025-09-14 14:30:03+00:00",
+      "url": "https://www.youtube.com/watch?v=3rRuefWg6TI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "dfs",
+          "dfs namespace",
+          "dfs namespaces explained",
+          "windows server 2025",
+          "windows",
+          "how to",
+          "file",
+          "distributed file system",
+          "file server replication",
+          "server administration",
+          "dfs replication group",
+          "setting up dfs",
+          "active directory",
+          "scalability",
+          "system administrator",
+          "system administration",
+          "system admin",
+          "setting up dfs in active directory",
+          "active directory tutorial for beginners",
+          "systems administrator",
+          "configure dfs namespace"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3rRuefWg6TI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3rRuefWg6TI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rRuefWg6TI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3rRuefWg6TI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3rRuefWg6TI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3rRuefWg6TI",
+      "channel_id": "UCemwycHnu0c9wy5A63QsY_A",
+      "view_count": 70,
+      "like_count": 7,
+      "comment_count": 0,
+      "duration": "PT4M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "irzuvAwIN4c",
+      "title": "How to Extend UserControl with an Interface while Using IoC in C#",
+      "content": "Learn how to effectively extend `UserControl` with an interface while implementing Inversion of Control (IoC) using C# . This guide offers a concise solution to common casting errors. --- This video is based on the question https://stackoverflow.com/q/63732122/ asked by the user 'melegant' ( https://stackoverflow.com/u/6635748/ ) and on the answer https://stackoverflow.com/a/63790905/ provided by the user 'Marcin Wasik' ( https://stackoverflow.com/u/1483460/ ) at 'Stack Overflow' website. Thanks to these great users and Stackexchange community for their contributions. Visit these links for original content and any more details, such as alternate solutions, latest updates/developments on topic, comments, revision history etc. For example, the original title of the Question was: How to extend UserControl with an Interface while using IoC Also, Content (except music) licensed under CC BY-SA https://meta.stackexchange.com/help/licensing The original Question post is licensed under the 'C",
+      "author": "vlogize",
+      "timestamp": "2025-09-30 20:34:05+00:00",
+      "url": "https://www.youtube.com/watch?v=irzuvAwIN4c",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "How to extend UserControl with an Interface while using IoC",
+          "c#",
+          "user controls",
+          "inversion of control"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/irzuvAwIN4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/irzuvAwIN4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/irzuvAwIN4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/irzuvAwIN4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/irzuvAwIN4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "irzuvAwIN4c",
+      "channel_id": "UCqVICHE5XVCpDCmQ1w8a-dQ",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M29S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Sgh_gwZOyYk",
+      "title": "Activating Tier 0 Storage Within GPU and CPU-based Compute Cluster with Hammerspace",
+      "content": "The highest performing storage available today is an untapped resource within your server clusters that can be activated by Hammerspace to accelerate AI workloads and increase GPU utilization. This session covers how Hammerspace unifies local NVMe across server clusters as a protected, ultra-fast tier that is part of a unified global namespace. This underutilized capacity can now accelerate AI workloads as shared storage, with data automatically orchestrated by Hammerspace across other tiers and cloud storage to increase time to token while also reducing infrastructure costs. Floyd Christopherson from Hammerspace introduces Tier 0, focusing on how it accelerates AI workflows in GPU and CPU-based clusters. The core problem addressed is the stranded capacity of local NVMe storage within servers, which, despite its speed, is often underutilized. Accessing data over the network to external storage becomes a bottleneck, especially in AI workflows with growing context lengths and fast token",
+      "author": "Tech Field Day",
+      "timestamp": "2025-09-17 01:46:03+00:00",
+      "url": "https://www.youtube.com/watch?v=Sgh_gwZOyYk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Tech Field Day",
+          "Gestalt IT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sgh_gwZOyYk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sgh_gwZOyYk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sgh_gwZOyYk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sgh_gwZOyYk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sgh_gwZOyYk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Sgh_gwZOyYk",
+      "channel_id": "UCSnTTyp4q7jMhwECxXzMAXQ",
+      "view_count": 694,
+      "like_count": 4,
+      "comment_count": 0,
+      "duration": "PT29M11S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "E78-heoeEx8",
+      "title": "VDURA for Academic Research: Accelerating Discovery",
+      "content": "Every breakthrough in academic research begins with data. From climate modeling and genomics to particle physics, researchers depend on infrastructure that’s both powerful and simple. VDURA delivers the performance, scalability, and ease of use that universities and research institutions need to accelerate discovery, without getting buried in complexity. In this video, you’ll see how VDURA helps researchers: • Leverage blazing-fast SSDs for active analysis • Optimize costs with energy-efficient HDDs for large archives • Scale linearly as projects grow • Simplify collaboration with a unified global namespace With intuitive deployment, effortless management, and seamless upgrades, VDURA lets you focus on the science, not the system. From classrooms to advanced supercomputing labs, VDURA empowers teams to push the boundaries of knowledge and innovation. Ready to accelerate your next discovery? 🔗 Learn more about VDURA: https://www.vdura.com/ Stay connected: • LinkedIn: https://www.li",
+      "author": "VDURA",
+      "timestamp": "2025-09-23 14:06:37+00:00",
+      "url": "https://www.youtube.com/watch?v=E78-heoeEx8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E78-heoeEx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E78-heoeEx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E78-heoeEx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E78-heoeEx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E78-heoeEx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "E78-heoeEx8",
+      "channel_id": "UC1fjJmsqP91QMH2JiJwjpMg",
+      "view_count": 4,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Y5Gd2cP5_rQ",
+      "title": "Understanding Why a private static method in a partial class Isn't Shared Between Files",
+      "content": "Explore the common issue of `private static methods` not being shared in C# partial classes across files and learn how to resolve it effectively. --- This video is based on the question https://stackoverflow.com/q/63334400/ asked by the user 'Hieu Dinh' ( https://stackoverflow.com/u/4965946/ ) and on the answer https://stackoverflow.com/a/63334909/ provided by the user 'CoolBots' ( https://stackoverflow.com/u/2714837/ ) at 'Stack Overflow' website. Thanks to these great users and Stackexchange community for their contributions. Visit these links for original content and any more details, such as alternate solutions, latest updates/developments on topic, comments, revision history etc. For example, the original title of the Question was: C# - private static method in partial class not shared between files? Also, Content (except music) licensed under CC BY-SA https://meta.stackexchange.com/help/licensing The original Question post is licensed under the 'CC BY-SA 4.0' ( https://creati",
+      "author": "vlogize",
+      "timestamp": "2025-09-08 07:18:29+00:00",
+      "url": "https://www.youtube.com/watch?v=Y5Gd2cP5_rQ",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "C# - private static method in partial class not shared between files?",
+          "c#",
+          "class",
+          "partial classes"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5Gd2cP5_rQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5Gd2cP5_rQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5Gd2cP5_rQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5Gd2cP5_rQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5Gd2cP5_rQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Y5Gd2cP5_rQ",
+      "channel_id": "UCqVICHE5XVCpDCmQ1w8a-dQ",
+      "view_count": 0,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M48S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nTokyggK5k0",
+      "title": "MasterClass: i-UNS: Otimizando sua Estratégia de Controle Industrial",
+      "content": "Masterclass IMA Experience | i-UNS: Otimizando Estratégias de Controle Industrial No dia 17/09 às 13h15, realizaremos uma masterclass técnica conduzida por Daniel Goldeband (i-flow), com a mediação de Heitor Marson (Build Your Industry), no contexto da iniciativa IMA Experience. Nesta sessão aprofundada, os participantes terão a oportunidade de: ✅ Compreender e detalhar o conceito de i-UNS (Industrial Unified Namespace) e seu papel nas estratégias de controle industrial ✅ Explorar como uma arquitetura i-UNS pode catalisar ganhos de eficiência e simplificação na integração de sistemas de automação ✅ Acompanhar uma demonstração técnica do i-UNS aplicada na plataforma i-flow ✅ Analisar casos práticos e os resultados obtidos em aplicações reais 📌 Uma oportunidade única para profissionais interessados em aprofundar seus conhecimentos em métodos avançados de controle industrial, com foco em integração de dados, otimização de processos e novas abordagens para instrumentação e controle. 📅",
+      "author": "IMA Experience",
+      "timestamp": "2025-09-18 05:37:37+00:00",
+      "url": "https://www.youtube.com/watch?v=nTokyggK5k0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nTokyggK5k0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nTokyggK5k0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nTokyggK5k0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nTokyggK5k0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nTokyggK5k0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "pt-PT",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nTokyggK5k0",
+      "channel_id": "UC5N5X6UpuYbvU3ZpbaMwAOQ",
+      "view_count": 53,
+      "like_count": 6,
+      "comment_count": 0,
+      "duration": "PT1H4M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Ls2JY0p-GSw",
+      "title": "ProveIt at ICC Day 2 recap",
+      "content": "📌 Enjoyed the video? Join 40,000+ professionals accelerating digital transformation: 1. **Subscribe & tap the bell** to stay current on Industry 4.0 tactics → https://bit.ly/SubTo40Solutions 2. **Continue the conversation** in our free Industry 4.0 Discord → https://bit.ly/Industry40DIscord 3. **Earn your IIoT credential** in under an hour (free mini-course) → https://bit.ly/iiotmini-course ───────────── 🔗 More ways to connect • LinkedIn — https://www.linkedin.com/company/4point0solutions • Facebook — https://www.facebook.com/4point0solutions • Twitter/X — https://www.twitter.com/40_solutions • Business inquiries — contact@40solutions.com ───────────── 🙋 About 4.0 Solutions We help manufacturers do more with less through practical training on IIoT, Unified Namespace, and real-time analytics. Expect weekly deep-dives, live workshops, and candid shop-floor case studies—all in plain English. Thanks for watching, and stay tuned for more! #IIoT #Industry40 #D",
+      "author": "4.0 Solutions",
+      "timestamp": "2025-09-18 18:07:37+00:00",
+      "url": "https://www.youtube.com/watch?v=Ls2JY0p-GSw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "4.0 solutions"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ls2JY0p-GSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ls2JY0p-GSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ls2JY0p-GSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ls2JY0p-GSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ls2JY0p-GSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Ls2JY0p-GSw",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 454,
+      "like_count": 18,
+      "comment_count": 1,
+      "duration": "PT4M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "FYhYuXuXRe0",
+      "title": "VDURA for Life Sciences: Powering Breakthroughs in Cryo-EM and Beyond",
+      "content": "In life sciences, every second counts. Time to insight can mean time to cure. From Cryo-Electron Microscopy (Cryo-EM) and drug discovery to structural biology and advanced imaging, researchers need infrastructure that can keep pace with massive data demands while remaining simple to manage. • VDURA provides the performance and flexibility to accelerate discovery: • All-NVMe flash for rapid image reconstruction and active analysis • Cost-efficient HDD for long-term retention of terabyte-scale datasets • Unified global namespace for secure collaboration across teams • Seamless deployment and upgrades to minimize complexity Whether it’s reconstructing molecular structures or running large-scale simulations, VDURA helps labs scale linearly, adapt to market shifts, and focus on science, not infrastructure. For more than 20 years, VDURA has powered data-intensive research across the globe. Ready to accelerate your next breakthrough? 🔗 Learn more about VDURA: https://www.vdura.com/ Stay",
+      "author": "VDURA",
+      "timestamp": "2025-09-24 13:12:30+00:00",
+      "url": "https://www.youtube.com/watch?v=FYhYuXuXRe0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYhYuXuXRe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYhYuXuXRe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYhYuXuXRe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FYhYuXuXRe0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FYhYuXuXRe0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "FYhYuXuXRe0",
+      "channel_id": "UC1fjJmsqP91QMH2JiJwjpMg",
+      "view_count": 12,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hUHzwkbob50",
+      "title": "Google Analytics Integeration with Salesforce Website",
+      "content": "Connect Google Analytics with Salesforce Get powerful insights with this step-by-step guide on Google Analytics Integration with Salesforce Website. Learn how to connect Google Analytics with Salesforce, configure google analytics 4 setup, and view live data from your salesforce website. This salesforce tutorial covers everything a salesforce developer or admin needs, from tagging salesforce for beginners to setting up google analytics for beginners. See hands-on demos for google analytics 4, manage tracking through the unified dashboard, and boost your skills with comprehensive salesforce administrator training for beginners. Whether you’re a salesforce administrator, learning about google analytics, or seeking salesforce training for your next project, this video is for you! Start integrating today—combine the power of google analytics with your Salesforce Website for exceptional reporting, attribution, and smarter marketing. 0:00 Introduction 0:47 Create Google Analytics Account 1",
+      "author": "2Creative Solutions",
+      "timestamp": "2025-09-26 15:01:32+00:00",
+      "url": "https://www.youtube.com/watch?v=hUHzwkbob50",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Google Analytics Integeration with Salesforce Website",
+          "google analytics",
+          "salesforce",
+          "Connect Google Analytics with Salesforce",
+          "google analytics 4 setup",
+          "salesforce tutorial for developers",
+          "salesforce developer",
+          "salesforce tutorial",
+          "google analytics for beginners",
+          "salesforce for beginners",
+          "google analytics 4",
+          "google analytics demo",
+          "salesforce tutorial for beginners",
+          "salesforce training",
+          "salesforce administrator",
+          "salesforce administrator training for beginners",
+          "salesforce admin"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUHzwkbob50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUHzwkbob50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUHzwkbob50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hUHzwkbob50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hUHzwkbob50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hUHzwkbob50",
+      "channel_id": "UCyG0l-WeymCsejwBUl8xKGw",
+      "view_count": 1443,
+      "like_count": 1,
+      "comment_count": 0,
+      "duration": "PT4M51S"
+    }
+  ]
+}

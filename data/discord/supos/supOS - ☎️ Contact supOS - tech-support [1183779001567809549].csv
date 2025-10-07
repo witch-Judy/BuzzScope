@@ -1,0 +1,363 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+1.04E+18,shimu_woshen,2023-12-13T09:35:11.0340000+08:00,just chat !,,ýýýý (1)
+1.34E+18,thoe_82280,2025-02-21T17:13:10.9440000+08:00,"Hello Sir,
+I'm Supakorn from Thailand.",,
+1.34E+18,thoe_82280,2025-02-21T17:13:58.7580000+08:00,I want to know that supOS is able to download and install for trial license?,,
+1.04E+18,shimu_woshen,2025-04-01T10:36:01.2030000+08:00,now supOS is available  in github,,
+1.36E+18,prashant_60409,2025-04-08T21:56:45.9990000+08:00,Thank you Shimu Zhu,,ýýýý (1)
+1.04E+18,shimu_woshen,2025-04-08T22:02:37.4680000+08:00,welcome!,,
+1.36E+18,prashant_60409,2025-04-08T22:06:04.9090000+08:00,see you tomorrow . Have a Good Day!!,,
+1.04E+18,shimu_woshen,2025-04-08T22:07:22.3880000+08:00,see you,,
+1.36E+18,prashant_60409,2025-04-09T13:35:18.2380000+08:00,Hi Shimu,,
+1.18E+18,simonhuang_57772,2025-04-09T14:13:47.4340000+08:00,Hi @Prashant,,
+1.18E+18,simonhuang_57772,2025-04-09T14:13:57.5260000+08:00,Just replied your email,,
+1.18E+18,simonhuang_57772,2025-04-09T14:14:09.0960000+08:00,I will be here for your help,,
+1.04E+18,shimu_woshen,2025-04-09T14:36:32.3300000+08:00,Is the microphone on this device not working?,,
+1.36E+18,prashant_60409,2025-04-09T14:37:11.8850000+08:00,am i audible?,,ýýýý (1)
+1.04E+18,shimu_woshen,2025-04-09T14:37:36.4990000+08:00,"no, we can't",,
+1.04E+18,shimu_woshen,2025-04-09T14:38:06.6580000+08:00,or you can use another device and ssh to the server,,
+1.18E+18,simonhuang_57772,2025-04-09T14:40:35.3400000+08:00,ssh to the server and share from your workstation will be better,,
+1.36E+18,prashant_60409,2025-04-09T14:41:02.0290000+08:00,"send me the zoom link, we will connect",,
+1.18E+18,simonhuang_57772,2025-04-09T14:42:09.0320000+08:00,https://us05web.zoom.us/j/3422814763?pwd=FuGHx8aWBbZkNYEuycgdEbf4YpdQSM.1,,
+1.18E+18,simonhuang_57772,2025-04-09T14:43:57.2500000+08:00,Can you join?,,
+1.36E+18,prashant_60409,2025-04-09T14:44:06.5830000+08:00,yes,,
+1.18E+18,simonhuang_57772,2025-04-09T14:46:41.6490000+08:00,one moment,,
+1.36E+18,prashant_60409,2025-04-09T14:46:48.1480000+08:00,ok,,
+1.36E+18,prashant_60409,2025-04-09T14:49:35.9940000+08:00,its showing low network bandwidth from your side.,,
+1.18E+18,simonhuang_57772,2025-04-09T14:52:04.9220000+08:00,Sorry but it looks like zoom is not working for me,,
+1.18E+18,simonhuang_57772,2025-04-09T15:18:20.8950000+08:00,Can you hear me?,,
+1.18E+18,simonhuang_57772,2025-04-09T15:18:22.9770000+08:00,Prashant,,
+1.18E+18,simonhuang_57772,2025-04-09T15:20:59.7120000+08:00,Hi,,
+1.36E+18,prashant_60409,2025-04-09T15:26:04.0890000+08:00,Are you have a meeting now?,,
+1.18E+18,simonhuang_57772,2025-04-09T15:26:25.4860000+08:00,I have to wait for 9 min to open a new zoom meeting,,
+1.36E+18,prashant_60409,2025-04-09T15:26:32.2020000+08:00,ok,,
+1.36E+18,prashant_60409,2025-04-09T15:26:41.1760000+08:00,not a problem.,,
+1.18E+18,simonhuang_57772,2025-04-09T15:28:03.0450000+08:00,"Before we do bash bin/startup.sh, I would like us to do
+1. go through .env file together
+2. remove /volumes dir to avoid leftover
+3. double-check fuxa image source",,
+1.36E+18,prashant_60409,2025-04-09T15:28:42.6840000+08:00,k,,
+1.36E+18,prashant_60409,2025-04-10T13:20:34.0420000+08:00,"Hi Simon, good morning.
+Can you give some documentation file , like how to run the supOS.
+We have installed the supOS CE, We have run bash bin/startup.sh what are the next steps",,
+1.36E+18,prashant_60409,2025-04-10T14:01:17.0880000+08:00,Hi,,
+1.36E+18,prashant_60409,2025-04-10T14:01:50.8890000+08:00,Need support for supOS CE,,
+1.04E+18,shimu_woshen,2025-04-10T15:26:47.4090000+08:00,OK,,
+1.04E+18,shimu_woshen,2025-04-10T15:28:05.3930000+08:00,Simply use any web browser,,
+1.04E+18,shimu_woshen,2025-04-10T15:28:13.6580000+08:00,access the webpage,,
+1.36E+18,prashant_60409,2025-04-10T15:31:01.0140000+08:00,how? and what we need to express in the webpage?,,
+1.36E+18,prashant_60409,2025-04-10T15:31:19.7250000+08:00,can you send the webpage details,,
+1.36E+18,prashant_60409,2025-04-10T15:32:16.3400000+08:00,What are the system requirement?,,
+1.04E+18,shimu_woshen,2025-04-10T15:33:02.5680000+08:00,you can read the readme.md first,,
+1.04E+18,shimu_woshen,2025-04-10T15:33:16.3080000+08:00,https://github.com/FREEZONEX/supOS-CE,,
+1.36E+18,prashant_60409,2025-04-10T15:38:15.9170000+08:00,"we have tried it,  but not getting the dashboard and nor able to get  the app.
+Actually after giving the command of bash bin/startup.sh its is completing, but not going further, what will be the steps for it",,
+1.04E+18,shimu_woshen,2025-04-10T15:39:38.4280000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1359794943530631219/image.png?ex=68ded4fa&is=68dd837a&hm=9845a716bc611027ea6fa13f9edb33b99cc54b913ff29ac6c218798ebc9db983&,
+1.04E+18,shimu_woshen,2025-04-10T15:40:27.4210000+08:00,Did you notice this place?,,ýýýý (1)
+1.36E+18,prashant_60409,2025-04-10T15:44:13.2590000+08:00,we are not getting the login page? getting server is busy always. Kindly help to resolve it.,,
+1.04E+18,shimu_woshen,2025-04-10T15:48:35.2150000+08:00,can you show the screenshot?,,
+1.36E+18,prashant_60409,2025-04-10T16:41:41.8470000+08:00,,"https://cdn.discordapp.com/attachments/1183779001567809549/1359810560622989442/shared_image_1.jpeg?ex=68dee385&is=68dd9205&hm=3764e33c146dceb895c1d7702e0e538f6f232b713b8f95478bd65ac155406d70&,https://cdn.discordapp.com/attachments/1183779001567809549/1359810560979501186/shared_image.jpeg?ex=68dee385&is=68dd9205&hm=daec01f07dafd25d191db2d473eb08888a595e9ee68dad4a7625b15164b96aac&",
+1.18E+18,simonhuang_57772,2025-04-10T16:57:58.8180000+08:00,please share content of your .env file,,
+1.18E+18,simonhuang_57772,2025-04-10T16:58:26.1320000+08:00,"also, please check output of 'docker ps -a'",,
+1.18E+18,simonhuang_57772,2025-04-10T16:58:41.9710000+08:00,to see if any container failed,,
+1.36E+18,prashant_60409,2025-04-10T18:31:00.2290000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1359838068617777224/env_file_modified.docx?ex=68defd24&is=68ddaba4&hm=e30fff5db18a5a19616a735b5c636e83c3438a9e391de670c7ab9e3fc84d1f1e&,
+1.36E+18,prashant_60409,2025-04-10T18:52:40.8050000+08:00,Send us one demo video of it,,
+1.18E+18,simonhuang_57772,2025-04-11T10:44:39.8260000+08:00,We don't have demo videos yet,,
+1.18E+18,simonhuang_57772,2025-04-11T10:46:05.6380000+08:00,"Your .env file shows you are using 192.168.56.1 as ENTRANCE_DOMAIN
+So you will be only able to visit the platform by http://192.168.56.1:8080",https://cdn.discordapp.com/attachments/1183779001567809549/1360083458604404907/image.png?ex=68df38ed&is=68dde76d&hm=9dca307a519223f1edb0c5ba184b13c40449e69d4219dc7984ad1d86c0b59896&,
+1.18E+18,simonhuang_57772,2025-04-11T10:46:18.3140000+08:00,Not other ip addresses,,
+1.36E+18,prashant_60409,2025-04-11T14:04:59.9270000+08:00,"Hi Simon, good morning, Its showing the same, I have changed it , not open the login page, kindly guide",,
+1.36E+18,prashant_60409,2025-04-11T14:22:34.9620000+08:00,"after clicking to the localhost:5173, the page is not opening.",https://cdn.discordapp.com/attachments/1183779001567809549/1360137939706712209/shared_image_6.jpg?ex=68df6baa&is=68de1a2a&hm=935b207f75e97b86ed6cfad53cc5ad67010eac73271cae4456cc8b8437b4348e&,
+1.36E+18,prashant_60409,2025-04-11T14:26:03.3160000+08:00,"tried with all the three options, Local, Network, Network",,
+1.36E+18,prashant_60409,2025-04-11T14:28:21.9570000+08:00,its showing server busy,,
+1.36E+18,prashant_60409,2025-04-14T16:27:48.2850000+08:00,"Hi Simon, I am facing problem in login page, its showing server busy, when the give pnpm start, it shows the localhost and network, when I click it starts and redirect to the page, but after few seconds it displays, server busy, kindly help me",,
+1.04E+18,shimu_woshen,2025-04-15T15:24:52.8330000+08:00,we have updated the script,,
+1.04E+18,shimu_woshen,2025-04-15T15:26:24.5800000+08:00,you can use bash bin/uninstall.sh,,
+1.04E+18,shimu_woshen,2025-04-15T15:26:36.7630000+08:00,and update the script from github,,
+1.04E+18,shimu_woshen,2025-04-15T15:26:44.7610000+08:00,then try again,,
+1.36E+18,prashant_60409,2025-04-15T18:02:30.0150000+08:00,We have completed the setupï¿½ï,,ýýýý (1)
+1.04E+18,shimu_woshen,2025-04-16T15:36:06.7810000+08:00,reallyï¿½,,
+1.04E+18,shimu_woshen,2025-04-16T15:36:25.2200000+08:00,great!,,
+1.36E+18,prashant_60409,2025-04-16T15:57:22.2440000+08:00,"Yes, thanks for your wonderful support",,
+1.36E+18,prashant_60409,2025-04-17T18:31:21.4470000+08:00,Hi Shimu,,
+1.36E+18,prashant_60409,2025-04-17T18:31:48.3340000+08:00,Could you please confirm how many more years supOS will continue to receive official support and updates?,,
+1.36E+18,prashant_60409,2025-04-17T18:31:51.4280000+08:00,We are planning long-term integration and need to understand the support roadmap for supOS.,,
+1.36E+18,prashant_60409,2025-04-17T19:48:50.8030000+08:00,"Hi Shimu, we are not able to login into the supos page, showing server page error , could you please help me to sort this and start",,
+1.36E+18,prashant_60409,2025-04-17T19:55:17.6710000+08:00,"message is showing server is busy, Error : An invalid response was received from the upstream server.",,
+1.36E+18,prashant_60409,2025-04-17T20:11:14.0050000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1362400007306871016/image.png?ex=68df14a1&is=68ddc321&hm=f1ea85c24bde4347782620211882a3c6f8e143738f74cfbd1f81c2dd8bdab8a9&,
+1.04E+18,shimu_woshen,2025-04-18T09:37:00.7090000+08:00,"The current version is a CE version, which is not considered long-term support,  But we will always maintain the project. And a lot of the problems are basic operational issues, you need someone who knows docker to deploy it.
+If you need long term support, you'll have to wait until the commercial version is developed.ï¿½ï",,
+1.04E+18,shimu_woshen,2025-04-18T09:38:37.8290000+08:00,do you restart  the server?  try docker ps -a and see if all the container is running,,
+1.36E+18,prashant_60409,2025-04-18T12:27:37.5940000+08:00,"Very Good Morning Shimu, 
+Thanks for the updates will check and let you know.
+!!Have a Good Day!!",,
+1.36E+18,prashant_60409,2025-04-18T13:46:16.7040000+08:00,"Hi, I checked the docker ps -a , all container are running, but facing the same issue,",,
+1.36E+18,prashant_60409,2025-04-18T14:24:06.7210000+08:00,showing server is busy,,
+1.04E+18,shimu_woshen,2025-04-18T14:36:18.5540000+08:00,which url you are accessing,,
+1.36E+18,prashant_60409,2025-04-18T14:41:08.8500000+08:00,http://192.168.1.42:8088,,
+1.04E+18,shimu_woshen,2025-04-18T14:55:42.6310000+08:00,http://192.168.1.42:8088/home,,
+1.04E+18,shimu_woshen,2025-04-18T14:56:00.5780000+08:00,is this the IP address you set in env?,,
+1.36E+18,prashant_60409,2025-04-18T15:22:20.3830000+08:00,yes,,
+1.04E+18,shimu_woshen,2025-04-18T15:30:25.5240000+08:00,try docker logs backend   to see if any errors,,
+1.36E+18,prashant_60409,2025-04-18T16:04:42.5780000+08:00,no errors,,
+1.04E+18,shimu_woshen,2025-04-18T16:05:46.9760000+08:00,can you share the env file?,,
+1.36E+18,prashant_60409,2025-04-18T16:35:35.5400000+08:00,"# Deployed server specification
+
+
+# supported: windows, linux
+OS_PLATFORM_TYPE=linux
+
+# Example: 1. 4c8g (4 CPU cores, 8GB RAM), 2. 8c16g (8 CPU cores, 16GB RAM) or higher
+OS_RESOURCE_SPEC=1
+OS_NAME=supOS
+VOLUMES_PATH=/volumes/supos/data
+
+#(Your IP Address, do not use 127.0.0.1 or localhost) 
+ENTRANCE_PROTOCOL=http
+ENTRANCE_DOMAIN= 192.168.1.42
+ENTRANCE_PORT=8088
+
+# LANGUAGE setting, supported: en-US, zh-CN
+LANGUAGE=en-US
+
+# Operating system version
+OS_VERSION=V1.00.00.05-C
+
+# MQTT TCP port
+OS_MQTT_TCP_PORT=1883
+
+# MQTT WebSocket TLS port
+OS_MQTT_WEBSOCKET_TSL_PORT=8084
+
+# Login path for the system
+OS_LOGIN_PATH=/supos-login
+
+# Enable or disable authentication (true/false)
+OS_AUTH_ENABLE=false
+
+# Type of large language model used
+OS_LLM_TYPE=ollama
+
+# Model and Key for oepnai (Enter your api key, can be empty)
+OPENAI_API_MODEL=gpt-4o  
+OPENAI_API_KEY=
+
+# Below are the environment variables required for using the built-in supOS MCP with the MCP Client (if applicable, can be empty)
+# Langsmith API key
+LANGSMITH_API_KEY=
+# Agent service address (default: http://localhost:8123)
+AGENT_DEPLOYMENT_URL=http://mcpclient:8123
+# open API key for supOS, used for external access to the system
+SUPOS_API_KEY=
+# The address of the open API of supOS that needs to be accessed, in the format of http://ip:port
+SUPOS_API_URL=
+# The address of the MQTT server of supOS that needs to be accessed
+SUPOS_MQTT_URL=
+
+# If MULTIPLE_TOPIC is true, topics prefixed with '_rs/' will be publicly exposed instead of the original topics
+MULTIPLE_TOPIC=false
+
+#--------------------OAUTH CONFIG------------------
+OAUTH_REALM=supos
+OAUTH_CLIENT_NAME=supos
+OAUTH_CLIENT_ID=supos
+OAUTH_CLIENT_SECRET=VaOS2makbDhJJsLlYPt4Wl87bo9VzXiO
+OAUTH_GRANT_TYPE=authorization_code
+OAUTH_ISSUER_URI=http://keycloak:8080
+OAUTH_REFRESH_TOKEN_TIME=60
+
+
+# Elasticsearch version used
+ELASTICSEARCH_VERSION=7.10.2
+# Elasticsearch time horizon (likely in days, affects data retention)
+ELASTICSEARCH_TIMEHORIZON=60",,
+1.04E+18,shimu_woshen,2025-04-18T16:41:11.3350000+08:00,"ENTRANCE_DOMAIN= 192.168.1.42    you have a "" ""?",,
+1.04E+18,shimu_woshen,2025-04-18T16:41:39.2910000+08:00,blank spaceï¿½,,
+1.04E+18,shimu_woshen,2025-04-18T16:42:23.2250000+08:00,Remove the space and reinstall.ï¿½ï,,
+1.04E+18,shimu_woshen,2025-04-18T16:42:58.7780000+08:00,Looks like I need to add the checksum mechanism.,,
+1.36E+18,prashant_60409,2025-04-18T16:44:17.4270000+08:00,"ok,  please  add and send, what to add in the blank space.",,
+1.04E+18,shimu_woshen,2025-04-18T16:45:00.1840000+08:00,I mean you can't have blank spaces in your IP address.,,
+1.04E+18,shimu_woshen,2025-04-18T16:46:22.2530000+08:00,ENTRANCE_DOMAIN= 192.168.1.42,,
+1.04E+18,shimu_woshen,2025-04-18T16:46:33.2410000+08:00,here you have a blank space,,
+1.36E+18,prashant_60409,2025-04-18T17:29:57.1060000+08:00,can you give the checksum,,
+1.36E+18,prashant_60409,2025-04-18T17:30:27.6880000+08:00,"I have tried without giving the space, but it is showing same error",,
+1.36E+18,prashant_60409,2025-04-23T13:30:01.5710000+08:00,Hi,,
+1.36E+18,prashant_60409,2025-04-23T13:31:09.6200000+08:00,"We are not able to login into the supOS page, can you please help us.",,
+1.04E+18,shimu_woshen,2025-04-23T16:57:38.9730000+08:00,Have you pulled the latest mirrors from github?,,
+1.36E+18,prashant_60409,2025-04-23T18:36:29.6590000+08:00,"Hi Shimu, we have pulled the latest mirrors from github and installed, its not working, did you change anything?",,
+1.36E+18,prashant_60409,2025-04-23T19:51:00.1020000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1364569243475120209/dda5593a-4a41-4a34-b5f8-2d564961cb4f.png?ex=68df0fe4&is=68ddbe64&hm=ce0ec1a428eaac07cad3a9973f8b1a09f2c40bf103516108ed118f11eb0e6d3e&,
+1.36E+18,prashant_60409,2025-04-23T19:52:24.5310000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1364569597663117342/7828a3d5-1783-44a1-ad7b-46d23dcb15fe.png?ex=68df1038&is=68ddbeb8&hm=ca29dfa190d30905091da9ca3202756e4b08367a2f6871e49a75807979d47643&,
+1.36E+18,prashant_60409,2025-04-23T19:54:43.9040000+08:00,actually our IP address is 192.168.1.19 and we access this Url  http://192.168.1.19:8088/supos-login and we are getting  this error,,
+1.36E+18,prashant_60409,2025-04-23T19:57:29.9660000+08:00,when we click back to application this takes to this page which has IP Address 192.168.1.33:8088,,
+1.36E+18,prashant_60409,2025-04-23T19:58:15.3800000+08:00,can u help us to resume this issue @ShiMu_supOS @Simon_supOS ?,,
+1.36E+18,prashant_60409,2025-04-23T20:07:59.9120000+08:00,"# Deployed server specification
+# for test
+# supported: windows, linux
+OS_PLATFORM_TYPE=linux
+
+# Example: 1. 4c8g (4 CPU cores, 8GB RAM), 2. 8c16g (8 CPU cores, 16GB RAM) or higher
+OS_RESOURCE_SPEC=1
+OS_NAME=supOS
+VOLUMES_PATH=/volumes/supos/data
+
+#(Your IP Address, do not to use 127.0.0.1 or localhost, otherwise the login and authentication functions will not work, )
+ENTRANCE_PROTOCOL=http
+ENTRANCE_DOMAIN=192.168.1.19
+ENTRANCE_PORT=8088
+
+# LANGUAGE setting, supported: en-US, zh-CN
+LANGUAGE=en-US
+
+# Operating system version
+OS_VERSION=V1.00.00.05-C
+
+# MQTT TCP port
+OS_MQTT_TCP_PORT=1883
+
+# MQTT WebSocket TLS port
+OS_MQTT_WEBSOCKET_TSL_PORT=8084
+
+# Login path for the system
+OS_LOGIN_PATH=/supos-login
+
+# Enable or disable authentication (true/false)
+OS_AUTH_ENABLE=true
+
+# Type of large language model used
+OS_LLM_TYPE=ollama
+
+# Model and Key for oepnai (Enter your api key, can be empty)
+OPENAI_API_MODEL=gpt-4o  
+OPENAI_API_KEY=
+
+# Below are the environment variables required for using the built-in supOS MCP with the MCP Client (if applicable, can be empty)
+# Langsmith API key
+LANGSMITH_API_KEY=
+# Agent service address (default: http://localhost:8123)
+AGENT_DEPLOYMENT_URL=http://mcpclient:8123
+# open API key for supOS, used for external access to the system
+SUPOS_API_KEY=4174348a-9222-4e81-b33e-5d72d2fd7f1e
+# The address of the MQTT server of supOS that needs to be accessed
+SUPOS_MQTT_URL=tcp://emqx:1883/mqtt
+
+
+#Variables from older versions, will be deleted for next iteration, please do not modify
+MULTIPLE_TOPIC=false
+
+#--------------------OAUTH CONFIG------------------
+OAUTH_REALM=supos
+OAUTH_CLIENT_NAME=supos
+OAUTH_CLIENT_ID=supos
+OAUTH_CLIENT_SECRET=VaOS2makbDhJJsLlYPt4Wl87bo9VzXiO
+OAUTH_GRANT_TYPE=authorization_code
+OAUTH_ISSUER_URI=http://keycloak:8080
+OAUTH_REFRESH_TOKEN_TIME=60
+
+
+# Elasticsearch version used
+ELASTICSEARCH_VERSION=7.10.2
+# Elasticsearch time horizon (likely in days, affects data retention)
+ELASTICSEARCH_TIMEHORIZON=60",,
+1.04E+18,shimu_woshen,2025-04-28T17:03:31.4280000+08:00,let me check,,ýýýý (1)
+1.04E+18,shimu_woshen,2025-04-28T17:04:21.5110000+08:00,"i guess you changed ip, and didn't clean all the data in database",,
+1.04E+18,shimu_woshen,2025-04-28T17:04:39.8520000+08:00,did you use bash bin/clean-all.shï¿½,,
+1.36E+18,prashant_60409,2025-04-28T17:10:24.1850000+08:00,"no, I will do it now",,
+1.36E+18,prashant_60409,2025-04-28T17:10:46.8830000+08:00,give the next instructions,,
+1.04E+18,shimu_woshen,2025-04-29T11:50:38.4790000+08:00,sure,,
+1.04E+18,shimu_woshen,2025-04-29T20:07:37.8710000+08:00,"We're in the middle of our first live stream, so feel free to join in!",,
+1.04E+18,shimu_woshen,2025-04-29T20:07:45.9450000+08:00,https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_Njk0NjA2YTMtNzUzNy00MWZhLTg2MmMtNWE1MjljMzc0Y2E4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522da8be513-8ca5-49cf-944f-47788c45ca5b%2522%252c%2522Oid%2522%253a%25228ccc86b6-2bb0-4e6b-a7c4-71ccd3e6d766%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=292828f1-fc80-4dc5-b00c-375853ddf9e4&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true,,
+1.36E+18,prashant_60409,2025-04-29T20:17:39.8650000+08:00,"ok, Thank you",,
+8.94E+17,jwolk,2025-05-02T05:34:05.0540000+08:00,"Hi guys... I just test the platform!!! Alwesome \o/!!
+ I already post a comment on linkedIn. I've been using (Portainer, EMQX, Nodered, Hasura, Postgres, Keycloak, Grafana, Kong) for 3 years in my customers, but I always thought about an abstraction layer to put all of them together,  to access them from WEB just exposing a single port in the network. And you guys did it and much more!! Thanks a lot.",,"ýýýý (2),ýýýý (2)"
+1.04E+18,shimu_woshen,2025-05-06T09:11:49.5770000+08:00,"hhhhh,thanks!",,
+1.17E+18,sarah327_68034,2025-05-06T10:21:27.4930000+08:00,do you mind sharing your post link here?ï¿½ï,,
+1.18E+18,susey_25622,2025-05-07T17:20:34.6880000+08:00,"ýýýý Try supOS-CE Now!
+ýýýý Local & online environments available: https://supos.ai/trial
+ýýýý Docs & guides: https://suposcommunity.vercel.app/
+ýýýý If you have any questions, feel free to ask in the group!",,ýýýýýýýý (2)
+1.18E+18,susey_25622,2025-05-07T17:20:49.9630000+08:00,Pinned a message.,,
+1.18E+18,susey_25622,2025-05-08T15:51:49.4230000+08:00,"2nd Webinar | Discover the magic of Unified Namespace with supOS
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Date: May 15, 2025
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Time: 5PM SGTï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½11AM CEST
+
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Whatï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½s in it for you?
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Unified Namespace (UNS) 
+Edge-Driven structure that connects machines, systems, and users across the factoryï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½eliminating silos and enabling seamless IT/OT integration.
+
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Applying UNS in supOS
+Learn how to build a Unified Namespace from scratch using supOS for real-time industrial data integration.
+
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Click View Event to register for our webinar! https://www.linkedin.com/events/2ndwebinar-discoverthemagicofun7326067043756052480/comments/
+If you missed the first sessionï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Introduction to supOSï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, the recor",,"ýýýý (2),ýýýý (1)"
+1.18E+18,susey_25622,2025-05-15T10:35:42.7020000+08:00,"ýýýý Webinar this afternoon!
+Join our 2nd Webinar: Discover the Magic of Unified Namespace with supOS
+ýýýý May 15, 2025 | ýýýý 5PM SGTýýý11AM CEST
+
+ýýýý Learn how UNS breaks down data silos and powers real-time IT/OT integration
+ýýýý See how to build a Unified Namespace from scratch in supOS
+
+ýýýý Webinar Link ýýý https://us06web.zoom.us/j/82892466937
+Missed the first session? https://www.youtube.com/watch?v=gxP_6WGMRKk&t=3s",,
+1.36E+18,prashant_60409,2025-05-16T16:58:45.8180000+08:00,"I am unable to login the session, asking the meeting code, can you please provide it or the direct link to join",,
+1.18E+18,susey_25622,2025-05-19T09:39:36.7990000+08:00,"Apologies for the late reply. The webinar actually took place on May 15th at 5:00 PM SGT.
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ You can catch the full recap here: https://www",,"ýýýý (1),ýýýý (1),ýýýý (1)"
+1.38E+18,sir.danav,2025-06-21T23:54:21.6060000+08:00,Trying to get in touch with Huiz via LinkedIn,,
+1.38E+18,sir.danav,2025-06-21T23:54:43.8330000+08:00,Can someone dm me his email address please?,,
+1.18E+18,susey_25622,2025-06-24T15:06:18.5610000+08:00,"Our colleague Sarah responded to your email yesterday, Did you receive it?",,
+1.38E+18,sir.danav,2025-06-24T18:42:20.5260000+08:00,Yes Susey,,ýýýý (1)
+1.38E+18,sir.danav,2025-06-24T18:43:04.7650000+08:00,"Confirmed , received it but revert back soon.. got busy with some priorities",,
+1.38E+18,sir.danav,2025-06-24T18:43:11.6830000+08:00,Thanks :)!,,
+1.18E+18,susey_25622,2025-07-30T16:08:57.7740000+08:00,"ýýýý Weýýýre excited to announce the 2025 supOS Global Challenge!
+Starting August 1st, weýýýll be hosting a fully online hackathon focused on supOS-CE, the open-source industrial data platform.
+There are 3 creative tracks to choose from ýýý whether you're building new factory applications, extending supOS itself, or deploying it in a real-world setup.
+ýýýý If you're already familiar with supOS, this is your time to shine.
+ýýýý Check out the full details here: https://supos.ai/hackathon
+ýýýý Interested or have questions? Join the conversation in our #Hackathon channel: https://discord.gg/K92gcRWabU
+Hack your way to $11,000 in prizes!",,
+1.17E+18,sarah327_68034,2025-08-25T15:06:29.5900000+08:00,"@ShiMu_supOS Hi shimu, can you help check this issue?",https://cdn.discordapp.com/attachments/1183779001567809549/1409433739498618931/image.png?ex=68df75f5&is=68de2475&hm=88d602813dcefde0c52194baeb2ab8eb5c8ccc45c1e00c83e409619281b080bb&,
+1.17E+18,sarah327_68034,2025-08-25T15:06:37.8190000+08:00,it's from @bala,,
+1.18E+18,simonhuang_57772,2025-08-25T15:11:40.3220000+08:00,@bala Have you installed docker desktop on your computer?,,
+1.18E+18,simonhuang_57772,2025-08-25T15:12:26.1140000+08:00,Is it working?,,
+1.39E+18,bala_53465,2025-08-25T16:47:05.5190000+08:00,yes installed,,
+1.18E+18,simonhuang_57772,2025-08-25T17:02:18.4340000+08:00,but docker compose is not working properly,,
+1.18E+18,simonhuang_57772,2025-08-25T17:03:41.0000000+08:00,It seems to me that you were running this in your Linux Sub-system.,,
+1.18E+18,simonhuang_57772,2025-08-25T17:05:22.2740000+08:00,"For Windows installation, please check https://github.com/FREEZONEX/supOS-CE?tab=readme-ov-file#2windows first and make sure you have installed Git Bash and execute commands in Git Bash",,
+1.04E+18,shimu_woshen,2025-08-25T21:40:04.2680000+08:00,can you open the docker desktop ? @bala,,
+1.39E+18,bala_53465,2025-08-26T12:48:13.0750000+08:00,HI @ShiMu_supOS docker is running. I need online support,,
+1.04E+18,shimu_woshen,2025-08-26T14:35:10.3210000+08:00,sure,,
+1.04E+18,shimu_woshen,2025-08-26T14:36:13.7770000+08:00,can  you join the support channel,,
+1.39E+18,bala_53465,2025-08-29T15:49:09.2220000+08:00,"Hi all, i want to edit file to add multiple keys. Is it possible? here I want add some more keys",https://cdn.discordapp.com/attachments/1183779001567809549/1410894026818981909/image.png?ex=68ded735&is=68dd85b5&hm=0e28da8bf2b276cc07523562930ae837f50444729e62c599f461c02b9f8cc585&,
+1.04E+18,shimu_woshen,2025-09-01T10:14:28.7070000+08:00,This version cannot be modified once created; the next version will incorporate this feature.,,ýýýý (1)
+1.01E+18,vikanchira,2025-09-05T15:43:11.9790000+08:00,This username and password doesn't work,,
+1.01E+18,vikanchira,2025-09-05T15:57:58.4770000+08:00,Hello @ShiMu_supOS and @Simon_supOS The default password from the readme file doesn't seem to work. Have we deployed it wrong or has it changed?,,
+1.01E+18,vikanchira,2025-09-05T15:58:12.3760000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1413433020425306223/image.png?ex=68ded954&is=68dd87d4&hm=95185792d3cd74ed59195fa7cde50e477b11982a0a2fee8c439405d409726a3e&,ýýýý (1)
+1.01E+18,vikanchira,2025-09-05T16:30:54.9130000+08:00,"ok... so the default username and password is
+User: supos
+Password: supos",,
+1.04E+18,shimu_woshen,2025-09-08T09:34:52.3540000+08:00,yesï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½updat,,
+1.04E+18,shimu_woshen,2025-09-08T09:36:36.5070000+08:00,We've reviewed your current feedback. Are you currently using an 8c16g configuration? This setup consumes more resources.,,
+1.04E+18,shimu_woshen,2025-09-08T09:38:11.4470000+08:00,"Regarding the authentication error, are you currently using a local address for installation? If using localhost or 127.0.0.1, the authentication functionality will be disabled.",,
+1.42E+18,franklinsterlin,2025-09-12T09:16:48.2120000+08:00,"Hi, very interesting product and design. Here I use Git bash and Docker desktop to install supOS-CE sucessfully, it seems I used wrong IP in env (500 Internal Privoxy Error). Can I overwrite it directly in .env? or need to uninstall and pull again? And I have no physical Ethernet port.  Big Thanks.","https://cdn.discordapp.com/attachments/1183779001567809549/1415868718038388797/image.png?ex=68df23ff&is=68ddd27f&hm=342654518df08bed3fdfc2de6c7f32da088ebb844a741e8ef6d8a19d82a40435&,https://cdn.discordapp.com/attachments/1183779001567809549/1415868718428454912/image.png?ex=68df2400&is=68ddd280&hm=02294c6435e24bd310b9741f97f01d879d6e04145c6da57d217d0baddd461aeb&,https://cdn.discordapp.com/attachments/1183779001567809549/1415868718847758477/image.png?ex=68df2400&is=68ddd280&hm=a496be6394ec8c18ea86bc0a71c439e3f683edc3510905dc6b4370904b7038fc&",
+1.18E+18,simonhuang_57772,2025-09-12T09:50:18.6240000+08:00,May I know what is the IP address in the .env file now?,,
+1.18E+18,simonhuang_57772,2025-09-12T09:51:19.6050000+08:00,Can you try docker ps -a to check if all containers are running?,,
+8.80E+17,meiramorgan530,2025-09-16T16:58:48.8870000+08:00,hi does anyone know the correct url format for dashboard 2 in supos?,,
+1.04E+18,shimu_woshen,2025-09-16T17:40:20.8130000+08:00,"Currently, dashboard 2.0 can only be accessed via `/dashboard`. Consequently, we have configured route forwarding within Eventflow. When you directly access `suposIP:8088/dashboard`, you will be directed to Eventflow's dashboard 2.0. If you want to use dashboard2.0  within Sourceflow,  you must access `suposIP:1880/dashboard`.",,ýýýý (1)
+8.80E+17,meiramorgan530,2025-09-16T18:06:20.3620000+08:00,does that mean i cannot cinfigure my path to /page1 /page2?,https://cdn.discordapp.com/attachments/1183779001567809549/1417451531988373565/image.png?ex=68def75c&is=68dda5dc&hm=ecd937bd64b17d6bcd4480512c619cbc90bc79358a42193ad833cfd41c6761e0&,
+1.04E+18,shimu_woshen,2025-09-16T18:07:31.0940000+08:00,you can use different path,https://cdn.discordapp.com/attachments/1183779001567809549/1417451829033173023/image.png?ex=68def7a3&is=68dda623&hm=77270ba8217e48f6b1ec1cc358e1a80e824eb5362db3526a88c3858bd7534e0e&,
+8.80E+17,meiramorgan530,2025-09-16T18:07:47.2680000+08:00,"the supos ip is correct, the default base is /dashboard already, and the remaining conponent of the url is the path, which i normally configure page1 page2 in nodered, it shows error 404 in supos",,
+8.80E+17,meiramorgan530,2025-09-16T18:08:53.2320000+08:00,ok ill try to find whats wrong,,
+1.04E+18,shimu_woshen,2025-09-16T18:09:32.5160000+08:00,Are you configuring this within Eventflow? or souceflow,,
+8.80E+17,meiramorgan530,2025-09-16T18:09:38.3780000+08:00,im using /page2 but it still show error404,https://cdn.discordapp.com/attachments/1183779001567809549/1417452363157082194/image.png?ex=68def822&is=68dda6a2&hm=97b16c566f338000f90cd1c0eeb58d35d603dcbb7ac67fc508aa633e4abd4216&,
+8.80E+17,meiramorgan530,2025-09-16T18:09:45.6040000+08:00,eventflow,,
+1.04E+18,shimu_woshen,2025-09-16T18:11:05.0420000+08:00,"ýýýý If you have already clicked to deploy, it should be accessible.",,
+1.04E+18,shimu_woshen,2025-09-16T18:12:24.5980000+08:00,"for example 
+https://supos-ce-instance3.supos.app:8443/dashboard/page6",,
+1.04E+18,shimu_woshen,2025-09-16T18:15:23.4400000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1417453810195890216/image.png?ex=68def97b&is=68dda7fb&hm=fb633220e51a77f8dcae2914e816ebb3430b04c932059c360bfbfaf5e161612c&,
+1.04E+18,shimu_woshen,2025-09-16T18:15:34.2880000+08:00,"If that still doesn't work, you may need to check the routes.",,
+8.80E+17,meiramorgan530,2025-09-16T18:34:35.2800000+08:00,ok ill try,,
+8.80E+17,meiramorgan530,2025-09-16T18:35:23.3990000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1417458843448770570/image.png?ex=68defe2b&is=68ddacab&hm=aa7b8ca7583c5ee56c2cb0c1573dfb26d87b721ec4c1faad66d293c4d9d1ad3f&,
+8.80E+17,meiramorgan530,2025-09-16T18:36:52.2860000+08:00,i dont have access to the api gateway configuration menu items,,
+1.04E+18,shimu_woshen,2025-09-17T10:43:13.3920000+08:00,,https://cdn.discordapp.com/attachments/1183779001567809549/1417702406279659613/image.png?ex=68df3841&is=68dde6c1&hm=d9443eafc246686ca0c0b612ade24dab0a55c90af44ba316f8af15bf352e0097&,
+1.04E+18,shimu_woshen,2025-09-17T10:43:21.8480000+08:00,click connection first,,
+1.04E+18,shimu_woshen,2025-09-17T10:43:37.8540000+08:00,then activate,,
+1.42E+18,franklinsterlin,2025-09-25T13:21:25.7340000+08:00,Thanks. PC is not a good idea anyway. Maybe I can use the ip-modifying version later.,,
