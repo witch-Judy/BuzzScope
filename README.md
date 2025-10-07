@@ -1,345 +1,186 @@
-# BuzzScope - Keyword Tracking Across Tech Communities
+# BuzzScope
 
-BuzzScope is a comprehensive keyword tracking application that monitors keyword popularity across multiple tech communities including Hacker News, Reddit, Discord, and YouTube. It provides detailed analytics, trend analysis, and cross-platform insights.
+**Where technology speaks, and you feel the echo**
 
-## Current Status
+A comprehensive keyword tracking platform that monitors technology trends across Hacker News, Reddit, and YouTube. Analyze keyword popularity, track trends, and discover insights across multiple tech communities.
 
-✅ **Fully Functional** - The application is ready for use with:
-- Pre-processed historical data for 4 keywords (ai, iot, mqtt, unified_namespace)
-- Optimized Streamlit frontend with cached results
-- Discord special display with channel distribution charts
-- Cross-platform comparison and trend analysis
-- All major features working and tested
+## Demo
 
-## ✨ Features
+[![BuzzScope Demo](https://img.youtube.com/vi/qJBU0PBMQyw/0.jpg)](https://www.youtube.com/watch?v=qJBU0PBMQyw)
 
-### 📊 Analytics & Metrics
-- **Volume Metrics**: Mention count, unique users, interaction count
-- **Trend Analysis**: Time series analysis with moving averages
-- **Cross-Platform Comparison**: Side-by-side keyword comparison
-- **User Insights**: Top contributors and cross-platform user identification
+*Click the image above to watch the full demo*
 
-### 🌐 Platform Support
-- **Hacker News**: Stories and comments via official API
-- **Reddit**: Posts and comments via PRAW
-- **YouTube**: Videos via YouTube Data API v3
-- **Discord**: Messages from local JSON archives
+## Features
 
-### 🎯 Key Capabilities
-- Real-time data collection and analysis
-- Modular, extensible architecture
-- Efficient Parquet-based storage
-- Beautiful Streamlit web interface
-- Command-line tools for automation
-- Keyword management system
+### Real-time Analysis
+- **Multi-platform tracking**: Hacker News, Reddit, YouTube
+- **Trend visualization**: Monthly data trends with interactive charts
+- **Cross-platform insights**: Compare keyword performance across platforms
+- **Top contributors**: Identify key voices in each community
 
-## 🚀 Quick Start
+### Data Sources
+- **Hacker News**: 2-year historical dataset with stories and comments
+- **Reddit**: All-time search across subreddits
+- **YouTube**: Video metadata, views, and engagement metrics
+- **Discord**: Community data (limited to accessible groups)
 
-### Option 1: Use Pre-processed Data (Recommended)
+### Key Metrics
+- Total mentions and unique authors
+- Monthly trend analysis
+- Interaction counts (upvotes, comments, views)
+- Platform-specific insights
 
-The application comes with pre-processed data for 4 keywords. Simply run:
+## Quick Start
 
-```bash
-streamlit run app_simple_historical.py --server.port 8501
-```
+### Prerequisites
+- Python 3.8+
+- API keys for Reddit and YouTube (optional for demo)
 
-Then visit http://localhost:8501 to see the analysis results.
-
-### Option 2: Full Installation
-
-### 1. Installation
+### Installation
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/witch-Judy/BuzzScope.git
 cd BuzzScope
 
 # Install dependencies
 pip install -r requirements.txt
-```
 
-### 2. Configuration
-
-Copy the environment template and configure your API keys:
-
-```bash
+# Configure environment (optional)
 cp env.example .env
+# Edit .env with your API keys
 ```
 
-Edit `.env` with your API credentials:
-
-```env
-# YouTube Data API v3
-YOUTUBE_API_KEY=your_youtube_api_key_here
-
-# Reddit API (via PRAW)
-REDDIT_CLIENT_ID=your_reddit_client_id
-REDDIT_CLIENT_SECRET=your_reddit_client_secret
-REDDIT_USER_AGENT=your_app_name/1.0
-
-# Optional: Discord Bot Token
-DISCORD_BOT_TOKEN=your_discord_bot_token
-```
-
-### 3. Launch the Application
+### Run the Application
 
 ```bash
-# Launch Streamlit web interface
-python run.py app
-
-# Or directly with Streamlit
-streamlit run app.py
+# Launch the main application
+streamlit run app_new_keyword_test.py --server.port 8502
 ```
 
-## 🛠️ Usage
+Visit `http://localhost:8502` to access the application.
 
-### Web Interface
+## Usage
 
-The Streamlit application provides an intuitive web interface with:
+### Pre-loaded Keywords
+The application comes with pre-analyzed data for:
+- `ai` - Artificial Intelligence discussions
+- `iot` - Internet of Things topics  
+- `mqtt` - MQTT protocol discussions
+- `unified_namespace` - Industrial automation concepts
 
-- **Keyword Input**: Enter keywords to track
-- **Platform Selection**: Choose which platforms to monitor
-- **Analysis Types**: Single keyword, comparison, or cross-platform insights
-- **Data Collection**: Collect fresh data with one click
-- **Visualizations**: Interactive charts and graphs
+### New Keyword Analysis
+1. Enter keywords in the sidebar (comma-separated)
+2. Click "Collect Missing Data" for new keywords
+3. View real-time analysis and trends
+4. Explore cross-platform insights
 
-### Command Line Interface
+### Features Overview
+- **Trend Analysis**: Monthly mention trends with raw data tables
+- **Platform Comparison**: Side-by-side keyword performance
+- **Top Contributors**: Most active users per platform
+- **Interactive Charts**: Zoom, filter, and explore data
 
-```bash
-# Collect data for a keyword
-python run.py collect "UNS" --platforms hackernews reddit --days 30
+## Data Collection
 
-# Analyze a keyword
-python run.py analyze "UNS" --days 30
+### Hacker News
+- Uses 2-year historical parquet dataset
+- Analyzes stories, comments, and user interactions
+- Covers 7.6M+ records from 2022-2024
 
-# Manage keywords
-python run.py keywords
+### Reddit
+- Searches across all subreddits
+- Collects posts, comments, and metadata
+- Uses Reddit's public JSON API
 
-# Show storage statistics
-python run.py stats
-```
+### YouTube
+- Searches video titles and descriptions
+- Collects view counts, likes, and comments
+- Uses YouTube Data API v3
 
-### Keyword Management
-
-```bash
-python run.py keywords
-```
-
-Interactive keyword management allows you to:
-- Add/remove keywords
-- Configure platforms per keyword
-- Set analysis frequency
-- Export/import keyword configurations
-
-## 📁 Project Structure
+## Architecture
 
 ```
 BuzzScope/
+├── app_new_keyword_test.py     # Main Streamlit application
 ├── src/
-│   ├── __init__.py
-│   ├── config.py              # Configuration management
-│   ├── models.py              # Data models and schemas
-│   ├── storage.py             # Parquet-based storage system
-│   ├── analysis.py            # Analysis engine
-│   ├── keyword_manager.py     # Keyword management
-│   └── collectors/
-│       ├── __init__.py
-│       ├── base_collector.py  # Base collector class
-│       ├── hackernews_collector.py
-│       ├── reddit_collector.py
-│       ├── youtube_collector.py
-│       └── discord_collector.py
-├── data/                      # Data storage directory
-│   ├── hackernews/           # Hacker News data
-│   ├── reddit/               # Reddit data
-│   ├── youtube/              # YouTube data
-│   ├── discord/              # Discord data
-│   └── analysis/             # Analysis results
-├── app.py                    # Streamlit application
-├── run.py                    # Command-line interface
-├── requirements.txt          # Python dependencies
-├── env.template             # Environment template
-└── README.md               # This file
+│   ├── collectors/             # Data collection modules
+│   ├── analyzers/              # Analysis engines
+│   └── visualization/          # Chart generation
+├── data/
+│   ├── cache/                  # Processed data cache
+│   └── Hackernews_raw/         # Hacker News historical data
+└── requirements.txt            # Dependencies
 ```
 
-## 🔧 API Setup
-
-### YouTube Data API v3
-1. Go to [Google Cloud Console](https://console.cloud.google.com/)
-2. Create a new project or select existing one
-3. Enable YouTube Data API v3
-4. Create credentials (API Key)
-5. Add the API key to your `.env` file
+## API Setup
 
 ### Reddit API
-1. Go to [Reddit App Preferences](https://www.reddit.com/prefs/apps)
+1. Visit [Reddit App Preferences](https://www.reddit.com/prefs/apps)
 2. Create a new app (script type)
-3. Note the client ID and secret
-4. Add credentials to your `.env` file
-
-### Discord Data
-1. Use [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) to export chat data
-2. Place JSON files in `./data/discord_archives/`
-3. The system will automatically process the archives
-
-## 📊 Data Storage
-
-BuzzScope uses Parquet format for efficient data storage:
-
-- **Partitioned by platform and date**
-- **Compressed with Snappy compression**
-- **Schema evolution support**
-- **Fast query performance**
-
-Data is organized as:
-```
-data/
-├── hackernews/
-│   ├── hackernews_20240101.parquet
-│   └── hackernews_20240102.parquet
-├── reddit/
-│   ├── reddit_20240101.parquet
-│   └── reddit_20240102.parquet
-└── ...
+3. Add credentials to `.env`:
+```env
+REDDIT_CLIENT_ID=your_client_id
+REDDIT_CLIENT_SECRET=your_client_secret
+REDDIT_USER_AGENT=your_app_name/1.0
 ```
 
-## 🔍 Analysis Features
-
-### Volume Metrics
-- Total mentions across platforms
-- Unique author count
-- Interaction metrics (likes, upvotes, comments, views)
-
-### Trend Analysis
-- Daily mention trends
-- Moving averages
-- Growth rate calculations
-- Peak activity identification
-
-### Cross-Platform Insights
-- Platform comparison
-- Common users across platforms
-- Platform-specific behavior patterns
-
-### Keyword Comparison
-- Side-by-side keyword performance
-- Relative popularity metrics
-- Trend comparisons
-
-## 🎨 Customization
-
-### Adding New Platforms
-
-1. Create a new collector class inheriting from `BaseCollector`
-2. Implement required methods: `search_keyword()` and `get_recent_posts()`
-3. Add platform configuration to `Config.PLATFORMS`
-4. Update the platform registry in `models.py`
-
-### Custom Analysis
-
-Extend the `BuzzScopeAnalyzer` class to add custom analysis methods:
-
-```python
-def custom_analysis(self, keyword: str, **kwargs):
-    # Your custom analysis logic
-    pass
+### YouTube API
+1. Go to [Google Cloud Console](https://console.cloud.google.com/)
+2. Enable YouTube Data API v3
+3. Create API key
+4. Add to `.env`:
+```env
+YOUTUBE_API_KEY=your_api_key
 ```
 
-### UI Customization
+### Hacker News Data
+The application requires a 2-year Hacker News dataset for full functionality:
 
-The Streamlit app can be customized by modifying `app.py`:
-- Add new analysis types
-- Create custom visualizations
-- Implement new data collection workflows
+**Option 1: Download from Google**
+- Search for "Hacker News 2 years dataset" on Google
+- Download the parquet file to `./data/Hackernews_raw/`
 
-## 🚀 Advanced Usage
+**Option 2: Contact the Author**
+- The author can provide the dataset upon request
+- Contact via GitHub issues or email
 
-### Automated Data Collection
+**Option 3: Use API Only**
+- The application will work with real-time API data only
+- Limited to recent posts and comments
 
-Set up a cron job for automated data collection:
+## Technical Details
 
-```bash
-# Collect data every 6 hours
-0 */6 * * * cd /path/to/BuzzScope && python run.py collect "UNS" --days 7
-```
+### Data Processing
+- **Caching**: Pre-processed metrics for fast loading
+- **Charts**: Pre-generated HTML charts for instant display
+- **Storage**: JSON-based cache with Parquet for large datasets
+- **Performance**: Optimized for real-time analysis
 
-### Batch Analysis
+### Supported Platforms
+- **Hacker News**: Official API + 2-year historical dataset (7.6M+ records)
+- **Reddit**: Public JSON API (no authentication required)
+- **YouTube**: Data API v3 with quota management
+- **Discord**: Community data (requires access to specific groups)
 
-Analyze multiple keywords:
-
-```python
-from src.analysis import BuzzScopeAnalyzer
-
-analyzer = BuzzScopeAnalyzer()
-keywords = ["UNS", "IoT", "MQTT", "Arduino"]
-
-for keyword in keywords:
-    results = analyzer.analyze_keyword(keyword)
-    # Process results
-```
-
-### Data Export
-
-Export analysis results:
-
-```python
-from src.storage import BuzzScopeStorage
-
-storage = BuzzScopeStorage()
-results = storage.search_posts("UNS", days_back=30)
-
-# Export to CSV
-results['hackernews'].to_csv('hackernews_uns.csv', index=False)
-```
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **API Rate Limits**: Reduce collection frequency or implement delays
-2. **Missing Data**: Check API credentials and platform availability
-3. **Storage Issues**: Ensure sufficient disk space for Parquet files
-4. **Memory Issues**: Process data in smaller batches
-
-### Logging
-
-Enable debug logging:
-
-```bash
-python run.py --log-level DEBUG collect "UNS"
-```
-
-Logs are written to `buzzscope.log` and console output.
-
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+4. Submit a pull request
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+MIT License - see LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Support
 
-- Hacker News API
-- Reddit API (PRAW)
-- YouTube Data API v3
-- DiscordChatExporter
-- Streamlit
-- Pandas and PyArrow
-
-## 📞 Support
-
-For questions, issues, or contributions:
+For questions or issues:
 - Create an issue on GitHub
-- Check the documentation
-- Review the troubleshooting section
+- Check the troubleshooting section
+- Review the documentation
 
 ---
 
-**Happy keyword tracking! 🔍📊**
-
+**Start tracking technology trends today**
