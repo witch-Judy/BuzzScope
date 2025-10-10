@@ -10,6 +10,14 @@ A comprehensive keyword tracking platform that monitors technology trends across
 
 *Click the image above to watch the full demo*
 
+## BuzzScope currently implements:
+
+- **Layer Architecture**: Presentation → Service → Data Collection → Analysis → Storage
+- **Pattern**: Abstract Factory for collectors, Strategy for analysis
+- **Storage**: Parquet files + JSON cache
+- **Platforms**: Hacker News, Reddit, YouTube, Discord
+- **Analysis**: Keyword tracking, trend analysis, contributor analysis
+
 ## Features
 
 ### Real-time Analysis
