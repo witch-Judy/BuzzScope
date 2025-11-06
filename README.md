@@ -6,7 +6,7 @@ A comprehensive keyword tracking platform that monitors technology trends across
 
 ## Demo
 
-[![BuzzScope Demo](https://img.youtube.com/vi/qJBU0PBMQyw/0.jpg)](https://www.youtube.com/watch?v=qJBU0PBMQyw)
+https://www.youtube.com/watch?v=rqJtpzABIPs
 
 *Click the image above to watch the full demo*
 
