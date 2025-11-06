@@ -6,7 +6,7 @@ A comprehensive keyword tracking platform that monitors technology trends across
 
 ## Demo
 
-[![Watch the demo on YouTube](https://img.youtube.com/vi/rqJtpzABlPs/0.jpg)](https://www.youtube.com/watch?v=rqJtpzABlPs)
+[![Watch the demo](https://img.youtube.com/vi/rqJtpzABIPs/0.jpg)](https://www.youtube.com/watch?v=rqJtpzABIPs)
 
 *Click the image above to watch the full demo*
 
