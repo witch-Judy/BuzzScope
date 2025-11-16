@@ -1,6 +1,11 @@
 # 大文件和数据目录
 data/Hackernews_raw/
 data/cache/discord/
+*.parquet
+data/ai_analysis/
+data/ai_analytics_results/
+data/monitoring/
+buzzscope-8501-deploy/cache/
 
 # 8501端口应用（不上传）
 app_simple_historical.py
