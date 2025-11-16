@@ -36,7 +36,7 @@ python analyze_historical.py "ai" --output results.json --format json
 ## 🔔 Event-Driven Notification Service
 
 ### Purpose
-Monitor daily hot posts for keyword mentions and send notifications via email and MQTT.
+Monitor daily hot posts for keyword mentions and send notifications via email.
 
 ### Data Sources
 - **Hacker News**: Recent hot posts (50 posts)
@@ -51,14 +51,11 @@ python monitor_keywords.py "unified namespace" "ai" --once
 # Continuous monitoring (every 6 hours)
 python monitor_keywords.py "unified namespace" "ai" --interval 6
 
-# Custom MQTT broker
-python monitor_keywords.py "unified namespace" --mqtt-broker your-broker.com
 ```
 
 ### Features
 - Real-time hot post monitoring
 - Email notifications with HTML formatting
-- MQTT publishing for integration
 - Configurable check intervals
 - Exact phrase matching
 
@@ -78,19 +75,6 @@ EMAIL_USER=your_email@gmail.com
 EMAIL_PASSWORD=your_app_password
 NOTIFICATION_EMAIL=your_notification_email@gmail.com
 
-# MQTT Configuration
-MQTT_BROKER=localhost
-MQTT_PORT=1883
-MQTT_USERNAME=your_mqtt_username
-MQTT_PASSWORD=your_mqtt_password
-MQTT_USE_TLS=false
-
-# HiveMQ Cloud Configuration (example)
-# MQTT_BROKER=your-cluster-id.hivemq.cloud
-# MQTT_PORT=8883
-# MQTT_USERNAME=your_hivemq_username
-# MQTT_PASSWORD=your_hivemq_password
-# MQTT_USE_TLS=true
 ```
 
 ### Data Structure
@@ -123,20 +107,9 @@ python monitor_keywords.py "unified namespace" "ai" "iot" --once
 
 # Start continuous monitoring
 python monitor_keywords.py "unified namespace" --interval 4
-
-# Use custom MQTT broker
-python monitor_keywords.py "ai" --mqtt-broker mqtt.yourdomain.com --mqtt-port 8883
-
-# Use HiveMQ Cloud with authentication
-python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-port 8883 --mqtt-username your_username --mqtt-password your_password --mqtt-tls
 ```
 
-## 📡 MQTT Integration
-
-### Topics
-- `buzzscope/alerts/{keyword}` - Keyword mention notifications
-
-### Message Format
+## 📧 Email Notifications
 ```json
 {
   "keyword": "unified namespace",
@@ -152,8 +125,6 @@ python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-p
   "found_at": "2025-10-06T10:05:00"
 }
 ```
-
-## 📧 Email Notifications
 
 ### Features
 - HTML formatted emails
@@ -181,8 +152,7 @@ python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-p
 1. Collect today's hot posts from all platforms
 2. Check for keyword mentions
 3. Send email notifications
-4. Publish MQTT messages
-5. Update last check time
+4. Update last check time
 
 ## 🛠️ Development
 
@@ -194,8 +164,7 @@ python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-p
 
 ### Customizing Notifications
 1. Modify `_create_email_body()` in `EventDrivenService`
-2. Update MQTT message format
-3. Add new notification channels
+2. Add new notification channels
 
 ## 📈 Performance Considerations
 
@@ -207,7 +176,6 @@ python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-p
 ### Event-Driven Monitoring
 - Hot post collection is API-intensive
 - Email sending has SMTP limits
-- MQTT publishing is lightweight
 - Check intervals should be reasonable (4-6 hours)
 
 ## 🔒 Security
@@ -216,12 +184,6 @@ python monitor_keywords.py "ai" --mqtt-broker your-cluster.hivemq.cloud --mqtt-p
 - Store in `.env` file (not committed)
 - Use app passwords for email
 - Rotate keys regularly
-
-### MQTT
-- Use authentication for production
-- Enable TLS for secure connections
-- Validate message formats
-- Test connection with `python test_mqtt_connection.py`
 
 ### Email
 - Use app-specific passwords

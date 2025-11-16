@@ -1,0 +1,185 @@
+{
+  "keyword": "Large Language Model",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collected_at": "2025-10-08T15:38:06.319797",
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "Large Language Model",
+    "total_posts": 1031,
+    "total_interactions": 7406,
+    "unique_authors": 842,
+    "top_contributors": [
+      {
+        "author": "PaulHoule",
+        "post_count": 24,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=PaulHoule"
+      },
+      {
+        "author": "og_kalu",
+        "post_count": 14,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=og_kalu"
+      },
+      {
+        "author": "belter",
+        "post_count": 8,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=belter"
+      },
+      {
+        "author": "simonw",
+        "post_count": 8,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=simonw"
+      },
+      {
+        "author": "ben_w",
+        "post_count": 7,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ben_w"
+      },
+      {
+        "author": "vunderba",
+        "post_count": 6,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=vunderba"
+      },
+      {
+        "author": "tosh",
+        "post_count": 5,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=tosh"
+      },
+      {
+        "author": "kromem",
+        "post_count": 5,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=kromem"
+      },
+      {
+        "author": "ninjin",
+        "post_count": 4,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=ninjin"
+      },
+      {
+        "author": "danbruc",
+        "post_count": 4,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=danbruc"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Tracing the thoughts of a large language model",
+        "interactions": 1466,
+        "author": "Philpax",
+        "created_at": "2025-03-27 17:05:36 UTC",
+        "url": "https://news.ycombinator.com/item?id=43495617",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ferret: A Multimodal Large Language Model",
+        "interactions": 929,
+        "author": "weirdcat",
+        "created_at": "2023-12-23 16:19:49 UTC",
+        "url": "https://news.ycombinator.com/item?id=38745348",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Emacs-copilot: Large language model code completion for Emacs",
+        "interactions": 533,
+        "author": "yla92",
+        "created_at": "2023-12-31 05:59:11 UTC",
+        "url": "https://news.ycombinator.com/item?id=38822164",
+        "platform": "hackernews"
+      },
+      {
+        "title": "High-Speed Large Language Model Serving on PCs with Consumer-Grade GPUs",
+        "interactions": 500,
+        "author": "dataminer",
+        "created_at": "2023-12-20 13:46:08 UTC",
+        "url": "https://news.ycombinator.com/item?id=38708585",
+        "platform": "hackernews"
+      },
+      {
+        "title": "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
+        "interactions": 274,
+        "author": "T-A",
+        "created_at": "2024-01-03 20:53:50 UTC",
+        "url": "https://news.ycombinator.com/item?id=38859749",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Entropy of a Large Language Model output",
+        "interactions": 224,
+        "author": "woodglyst",
+        "created_at": "2025-01-09 20:00:47 UTC",
+        "url": "https://news.ycombinator.com/item?id=42649315",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Autogen: Enable next-gen large language model applications",
+        "interactions": 217,
+        "author": "infruset",
+        "created_at": "2023-10-18 10:07:17 UTC",
+        "url": "https://news.ycombinator.com/item?id=37926741",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Launch HN: GPT Driver (YC S21) – End-to-end app testing in natural language",
+        "interactions": 211,
+        "author": "cschiller",
+        "created_at": "2024-10-23 13:18:17 UTC",
+        "url": "https://news.ycombinator.com/item?id=41924787",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Mapping the Mind of a Large Language Model",
+        "interactions": 199,
+        "author": "Josely",
+        "created_at": "2024-05-21 14:58:34 UTC",
+        "url": "https://news.ycombinator.com/item?id=40429326",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Large Language Model Course",
+        "interactions": 188,
+        "author": "T-A",
+        "created_at": "2023-12-01 09:57:14 UTC",
+        "url": "https://news.ycombinator.com/item?id=38485048",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 7,
+      "2025-09": 36,
+      "2025-08": 44,
+      "2025-07": 35,
+      "2025-06": 51,
+      "2025-05": 41,
+      "2025-04": 31,
+      "2025-03": 41,
+      "2025-02": 29,
+      "2025-01": 33,
+      "2024-12": 33,
+      "2024-10": 40,
+      "2024-09": 39,
+      "2024-08": 28,
+      "2024-06": 45,
+      "2024-05": 53,
+      "2024-04": 44,
+      "2024-07": 38,
+      "2024-03": 52,
+      "2024-02": 58,
+      "2024-01": 38,
+      "2023-12": 81,
+      "2023-11": 65,
+      "2024-11": 25,
+      "2023-10": 44
+    }
+  },
+  "total_posts": 1031
+}

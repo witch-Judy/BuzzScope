@@ -110,7 +110,7 @@ def create_monthly_trend_chart(monthly_mentions: Dict[str, int], platform: str, 
         )
     
     # 转换为HTML
-    html = pio.to_html(fig, include_plotlyjs=False, div_id=f"chart_{platform}_{keyword}")
+    html = pio.to_html(fig, include_plotlyjs=False, div_id=f"chart_{platform}_{keyword}", config={'displayModeBar': False})
     return html
 
 def generate_trend_statistics(monthly_mentions: Dict[str, int]) -> Dict[str, Any]:

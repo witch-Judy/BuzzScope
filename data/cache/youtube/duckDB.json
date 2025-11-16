@@ -1,0 +1,2700 @@
+{
+  "keyword": "duckDB",
+  "platform": "youtube",
+  "data_source": "time_all",
+  "collection_time": "2025-10-14T17:36:01.354996",
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "uHm6FEb2Re4",
+      "title": "DuckDB in 100 Seconds",
+      "content": "Learn the basics of DuckDB - an in-process, analytical database optimized for OLAP workloads. It's lightweight, portable and requires no server setup, allowing it to excel at complex queries on structured data. 💬 Chat with Me on Discord https://discord.gg/fireship 🔗 Resources https://duckdb.org/ 📚 Chapters 🔥 Get More Content - Upgrade to PRO Upgrade at https://fireship.io/pro Use code YT25 for 25% off PRO access 🎨 My Editor Settings - Atom One Dark - vscode-icons - Fira Code Font 🔖 Topics Covered - What is DuckDB? - Why DuckDB is great for analyzing massive datasets - Which companies use DuckDB? - How to run DuckDB - Useful DuckDB commands - Aggregations with time series data",
+      "author": "Fireship",
+      "timestamp": "2025-08-14T18:23:22+00:00",
+      "url": "https://www.youtube.com/watch?v=uHm6FEb2Re4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "webdev",
+          "app development",
+          "lesson",
+          "tutorial",
+          "duckdb",
+          "DuckDB",
+          "analytical database",
+          "embedded database",
+          "OLAP",
+          "data analytics",
+          "SQL",
+          "data science",
+          "business intelligence",
+          "SQLite alternative",
+          "in-process database",
+          "SQL analytics",
+          "What is DuckDB",
+          "DuckDB basics",
+          "DuckDB in 100 Seconds",
+          "learn DuckDB",
+          "software engineering",
+          "web development"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uHm6FEb2Re4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uHm6FEb2Re4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHm6FEb2Re4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uHm6FEb2Re4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uHm6FEb2Re4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "uHm6FEb2Re4",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "view_count": 456484,
+      "like_count": 28443,
+      "comment_count": 999,
+      "duration": "PT2M23S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "99VFrPmOqaY",
+      "title": "SQLite vs DuckDB: Which Embedded Database Should You Choose in 2025?",
+      "content": "🤑 Best Deals on Amazon: https://amzn.to/3JPwht2 👉 🏆 MY TOP PICKS + INSIDER DISCOUNTS: https://beacons.ai/savagereviews I tried them all so you save time AND money! 🔥 🎬 In This Video: Choosing the right embedded database can make or break your project—this quick comparison will help you nail it. In this video, I break down the real-world strengths of SQLite and DuckDB—two lightweight, powerful, embedded databases—so you can make the right choice fast. Whether you're building a mobile app or running heavy-duty analytics, you’ll find out which tool fits your workflow better. SQLite is the gold standard for small, reliable transactional storage. DuckDB is optimized for high-speed analytics, with features perfect for data science and big queries. I cover use cases, performance, and trade-offs in plain language, so you don’t waste time guessing. Ready to find your perfect embedded database? Watch now and see which one wins for your stack. 🛠️ Tools Mentioned: • SQLite – Lightweight embedde",
+      "author": "Savage Reviews",
+      "timestamp": "2025-06-03T08:16:03+00:00",
+      "url": "https://www.youtube.com/watch?v=99VFrPmOqaY",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "database vs data warehouse",
+          "database vs data warehouse vs data lake",
+          "database vs data lake vs data warehouse",
+          "react native vs flutter in 2021",
+          "database vs data lake",
+          "data base vs data lake vs data warehouse",
+          "database",
+          "duckdb vs sqlite",
+          "duckdb vs clickhouse: choose the right database for you!",
+          "database testing",
+          "database paradigms",
+          "top databases",
+          "database design",
+          "react native vs flutter",
+          "duckdb vs clickhouse",
+          "data warehouse vs data lake",
+          "databases",
+          "what is a database"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99VFrPmOqaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99VFrPmOqaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99VFrPmOqaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/99VFrPmOqaY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/99VFrPmOqaY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "99VFrPmOqaY",
+      "channel_id": "UCWtOcQKcrIGkCCLjqT6p70A",
+      "view_count": 2067,
+      "like_count": 33,
+      "comment_count": 3,
+      "duration": "PT1M45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "TeKXwuYjAHs",
+      "title": "Finally Trying MotherDuck (DuckDB Data Warehouse)…I Did Not Expect This! 🦆",
+      "content": "I just gave MotherDuck (DuckDB Data Warehouse) the attention it deserved and wow, I wasn’t ready for what happened. This is a full reaction video where I explore it live, test how it works, and share my honest surprises along the way. If you’re into data engineering, analytics, or just curious about the next wave of lightweight cloud data tools, you’ll want to stick around for this one. What I cover in this video: * First impressions of MotherDuck * Where it feels different from “big” warehouses * The surprises I didn’t see coming * Thoughts on how this fits into the modern data stack Hit subscribe if you want more raw first looks and real reactions to new data tools. You can also find me here: Substack: https://substack.com/@hoytemerson LinkedIn: https://www.linkedin.com/in/hoytemerson/ X: https://x.com/HoytEmerson #MotherDuck #DuckDB #DataEngineering",
+      "author": "Hoyt Emerson | The Full Data Stack",
+      "timestamp": "2025-10-04T16:03:54+00:00",
+      "url": "https://www.youtube.com/watch?v=TeKXwuYjAHs",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TeKXwuYjAHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TeKXwuYjAHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TeKXwuYjAHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TeKXwuYjAHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "TeKXwuYjAHs",
+      "channel_id": "UCrG5MvmaxXlA2vP1Y2SunMA",
+      "view_count": 577,
+      "like_count": 13,
+      "comment_count": 3,
+      "duration": "PT39M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fWy4EaAOtZI",
+      "title": "SQLite vs DuckDB - Which Database Managemet System Is BETTER In 2025? (FULL COMPARISON!)",
+      "content": "SQLite vs DuckDB - Which Database Managemet System Is BETTER In 2025? (FULL COMPARISON!) If you’re a developer, data analyst, or database administrator trying to decide between SQLite and DuckDB for your database management system in 2025, this full comparison is exactly what you need. In this video, I put SQLite vs DuckDB head-to-head, analyzing their performance, scalability, query execution speed, data processing capabilities, storage efficiency, and real-world use cases in 2025 to help you choose the best solution for your application or analytics workload. Whether you’re focused on lightweight embedded databases, in-memory OLAP (Online Analytical Processing), offline-first applications, or high-performance analytics, both SQLite and DuckDB offer powerful database management solutions in 2025—but which one is better for your needs? By the end of this SQLite vs DuckDB 2025 comparison, you’ll have a clear understanding of whether SQLite or DuckDB is the best database for processing,",
+      "author": "Tobi Teaches",
+      "timestamp": "2025-02-26T01:59:54+00:00",
+      "url": "https://www.youtube.com/watch?v=fWy4EaAOtZI",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "database vs data lake",
+          "database vs data warehouse",
+          "database vs data warehouse vs data lake",
+          "database vs data lake vs data warehouse",
+          "database",
+          "data base vs data lake vs data warehouse",
+          "duckdb vs clickhouse: choose the right database for you!",
+          "databases",
+          "database testing",
+          "react native vs flutter in 2021",
+          "database design",
+          "what is a database",
+          "top databases",
+          "database paradigms",
+          "duckdb vs sqlite",
+          "duckdb vs clickhouse",
+          "react native vs flutter",
+          "data warehouse vs data lake"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fWy4EaAOtZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fWy4EaAOtZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fWy4EaAOtZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fWy4EaAOtZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fWy4EaAOtZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fWy4EaAOtZI",
+      "channel_id": "UCcdpbxh81md1_eJSXgJ40qA",
+      "view_count": 1922,
+      "like_count": 13,
+      "comment_count": 4,
+      "duration": "PT2M28S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "-hc2zataEm0",
+      "title": "SQLite vs DuckDB | Which Database Management System is Best in 2025?",
+      "content": "In this video, ‘SQLite vs DuckDB | Which Database Management System is Best?’, we thoroughly compare two powerful database management systems ideal for developers, data scientists, and analysts. We start by breaking down the architectural differences: SQLite’s legendary embeddability and reliability for mobile and desktop applications, versus DuckDB’s lightning-fast analytics engine built for modern data workflows. Walk through hands-on demos as we show how each handles transactional workloads, complex queries, and large datasets. Learn the pros and cons of file-based storage, concurrency, and in-memory performance for both systems. We highlight use cases, from mobile app development to analytical data pipelines, and explain how DuckDB’s vectorized execution engine revolutionizes local analytics. Our deep dive covers SQL compatibility, integration with languages like Python and R, and the best practices for embedding databases in custom software. Security considerations, community su",
+      "author": "HowToHarbor",
+      "timestamp": "2025-06-19T12:04:04+00:00",
+      "url": "https://www.youtube.com/watch?v=-hc2zataEm0",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "data base vs data lake vs data warehouse",
+          "app development",
+          "webdev"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-hc2zataEm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-hc2zataEm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-hc2zataEm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-hc2zataEm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-hc2zataEm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "-hc2zataEm0",
+      "channel_id": "UCodHeM-fooviCC9yUWmw3DQ",
+      "view_count": 651,
+      "like_count": 7,
+      "comment_count": 2,
+      "duration": "PT4M35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "YJO-SNPzRNg",
+      "title": "DuckDB vs ClickHouse – Best Analytics Database in 2025?",
+      "content": "Trying to choose between DuckDB and ClickHouse for analytics and OLAP workloads? In this video, I compare their performance, scalability, and ideal use cases to help you decide which database is best for your project. Whether you're building data pipelines, dashboards, or handling big data, this side-by-side comparison will guide you.",
+      "author": "Amir Tutorial",
+      "timestamp": "2025-05-04T20:41:00+00:00",
+      "url": "https://www.youtube.com/watch?v=YJO-SNPzRNg",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YJO-SNPzRNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YJO-SNPzRNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YJO-SNPzRNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YJO-SNPzRNg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YJO-SNPzRNg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "YJO-SNPzRNg",
+      "channel_id": "UC3M83SN3XHSvLyeLQOWlelQ",
+      "view_count": 4305,
+      "like_count": 56,
+      "comment_count": 2,
+      "duration": "PT3M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ZX5FdqzGT1E",
+      "title": "DuckDB Tutorial For Beginners In 12 min",
+      "content": "In this video,@mehdio will cover all the basics to get you up and running with DuckDB by @duckdb! Enjoy ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 Check out a fully production-ready end-to-end data engineering project with DuckDB! 🎥 Part 1 : https://www.youtube.com/watch?v=3pLKTmdWDXk 📓 Resources Github Repo of the tutorial : https://github.com/mehd-io/duckdb-playground-tutorial DuckDB extension template (WIP) : https://github.com/duckdb/extension-template Blogs about DuckDB's file format : https://duckdb.org/2022/10/28/lightweight-compression.html https://duckdb.org/2022/07/27/art-storage.html ➡️ Follow Us Blog: https://motherduck.com/blog/ LinkedIn: hhttps://linkedin.com/company/motherduck Twitter : https://twitter.com/motherduck 0:00 Intro Heard the buzz about DuckDB? This is your fast track to getting started with this powerful in-process OLAP database. This comprehensive tutorial covers everything from installation and workflow",
+      "author": "MotherDuck",
+      "timestamp": "2023-04-04T14:30:11+00:00",
+      "url": "https://www.youtube.com/watch?v=ZX5FdqzGT1E",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZX5FdqzGT1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZX5FdqzGT1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZX5FdqzGT1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZX5FdqzGT1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZX5FdqzGT1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ZX5FdqzGT1E",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 76862,
+      "like_count": 1304,
+      "comment_count": 53,
+      "duration": "PT11M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "XB56YM79rHw",
+      "title": "We put Pandas, Polars, and DuckDB to the test! which comes out on top? | Data Tools",
+      "content": "Data Speed Showdown! We put Pandas, Polars, and DuckDB to the test: which one comes out on top for data read and transformation speed? The results are in: DuckDB takes the lead, with Polars a close second, and Pandas trailing slightly behind. So, what's the takeaway? If you're working with smaller datasets and prioritize ease of use, Pandas is still an excellent choice. For larger datasets in the Python ecosystem, Polars offers a significant speed advantage. And if you prefer SQL for your transformations, DuckDB provides a great balance. Each tool has its strengths, and it's essential to choose the right one for your specific task and workflow. #DataScience #Python #DuckDB #Polars #pandas Link to Docs: DuckDB: https://duckdb.org/docs/ Polars: https://docs.pola.rs/ Pandas: https://pandas.pydata.org/docs/ Link to Channel's site: https://hnawaz007.github.io/ -------------------------------------------------------------- 💥Subscribe to our channel: https://www.youtube.com/c/HaqNa",
+      "author": "BI Insights Inc",
+      "timestamp": "2024-06-17T20:38:57+00:00",
+      "url": "https://www.youtube.com/watch?v=XB56YM79rHw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "\"polars\"",
+          "\"polars dataframe\"",
+          "\"pandas python\"",
+          "\"python data\"",
+          "\"polars data\"",
+          "\"what is polars\"",
+          "\"coding in polars\"",
+          "\"faster pandas\"",
+          "\"speed up pandas code\"",
+          "\"speed up python code\"",
+          "\"python data science\"",
+          "\"fast data pipelines\"",
+          "\"data pipeline\"",
+          "\"speed up python code cython\"",
+          "\"speed up python\"",
+          "\"speed up pandas\"",
+          "\"coding with polars\"",
+          "etl",
+          "python etl",
+          "pandas vs polars",
+          "pandas vs duckdb",
+          "duckdb vs polars",
+          "fast python data tool",
+          "fast data integration",
+          "python fast data tools"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XB56YM79rHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XB56YM79rHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XB56YM79rHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XB56YM79rHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XB56YM79rHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "XB56YM79rHw",
+      "channel_id": "UC8aox1k3cd00tTKuBNt4tMw",
+      "view_count": 3629,
+      "like_count": 68,
+      "comment_count": 1,
+      "duration": "PT3M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "WzXd1mkvP34",
+      "title": "DUCKDB VS CLICKHOUSE: BEST DATABASE FOR YOUR ANALYSIS IN 2025!",
+      "content": "DuckDB vs. ClickHouse: Which database is right for your data analysis? This video compares these two powerful analytical databases, exploring their strengths and weaknesses for different use cases. We'll analyze DuckDB's embedded nature and focus on OLAP queries versus ClickHouse's distributed architecture and high-performance capabilities for large datasets. From local data exploration to large-scale analytics, we've got you covered. Watch now and choose the right database for your needs! CHAPTERS: 0:00 INTRO 0:04 TUTORIAL Disclaimer: This video is intended for informational and entertainment purposes only. The content presented should not be considered professional advice. Viewers are advised to conduct their own research and consult with appropriate professionals for any specific concerns or before making any decisions related to the topics discussed. I make no warranties, express or implied, about the completeness, accuracy, reliability, suitability or availability with re",
+      "author": "DIY GUIDES",
+      "timestamp": "2025-02-22T22:00:24+00:00",
+      "url": "https://www.youtube.com/watch?v=WzXd1mkvP34",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzXd1mkvP34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzXd1mkvP34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzXd1mkvP34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzXd1mkvP34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WzXd1mkvP34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "WzXd1mkvP34",
+      "channel_id": "UC6hqReZ8Gp6bfE3NAVXH48Q",
+      "view_count": 605,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT1M38S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7y8TGmhlSCI",
+      "title": "build a data pond using duckdb and dbt | dlt and postgres",
+      "content": "🚀 Introducing Data Ponds – the lightweight solution for managing small to medium datasets without the complexity of traditional data lakes! 🌊💻. In the upcoming video we will build this solution to explore another cost effective avenue for data management. Using minimal toolsets like S3 for storage, Duck DB for ingestion and DBT for transforming your data. You can efficiently manage and analyze datasets with ease. Perfect for startups or small businesses looking for flexibility and cost-effective solutions. 💡 Key benefits: 🛠️ Minimal tools, maximum impact 📊 Fast access to insights 💰 Cost-effective for small teams Make data-driven decisions, minus the heavy infrastructure! #DataPond #DBT #S3 #DataManagement Link to data lake video: https://www.youtube.com/watch?v=DLRiUs1EvhM Link to dbt series with Postgres: https://hnawaz007.github.io/mds.html Link to GitHub repo: https://github.com/hnawaz007/pythondataanalysis/tree/main/dbt-datapond 💥Subscribe to our channel: https://www.youtube.",
+      "author": "BI Insights Inc",
+      "timestamp": "2024-10-07T01:51:16+00:00",
+      "url": "https://www.youtube.com/watch?v=7y8TGmhlSCI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "data lake",
+          "what is a data lake",
+          "build your own data lake",
+          "on-premise data lake",
+          "analyze data lake data",
+          "build a data lake with open source",
+          "open source",
+          "analyze files with sql",
+          "MinIO",
+          "build data lake",
+          "how to build a data lake",
+          "deploy your own data lake",
+          "learn technologies behind data lake",
+          "deploy our own data lake with open source tools",
+          "deploy on-premise data lake using open source technologies",
+          "build data pond",
+          "build data pond using dbt",
+          "dbt",
+          "duckdb",
+          "data pond"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7y8TGmhlSCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7y8TGmhlSCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7y8TGmhlSCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7y8TGmhlSCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7y8TGmhlSCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7y8TGmhlSCI",
+      "channel_id": "UC8aox1k3cd00tTKuBNt4tMw",
+      "view_count": 2742,
+      "like_count": 78,
+      "comment_count": 5,
+      "duration": "PT9M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "e7MYrRcz7ko",
+      "title": "SQLite vs DuckDB (2025) Which Is Really Better?",
+      "content": "SQLite vs DuckDB (2025) Which Is Really Better? Disclaimer: ❗️The content shared in this video is for educational and informational purposes only.❗️ Any product reviews, health-related information, or opinions expressed are based on personal experience or research, and should not be considered as medical, professional, or legal advice. Always consult with a qualified healthcare provider or professional before making any decisions regarding your health, wellness, or the use of any products discussed. Individual results may vary, and it is important to do your own research and exercise caution. By watching this video, you agree to assume full responsibility for any decisions you make based on the information presented. The creator of this content is not liable for any consequences that may arise from the use or reliance on the products, services, or recommendations shared.",
+      "author": "BaconHowTo",
+      "timestamp": "2025-09-04T21:22:15+00:00",
+      "url": "https://www.youtube.com/watch?v=e7MYrRcz7ko",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "SQLite vs DuckDB",
+          "SQLite review 2025",
+          "DuckDB review 2025",
+          "SQLite vs DuckDB comparison",
+          "SQLite vs DuckDB which is better",
+          "DuckDB vs SQLite",
+          "SQLite database review",
+          "DuckDB database review",
+          "best database 2025",
+          "SQLite vs DuckDB explained",
+          "SQLite vs DuckDB pros and cons",
+          "SQLite vs DuckDB features",
+          "SQLite vs DuckDB detailed review",
+          "SQLite vs DuckDB guide",
+          "in-process database comparison",
+          "SQLite vs DuckDB honest review",
+          "embedded databases 2025"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7MYrRcz7ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7MYrRcz7ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7MYrRcz7ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7MYrRcz7ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e7MYrRcz7ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "e7MYrRcz7ko",
+      "channel_id": "UCSNPNe6E2EL2iDSg_DDA6iQ",
+      "view_count": 47,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9Rdwh0rNaf0",
+      "title": "DuckDB: Crunching Data Anywhere, From Laptops to Servers • Gabor Szarnyas • GOTO 2024",
+      "content": "This presentation was recorded at GOTO Amsterdam 2024. #GOTOcon #GOTOams https://gotoams.nl Gábor Szárnyas - Technical Writer at DuckDB @gaborszarnyas4656 RESOURCES https://twitter.com/szarnyasg https://github.com/szarnyasg https://www.linkedin.com/in/szarnyasg https://szarnyasg.github.io https://duckdb.org ABSTRACT DuckDB is an analytical relational database management system which runs in-process, i.e., it is embedded within its host application that may be written in many popular languages (C/C++, Python, R, Java, etc.). DuckDB has full SQL support and can natively read/write formats such as CSV, Parquet, and JSON. It is built according to a modern system architecture, which allows running complex queries in parallel and spilling to disk for larger-than-memory workloads. This talk discusses DuckDB's key building blocks and demonstrates how it can handle hundreds of GBs of data on a laptop, or terabytes of data on a single server. [...] TIMECODES 00:00 Intro 01:23 What is Duck",
+      "author": "GOTO Conferences",
+      "timestamp": "2024-10-23T12:00:16+00:00",
+      "url": "https://www.youtube.com/watch?v=9Rdwh0rNaf0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "GOTO",
+          "GOTOcon",
+          "GOTO Conference",
+          "GOTO (Software Conference)",
+          "Videos for Developers",
+          "Computer Science",
+          "Programming",
+          "Software Engineering",
+          "GOTOpia",
+          "Tech",
+          "Software Development",
+          "Tech Channel",
+          "Tech Conference",
+          "GOTOams",
+          "GOTO Amsterdam",
+          "Gabor Szarnyas",
+          "DuckDB",
+          "Duck Database",
+          "Data Management",
+          "Relational Database",
+          "Parquet",
+          "JSON",
+          "WebAssembly",
+          "WASM",
+          "MotherDuck"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Rdwh0rNaf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Rdwh0rNaf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Rdwh0rNaf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Rdwh0rNaf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Rdwh0rNaf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9Rdwh0rNaf0",
+      "channel_id": "UCs_tLP3AiwYKwdUHpltJPuA",
+      "view_count": 133271,
+      "like_count": 2777,
+      "comment_count": 13,
+      "duration": "PT36M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8SYQtpSk_OI",
+      "title": "Stop Struggling with DataFrames – Try DuckDB for SQL on Pandas",
+      "content": "➡️ Try Convex here: https://convex.link/arjancodes. In this video, I’ll talk about the power of DuckDB, a lightweight, embedded database that lets you run SQL queries directly on Pandas DataFrames—no servers, no hassle. I’ll show you how it simplifies analytics, from in-memory operations to persistent storage and Jupyter integrations. 👷 Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis. 🔥 GitHub Repository: https://git.arjan.codes/2025/duckdb. 🎓 ArjanCodes Courses: https://www.arjancodes.com/courses. 🔖 Chapters: 0:00 Intro 0:37 What is DuckDB 1:18 Backing of the project 2:09 Running SQL on DataFrames 7:49 In-memory storage 9:09 Persistent storage 10:50 Jupyter Notebooks 11:50 Multithreading and multiprocessing 15:12 Extended SQL 18:52 Final thoughts #arjancodes #softwaredesign #python",
+      "author": "ArjanCodes",
+      "timestamp": "2025-02-07T16:00:08+00:00",
+      "url": "https://www.youtube.com/watch?v=8SYQtpSk_OI",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "duckdb",
+          "duckdb deep dive",
+          "duckdb python",
+          "duckdb python tutorial",
+          "duckdb python deep dive",
+          "database management",
+          "duckdb dbt",
+          "duckdb motherduck",
+          "duckdb tutorial",
+          "duckdb setup",
+          "duckdb extensions",
+          "duckdb extentions",
+          "duckdb parquet",
+          "duckdb vs sqlite",
+          "duckdb vs spark",
+          "duckdb wasm",
+          "duckdb and dbt end-to-end data engineering project",
+          "database management system project"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8SYQtpSk_OI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8SYQtpSk_OI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8SYQtpSk_OI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8SYQtpSk_OI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8SYQtpSk_OI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8SYQtpSk_OI",
+      "channel_id": "UCVhQ2NnY5Rskt6UjCUkJ_DA",
+      "view_count": 44685,
+      "like_count": 1323,
+      "comment_count": 102,
+      "duration": "PT19M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BIL8E28OE_Y",
+      "title": "Apache Superset+DuckDB (Web Database): How to Attach & Query DuckDB (Web) with Apache Superset",
+      "content": "https://github.com/apache/superset https://superset.apache.org/ Superset is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data, from simple line charts to highly detailed geospatial charts. Powerful yet easy to use Superset makes it easy to explore your data, using either our simple no-code viz builder or state-of-the-art SQL IDE. Integrates with modern databases Superset can connect to any SQL-based databases including modern cloud-native databases and engines at petabyte scale. Modern architecture Superset is lightweight and highly scalable, leveraging the power of your existing data infrastructure without requiring yet another ingestion layer. Rich visualizations and dashboards Superset ships with 40+ pre-installed visualization types. Our plug-in architecture makes it easy to build custom visualisations. https://duckdb.org/ https://github.com/duckdb/duckdb DuckDB is a fast in-process analyti",
+      "author": "TechnoFunctionalLearning",
+      "timestamp": "2025-01-13T07:04:56+00:00",
+      "url": "https://www.youtube.com/watch?v=BIL8E28OE_Y",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Apache Superset",
+          "DuckDB",
+          "Database",
+          "Open Source",
+          "Data Visualization"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIL8E28OE_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIL8E28OE_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIL8E28OE_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BIL8E28OE_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BIL8E28OE_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BIL8E28OE_Y",
+      "channel_id": "UCYOmubAWK9We535Dnskaanw",
+      "view_count": 562,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT24S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5jhyeoYrIUk",
+      "title": "DuckDB vs Spark (2025) | Which One is Better?",
+      "content": "In this video I'll compare DuckDB vs Spark. ❓ Need a tool for Funnels, CRMs, Email Marketing, Courses and So Much More? 🔥 Checkout GoHighLevel: https://bit.ly/GHL-30Days For Business Inquiries: Danistutorials13@gmail.com ➖➖➖➖➖➖➖➖➖➖ Disclaimers: Some Links Above include Affiliate links, I may earn a commission if you use my link. I'm Not a financial advisor, our videos are for educational purposes only.",
+      "author": "Dani's Tutorials",
+      "timestamp": "2024-10-23T13:36:24+00:00",
+      "url": "https://www.youtube.com/watch?v=5jhyeoYrIUk",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "DuckDB vs Spark",
+          "spark vs duckdb"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5jhyeoYrIUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5jhyeoYrIUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5jhyeoYrIUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5jhyeoYrIUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5jhyeoYrIUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5jhyeoYrIUk",
+      "channel_id": "UCibCBW6pUhVGN-aRDu0QnRQ",
+      "view_count": 730,
+      "like_count": 7,
+      "comment_count": 0,
+      "duration": "PT1M11S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4DIoACFItec",
+      "title": "DuckDB vs Pandas vs Polars For Python devs",
+      "content": "In this video, @mehdio will do a walkthrough of DuckDB, Polars and Pandas. We will discuss the main features and dive into a pragmatic code example. ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 📓 Resources Github Repo of the tutorial : https://github.com/mehd-io/duckdb-pandas-polars DuckDB getting started video: https://www.youtube.com/watch?v=ZX5FdqzGT1E ➡️ Follow Us LinkedIn: https://www.linkedin.com/company/8192... Twitter : https://twitter.com/motherduck Blog: https://motherduck.com/blog/ 0:00 Intro Why use DuckDB in Python with powerful libraries like Pandas and Polars? This video explores when to use DuckDB alongside these mainstays by comparing their core features for data analysis pipelines. We'll run a head-to-head performance benchmark on a large data engineering task to see which is fastest. Are they competitors or collaborators? 0:34 What is DuckDB How does DuckDB fit the Python ecosystem? It's a fast, in-process OLAP data",
+      "author": "MotherDuck",
+      "timestamp": "2023-06-01T14:37:04+00:00",
+      "url": "https://www.youtube.com/watch?v=4DIoACFItec",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4DIoACFItec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4DIoACFItec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4DIoACFItec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4DIoACFItec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4DIoACFItec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4DIoACFItec",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 35126,
+      "like_count": 785,
+      "comment_count": 28,
+      "duration": "PT12M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "XRhw4B8Esms",
+      "title": "Why Python Devs Need DuckDB (And Not Just Another DataFrame Library)",
+      "content": "Learn with @mehdio why DuckDB is the missing piece in your Python data pipeline. While Pandas and Polars are great, DuckDB brings real database features like ACID transactions, a portable file format, built-in extensions, and seamless cloud scaling : all with the simplicity of pip install. Discover 6 pragmatic reasons why DuckDB might become your new go-to tool for data processing in Python, plus zero-copy integration with your existing Pandas/Polars code. ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 🔗 Resources: - Getting started with DuckDB : https://www.youtube.com/watch?v=WYV8hvJOAQE - Friendly SQL dialect : https://duckdb.org/docs/stable/sql/dialect/friendly_sql.html 00:00 - Introduction: Why DuckDB is Different 00:31 - The History of DataFrames & Their Limitations 01:35 - Reason #1 02:02 - Reason #2 02:48 - Reason #3 03:46 - Reason #4 04:26 - Reason #5 05:05 - Reason #6 05:40 - Getting Started & Zero-Copy Integration ➡️ Follow Us",
+      "author": "MotherDuck",
+      "timestamp": "2025-10-13T14:22:21+00:00",
+      "url": "https://www.youtube.com/watch?v=XRhw4B8Esms",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRhw4B8Esms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRhw4B8Esms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRhw4B8Esms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XRhw4B8Esms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XRhw4B8Esms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "XRhw4B8Esms",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 1305,
+      "like_count": 75,
+      "comment_count": 7,
+      "duration": "PT6M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Fg8n-O0dhrI",
+      "title": "5 ways that DuckDB makes SQL better",
+      "content": "In this video, you'll learn 5 ways that DuckDB has made SQL better, including 'FROM..SELECT' and 'GROUP BY ALL'. #dataengineering #duckdb Blog post - https://duckdb.org/2022/05/04/friendlier-sql.html",
+      "author": "Learn Data with Mark",
+      "timestamp": "2023-06-29T20:25:29+00:00",
+      "url": "https://www.youtube.com/watch?v=Fg8n-O0dhrI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fg8n-O0dhrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fg8n-O0dhrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fg8n-O0dhrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fg8n-O0dhrI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fg8n-O0dhrI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Fg8n-O0dhrI",
+      "channel_id": "UCKEk670ECmteGBehmDjVSSg",
+      "view_count": 13898,
+      "like_count": 394,
+      "comment_count": 21,
+      "duration": "PT3M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "-KwyFeEUirU",
+      "title": "SQLite vs DuckDB - Which one is better? (2025 Guide)",
+      "content": "sqlite vs duckdb, duckdb vs sqlite, r: duckdb dbconnect is very slow - why?, duckdb vs clickhouse, which cloud service is best, duckdb vs spark, postgresql vs sqlite, duckdb vs clickhouse: choose the right database for you!, is azure better than aws, duckdb extensions, duckdb extentions, duckdb python, duckdb python deep dive, how to create multi-column indices duckdb/sqlite?, sqlite comparison, duckdb setup, duckdb python tutorial, duckdb parquet, sqlite tutorial, duckdb deep dive, sqlite, duckdb, duckdb motherduck",
+      "author": "TheTutorialHut",
+      "timestamp": "2025-09-17T17:00:00+00:00",
+      "url": "https://www.youtube.com/watch?v=-KwyFeEUirU",
+      "metadata": {
+        "category_id": "20",
+        "tags": [
+          "sqlite vs duckdb",
+          "duckdb vs sqlite",
+          "r: duckdb dbconnect is very slow - why?",
+          "duckdb vs clickhouse",
+          "which cloud service is best",
+          "duckdb vs spark",
+          "postgresql vs sqlite",
+          "duckdb vs clickhouse: choose the right database for you!",
+          "is azure better than aws",
+          "duckdb extensions",
+          "duckdb extentions",
+          "duckdb python",
+          "duckdb python deep dive",
+          "how to create multi-column indices duckdb/sqlite?",
+          "sqlite comparison",
+          "duckdb setup",
+          "duckdb python tutorial",
+          "duckdb parquet",
+          "sqlite tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-KwyFeEUirU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-KwyFeEUirU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-KwyFeEUirU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-KwyFeEUirU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-KwyFeEUirU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "-KwyFeEUirU",
+      "channel_id": "UCc5J_h0WwEj_CXaJN4G2JVA",
+      "view_count": 251,
+      "like_count": 0,
+      "comment_count": 1,
+      "duration": "PT4M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bZOvAKGkzpQ",
+      "title": "22 - DuckDB Internals (CMU Advanced Databases / Spring 2023)",
+      "content": "Guest Lecturer: Mark Raasveldt (https://mytherin.github.io/) Slides: https://15721.courses.cs.cmu.edu/spring2023/slides/22-duckdb.pdf 15-721 Advanced Database Systems (Spring 2023) Carnegie Mellon University https://15721.courses.cs.cmu.edu/spring2023",
+      "author": "CMU Database Group",
+      "timestamp": "2023-04-20T12:28:53+00:00",
+      "url": "https://www.youtube.com/watch?v=bZOvAKGkzpQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "databases",
+          "carnegie mellon university"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZOvAKGkzpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZOvAKGkzpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZOvAKGkzpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bZOvAKGkzpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bZOvAKGkzpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bZOvAKGkzpQ",
+      "channel_id": "UCHnBsf2rH-K7pn09rb3qvkA",
+      "view_count": 22928,
+      "like_count": 450,
+      "comment_count": 10,
+      "duration": "PT1H19M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "4Dt2TyOMv60",
+      "title": "Duckdb Vs Spark Vs ClickHouse | Which One Is Better In 2025?",
+      "content": "DuckDB vs Spark vs ClickHouse | Which Database is Better for 2025? In this video, I compare DuckDB, Spark, and ClickHouse, three powerful data processing and analytics engines. I’ll break down their features, performance, scalability, and help you decide which one is best suited for your data needs in 2025. #DuckDB #ApacheSpark #ClickHouse #DataAnalytics #DataProcessing #BigData #TechComparison #DuckDBVsSparkVsClickHouse ⚠️ Disclaimer: This video is for informational purposes only. Features, pricing, and services of DuckDB, Spark, and ClickHouse may change over time, so always refer to their official websites for the latest details.",
+      "author": "SkillScope AI",
+      "timestamp": "2025-06-25T16:13:28+00:00",
+      "url": "https://www.youtube.com/watch?v=4Dt2TyOMv60",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "duckdb",
+          "clickhouse",
+          "pyspark",
+          "clickhouse tutorial",
+          "database vs data warehouse",
+          "data warehouse vs data lake",
+          "database vs data warehouse vs data lake",
+          "data base vs data lake vs data warehouse",
+          "database vs data lake vs data warehouse",
+          "what is a data lake vs data warehouse",
+          "duckdb tutorial",
+          "débuter clickhouse",
+          "altinity clickhouse",
+          "clickhouse database",
+          "install clickhouse on docker",
+          "formation clickhouse",
+          "etl vs elt",
+          "install clickhouse database",
+          "kafka to clickhouse streaming"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Dt2TyOMv60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Dt2TyOMv60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Dt2TyOMv60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Dt2TyOMv60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Dt2TyOMv60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "4Dt2TyOMv60",
+      "channel_id": "UCWIqmnQxo8Ejc3dpb4D_O5w",
+      "view_count": 252,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6zzsVbpdwQA",
+      "title": "Introduction to Scaling Analytics Using DuckDB with Python",
+      "content": "DuckDB is a free, open-source, fast, and performant singe machine OLAP analytical database that supports the full SQL language. It's Python API is extensive, can work with data that does NOT fit into memory, and is many times faster than pandas. I predict DuckDB will dominate the landscape soon! It is a Game-Changer! Supporting Links Support Me on Patreon https://www.patreon.com/bePatron?u=63260756 My Playlists: https://www.youtube.com/@BryanCafferky/playlists Slides: https://github.com/bcafferky/shared/blob/master/DuckDB/IntroToDuckDB/IntroToDuckDB.pdf Code: https://github.com/bcafferky/shared/blob/master/DuckDB/IntroToDuckDB/duckdb_notebook_basic.ipynb Data: Yellow Taxi Data 2024-01 (Yellow Taxi Trip Records Parquet): https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page My Video on Scaling Python Pandas: https://youtu.be/bTQten5T53g DuckDB Python API Documentation: https://duckdb.org/docs/api/python/overview.html My Video About Using Python Virtual Environments: http",
+      "author": "Bryan Cafferky",
+      "timestamp": "2024-07-30T14:30:56+00:00",
+      "url": "https://www.youtube.com/watch?v=6zzsVbpdwQA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6zzsVbpdwQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6zzsVbpdwQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6zzsVbpdwQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6zzsVbpdwQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6zzsVbpdwQA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6zzsVbpdwQA",
+      "channel_id": "UCEdMzQ0m9WcZQepgizrHpMw",
+      "view_count": 9186,
+      "like_count": 380,
+      "comment_count": 22,
+      "duration": "PT29M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "f8ndMp_e0v0",
+      "title": "DuckDB vs Clickhouse (2025) | Which One is Better?",
+      "content": "In this video I'll compare DuckDB vs Clickhouse. ❓ Need a tool for Funnels, CRMs, Email Marketing, Courses and So Much More? 🔥 Checkout GoHighLevel: https://bit.ly/GHL-30Days For Business Inquiries: Danistutorials13@gmail.com ➖➖➖➖➖➖➖➖➖➖ Disclaimers: Some Links Above include Affiliate links, I may earn a commission if you use my link. I'm Not a financial advisor, our videos are for educational purposes only.",
+      "author": "Dani's Tutorials",
+      "timestamp": "2024-10-23T13:23:05+00:00",
+      "url": "https://www.youtube.com/watch?v=f8ndMp_e0v0",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "DuckDB vs Clickhouse",
+          "clickhouse vs duckdb"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8ndMp_e0v0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8ndMp_e0v0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8ndMp_e0v0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f8ndMp_e0v0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f8ndMp_e0v0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "f8ndMp_e0v0",
+      "channel_id": "UCibCBW6pUhVGN-aRDu0QnRQ",
+      "view_count": 3384,
+      "like_count": 19,
+      "comment_count": 0,
+      "duration": "PT1M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BINA_ytZXMY",
+      "title": "MotherDuck in 100 seconds (by a duck 🦆)",
+      "content": "Here's a ProDuck tour, hope you enjoy! Credit : @mehdio ➡️ Follow Us LinkedIn: https://www.linkedin.com/company/8192... Twitter : https://twitter.com/motherduck Blog: https://motherduck.com/blog/ #duckdb #motherduckdb #motherduckduckdb Discover MotherDuck, the serverless analytics platform built on DuckDB, in this quick 100-second overview. We start with the basics: What is DuckDB? It's a fast, embedded, open-source analytical database perfect for crunching local data with SQL. This video shows how MotherDuck elevates this powerful local experience into a next-gen cloud data warehouse. Learn how you can easily get started building high-performance data apps and running complex analytics, transitioning your DuckDB projects seamlessly to a serverless cloud environment with just a few lines of code. Explore how MotherDuck's hybrid query execution model is a game-changer for data processing. This guide demonstrates how you can query data locally on your machine or directly against",
+      "author": "MotherDuck",
+      "timestamp": "2023-10-31T13:18:35+00:00",
+      "url": "https://www.youtube.com/watch?v=BINA_ytZXMY",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BINA_ytZXMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BINA_ytZXMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BINA_ytZXMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BINA_ytZXMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BINA_ytZXMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BINA_ytZXMY",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 11342,
+      "like_count": 160,
+      "comment_count": 5,
+      "duration": "PT1M51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hrTjvvwhHEQ",
+      "title": "Understanding DuckLake: A Table Format with a Modern Architecture",
+      "content": "​@mehdio walks through a pragmatic video on DuckDB’s new release, DuckLake — a table format with a fresh architecture, setting it apart from peers like Iceberg and Delta Lake. ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 📓 Resources DuckDB's blog announcement : https://duckdb.org/2025/05/27/ducklake.html DuckLake documentation : https://ducklake.select/ Github Gist of the code used in the video : https://gist.github.com/mehd-io/9afab092e807a4097864b09e7e9835e9 Supabase docs : https://supabase.com/docs Insteresting read on DuckLake : https://medium.com/@mcgeehan/quacks-stacks-5565069a5ef0 Blog about Table wars (Onehouse - Pauline Brown) : https://www.onehouse.ai/blog/the-open-table-format-war-merely-a-battle-on-the-path-to-engineering-a-truly-open-data-platform Blog about Table wars (Josue Bogran - @JosueBogranChannel) : https://www.linkedin.com/pulse/table-format-wars-vendor-locks-delta-iceberg-what-really-bogran-vvdgf/ ➡️ Follow Us Linke",
+      "author": "MotherDuck",
+      "timestamp": "2025-06-05T13:46:19+00:00",
+      "url": "https://www.youtube.com/watch?v=hrTjvvwhHEQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hrTjvvwhHEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hrTjvvwhHEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hrTjvvwhHEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hrTjvvwhHEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hrTjvvwhHEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hrTjvvwhHEQ",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 22947,
+      "like_count": 692,
+      "comment_count": 48,
+      "duration": "PT15M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vCbO8CynO88",
+      "title": "How to Use the New DuckDB UI – Fast, Free, and Local",
+      "content": "@duckdb in partnership with MotherDuck, released a free local DuckDB UI! @mehdio walks through a getting started with the DuckDB UI Try now when launching the DuckDB CLI using `duckdb -ui` ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 📓 Resources DuckDB CLI install docs : https://duckdb.org/docs/installation/ DuckDB UI docs : https://duckdb.org/docs/stable/extensions/ui DuckDB UI repository : https://github.com/duckdb/duckdb-ui DuckDB UI launch blog : https://duckdb.org/2025/03/12/duckdb-ui.html ➡️ Follow Us LinkedIn: https://linkedin.com/company/motherduck X/Twitter : https://twitter.com/motherduck Blog: https://motherduck.com/blog/ #duckdb #dataengineering #gettingstartedduckdbui DuckDB, the powerful in-process OLAP database, is a favorite for data developers, but exploring data via the DuckDB CLI can be cumbersome. This video introduces the new local DuckDB UI, a game-changer for your local data exploration experience. We'll show you",
+      "author": "MotherDuck",
+      "timestamp": "2025-03-14T12:02:10+00:00",
+      "url": "https://www.youtube.com/watch?v=vCbO8CynO88",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vCbO8CynO88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vCbO8CynO88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vCbO8CynO88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vCbO8CynO88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vCbO8CynO88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vCbO8CynO88",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 15548,
+      "like_count": 420,
+      "comment_count": 44,
+      "duration": "PT5M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9MW4AQEbyG8",
+      "title": "DuckDB vs Clickhouse: Choose The Right Database For You! (Honest Comparison ✅)",
+      "content": "Trying to decide between DuckDB and ClickHouse for your data processing needs? 🧐 In this video, we compare both databases based on performance, scalability, use cases, and features to help you choose the right one for your project! Whether you’re working with real-time analytics, OLAP workloads, or large datasets, this guide will break it all down for you.",
+      "author": "Johnny Harisson's Tutorials",
+      "timestamp": "2025-03-17T15:28:54+00:00",
+      "url": "https://www.youtube.com/watch?v=9MW4AQEbyG8",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "DuckDB vs Clickhouse: Choose The Right Database For You!",
+          "DuckDB",
+          "Clickhouse"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MW4AQEbyG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MW4AQEbyG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MW4AQEbyG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9MW4AQEbyG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9MW4AQEbyG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9MW4AQEbyG8",
+      "channel_id": "UC76GwPfK00zOuj2VlUmMNRg",
+      "view_count": 268,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT2M42S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "pZV9FvdKmLc",
+      "title": "DuckDB: How to Build 100x Faster Analytics Databases (with Co-Creator Hannes Mühleisen)",
+      "content": "SQLite could do with a little competition, so when I invited the co-creator of DuckDB in to talk, I thought we'd be discussing the perils of trying to build a new in-process database engine. I quickly realised things went much deeper than just a tech refresh. Hannes Mühleisen joins me this week to blend his academic credentials as a database researcher with his vehement need to make that research practical. And so we dive into what modern database literature has to say on making queries faster, more parallelizable, and closer to the metal, and how it all comes together in a user-friendly package that’s found its way into my day-to-day workload, and might well help out yours. If you’re curious about the gory details of database queries, how they can take advantage of modern hardware, or how all that research actually turns into a useful tool, Hannes has some great answers. -- DuckDB: https://duckdb.org/ Database Systems Book: http://infolab.stanford.edu/~ullman/dscb.html Kris’ first",
+      "author": "Developer Voices",
+      "timestamp": "2024-02-07T15:30:21+00:00",
+      "url": "https://www.youtube.com/watch?v=pZV9FvdKmLc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZV9FvdKmLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZV9FvdKmLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZV9FvdKmLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pZV9FvdKmLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pZV9FvdKmLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "pZV9FvdKmLc",
+      "channel_id": "UC-0fWjosItIOD4ThhS6oyfA",
+      "view_count": 16964,
+      "like_count": 757,
+      "comment_count": 56,
+      "duration": "PT1H20M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tFvVXiiJQ4k",
+      "title": "Accessing DuckDB with JDBC #java #shorts #coding #airhacks #duckdb",
+      "content": "Using JDBC (https://docs.oracle.com/en/java/javase/24/docs/api/java.sql/java/sql/package-summary.html) to write an SQL Insert to DuckDB 👉 https://duckdb.org Java used in this short: openjdk version \"21\" 2023-09-19 LTS I regularly publish the most popular or interesting shorts here: https://github.com/AdamBien/best-of-java-shorts/ Visual Studio Code used for editing: https://code.visualstudio.com/ See you at live, virtual workshops: https://airhacks.live About me: https://airhacks.industries #airhacks",
+      "author": "Adam Bien",
+      "timestamp": "2025-08-08T14:30:52+00:00",
+      "url": "https://www.youtube.com/watch?v=tFvVXiiJQ4k",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "java",
+          "tutorial",
+          "tip",
+          "tips",
+          "airhacks",
+          "adam bien",
+          "short",
+          "shorts",
+          "collections",
+          "jdbc",
+          "database",
+          "duckdb"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tFvVXiiJQ4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tFvVXiiJQ4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tFvVXiiJQ4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tFvVXiiJQ4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tFvVXiiJQ4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tFvVXiiJQ4k",
+      "channel_id": "UCksTNgiRyQGwi2ODBie8HdA",
+      "view_count": 1472,
+      "like_count": 71,
+      "comment_count": 0,
+      "duration": "PT1M8S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jzOVUbN6eVk",
+      "title": "DuckDB vs. PostgreSQL in Ultorg 1.9.0",
+      "content": "Ultorg now supports connections to DuckDB database files. DuckDB is a fast analytical database engine that runs on your local computer. In this demo, I connect to the same dataset of about 10 million rows on both DuckDB and PostgreSQL, and compare the speed of a few visual query operations (group-by and sum formulas).",
+      "author": "Ultorg",
+      "timestamp": "2025-01-21T21:44:41+00:00",
+      "url": "https://www.youtube.com/watch?v=jzOVUbN6eVk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jzOVUbN6eVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jzOVUbN6eVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jzOVUbN6eVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jzOVUbN6eVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jzOVUbN6eVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jzOVUbN6eVk",
+      "channel_id": "UCxrzsx2WrRHGMyfVDuWRcqg",
+      "view_count": 238,
+      "like_count": 3,
+      "comment_count": 0,
+      "duration": "PT2M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "GqFok2dOuPc",
+      "title": "Simplify Data With DuckDB | Python Tutorial",
+      "content": "In this video I show you how to create SQL for CSV files using Python's Duckdb library! #coding #100daysofcode #pythonforbeginners #programming #100daysofcoding #pythontutorial #excel #csv #sql #sqlquery #duckdb #mysql #dataanalytics #datascience #sqljoins #pandas #pd #pythonduckdb",
+      "author": "TechnicallyRipped",
+      "timestamp": "2024-09-24T16:00:27+00:00",
+      "url": "https://www.youtube.com/watch?v=GqFok2dOuPc",
+      "metadata": {
+        "category_id": "24",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GqFok2dOuPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GqFok2dOuPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GqFok2dOuPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GqFok2dOuPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GqFok2dOuPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "GqFok2dOuPc",
+      "channel_id": "UChgLj6NYHUniXGOFBPUUjuA",
+      "view_count": 5071,
+      "like_count": 116,
+      "comment_count": 3,
+      "duration": "PT1M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "AjsB6lM2-zw",
+      "title": "DuckDB Tutorial - DuckDB course for beginners",
+      "content": "DuckDB Tutorial - DuckDB course for beginners Discover the power of DuckDB and why it will be so important to you! Materials: https://robust-dinosaur-2ef.notion.site/DuckDB-Tutorial-Getting-started-for-beginners-b80bf0de8d6142d6979e78e59ffbbefe Connect with me on LinkedIn 👇 https://www.linkedin.com/in/marclamberti/ TABLE OF CONTENT 0:00 Introduction 0:32 Who am I 0:53 Why DuckDB? 1:52 What is DuckDB? 4:34 What are the limits of DuckDB 5:35 Practice time 5:41 The setup 7:22 Install DuckDB and Imports 8:11 Create a DuckDB connection 9:10 Print the top 10 rows with Pandas 10:37 Print the top 10 rows with DuckDB 11:15 Retrieving data from a request 12:13 Use read_csv to load CSVs 13:03 Using DESCRIBE 13:15 Registering a Dataframe as a Table 14:15 Counting rows with DuckDB 14:18 Data cleansing 14:52 Querying Pandas Dataframes with DuckDB 15:55 Filtering on columns 16:46 What's a view? 17:06 Creating a table with types that skips invalid rows 18:40 The First-Form clause 19:07 Excluding",
+      "author": "Data with Marc",
+      "timestamp": "2022-12-20T14:27:17+00:00",
+      "url": "https://www.youtube.com/watch?v=AjsB6lM2-zw",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "duckdb",
+          "duckdb tutorial",
+          "duckdb beginner",
+          "duckdb for beginners",
+          "duckdb course"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AjsB6lM2-zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AjsB6lM2-zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjsB6lM2-zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AjsB6lM2-zw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AjsB6lM2-zw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "AjsB6lM2-zw",
+      "channel_id": "UCeuN3wTm-15myt26ZS21P_Q",
+      "view_count": 45644,
+      "like_count": 1268,
+      "comment_count": 53,
+      "duration": "PT25M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "--eIvyonUk8",
+      "title": "DbGate 6.4.0 Is Here! DuckDB, Data Deployer & More 🚀",
+      "content": "The new version DbGate 6.4.0 introduces: ☑️Full support for DuckDB – a fast, portable analytics database ☑️New Data Deployer – visual data sync across systems ☑️Import/export of connections – seamless migration between environments ☑️ZIP archives as data sources – import, export & browse directly ☑️New upgrade strategy for AWS/Azure deployments …and plenty of smart improvements for everyday data work #DbGate #Sprinx #SprinxSystems #databasetools #DuckDB #opensource #dataengineering #databasemanager #SQLclient",
+      "author": "Sprinx Systems ČR",
+      "timestamp": "2025-05-14T13:10:26+00:00",
+      "url": "https://www.youtube.com/watch?v=--eIvyonUk8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "DbGate",
+          "DatabaseTool",
+          "DatabaseManager",
+          "SQLclient"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--eIvyonUk8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--eIvyonUk8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--eIvyonUk8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/--eIvyonUk8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/--eIvyonUk8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "--eIvyonUk8",
+      "channel_id": "UCUtVRyuyEso3oSpYJtnsMfA",
+      "view_count": 176,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT1M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "RywT9_K4QWg",
+      "title": "Indexes are (not) all you need: Common DuckDB pitfalls and how to find them",
+      "content": "Event: DuckDB Amsterdam Meetup 3 Presenter: Tania Bogatsch (DuckDB Labs) Slides: https://blobs.duckdb.org/events/duckdb-amsterdam-meetup3/tania-bogatsch-indexes-are-not-all-you-need.pdf",
+      "author": "DuckDB",
+      "timestamp": "2025-09-24T09:47:36+00:00",
+      "url": "https://www.youtube.com/watch?v=RywT9_K4QWg",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RywT9_K4QWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RywT9_K4QWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RywT9_K4QWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RywT9_K4QWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RywT9_K4QWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "RywT9_K4QWg",
+      "channel_id": "UCQli51lMp-oW0gUHrcIj0jA",
+      "view_count": 540,
+      "like_count": 18,
+      "comment_count": 1,
+      "duration": "PT20M4S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3iy9qaGopyw",
+      "title": "Analytics for not-so-big data with DuckDB - David Ostrovsky - NDC Oslo 2025",
+      "content": "This talk was recorded at NDC Oslo in Oslo, Norway. #ndcoslo #ndcconferences #developer #softwaredeveloper Attend the next NDC conference near you: https://ndcconferences.com https://ndcoslo.com/ Subscribe to our YouTube channel and learn every day: / @NDC Follow our Social Media! https://www.facebook.com/ndcconferences https://twitter.com/NDC_Conferences https://www.instagram.com/ndc_conferences/ #database #architecture #bigdata #python #csv #sql In the past decade the industry has seen hundreds of new databases. Most of these newcomers are operational databases, meant for online workloads and being a primary datastore for applications. A handful of new databases are meant for analytical use-cases, mainly large scale big data workloads. Which makes DuckDB an interesting exception, because it's built for workloads that are too big for traditional databases, but not so big that they justify complicated big data tools. It's a lightweight, open-source, analytical dat",
+      "author": "NDC Conferences",
+      "timestamp": "2025-08-06T09:12:14+00:00",
+      "url": "https://www.youtube.com/watch?v=3iy9qaGopyw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Database",
+          "Architecture",
+          "Big Data",
+          "Python",
+          "CSV",
+          "SQL",
+          "NDC",
+          "Conferences",
+          "2025",
+          "Live",
+          "Fun",
+          "Oslo",
+          "Norway",
+          "David Ostrovsky"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3iy9qaGopyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3iy9qaGopyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3iy9qaGopyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3iy9qaGopyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3iy9qaGopyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3iy9qaGopyw",
+      "channel_id": "UCTdw38Cw6jcm0atBPA39a0Q",
+      "view_count": 3333,
+      "like_count": 127,
+      "comment_count": 5,
+      "duration": "PT1H2M7S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9nWkyIRCO4o",
+      "title": "Apache Superset: How to Connect Apache Superset with DuckDB Persistent Database",
+      "content": "https://github.com/apache/superset https://superset.apache.org/ Superset is fast, lightweight, intuitive, and loaded with options that make it easy for users of all skill sets to explore and visualize their data, from simple line charts to highly detailed geospatial charts. Powerful yet easy to use Superset makes it easy to explore your data, using either our simple no-code viz builder or state-of-the-art SQL IDE. Integrates with modern databases Superset can connect to any SQL-based databases including modern cloud-native databases and engines at petabyte scale. Modern architecture Superset is lightweight and highly scalable, leveraging the power of your existing data infrastructure without requiring yet another ingestion layer. Rich visualizations and dashboards Superset ships with 40+ pre-installed visualization types. Our plug-in architecture makes it easy to build custom visualisations. https://duckdb.org/ https://github.com/duckdb/duckdb DuckDB is a fast in-process analyti",
+      "author": "TechnoFunctionalLearning",
+      "timestamp": "2024-10-20T14:35:22+00:00",
+      "url": "https://www.youtube.com/watch?v=9nWkyIRCO4o",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Apache Superset",
+          "Data Visualization",
+          "Open Source",
+          "Duckdb",
+          "Database",
+          "Apache Superset Connect Duckdb"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9nWkyIRCO4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9nWkyIRCO4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9nWkyIRCO4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9nWkyIRCO4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9nWkyIRCO4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9nWkyIRCO4o",
+      "channel_id": "UCYOmubAWK9We535Dnskaanw",
+      "view_count": 586,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qy8tvB2m5VE",
+      "title": "Single Node OLAP Engines DuckDB, Arrow and Co.",
+      "content": "What if OLAP didn't require a cluster? Discover how DuckDB and Apache Arrow are reshaping the world of single-node SQL engines. In this talk, we explore performance, architecture, real-world use cases—and what it all means for your data stack. In this discussion, I explore the rise of single-node processing and its impact on the data engineering landscape. I briefly introduce DuckDB and Arrow, and touch on relational data processing and the importance of SQL—whether for single-node or distributed use cases. Should you really replace Apache Spark? Or are we comparing apples and oranges? 00:00 Intro 00:14 Agenda 00:45 Company Overview 01:45 OLAP & Big Data – Quick History 04:18 Fashion Retail Use Case 04:40 Introduction to DuckDB 07:20 SQL Query Example, MapReduce 12:10 Hardware & Single-Node Setup 14:50 Bottlenecks: CPU & RAM 17:14 Apache Arrow Explained 18:45 Recap & Summary 19:20 Real-World DuckDB Project 25:00 OLAP Facts & Figures 27:00 QR Codes from Our Experts",
+      "author": "HMS Analytical Software",
+      "timestamp": "2025-07-29T12:34:03+00:00",
+      "url": "https://www.youtube.com/watch?v=qy8tvB2m5VE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "HMS Analytical Software"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qy8tvB2m5VE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qy8tvB2m5VE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qy8tvB2m5VE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qy8tvB2m5VE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qy8tvB2m5VE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "de-DE",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qy8tvB2m5VE",
+      "channel_id": "UCFE3TOzZL4Vgxp6Q44cEcpg",
+      "view_count": 356,
+      "like_count": 7,
+      "comment_count": 0,
+      "duration": "PT32M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "HJGiMTLcpDs",
+      "title": "DuckDB and SQL - for Data Analysis and Processing",
+      "content": "☕️ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲: To support the channel and encourage new videos, please consider buying me a coffee here: https://ko-fi.com/bugbytes ⭐Top resource to learn Python - https://datacamp.pxf.io/kOjKkV ⭐ In this video, we'll look at the DuckDB database for rapid analytical querying across datasets. We'll explore the basics of the package, and how it can be used to read in data and perform analytical queries. 📌 𝗖𝗵𝗮𝗽𝘁𝗲𝗿𝘀: 00:00 Intro 00:43 Introduction to DuckDB 02:27 Installing DuckDB 05:25 Importing CSV data into DuckDB database 09:42 Writing analytical queries with DuckDB 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: 📖 Blog: https://bugbytes.io/posts/ 👾 Github: https://github.com/bugbytes-io/ 🐦 Twitter: https://twitter.com/bugbytesio 📚 𝗙𝘂𝗿𝘁𝗵𝗲𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻: DuckDB: https://duckdb.org/ DuckDB Installation: https://duckdb.org/docs/installation/ DuckDB Data Import: https://duckdb.org/docs/data/overview Employee dataset: https://www.kaggle.com/datasets/prakharjadaun/employee-data #python #datascience #da",
+      "author": "BugBytes",
+      "timestamp": "2024-08-01T10:10:33+00:00",
+      "url": "https://www.youtube.com/watch?v=HJGiMTLcpDs",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "duckdb",
+          "data engineering"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJGiMTLcpDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJGiMTLcpDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJGiMTLcpDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HJGiMTLcpDs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HJGiMTLcpDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "HJGiMTLcpDs",
+      "channel_id": "UCTwxaBjziKfy6y_uWu30orA",
+      "view_count": 11928,
+      "like_count": 450,
+      "comment_count": 38,
+      "duration": "PT24M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "kFASbdWEA_E",
+      "title": "SQL DATA LENS and DuckDB - perfect for data exploration, analysis, and quick insights.",
+      "content": "Imagine you receive a 20-gigabyte CSV file from a colleague and need to understand what’s inside — fast. Opening it in Excel? Impossible. Importing it into a database? Time-consuming. With SQL DATA LENS and built-in DuckDB support, it’s effortless! Simply open your file, run SQL queries right away, and explore millions of rows in seconds — all without setting up a database. DuckDB seamlessly handles CSV, Parquet, and JSON — directly in SQL DATA LENS. Perfect for data exploration, analysis, and quick insights. SQL DATA LENS — powerful SQL editing meets instant data exploration. Now with DuckDB built in.",
+      "author": "Andreas Schneider",
+      "timestamp": "2025-10-12T21:04:47+00:00",
+      "url": "https://www.youtube.com/watch?v=kFASbdWEA_E",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kFASbdWEA_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kFASbdWEA_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kFASbdWEA_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kFASbdWEA_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kFASbdWEA_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": null,
+        "live_broadcast_content": "none"
+      },
+      "video_id": "kFASbdWEA_E",
+      "channel_id": "UCRyD0aX-MP8f02OsBUJlW1A",
+      "view_count": 6,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT48S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "_nA3uDx1rlg",
+      "title": "Practical Applications for DuckDB (with Simon Aubury & Ned Letcher)",
+      "content": "DuckDB’s become a favourite data-handling tool of mine, simply because it does so many small things well. It can read and write a huge number of data formats; it can infer schemas automatically when you just want to move quickly; and it can interface with most languages, run like lightning on the desktop or be embedded into a webpage. I’m a huge fan. But I’m not nearly as knowledgeable as this week’s two fans, Simon Aubury and Ned Letcher, who’ve just written a book on all the many ways you can use DuckDB and all the hidden tricks and tips that help you make the most of this. So in this episode we’re taking a practical look at DuckDB, what problems it can solve at work, and how to start getting the most out of it. – Getting Started with DuckDB (book): https://packt.link/byKYt DuckDB episode with Hannes Mühleisen: https://youtu.be/pZV9FvdKmLc DuckDB: https://duckdb.org/ dplyr, the data-manipulation language: https://dplyr.tidyverse.org/ duckplyr, DuckDB’s ‘native’ version: https://gi",
+      "author": "Developer Voices",
+      "timestamp": "2024-07-31T14:30:14+00:00",
+      "url": "https://www.youtube.com/watch?v=_nA3uDx1rlg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_nA3uDx1rlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_nA3uDx1rlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_nA3uDx1rlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_nA3uDx1rlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_nA3uDx1rlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "_nA3uDx1rlg",
+      "channel_id": "UC-0fWjosItIOD4ThhS6oyfA",
+      "view_count": 15581,
+      "like_count": 517,
+      "comment_count": 24,
+      "duration": "PT1H8M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "R_tgEBaEDf0",
+      "title": "Watch a Complete NOOB Try DuckDB and DuckLake for the first time",
+      "content": "I was sleeping on DuckDB! With the release of their new open table format, DuckLake, I finally felt the push to get into it. I've never tried DuckDB before so I just turned on the camera and let it rip. My pain is your gain! DuckDB: https://duckdb.org/ DuckLake: https://ducklake.select/ You can also find me here: LinkedIn: https://www.linkedin.com/in/hoytemerson/ X: https://x.com/HoytEmerson Substack: https://substack.com/@hoytemerson I have an open source IDE called Mako Code: https://www.makocode.com/",
+      "author": "Hoyt Emerson | The Full Data Stack",
+      "timestamp": "2025-05-29T22:29:02+00:00",
+      "url": "https://www.youtube.com/watch?v=R_tgEBaEDf0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R_tgEBaEDf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R_tgEBaEDf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R_tgEBaEDf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R_tgEBaEDf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R_tgEBaEDf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "R_tgEBaEDf0",
+      "channel_id": "UCrG5MvmaxXlA2vP1Y2SunMA",
+      "view_count": 4376,
+      "like_count": 105,
+      "comment_count": 21,
+      "duration": "PT21M37S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nWxwqxb0FCk",
+      "title": "DuckDB in Python - The Next Pandas Killer?",
+      "content": "Today we learn DuckDB and how to use it in Python. ◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾◾ 📚 Programming Books & Merch 📚 🐍 The Python Bible Book: https://www.neuralnine.com/books/ 💻 The Algorithm Bible Book: https://www.neuralnine.com/books/ 👕 Programming Merch: https://www.neuralnine.com/shop 💼 Services 💼 💻 Freelancing & Tutoring: https://www.neuralnine.com/services 🌐 Social Media & Contact 🌐 📱 Website: https://www.neuralnine.com/ 📷 Instagram: https://www.instagram.com/neuralnine 🐦 Twitter: https://twitter.com/neuralnine 🤵 LinkedIn: https://www.linkedin.com/company/neuralnine/ 📁 GitHub: https://github.com/NeuralNine 🎙 Discord: https://discord.gg/JU4xr8U3dm Timestamps: (0:00) Intro (0:19) DuckDB Tutorial (12:20) Speed Comparison (Pandas) (18:58) Outro",
+      "author": "NeuralNine",
+      "timestamp": "2024-09-03T19:00:25+00:00",
+      "url": "https://www.youtube.com/watch?v=nWxwqxb0FCk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "duckdb",
+          "python",
+          "python duckdb",
+          "pandas duckdb",
+          "sql duckdb",
+          "duckdb vs pandas"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nWxwqxb0FCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nWxwqxb0FCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nWxwqxb0FCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nWxwqxb0FCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nWxwqxb0FCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nWxwqxb0FCk",
+      "channel_id": "UC8wZnXYK_CGKlBcZp-GxYPA",
+      "view_count": 47565,
+      "like_count": 1691,
+      "comment_count": 67,
+      "duration": "PT19M32S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "WYV8hvJOAQE",
+      "title": "DuckDB & MotherDuck for Beginners: Your Ultimate Guide",
+      "content": "​@mehdio revisits the basics in this 35-minute video, covering everything you need to know about DuckDB and MotherDuck. Enjoy! ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 📓 Resources Code used for the hands-on : https://github.com/mehd-io/duckdb-tutorial-for-beginner Notebook (for Python user 🐍) : https://colab.research.google.com/drive/1y3x8cESkL7LfHhA92phUtm1i3IWEhlpr?usp=sharing Companies running DuckDB in prod : https://motherduck.com/blog/15-companies-duckdb-in-prod/ AWS Redshift paper : https://assets.amazon.science/24/3b/04b31ef64c83acf98fe3fdca9107/why-tpc-is-not-enough-an-analysis-of-the-amazon-redshift-fleet.pdf SQL IDE setup video : https://youtu.be/vgdXxgbiFqc?si=ltvNDIqNiJl87a7C DuckDB community extensions : https://community-extensions.duckdb.org/ DuckDB's friendly SQL : https://duckdb.org/docs/sql/dialect/friendly_sql.html More videos about DuckDB : https://www.youtube.com/playlist?list=PLIYcNkSjh-0wlrFUE2VvQilLU2aBPns0K ➡",
+      "author": "MotherDuck",
+      "timestamp": "2025-02-21T15:41:17+00:00",
+      "url": "https://www.youtube.com/watch?v=WYV8hvJOAQE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WYV8hvJOAQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WYV8hvJOAQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WYV8hvJOAQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WYV8hvJOAQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WYV8hvJOAQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "WYV8hvJOAQE",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 15008,
+      "like_count": 547,
+      "comment_count": 8,
+      "duration": "PT36M27S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fo7-rRRVHf8",
+      "title": "QuackETL| DuckDB-Powered Lightweight ETL: An Extensible Framework for Seamless Data Integration",
+      "content": "Blog https://www.linkedin.com/pulse/quacketl-duckdb-powered-lightweight-etl-extensible-framework-shah-6vkie/?trackingId=4D2%2BFyCgR42H3RapLdbqLg%3D%3D Github Repo https://github.com/soumilshah1995/duckdb-etl-framework",
+      "author": "Soumil Shah",
+      "timestamp": "2024-12-23T01:02:11+00:00",
+      "url": "https://www.youtube.com/watch?v=fo7-rRRVHf8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fo7-rRRVHf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fo7-rRRVHf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fo7-rRRVHf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fo7-rRRVHf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fo7-rRRVHf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fo7-rRRVHf8",
+      "channel_id": "UC_eOodxvwS_H7x2uLQa-svw",
+      "view_count": 264,
+      "like_count": 10,
+      "comment_count": 1,
+      "duration": "PT7M34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qCx4hG9J3O8",
+      "title": "Huey: Pivoting hundreds of millions of rows in the browser with DuckDB-Wasm",
+      "content": "Event: DuckDB Amsterdam Meetup 3 Presenter: Roland Bouman Slides: https://blobs.duckdb.org/events/duckdb-amsterdam-meetup3/lorenzo-mangani-query-farm.pdf",
+      "author": "DuckDB",
+      "timestamp": "2025-09-24T09:47:27+00:00",
+      "url": "https://www.youtube.com/watch?v=qCx4hG9J3O8",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qCx4hG9J3O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qCx4hG9J3O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCx4hG9J3O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qCx4hG9J3O8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qCx4hG9J3O8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qCx4hG9J3O8",
+      "channel_id": "UCQli51lMp-oW0gUHrcIj0jA",
+      "view_count": 831,
+      "like_count": 30,
+      "comment_count": 0,
+      "duration": "PT28M10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "viMXP_TG6tU",
+      "title": "Stock data analysis with DuckDB",
+      "content": "Talk at DuckCon #6 (https://duckdb.org/events/2025/01/31/duckcon6) Speaker: Ryan Hamilton (TimeStored) Slides: https://blobs.duckdb.org/events/duckcon6/ryan-hamilton-stock-data-analysis-with-duckdb.pdf",
+      "author": "DuckDB",
+      "timestamp": "2025-02-04T14:56:43+00:00",
+      "url": "https://www.youtube.com/watch?v=viMXP_TG6tU",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/viMXP_TG6tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/viMXP_TG6tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/viMXP_TG6tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/viMXP_TG6tU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/viMXP_TG6tU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "viMXP_TG6tU",
+      "channel_id": "UCQli51lMp-oW0gUHrcIj0jA",
+      "view_count": 3228,
+      "like_count": 85,
+      "comment_count": 1,
+      "duration": "PT18M47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qyvLJ2LvKLc",
+      "title": "Pandas + Dask DataFrame 2.0 - Comparison to Spark, DuckDB and Polars [PyCon DE & PyData Berlin 2024]",
+      "content": "🔊 Recorded at PyCon DE & PyData Berlin 2024, 23.04.2024 https://2024.pycon.de/program/N9DEVW/ 🎓 Watch how Dask DataFrame 2.0's improved performance and new features compare to Spark, DuckDB, and Polars, offering a faster and more robust system for big data processing. Speakers: Florian Jetter, Patrick Hoefler Description: Florian Jetter and Patrick Hoefler discussed the significant enhancements to Dask, a Python library for distributed computing that integrates well with pandas. Historically, Dask was user-friendly but lacked robust performance. The re-implementation of the DataFrame API has addressed these concerns, making Dask faster and more efficient. Patrick Hoefler, a pandas core team member and Dask maintainer at Coiled, highlighted the improvements in Dask, including a new shuffle algorithm, a logical query planning layer, and a reduced memory footprint. These changes have led to a better user experience and a more robust system overall, especially when compared to tools l",
+      "author": "PyData",
+      "timestamp": "2024-10-01T02:25:23+00:00",
+      "url": "https://www.youtube.com/watch?v=qyvLJ2LvKLc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qyvLJ2LvKLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qyvLJ2LvKLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qyvLJ2LvKLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qyvLJ2LvKLc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qyvLJ2LvKLc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qyvLJ2LvKLc",
+      "channel_id": "UCOjD18EJYcsBog4IozkF_7w",
+      "view_count": 2339,
+      "like_count": 53,
+      "comment_count": 2,
+      "duration": "PT29M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "2Ug5HpWY4qs",
+      "title": "Querying Data From S3 With 3 Lines In Your Terminal",
+      "content": "#shorts #duckdb #dataengineering For DuckDB installation : https://duckdb.org/docs/installation ➡️ Follow Us LinkedIn: https://www.linkedin.com/company/8192... Twitter : https://twitter.com/motherduck Blog: https://motherduck.com/blog/ Tired of downloading files or spinning up complex cloud services just to inspect a CSV or query a Parquet file in S3? This video demonstrates a faster, more direct method using DuckDB, a powerful embedded analytical database. We'll show you how to get started in just a few lines of code, right from your terminal, making it one of the most efficient ways to interact with your cloud data. Learn the simple DuckDB installation process, including the one-line Homebrew command for macOS (`brew install duckdb`), and immediately start running SQL queries on public S3 data. DuckDB's CLI is incredibly efficient, automatically inferring file formats so you can analyze your data instantly without writing complex scripts. This tutorial is perfect for develope",
+      "author": "MotherDuck",
+      "timestamp": "2024-01-10T14:14:41+00:00",
+      "url": "https://www.youtube.com/watch?v=2Ug5HpWY4qs",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Ug5HpWY4qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Ug5HpWY4qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Ug5HpWY4qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Ug5HpWY4qs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Ug5HpWY4qs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "2Ug5HpWY4qs",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 15780,
+      "like_count": 492,
+      "comment_count": 10,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3pLKTmdWDXk",
+      "title": "DuckDB & Python | End-To-End Data Engineering Project (1/3)",
+      "content": "In this video @mehdio goes over a fun end-to-end data engineering project : get usage insights from a python library using Python, SQL and DuckDB! This is the first part of the series. Check links below to learn about transformation and dashboarding using DuckDB ! 🎥 Part 2 of the end-to-end data engineering project : https://www.youtube.com/watch?v=SpfEQQXBGMQ 🎥 Part 3 : https://youtu.be/ta_Pzc2EEEo ☁️🦆 Start using DuckDB in the Cloud for FREE with MotherDuck : https://hubs.la/Q02QnFR40 📓 Resources * Github Repo of the tutorial : https://github.com/mehd-io/pypi-duck-flow * BigQuery performance issue with certain libraries: https://github.com/googleapis/python-bigquery/issues/1492 * DuckDB for beginner video : https://www.youtube.com/watch?v=ZX5FdqzGT1E&t ➡️ Follow Us LinkedIn: https://linkedin.com/company/motherduck Twitter : https://twitter.com/motherduck Blog: https://motherduck.com/blog/ 0:00 Intro 1:06 Architecture 3:13 Ingestion Pipeline Python & DuckDB 41:08 Wrapping up & w",
+      "author": "MotherDuck",
+      "timestamp": "2024-02-02T12:52:47+00:00",
+      "url": "https://www.youtube.com/watch?v=3pLKTmdWDXk",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3pLKTmdWDXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3pLKTmdWDXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3pLKTmdWDXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3pLKTmdWDXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3pLKTmdWDXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3pLKTmdWDXk",
+      "channel_id": "UCC0AT6XjO_ebWIifTDp5REg",
+      "view_count": 31929,
+      "like_count": 830,
+      "comment_count": 46,
+      "duration": "PT41M49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "PaX6T6IbjTE",
+      "title": "\"The Duck and the DataFrame: A Data Engineer’s Journey with DuckDB\" - Ankur Jain (PyCon AU 2025)",
+      "content": "(Ankur Jain) I’ve used pandas for years, but as my data grew, my local workflows started to slow down. Joins got sluggish, memory errors showed up, and simple tasks became harder to manage. That’s when I found DuckDB, a fast, in-process SQL engine that brought the speed and flexibility I was missing. This talk isn’t about replacing pandas. It’s about knowing when to reach for something different. I’ll share how DuckDB helped streamline my workflow, with real examples, side-by-side comparisons, and a quick intro to DuckLake, a SQL-based Lakehouse format that fits naturally into modern Python analytics. https://pretalx.com/pycon-au-2025/talk/3JMK73/ python, pycon, australia, programming, conference, technical, developers, panel, sessions, libraries, frameworks, community, sysadmins, students, education, data, science Videos licensed as CC-BY-NC-SA 4.0 PyCon AU is the national conference for the Python programming community, bringing together professional, student and enthusiast",
+      "author": "PyCon AU",
+      "timestamp": "2025-09-17T11:42:09+00:00",
+      "url": "https://www.youtube.com/watch?v=PaX6T6IbjTE",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "AnkurJain",
+          "pyconau",
+          "pyconau_2025"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PaX6T6IbjTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PaX6T6IbjTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PaX6T6IbjTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PaX6T6IbjTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PaX6T6IbjTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "PaX6T6IbjTE",
+      "channel_id": "UCS9sdEyduD9K83K3GkvQlOA",
+      "view_count": 634,
+      "like_count": 19,
+      "comment_count": 0,
+      "duration": "PT27M5S"
+    }
+  ],
+  "total_posts": 50
+}

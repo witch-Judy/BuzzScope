@@ -1,0 +1,15 @@
+# 请将以下配置添加到你的 .env 文件中：
+
+# Email Configuration (for hot post notifications)
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+EMAIL_USERNAME=bihanchen1123@gmail.com
+EMAIL_PASSWORD=你的16位应用密码
+FROM_EMAIL=bihanchen1123@gmail.com
+TO_EMAIL=bihanchen1123@gmail.com
+
+# 使用说明：
+# 1. 将 EMAIL_PASSWORD 替换为你的Gmail应用密码
+# 2. 确保已启用两步验证并生成了应用密码
+# 3. 保存文件后运行测试命令
+

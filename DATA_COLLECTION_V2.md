@@ -49,7 +49,7 @@ data/cache/
 
 #### **3. EventDrivenService**
 - **功能**: 事件驱动通知
-- **特性**: MQTT发布、邮件通知、持续监控
+- **特性**: 邮件通知、持续监控
 
 ### **🚀 使用方法**：
 
@@ -75,9 +75,6 @@ python3 monitor_keywords.py "ai" --once
 
 # 持续监控
 python3 monitor_keywords.py "ai" --interval 6
-
-# 查看MQTT消息
-python3 mqtt_monitor.py
 ```
 
 ### **📈 收集结果示例**：
@@ -191,6 +188,6 @@ python3 mqtt_monitor.py
 3. **错误容错**: 单个平台失败不影响整体
 4. **灵活配置**: 支持精确匹配和模糊匹配
 5. **实时监控**: 事件驱动的关键词监控
-6. **MQTT集成**: 实时通知和系统集成
+6. **邮件通知**: 实时通知和系统集成
 
 这个架构完美支持了你的需求：**历史数据分析** + **实时事件通知**！

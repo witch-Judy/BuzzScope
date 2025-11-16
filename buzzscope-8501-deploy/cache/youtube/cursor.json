@@ -1,0 +1,2914 @@
+{
+  "keyword": "cursor",
+  "platform": "youtube",
+  "data_source": "time_all",
+  "collection_time": "2025-10-07T14:28:54.245387",
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "tcZ1BR6WXN8",
+      "title": "Why I QUIT VS Code for Cursor AI (Honest Review + Beginner Tutorial)",
+      "content": "🚀 Zero to Python Developer with No Degree - https://academy.internetmadecoder.com/python-dev-masterclass?video=tcZ1BR6WXN8 📧 FREE Weekly Coding Tips & Tech News - https://academy.internetmadecoder.com/internet-made-club?video=tcZ1BR6WXN8 After almost 3 years of using VS Code I have decided to move on to this new editor called Cursor AI - which is this new AI-powered code editor that many people have been talking about. So today I want to tell you why I have switched, as well as give you full honest pros and cons of cursor AI. CHAPTERS: 0:00 Intro 0:50 PART 1: Cursor AI Basics 4:48 PART 2: Cursor AI Honest Review",
+      "author": "Internet Made Coder",
+      "timestamp": "2024-12-29T13:00:59+00:00",
+      "url": "https://www.youtube.com/watch?v=tcZ1BR6WXN8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tcZ1BR6WXN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tcZ1BR6WXN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tcZ1BR6WXN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tcZ1BR6WXN8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tcZ1BR6WXN8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tcZ1BR6WXN8",
+      "channel_id": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+      "view_count": 354998,
+      "like_count": 4056,
+      "comment_count": 279,
+      "duration": "PT8M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "OSBo9qcpRfw",
+      "title": "Cursor vs Claude Code | The Ultimate Comparison Guide",
+      "content": "70% off Warp Pro - https://go.warp.dev/codev Coupon code: CODEV Read the full blog post - https://www.builder.io/blog/cursor-vs-claude-code?utm_source=youtube&utm_content=vg Cursor vs Claude code - The ultimate guide to help you choose an AI coding assistant In this in-depth comparison, I break down the real-world pros and cons of Cursor and Claude Code after weeks of hands-on testing. Discover how each tool handles code generation, editing, model access, advanced features, pricing, and integration with your workflow. I’ll walk you through the user experience, hidden costs, and which tool excels at autonomous development versus rapid code editing. Whether you’re a developer looking to boost productivity or just want to stay ahead of the curve, this guide will help you make the best choice for your coding needs. Become a Fullstack Developer with Scrimba - https://scrimba.com/fullstack-path-c0fullstack?via=Codevolution 00:00 - Cursor or Claude Code 00:27 - UI and Workflow 01:15 - C",
+      "author": "Codevolution",
+      "timestamp": "2025-09-04T06:15:03+00:00",
+      "url": "https://www.youtube.com/watch?v=OSBo9qcpRfw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Codevolution",
+          "Cursor",
+          "Claude Code",
+          "Cursor vs Claude Code",
+          "Cursor vs Claude Code Pros and Cons",
+          "Cursor vs Claude Code Comparison",
+          "The Ultimate Comparison Guide",
+          "Cursor vs Claude Code | The Ultimate Comparison Guide"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OSBo9qcpRfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OSBo9qcpRfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OSBo9qcpRfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OSBo9qcpRfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OSBo9qcpRfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "OSBo9qcpRfw",
+      "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "view_count": 44728,
+      "like_count": 588,
+      "comment_count": 23,
+      "duration": "PT11M55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ocMOZpuAMw4",
+      "title": "Cursor Tutorial for Beginners (AI Code Editor)",
+      "content": "👉 To try everything Brilliant has to offer for free for a full 30 days, visit https://brilliant.org/TechWithTim . You'll also get a 20% discount on a premium subscription. Welcome to the beginners tutorial for Cursor, and AI powered code editor that promises to make your development easier. This quick tutorial will cover everything that I've learned from using this program and some of the best practices that you can apply, especially if you're just starting your programming journey and haven't used many AI tools before. Be sure to watch until the very end so you'll know exactly how this AI code editor work and how to get the best results of it. If you want to land a developer job check out my program with CourseCareers: https://techwithtim.net/dev GET MY FREE SOFTWARE DEVELOPMENT GUIDE👇 https://training.techwithtim.net/free-guide ⏳ Timestamps ⏳ 00:00 | Overview 00:30 | Setup 01:05 | Make a Plan 02:07 | Composer 05:05 | Chat Window 07:35 | Code Search 08:28 | In-line Editing 11:30 |",
+      "author": "Tech With Tim",
+      "timestamp": "2024-10-17T14:00:53+00:00",
+      "url": "https://www.youtube.com/watch?v=ocMOZpuAMw4",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "tech with tim",
+          "cursor ai",
+          "cursor ai tutorial",
+          "cursor tutorial",
+          "cursor ai code editor",
+          "cursor",
+          "cursor code editor",
+          "cursor ai editor",
+          "ai tutorial",
+          "cursor ai for beginners",
+          "cursor ai editor tutorial",
+          "cursor composer",
+          "cursor ai code",
+          "how to set up cursor ai",
+          "code editor",
+          "code for beginners",
+          "cursor ai beginners"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocMOZpuAMw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocMOZpuAMw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocMOZpuAMw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ocMOZpuAMw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ocMOZpuAMw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ocMOZpuAMw4",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "view_count": 689318,
+      "like_count": 11012,
+      "comment_count": 338,
+      "duration": "PT15M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "F37K__UqmSk",
+      "title": "How to Disable LG TV Remote Cursor",
+      "content": "Make your TV remote work for you! 🪄 Here's how to disable the cursor on your LG TV Magic Remote #LGUK #LGTV #TVRemote #LGMagicRemote",
+      "author": "LG UK",
+      "timestamp": "2025-06-27T16:50:16+00:00",
+      "url": "https://www.youtube.com/watch?v=F37K__UqmSk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F37K__UqmSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F37K__UqmSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F37K__UqmSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F37K__UqmSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F37K__UqmSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "F37K__UqmSk",
+      "channel_id": "UCvUnQGQ1fAOwp10PXgHwomQ",
+      "view_count": 160784,
+      "like_count": 775,
+      "comment_count": 14,
+      "duration": "PT18S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nWcEjZYeeVo",
+      "title": "4 Cursor Productivity Tips!! #cursor #ai #productivity #tips #coding",
+      "content": "",
+      "author": "Jessica Wang",
+      "timestamp": "2025-07-02T06:21:59+00:00",
+      "url": "https://www.youtube.com/watch?v=nWcEjZYeeVo",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nWcEjZYeeVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nWcEjZYeeVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nWcEjZYeeVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nWcEjZYeeVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nWcEjZYeeVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nWcEjZYeeVo",
+      "channel_id": "UCS4woVcgQkvVDasB3y88JsA",
+      "view_count": 60818,
+      "like_count": 1715,
+      "comment_count": 15,
+      "duration": "PT35S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "nmL-jA_n5Zk",
+      "title": "Windsurf vs Cursor: Best AI IDE in 2025?",
+      "content": "Developers are debating Windsurf vs Cursor as two of the top AI-powered IDEs in 2025. On the surface they look similar, but do they really perform the same? In this video, we run a head-to-head comparison on real-world coding tasks — from building forms with API validation to creating a notes app, enforcing team coding rules, and even deployment. We’ll cover speed, context handling, rules, and pricing so you can decide which IDE is right for your workflow. ⏱️ Video Chapters: 0:00 Intro Why compare Windsurf and Cursor? 0:36 Setup: Same repo opened in both IDEs 0:47 Test 1: Contact page with form + Zod validation 1:56 Speed & context handling: Cursor vs Windsurf 2:13 Test 2: UI project Notes app with search bar 3:45 Windsurf delivers changes vs Cursor delay 4:33 Test 3: Rules & memory in Cursor (coding standards) 6:30 Windsurf customization, rules & deploy feature 7:45 Unique features: Built-in browser & deployment in Windsurf 8:24 Pricing breakdown: Cursor vs Windsurf 9:45 Final thou",
+      "author": "Qodo",
+      "timestamp": "2025-09-18T18:54:25+00:00",
+      "url": "https://www.youtube.com/watch?v=nmL-jA_n5Zk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Windsurf vs Cursor",
+          "AI IDE 2025",
+          "best AI IDE",
+          "Cursor IDE review",
+          "Windsurf IDE review",
+          "AI developer tools",
+          "AI code editor"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nmL-jA_n5Zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nmL-jA_n5Zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nmL-jA_n5Zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nmL-jA_n5Zk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nmL-jA_n5Zk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "nmL-jA_n5Zk",
+      "channel_id": "UCO0cSLw9qQI6vOeccLNAa7g",
+      "view_count": 1315,
+      "like_count": 12,
+      "comment_count": 5,
+      "duration": "PT10M38S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zzk4dVR7enw",
+      "title": "Claude Code vs Cursor: Which AI Coding Tool Is Actually Better? (July 2025 Deep Dive)",
+      "content": "The AI coding revolution is here, and choosing the wrong tool could cost you thousands in wasted time and money. After months of testing both Claude Code and Cursor on real projects, I'm breaking down everything you need to know. 🔥 KEY TAKEAWAYS: • Claude Code excels at complex, multi-file refactoring • Cursor dominates for real-time coding assistance • Real costs can be 2-3x higher than advertised pricing • Most pro developers use BOTH tools strategically • One clear winner for beginners vs experts 💰 PRICING BREAKDOWN: • Claude Code: $20-$200/month (usage varies wildly) • Cursor: $20/month (but overages add up fast) • Real user spent $44 in first month on \"basic\" plan 🛠️ TOOLS MENTIONED: • Claude Code by Anthropic • Cursor AI Editor • VS Code • GitHub Integration 📚 RESOURCES: • Full article with detailed comparison • Pricing calculators • Setup guides for both tools • Community forums and tips 👥 WHO THIS IS FOR: • Developers choosing their first AI coding tool • Teams evaluating",
+      "author": "Robert Mill",
+      "timestamp": "2025-07-04T17:23:43+00:00",
+      "url": "https://www.youtube.com/watch?v=zzk4dVR7enw",
+      "metadata": {
+        "category_id": "1",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zzk4dVR7enw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zzk4dVR7enw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zzk4dVR7enw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zzk4dVR7enw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zzk4dVR7enw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zzk4dVR7enw",
+      "channel_id": "UCeISBs2HpAF6U2ZgTfwh2tA",
+      "view_count": 12055,
+      "like_count": 98,
+      "comment_count": 0,
+      "duration": "PT2M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9sCeBgJ6jsM",
+      "title": "Try these Cursor Alternatives in 2025 (Cline, Qoder, and more)",
+      "content": "Try Bind AI at: https://app.getbind.co/ide In this video, we compare the top AI code editors of 2025: Cursor, Cline, Qoder, and Windsurf. See how they stack up in features, performance, and user experience. #cursor #cursoralternative Here's how to install Claude Code CLI: https://www.youtube.com/watch?v=0yLcxa2jgHc",
+      "author": "Bind AI",
+      "timestamp": "2025-09-24T16:44:44+00:00",
+      "url": "https://www.youtube.com/watch?v=9sCeBgJ6jsM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "cursor alternative",
+          "best cursor alternatives",
+          "cursor alternative 2025",
+          "cursor vs cline",
+          "cursor vs windsurf",
+          "cursor vs qoder",
+          "cursor review 2025"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9sCeBgJ6jsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9sCeBgJ6jsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9sCeBgJ6jsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9sCeBgJ6jsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9sCeBgJ6jsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9sCeBgJ6jsM",
+      "channel_id": "UCxbEKn3RjJdlvzGaVsuOv0A",
+      "view_count": 1021,
+      "like_count": 11,
+      "comment_count": 1,
+      "duration": "PT7M46S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "QQyjhyutE08",
+      "title": "Laptop Mouse Cursor Not Showing in Windows 10 OR 11 | Computer me Mouse Pointer nahi Dikh raha hai",
+      "content": "Laptop Mouse Cursor Not Showing in Windows 10 OR 11 | Computer me Mouse Pointer nahi Dikh raha hai ------------- Support me By (its Free) ------------------ LIKE | COMMENT | SHARE | SUBSCRIBE Kare aur Ghanti dabaye aise hi videos ke liye Follow on: WhatsApp Channel:https://whatsapp.com/channel/0029VbAQDAuKmCPWXhuxkH34 Facebook:https://web.facebook.com/AbdulBasitKhattakOfficial YouTube:https://www.youtube.com/SmartTechSkills instagram:https://www.instagram.com/AbdulBasitKhattakOfficial snack video :http://sck.io/0dg-6jnf #MouseCursorNotShowing #MissingMousePointer #Windows11CursorFix #LaptopCursorMissing #Windows10 #MousePointerNahiDikhRahaHai",
+      "author": "Smart Tech Skills",
+      "timestamp": "2025-10-04T11:50:43+00:00",
+      "url": "https://www.youtube.com/watch?v=QQyjhyutE08",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "laptop me mouse cursor kaise enable kare",
+          "laptop me cursor nahi dikh raha hai",
+          "how to enable mouse cursor in laptop",
+          "computer me mouse icon nahi dikh raha hai",
+          "mouse not showing in laptop",
+          "laptop me mouse cursor not working",
+          "how to enable the cursor on laptop",
+          "laptop me mouse pointer show nahi ho raha hai",
+          "laptop mouse cursor not showing windows 11",
+          "mouse pointer disappears windows 11",
+          "Computer me Mouse Pointer nahi Dikh raha hai",
+          "Laptop Mouse Cursor Not Showing"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QQyjhyutE08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QQyjhyutE08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QQyjhyutE08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QQyjhyutE08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QQyjhyutE08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "QQyjhyutE08",
+      "channel_id": "UCptq4kJEhO7KC-W3ZXBw0tg",
+      "view_count": 350,
+      "like_count": 4,
+      "comment_count": 0,
+      "duration": "PT1M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "GI9yP2a1MKA",
+      "title": "Claude Code vs Cursor AI: Which AI Coder Should You Trust in 2025?",
+      "content": "🤑 Best Deals on Amazon: https://amzn.to/3JPwht2 👉 🏆 MY TOP PICKS + INSIDER DISCOUNTS: https://beacons.ai/savagereviews I tried them all so you save time AND money! 🔥 🎬 In This Video: Choosing between Claude Code and Cursor AI for your dev workflow? This video breaks it down fast—no fluff, just clarity. Claude Code brings deep reasoning and terminal-based control powered by Opus 4, ideal for complex code transformations and Git workflows. Cursor AI, on the other hand, gives you an intuitive, AI-powered IDE that’s lightning-fast for refactoring, prompt-driven edits, and staying in the flow. You’ll learn which one suits your workflow best, whether you’re building from scratch, debugging, or just trying to finish that sprint backlog. ‎ ‎ Some of the links in this description are affiliate links, which means that if you click on one of the product links, I may receive a small commission. This helps support the channel and allows me to continue to make videos like this. Thank you for y",
+      "author": "Savage Reviews",
+      "timestamp": "2025-06-08T07:31:07+00:00",
+      "url": "https://www.youtube.com/watch?v=GI9yP2a1MKA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "new claude coder model",
+          "claude code vs cursor",
+          "cursor ai",
+          "claude code vs cursor max",
+          "cursor vs claude code",
+          "cursor ai vs claude code",
+          "new ai coder claude code",
+          "claude code new ai coder",
+          "claude code coder",
+          "new ai coder roo code",
+          "cursor alternative",
+          "claude code",
+          "cursor",
+          "claude cursor",
+          "claude 3.5 sonnet",
+          "cursor ai vs code alternative",
+          "claude",
+          "claude vs gpt-4",
+          "claude vs gemini",
+          "anthropic claude code",
+          "cline vs cursor",
+          "claude 3.7",
+          "roo coder aider windsurf"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GI9yP2a1MKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GI9yP2a1MKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GI9yP2a1MKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GI9yP2a1MKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GI9yP2a1MKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "GI9yP2a1MKA",
+      "channel_id": "UCWtOcQKcrIGkCCLjqT6p70A",
+      "view_count": 16470,
+      "like_count": 60,
+      "comment_count": 5,
+      "duration": "PT1M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "5dFf4SOKG4U",
+      "title": "Stop Paying for Lovable, Bolt, Cursor! WATCH THIS!",
+      "content": "Breaking down the landscape of modern AI-driven coding platforms, comparing popular tools like Lovable, Bolt, Cursor, and Phoenix. He explains how these platforms empower both non-coders and developers to build, test, and ship MVPs (Minimum Viable Products) at lightning speed—without the need for expensive subscriptions Checkout Phoenix at https://phoenix.new/ 📲 Get premium wireless for as low as $15 a month with my partner at https://www.mintmobile.com/singh My Recommendations: https://linktree.com/singhinusa 1. How I Edit podcast & enhance audio: https://adobe.prf.hn/click/camref:1100l568ad/destination:https%3A%2F%2Fpodcast.adobe.com 2. Checkout KodeKloud & Get upto 45% Off https://bit.ly/4dpsE7y (includes AWS, GCP, Azure Subscriptions with the Pro Plan) 3. 📈 Checkout Moomoo from Palo Alto: Get 8.1% APY + 15 Free Stocks: https://start.moomoo.com/singhinusa (Legal of F1 VISA) 4. 🏦 Adro US Account with No Incoming Wire Fees (Get $50) http://secure.joinadro.com/signup?referralCode=",
+      "author": "Singh in USA",
+      "timestamp": "2025-08-09T13:00:20+00:00",
+      "url": "https://www.youtube.com/watch?v=5dFf4SOKG4U",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "ai coding tools",
+          "vibe coding",
+          "Lovable",
+          "Bolt",
+          "Cursor",
+          "Phoenix",
+          "MVP development",
+          "rapid prototyping",
+          "no-code",
+          "low-code",
+          "agentic development",
+          "startup tools",
+          "product launch",
+          "software engineering",
+          "app builder",
+          "SaaS",
+          "tech review",
+          "coding automation",
+          "developer tools",
+          "build fast",
+          "product management",
+          "Harnoor Singh",
+          "Singh in USA",
+          "AI apps",
+          "coding platforms",
+          "software startup",
+          "tech tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dFf4SOKG4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dFf4SOKG4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dFf4SOKG4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dFf4SOKG4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dFf4SOKG4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "5dFf4SOKG4U",
+      "channel_id": "UChYs-_zjKRYhdMddjx-NPLw",
+      "view_count": 18155,
+      "like_count": 457,
+      "comment_count": 37,
+      "duration": "PT13M31S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Kr4MGyPXS_0",
+      "title": "How to use Cursor AI more effectively",
+      "content": "3 Tricks to use Cursor's AI features more effectively: 1. Use @codebase 2. Tag entire folders 3. Add external documentation #cursor #ai #tutorial #beginners #software #programming #coding",
+      "author": "Moritz | AI Builder",
+      "timestamp": "2024-11-01T16:00:17+00:00",
+      "url": "https://www.youtube.com/watch?v=Kr4MGyPXS_0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kr4MGyPXS_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kr4MGyPXS_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kr4MGyPXS_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kr4MGyPXS_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kr4MGyPXS_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Kr4MGyPXS_0",
+      "channel_id": "UCh6wT1M9abL0wiJz4eZTwdw",
+      "view_count": 349857,
+      "like_count": 9567,
+      "comment_count": 93,
+      "duration": "PT1M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "YtTWNzOtkxU",
+      "title": "5 tips to make you a PRO at Cursor",
+      "content": "Cursor is becoming the go to tool for interacting with AI models and building apps. In this video, Jon Meyers shares five tips to help you get the most accurate and productive results out of Cursor. ✍️ Supabase MCP Docs: https://supabase.com/docs/guides/getting-started/mcp 🧠 What You'll Learn: ✅ Tip #1: Be Concise ✅ Tip #2: Save the plan ✅ Tip #3: Make small, incremental changes ✅ Tip #4: Fix errors ✅ Tip #5: Add Context Perfect for: - Developers frustrated with inconsistent AI results - Anyone wanting to build apps faster with AI - Teams looking to standardize their AI workflow 💬 What would you like us to build next? Drop your ideas in the comments! 00:00 - Why most people fail with Cursor 00:31 - Tip #1: Be specific 06:11 - Tip #2: Save your plans 06:46 - Tip #3: Start small 09:52 - Tip #4: Error handling like a pro 11:02 - Tip #5: Context is everything #Cursor #AI #Coding #WebDevelopment #SaaS #NextJS #DeveloperTips 💻 Videos to watch next: ▶ My new FAVORITE wa",
+      "author": "Supabase",
+      "timestamp": "2025-06-18T14:01:02+00:00",
+      "url": "https://www.youtube.com/watch?v=YtTWNzOtkxU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "supabase tutorial",
+          "best firebase alternative",
+          "open source database",
+          "superbase",
+          "superbase app"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YtTWNzOtkxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YtTWNzOtkxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YtTWNzOtkxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YtTWNzOtkxU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YtTWNzOtkxU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "YtTWNzOtkxU",
+      "channel_id": "UCNTVzV1InxHV-YR0fSajqPQ",
+      "view_count": 75380,
+      "like_count": 1607,
+      "comment_count": 86,
+      "duration": "PT11M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "LR04bU_yV5k",
+      "title": "Cursor 3 minute demo - the most popular AI code editor",
+      "content": "A quick demo of Cursor, an AI-first fork of VS Code. Cursor has quickly become the most popular AI Code Editor, and this is the quick demo I show to developers who haven't tried it yet. I hit three notes: - the integrated chat - natural language coding with Command K - AI-assisted debugging. My favorite demo is to have Claude Sonnet one-shot a game of life implementation in Python. This is code I could write on my own, but it'd take hours, and def wouldn't run the first try. 00:00 Introduction to Cursor 00:10 Integrated AI Chat 01:27 Natural Language Coding with cmd-K 02:33 AI-Powered Debugging 03:14 AI demos vs. reality",
+      "author": "Greg Baugues",
+      "timestamp": "2024-12-20T15:56:27+00:00",
+      "url": "https://www.youtube.com/watch?v=LR04bU_yV5k",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "Descript"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LR04bU_yV5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LR04bU_yV5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LR04bU_yV5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LR04bU_yV5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LR04bU_yV5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "LR04bU_yV5k",
+      "channel_id": "UCiv_dpEdqEJKPAdc0wpFAkA",
+      "view_count": 56593,
+      "like_count": 553,
+      "comment_count": 39,
+      "duration": "PT3M39S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "9y97WT_pA74",
+      "title": "Is Cursor's $200/month Worth It? (August 2025 Review)",
+      "content": "Check Out Warp Pro For Only $5 your first month: https://go.warp.dev/yatb Want to work with me 1:1? Book some time with me at https://www.youraveragetechbro.com Check out my AI-powered interview prepping tool: http://perfectinterview.ai/?utm_source=yatb-yt Check out my latest SaaS product to start automating your job: http://montee.ai/?utm_source=yatb-yt Follow me on TikTok: https://tiktok.com/@youraveragetechbro Follow me on Instagram: https://instagram.com/youraveragetechbro",
+      "author": "Your Average Tech Bro",
+      "timestamp": "2025-08-13T16:40:05+00:00",
+      "url": "https://www.youtube.com/watch?v=9y97WT_pA74",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9y97WT_pA74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9y97WT_pA74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9y97WT_pA74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9y97WT_pA74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9y97WT_pA74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "9y97WT_pA74",
+      "channel_id": "UCfQk5qGOEO5cPPDFlQe2lFQ",
+      "view_count": 9373,
+      "like_count": 240,
+      "comment_count": 56,
+      "duration": "PT9M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "LIT7f4cscDc",
+      "title": "Cursor AI vs GitHub Copilot Agent (2025) - Which is BETTER?",
+      "content": "In this insightful video, we delve into the advancements of AI coding tools that have transformed the programming landscape. Gone are the days of simple autocomplete; today's tools, like GitHub Copilot Agent and Cursor AI, possess the ability to comprehend entire codebases, suggest comprehensive features, and intelligently refactor code. Join us as we conduct a thorough comparison of these two leading AI coding assistants, exploring their unique capabilities, strengths, and weaknesses. Whether you're a seasoned developer or just starting your coding journey, this video will provide valuable insights into how these tools can enhance your productivity and coding efficiency. Support the Channel ► Donate Here: https://bit.ly/3VBQUfI Thank you for your support! ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Explore the Best Deals ► If you are purchasing from Amazon, you can use this link: https://amzn.to/4gZgdQn. ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 🚀 Grow Your YouTube Channel ► Boost with VidIQ: https://vidiq",
+      "author": "I’m here to help you!",
+      "timestamp": "2025-09-14T13:24:32+00:00",
+      "url": "https://www.youtube.com/watch?v=LIT7f4cscDc",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "copilot vs cursor",
+          "github copilot coding agent",
+          "copilot ai",
+          "github copilot review",
+          "github copilot tutorial",
+          "github copilot free",
+          "github copilot agent"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LIT7f4cscDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LIT7f4cscDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LIT7f4cscDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LIT7f4cscDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LIT7f4cscDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "LIT7f4cscDc",
+      "channel_id": "UC1jYOomx7yjGx-TFqgIYybg",
+      "view_count": 177,
+      "like_count": 4,
+      "comment_count": 0,
+      "duration": "PT2M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7fQcsPOm8ys",
+      "title": "Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?",
+      "content": "The latest Coding CLI currently available including Gemini CLI, Claude Code and OpenAI Codex CLI. Even Qwen Coding was recently released and the code cli landscape is only growing much like the AI chat generation did. I'm going to test how they perform for coding tasks inside VS Code, Cursor and with MCP to see what you should use and why. ⛌ Wix Studio - Want to design websites with no-code / low-code (connected to MCP) https://wix.com/studio/?utm_campaign=pa_influencers_community_adrian^social&experiment_id=^youtube_channel 📘 Try my Web Design Course: https://www.enhanceui.com/ #AI #Coding #Gemini #Claude #Codex #developertools Title Ideas: Should You Use an AI CLI? Gemini CLI vs Claude Code vs Codex Compared! AI CLIs Explained – Should You Use Gemini CLI, Claude Code, or Codex? Which AI CLI Should You Use? Gemini CLI vs Claude Code vs Codex AI Coding CLIs – Are They Worth It? (Gemini vs Claude vs Codex) Gemini CLI vs Claude Code vs Codex – Which AI CLI Should You Pick? Are AI",
+      "author": "Codex Community",
+      "timestamp": "2025-07-27T10:48:04+00:00",
+      "url": "https://www.youtube.com/watch?v=7fQcsPOm8ys",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "coding cli",
+          "code cli",
+          "gemini",
+          "gemini cli",
+          "claude",
+          "claude code",
+          "code",
+          "openai",
+          "codex",
+          "codex cli",
+          "openai cli",
+          "cursor",
+          "vscode",
+          "mcp",
+          "ai",
+          "coding",
+          "cli",
+          "best cli",
+          "best coding cli",
+          "coding cli comparison",
+          "cli comparison",
+          "ai cli",
+          "cli ai",
+          "cli coding",
+          "cli code",
+          "codex community",
+          "adrian twarog"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fQcsPOm8ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fQcsPOm8ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fQcsPOm8ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fQcsPOm8ys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fQcsPOm8ys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7fQcsPOm8ys",
+      "channel_id": "UCgkx40oeL6X9l93iT0sHxgg",
+      "view_count": 109745,
+      "like_count": 1455,
+      "comment_count": 121,
+      "duration": "PT8M34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Qq3a75Uzvzc",
+      "title": "Change Color of Mouse Pointer in Windows",
+      "content": "The fast and easy way to change the color of your mouse pointer in Windows. This works in all versions of Windows after May 2019, including Windows 10 and Windows 11. Changing the color of your mouse cursor allows you to personalize Windows to match your personality and sense of style. For people with visual impairments, or for those using a computer in a poorly lit environment, a high-contrast mouse pointer can make it easier to see on the screen. ________________________ DISCLAIMER: Links may include affiliate versions, from which XLS Tech earns a small sales commission. The content of this YouTube channel is provided for informational purposes only and is not intended to constitute professional advice. Neither XLS Tech, nor any other associated persons including but not limited to independent contractors, employees, and affiliates makes any representation, warranty, or guarantee about the accuracy of the information contained herein. © XLS Tech. All Rights Reserved.",
+      "author": "XLS Tech",
+      "timestamp": "2023-02-11T21:47:56+00:00",
+      "url": "https://www.youtube.com/watch?v=Qq3a75Uzvzc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mouse color",
+          "mouse cursor color",
+          "change mouse color",
+          "reset mouse color",
+          "high contrast mouse",
+          "mouse color style",
+          "pink mouse cursor",
+          "black mouse cursor",
+          "yellow mouse cursor",
+          "reset mouse pointer",
+          "mouse colour"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qq3a75Uzvzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qq3a75Uzvzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qq3a75Uzvzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qq3a75Uzvzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qq3a75Uzvzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Qq3a75Uzvzc",
+      "channel_id": "UC-GDVFLUrRI8cvP2vuXeRnQ",
+      "view_count": 745723,
+      "like_count": 9361,
+      "comment_count": 128,
+      "duration": "PT21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3289vhOUdKA",
+      "title": "Cursor AI Tutorial for Beginners [2025 Edition]",
+      "content": "💡 Full AI Coding Course → https://bit.ly/ai-coding-volo 🧑‍💻 Cursor is a powerful new AI-powered code editor that makes coding much faster with the help of AI. In this video I will show you how to code with Cursor Agents and all of the other Cursor AI features. 📚 Resources: - Cursor: https://www.cursor.com/ - Ultimate AI Coding Prompt Guide: https://github.com/VoloBuilds/prompts/blob/main/ultimate-coding-prompt-guide.md 🚀 In This Video, You'll learn: - How to use Cursor AI - How to use Cursor Agents - Coding with Cursor and Sonnet 3.7 - The best way to code with AI in 2025 - How to code with Cursor AI - How to use AI to code faster - How to use AI to write code for you - How to troubleshoot code with AI - Cursor coding tips - What are MCPs - Best way to use Cursor to code - Coding in 2025 - Web Development 2025 💡 Perfect for Viewers Interested in: - Best AI coding tools - Software Development 2025 - Future of coding - Learning to code in 2025 - Using AI to code - Coding with AI - L",
+      "author": "Volo Builds",
+      "timestamp": "2025-03-06T13:00:06+00:00",
+      "url": "https://www.youtube.com/watch?v=3289vhOUdKA",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ai",
+          "artificial intelligence",
+          "openai",
+          "open ai",
+          "gpt",
+          "gpt4",
+          "gen ai",
+          "generative ai",
+          "ai tutorial",
+          "ai explained",
+          "coding",
+          "coder",
+          "dev",
+          "developer",
+          "software dev",
+          "software development",
+          "software developer",
+          "webdev",
+          "web dev",
+          "web development",
+          "coding with ai",
+          "ai code gen",
+          "gen ai code",
+          "vscode",
+          "learn to code",
+          "learning coding",
+          "learn coding",
+          "ai coding",
+          "devin",
+          "ai agents",
+          "ai agent",
+          "chatgpt",
+          "claude",
+          "cursor",
+          "cursor ai",
+          "cursorai"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3289vhOUdKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3289vhOUdKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3289vhOUdKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3289vhOUdKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3289vhOUdKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3289vhOUdKA",
+      "channel_id": "UCBr1IoxBAF9RDPdTzb6459g",
+      "view_count": 394012,
+      "like_count": 6216,
+      "comment_count": 318,
+      "duration": "PT27M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "B_ifMtlscc0",
+      "title": "Cursor AI vs Windsurf (2025) – Which One’s Better ?",
+      "content": "In this video, we compare Cursor AI and Windsurf, two of the most popular AI-powered coding tools in 2025. We’ll break down their features, pros, and cons to help you decide which one is best for your workflow as a developer. Whether you’re a beginner or a pro developer, this review will help you choose the right AI-powered IDE for faster and smarter coding. 📌 If you find this comparison helpful, please Like 👍, Subscribe 🔔, and Share 📤! 📩 thegrandtheory285@gmail.com #cursorai #windsurfai #windsurf #development #developers #softwaredevelopment #aicoding #codingtools #coding",
+      "author": "Apponomix",
+      "timestamp": "2025-08-08T17:48:38+00:00",
+      "url": "https://www.youtube.com/watch?v=B_ifMtlscc0",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "cursor ai",
+          "windsurf ai",
+          "cursor ai vs windsurf",
+          "windsurf vs cursor ai",
+          "best ai coding tool 2025",
+          "ai programming tools",
+          "ai coding assistant",
+          "cursor ai review",
+          "windsurf review",
+          "cursor ai pros and cons",
+          "windsurf pros and cons",
+          "compare cursor and windsurf",
+          "ai developer tools",
+          "ai ide comparison",
+          "Cursor AI vs Windsurf (2025)"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_ifMtlscc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_ifMtlscc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_ifMtlscc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B_ifMtlscc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B_ifMtlscc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "B_ifMtlscc0",
+      "channel_id": "UCWj8-WFtzUL4B70OiyGB1gA",
+      "view_count": 2845,
+      "like_count": 10,
+      "comment_count": 3,
+      "duration": "PT2M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "oo2K29qLKJo",
+      "title": "Why are the Startup founders are following the same route as Cursor? #ai #ycombinator #cursor #vs",
+      "content": "",
+      "author": "Builders Central",
+      "timestamp": "2025-06-12T13:45:06+00:00",
+      "url": "https://www.youtube.com/watch?v=oo2K29qLKJo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oo2K29qLKJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oo2K29qLKJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oo2K29qLKJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oo2K29qLKJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oo2K29qLKJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "oo2K29qLKJo",
+      "channel_id": "UCevFnhyD9Ut5TwYdCLBh5UQ",
+      "view_count": 178680,
+      "like_count": 8387,
+      "comment_count": 58,
+      "duration": "PT56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Rgz6mX93C4Y",
+      "title": "How To Use Cursor AI For Beginners",
+      "content": "subscribe for more ► https://bit.ly/3zlUmiS watch me live ► https://www.twitch.tv/itscorbinbrown follow me on twitter ► https://twitter.com/corbin_braun follow me on instagram ► https://www.instagram.com/corbin_braunlich follow me on tiktok ► https://www.tiktok.com/@corbin_braunlich join my skool ► https://www.skool.com/ai-for-your-business/about join my software ► https://bumpups.com/ LINK TO EVERYTHING ► https://linktr.ee/corbin_brown Create sora cameo of me, reacting to it on stream https://sora.chatgpt.com/profile/corbinbrown my recording setup: https://www.amazon.com/shop/corbinbrown #corbin #cursorai How to Create an Easy App for Beginners (Cursor AI, Claude, ChatGPT) https://youtu.be/tvquJI-v8ys 🎨 Let's build an app's Frontend with AI - [Playlist] (3+ hours of content) https://www.youtube.com/playlist?list=PLJrzt4ameiaPTLN4LXiv1Y7ONKuaj7Q9O ⚙️ Let's build an app's Backend using AI - [Playlist] (2.5+ hours of content) https://www.youtube.com/playlist?list=PLJrzt4ameiaO68Ys",
+      "author": "corbin",
+      "timestamp": "2024-08-27T15:00:23+00:00",
+      "url": "https://www.youtube.com/watch?v=Rgz6mX93C4Y",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "chatgpt",
+          "openai",
+          "ai automation",
+          "gpt tutorials",
+          "chatgpt education",
+          "ai for business",
+          "ai service",
+          "software business",
+          "entrepreneur",
+          "start a business",
+          "google ai",
+          "google gemini",
+          "zapier",
+          "grok",
+          "copilot ai",
+          "perplexity ai"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rgz6mX93C4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rgz6mX93C4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rgz6mX93C4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rgz6mX93C4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rgz6mX93C4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Rgz6mX93C4Y",
+      "channel_id": "UCJFMlSxcvlZg5yZUYJT0Pug",
+      "view_count": 588157,
+      "like_count": 6283,
+      "comment_count": 308,
+      "duration": "PT9M55S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "cE84Q5IRR6U",
+      "title": "How To Use Cursor AI (Full Tutorial For Beginners 2025)",
+      "content": "Check out the waitlist for my AI Coding and Automation Course here 👉 https://join.alexanderfyoung.com/ptae And grab 1000+ FREE ChatGPT Prompts Here 👉 https://go.alexanderfyoung.com/1000-prompts How To Use Cursor AI - Full Tutorial For Beginners 2025 Learn 80% of Cursor AI in 26 Minutes! Cursor AI is an advanced code editor designed to enhance your productivity by integrating AI seamlessly into your coding workflow. It understands your codebase, predicts your next edits, and allows you to edit code using natural language, all while ensuring your privacy and security. // LEARN MORE // BLOG 🌍 https://blog.alexanderfyoung.com/ // NEWSLETTER 📰 https://join.alexanderfyoung.com/ // FOLLOW ME @alexanderfyoung 🐦 https://twitter.com/alexanderfyoung 📸 https://www.instagram.com/alexanderfyoung/ // MY BUSINESS @VirtiLabs 🎮 https://virti.com/ // CHAPTERS 00:00 - Intro 00:27 - 1. Downloading Cursor 01:16 - 2. Cursor Pricing 02:07 - 3. Creating a Cursor Project 02:56 - 4. Cursor AI Cha",
+      "author": "Dr Alex Young",
+      "timestamp": "2025-04-27T07:00:36+00:00",
+      "url": "https://www.youtube.com/watch?v=cE84Q5IRR6U",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "ai",
+          "artificial intelligence",
+          "openai",
+          "open ai",
+          "gpt",
+          "gpt4",
+          "gen ai",
+          "generative ai",
+          "ai tutorial",
+          "ai explained",
+          "coding",
+          "coder",
+          "dev",
+          "developer",
+          "software dev",
+          "software development",
+          "software developer",
+          "webdev",
+          "web dev",
+          "web development",
+          "coding with ai",
+          "ai code gen",
+          "gen ai code",
+          "vscode",
+          "learn to code",
+          "learning coding",
+          "learn coding",
+          "ai coding",
+          "devin",
+          "ai agents",
+          "ai agent",
+          "chatgpt",
+          "claude",
+          "cursor",
+          "cursor ai",
+          "cursorai",
+          "How To Use Cursor AI",
+          "cursor ai tutorial",
+          "cursor ai beginner tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cE84Q5IRR6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cE84Q5IRR6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cE84Q5IRR6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cE84Q5IRR6U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cE84Q5IRR6U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-GB",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "cE84Q5IRR6U",
+      "channel_id": "UC1QnKYxNXosv9ykUt_6wCMg",
+      "view_count": 102784,
+      "like_count": 1772,
+      "comment_count": 50,
+      "duration": "PT26M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "mVUcA38T9JQ",
+      "title": "How to Change your Mouse Cursor in Chrome into a Cool Animated One - Sweezy Cursors",
+      "content": "Transform your cursor, transform your browsing! 🌈🖱️🕺💃 ⭐️ Cursor link: https://sweezy-cursors.com/cursor/black-rainbow-stroke-gradient-animated/ 🧩 Chrome extension: https://chrome.google.com/webstore/detail/sweezy-cursors-%E2%98%85-custom-c/gdcfjidbchfpojnfifkgghbamkdmbdaf 🧩 Edge extension: https://microsoftedge.microsoft.com/addons/detail/sweezy-cursors-custom-c/mkfhpcgekfegendoikpbobhefdmgbaoi Tired of your mouse cursor being a plain old arrow? Time to shake things up! Dive into this fun tutorial where we turn your cursor into a disco ball of colors. Get ready to make your Chrome browsing experience a whole lot more groovy! #CursorUpgrade #ChromeHack #SweezyCursors #AnimatedCursor #RainbowCursor #BrowserBling #TechFun #DIYCursor #ClickWithStyle #MouseMakeover #WebSurfingSwag #ChromeStyle #CoolCursor #tutorial #tutorials #tuto #TechTutorial #ShortsTutorial #shorts #AnimatedCursors #customcursor #cursor #cursors #chromeextensions #chromeextension #chrometrick #chrometrick #chroma",
+      "author": "Sweezy",
+      "timestamp": "2023-05-12T20:00:22+00:00",
+      "url": "https://www.youtube.com/watch?v=mVUcA38T9JQ",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mVUcA38T9JQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mVUcA38T9JQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mVUcA38T9JQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mVUcA38T9JQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mVUcA38T9JQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "mVUcA38T9JQ",
+      "channel_id": "UCsRrp_0RTTA7V8gZVMinDpQ",
+      "view_count": 758394,
+      "like_count": 15347,
+      "comment_count": 1020,
+      "duration": "PT54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8QN23ZThdRY",
+      "title": "Cursor AI Agents Work Like 10 Developers (Cursor VP Live Demo)",
+      "content": "Join me as I chat with Lee Robinson, VP of Developer Experience at Cursor, as he shares practical tips for maximizing productivity with Cursor's AI coding tools. He demonstrates how to structure prompts, create custom commands, and leverage agents for everything from bug fixes to code reviews. The conversation highlights how AI tools are making software development more accessible while enabling developers to build higher quality products with less effort. Timestamps: 00:00 - Intro 01:49 - Using AI Agents in Cursor 08:21 - Custom Rules within Cursor 11:49 - BugBot and code review automation 17:19 - CLI and headless options for Cursor agents 19:29 - Tips for getting the most out of Cursor 21:09 - Examples of innovative software built with Cursor Get Your Complete Financial OS at https://dub.sh/brex-sip Key Points: • Lee demonstrates how to effectively use Cursor's AI agents for discrete coding tasks • Setting up proper linting, formatting, and testing helps agents self-correct their",
+      "author": "Greg Isenberg",
+      "timestamp": "2025-09-02T17:27:09+00:00",
+      "url": "https://www.youtube.com/watch?v=8QN23ZThdRY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "startup ideas",
+          "sip",
+          "entrepreneur podcast",
+          "business ideas",
+          "business trends",
+          "entrepreneur advice",
+          "greg isenberg",
+          "my first million",
+          "a16z",
+          "starter story",
+          "1 million business",
+          "saas startup",
+          "startup advice",
+          "ai startup",
+          "ai business",
+          "ai startup idea",
+          "AI Code",
+          "chatgpt",
+          "google ai studio",
+          "google ai",
+          "google gemini",
+          "ai tech stack",
+          "mcp",
+          "anthropic",
+          "openai",
+          "build with AI",
+          "build with ai",
+          "mCP explained",
+          "learn with ai",
+          "ai mcp",
+          "cursor",
+          "cursor tutorial",
+          "cursor ai",
+          "lee robinson",
+          "claude"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8QN23ZThdRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8QN23ZThdRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8QN23ZThdRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8QN23ZThdRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8QN23ZThdRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8QN23ZThdRY",
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "view_count": 76245,
+      "like_count": 1769,
+      "comment_count": 106,
+      "duration": "PT29M42S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "oHqlKbsqhV8",
+      "title": "Cursor CLI: Powerful NEW AI Agentic Coder IS FAST! RIP Claude Code?",
+      "content": "Register free for ZapConnect 2025 now at https://try.zapier.com/zc2025worldofai and light the way to AI-powered work! 🚀 Meet the all-new Cursor CLI — a powerful AI agentic coder that brings coding assistance right into your terminal! Whether you’re writing, reviewing, or steering code in real-time, Cursor CLI offers an interactive, blazing-fast coding experience that might just put Claude Code to rest. [🔗 My Links]: Sponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com 🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi ☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall 🧠 Follow me on Twitter: https://twitter.com/intheworldofai 🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ 👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF) 🚨 Subscribe",
+      "author": "WorldofAI",
+      "timestamp": "2025-08-08T23:30:28+00:00",
+      "url": "https://www.youtube.com/watch?v=oHqlKbsqhV8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "claude code",
+          "ai coding tools",
+          "ai coding assistant",
+          "CURSOR",
+          "cursor ai",
+          "cursor cli",
+          "GPT-5",
+          "ai coding",
+          "gemini cli",
+          "ai agents",
+          "Cursor CLI vs Claude Code",
+          "new ai coder",
+          "qwen code",
+          "opencode",
+          "qwen cli",
+          "qwen 3 cli",
+          "agentic coder",
+          "qwen coder model",
+          "claude sonnet alternative",
+          "agentic coding",
+          "openrouter",
+          "vs code ai",
+          "coding llm",
+          "cheap coding model",
+          "deepseek alternative",
+          "kimi comparison",
+          "kimi k2",
+          "qwen 3",
+          "opensource coder",
+          "open source llm",
+          "coding assistant",
+          "claude 4.1"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oHqlKbsqhV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oHqlKbsqhV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHqlKbsqhV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oHqlKbsqhV8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oHqlKbsqhV8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "oHqlKbsqhV8",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "view_count": 24755,
+      "like_count": 357,
+      "comment_count": 27,
+      "duration": "PT10M49S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "IXo1mhVqMIw",
+      "title": "SuperDesign: First-Ever Opensource Design Agent! The Cursor for Design!",
+      "content": "🔍 Discover the AI that remembers video — try it now at memories.ai 🚀 | Use code 6UY7NOZO for free access (30 users only, FCFS) | Join the community: discord.gg/HvJPhrTT \"Vibe coding\" is everywhere — from spinning up components with AI to automating full-stack workflows. But let’s be real: while many AI tools generate solid code, their UI design? Meh. [🔗 My Links]: Sponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com 🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi ☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall 🧠 Follow me on Twitter: https://twitter.com/intheworldofai 🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ 👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF) 🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: ht",
+      "author": "WorldofAI",
+      "timestamp": "2025-07-25T00:14:31+00:00",
+      "url": "https://www.youtube.com/watch?v=IXo1mhVqMIw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "cursor ai",
+          "cursor ai tutorial",
+          "cursor ai code editor",
+          "Super design",
+          "superdesign.dev",
+          "first ever design agent",
+          "cursor ai setup",
+          "superdesign",
+          "cursor ide",
+          "ai design agent",
+          "open source design tools",
+          "ui generation",
+          "figma alternative",
+          "developer tools",
+          "windsor ai",
+          "claude code",
+          "vs code plugin",
+          "ai ui tools",
+          "ai product design",
+          "agentic workflows",
+          "vibe coding",
+          "build ui with ai",
+          "ai design automation",
+          "opensource ai tools",
+          "agentic coding",
+          "ai mockup tool",
+          "developer design tools"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXo1mhVqMIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXo1mhVqMIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXo1mhVqMIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IXo1mhVqMIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IXo1mhVqMIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "IXo1mhVqMIw",
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "view_count": 61134,
+      "like_count": 1939,
+      "comment_count": 49,
+      "duration": "PT10M26S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "HIHxDqGauJU",
+      "title": "The biggest difference between Claude Code and Cursor #ai #claudecode #cursor #claude",
+      "content": "",
+      "author": "The real Rich Kuo",
+      "timestamp": "2025-08-15T08:58:14+00:00",
+      "url": "https://www.youtube.com/watch?v=HIHxDqGauJU",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HIHxDqGauJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HIHxDqGauJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HIHxDqGauJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HIHxDqGauJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HIHxDqGauJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "HIHxDqGauJU",
+      "channel_id": "UC4T5jZX7MX9Oc_27p8gyiVA",
+      "view_count": 19321,
+      "like_count": 153,
+      "comment_count": 6,
+      "duration": "PT24S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "H2jcRtNVqkA",
+      "title": "Base44 Vs Replit Vs Cursor (2025) | Which AI Coding Tool Is Best?",
+      "content": "In this video, I’ll compare Base44 vs Replit vs Cursor. ▶ Get Started With Base44 For Free: https://danislinks.com/Base44 ▶ Get Started With Replit For Free: https://danislinks.com/Replit ▶ Get Started With Cursor For Free: https://danislinks.com/Cursor Base44, Replit, and Cursor are three AI-powered coding platforms, but they each take a different approach. Base44 focuses on generating production-ready apps with clean, scalable code, Replit offers a collaborative online IDE with AI pair programming and instant hosting, while Cursor integrates AI directly into a VS Code-like environment for real-time coding assistance. In this comparison, I’ll cover pricing, features, ease of use, integrations, and which type of developer each platform is best for. By the end of this video, you’ll know whether Base44, Replit, or Cursor is the best AI coding tool in 2025. For Business Inquiries: 📧 howtotutorialspremium@gmail.com ➖➖➖➖➖➖➖➖➖➖ Some links above include affiliate links; I may earn a commi",
+      "author": "Software Scope",
+      "timestamp": "2025-10-01T15:38:03+00:00",
+      "url": "https://www.youtube.com/watch?v=H2jcRtNVqkA",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "Base44 Vs Replit Vs Cursor"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H2jcRtNVqkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H2jcRtNVqkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H2jcRtNVqkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H2jcRtNVqkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H2jcRtNVqkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "H2jcRtNVqkA",
+      "channel_id": "UCBsGGbHWB3WOS_we0Dr15dg",
+      "view_count": 288,
+      "like_count": 3,
+      "comment_count": 1,
+      "duration": "PT4M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "BGgsoIgbT_Y",
+      "title": "How Cursor is building the future of AI coding with Claude",
+      "content": "Cursor’s Jacob Jackson, Lukas Möller and Aman Sanger join Anthropic's Alex Albert to talk about the changing landscape of software development. 0:00 Introduction 0:34 Cursor’s growth 1:57 Progression of models 3:09 Building Cursor with Cursor 5:17 Spectrum of features 6:45 About Background Agent 8:23 Future bottlenecks 10:35 Challenge of large production codebases 15:32 How code could evolve 17:15 Preserving engineering skills and quality amid automation 19:57 Claude 4 models 22:33 Anthropic model development 25:42 What the future could look like 29:44 Advice for engineers",
+      "author": "Anthropic",
+      "timestamp": "2025-06-10T15:04:50+00:00",
+      "url": "https://www.youtube.com/watch?v=BGgsoIgbT_Y",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGgsoIgbT_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGgsoIgbT_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGgsoIgbT_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BGgsoIgbT_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BGgsoIgbT_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "BGgsoIgbT_Y",
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "view_count": 129447,
+      "like_count": 2464,
+      "comment_count": 154,
+      "duration": "PT30M54S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "oFfVt3S51T4",
+      "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447",
+      "content": "Aman Sanger, Arvid Lunnemark, Michael Truell, and Sualeh Asif are creators of Cursor, a popular code editor that specializes in AI-assisted programming. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep447-sb See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. *Transcript:* https://lexfridman.com/cursor-team-transcript *CONTACT LEX:* *Feedback* - give feedback to Lex: https://lexfridman.com/survey *AMA* - submit questions, videos or call-in: https://lexfridman.com/ama *Hiring* - join our team: https://lexfridman.com/hiring *Other* - other ways to get in touch: https://lexfridman.com/contact *EPISODE LINKS:* Cursor Website: https://cursor.com Cursor on X: https://x.com/cursor_ai Anysphere Website: https://anysphere.inc/ Aman's X: https://x.com/amanrsanger Aman's Website: https://amansanger.com/ Arvid's X: https://x.com/ArVID220u Arvid's Website: https://arvid.xyz/ Michael's Website: https://mntruell.com/ M",
+      "author": "Lex Fridman",
+      "timestamp": "2024-10-06T18:43:14+00:00",
+      "url": "https://www.youtube.com/watch?v=oFfVt3S51T4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Cursor Team",
+          "alex friedman",
+          "lex ai",
+          "lex debate",
+          "lex freedman",
+          "lex fridman",
+          "lex friedman",
+          "lex interview",
+          "lex lecture",
+          "lex mit",
+          "lex podcast",
+          "lex transcript"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oFfVt3S51T4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oFfVt3S51T4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oFfVt3S51T4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oFfVt3S51T4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oFfVt3S51T4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "oFfVt3S51T4",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+      "view_count": 964425,
+      "like_count": 14050,
+      "comment_count": 973,
+      "duration": "PT2H29M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Ieyl6lOTolc",
+      "title": "Custom Cursor On Chrome !#chromeextensions #chrome #cursor",
+      "content": "",
+      "author": "JessLB",
+      "timestamp": "2023-10-22T17:49:28+00:00",
+      "url": "https://www.youtube.com/watch?v=Ieyl6lOTolc",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ieyl6lOTolc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ieyl6lOTolc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ieyl6lOTolc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ieyl6lOTolc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ieyl6lOTolc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Ieyl6lOTolc",
+      "channel_id": "UCirhqduBZt39HByTVcz3_hQ",
+      "view_count": 64381,
+      "like_count": 759,
+      "comment_count": 38,
+      "duration": "PT13S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8AWEPx5cHWQ",
+      "title": "Cursor Vibe Coding Tutorial - For COMPLETE Beginners (No Experience Needed)",
+      "content": "Download the FREE guide on \"Learn to Code With ChatGPT\" from HubSpot: https://clickhubspot.com/bb32f0 This video is going to cover absolutely everything you need to start Vibe coding successfully today. Now I'm going to be going through everything extremely slowly, assuming you have no prior experience and explaining everything as step by step as I possibly can. The goal here is not to get you to become a professional software engineer, but it's to give you all of those little bits of information that will make your life significantly easier. 🚀 My Software Development Program: https://coursecareers.com/a/techwithtim?course=software-dev-fundamentals&campaign=youtubedescription 📬 Join my Newsletter: https://techwithtim.net/newsletter 🎓 Get private mentorship from me: https://training.techwithtim.net 🎞 Video Resources 🎞 Cursor Link: https://www.cursor.com/downloads Git Tutorial: https://www.youtube.com/watch?v=DVRQoVRzMIY ⏳ Timestamps ⏳ 00:00:00 | A Complete Guide 00:01:01 | What is",
+      "author": "Tech With Tim",
+      "timestamp": "2025-05-31T14:00:10+00:00",
+      "url": "https://www.youtube.com/watch?v=8AWEPx5cHWQ",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "tech with tim",
+          "cursor vibe",
+          "coding tutorial",
+          "beginner coding",
+          "no experience coding",
+          "programming for beginners",
+          "coding for beginners",
+          "learn to code",
+          "beginner programming tutorial",
+          "coding basics",
+          "beginner tech tutorial",
+          "easy coding tutorial",
+          "coding for dummies",
+          "beginner coding lessons",
+          "Vibe Coding",
+          "cursor ai",
+          "LLMs",
+          "Git",
+          "HubSpot",
+          "debugging",
+          "version control",
+          "MCPs",
+          "model context protocol"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8AWEPx5cHWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8AWEPx5cHWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8AWEPx5cHWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8AWEPx5cHWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8AWEPx5cHWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8AWEPx5cHWQ",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "view_count": 212493,
+      "like_count": 5296,
+      "comment_count": 240,
+      "duration": "PT1H5M53S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Q4aaynNs59Q",
+      "title": "Everyone’s mad at Cursor right now",
+      "content": "Cursor screwed up... Thank you Graphite for sponsoring! Check them out at: https://soydev.link/graphite Use code GOOD-VALUE for 1 month of T3 Chat for $1: https://soydev.link/chat SOURCE https://cursor.com/blog/june-2025-pricing Want to sponsor a video? Learn more here: https://soydev.link/sponsor-me Check out my Twitch, Twitter, Discord more at https://t3.gg S/O Ph4se0n3 for the awesome edit 🙏",
+      "author": "Theo - t3․gg",
+      "timestamp": "2025-07-11T10:31:16+00:00",
+      "url": "https://www.youtube.com/watch?v=Q4aaynNs59Q",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "web development",
+          "full stack",
+          "typescript",
+          "javascript",
+          "react",
+          "programming",
+          "programmer",
+          "theo",
+          "t3 stack",
+          "t3",
+          "t3.gg",
+          "t3dotgg"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q4aaynNs59Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q4aaynNs59Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q4aaynNs59Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q4aaynNs59Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q4aaynNs59Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Q4aaynNs59Q",
+      "channel_id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "view_count": 112886,
+      "like_count": 2843,
+      "comment_count": 548,
+      "duration": "PT53M47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "kbfdFlqzjcs",
+      "title": "Cursor AI Tutorial For Beginners (AI Code Editor) - Latest 2025 Edition",
+      "content": "This is a beginner's guide on using the Cursor AI code editor to build any software using AI. Get Cursor AI: https://bit.ly/cursor_ai Cursor AI is an ultimate AI editor that helps you to build cool web apps, mobile apps, or even system software using AI just by giving a prompt. You don't need to know anything about coding yet you can make complex applications with the help of Cursor AI. All you need to do is just tell the AI what app you want to build and what are the features to be included, and with the press of a button, the AI will create the entire app for you in minutes. Chapters: 00:42 Get Cursor AI 01:10 Cursor AI pricing and plans 01:47 Open a new project in Cursor AI 02:14 Cursor UI 02:51 Install extensions 03:17 AI Features in Cursor 10:23 Inline changes 13:22 Restore Checkpoint 14:10 Add files to context 14:43 New chat best practice 17:24 Create a game using Cursor AI 18:17 Adding files and folders to the context 19:30 Adding third party documentation to Cursor AI 22:",
+      "author": "Astro K Joseph",
+      "timestamp": "2025-04-07T11:07:42+00:00",
+      "url": "https://www.youtube.com/watch?v=kbfdFlqzjcs",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kbfdFlqzjcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kbfdFlqzjcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kbfdFlqzjcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kbfdFlqzjcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kbfdFlqzjcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "kbfdFlqzjcs",
+      "channel_id": "UCpWS2Gmt0N31th-vdIizPJQ",
+      "view_count": 43305,
+      "like_count": 722,
+      "comment_count": 31,
+      "duration": "PT26M8S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0Qlp_-6d2I0",
+      "title": "How to fix blank screen with cursor issue on windows",
+      "content": "",
+      "author": "Scrandalftech",
+      "timestamp": "2024-03-08T17:06:35+00:00",
+      "url": "https://www.youtube.com/watch?v=0Qlp_-6d2I0",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "windows 10 black screen with cursor",
+          "how to fix black screen on windows 10",
+          "windows black screen with cursor",
+          "how to fix black screen with cursor on windows 11",
+          "black screen",
+          "windows 11 black screen with cursor",
+          "windows black screen with cursor after login",
+          "how to fix black screen with cursor",
+          "how to fix black screen on windows 11",
+          "black screen with cursor windows 11",
+          "black screen with cursor windows 10",
+          "how to fix windows 11 black screen with cursor",
+          "blank screen",
+          "system error"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Qlp_-6d2I0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Qlp_-6d2I0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Qlp_-6d2I0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Qlp_-6d2I0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Qlp_-6d2I0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0Qlp_-6d2I0",
+      "channel_id": "UCOz3oBxFYvvAQexsZ1Bixaw",
+      "view_count": 17745363,
+      "like_count": 610382,
+      "comment_count": 5475,
+      "duration": "PT16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "vqyh7TwKW4o",
+      "title": "How to use Lovable and Cursor together. #ai #aitools #lovable #cursor #github",
+      "content": "",
+      "author": "Matt Paige",
+      "timestamp": "2025-05-08T19:14:56+00:00",
+      "url": "https://www.youtube.com/watch?v=vqyh7TwKW4o",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vqyh7TwKW4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vqyh7TwKW4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vqyh7TwKW4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vqyh7TwKW4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vqyh7TwKW4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "vqyh7TwKW4o",
+      "channel_id": "UChenGwkFACiG-TXQtzhg4gA",
+      "view_count": 17736,
+      "like_count": 910,
+      "comment_count": 8,
+      "duration": "PT1M6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NpYiXVu1KCc",
+      "title": "The Best Website Development Tools To Try In 2025",
+      "content": "These are the best website development tools of 2025 that I'm personally using for web projects and coding on a daily basis as part of my core go-to code tool to build apps and sites. They are a combination of CLI, IDE, NPM packages, AI Design tools and vibe coding sites that help me build and mvp up ideas quickly! ⛌ Try Wix Studio Today: https://wix.com/studio/?utm_campaign=pa_influencers_community_adrian^social&experiment_id=^youtube_channel 00:00 - Top 10 Developer Tools of 2025 00:12 - 10. LLM - Ollama 00:37 - 10. LLM - LM Studio 01:11 - 10. LLM - Jan AI 01:36 - 9. CLI - Gemini CLI 02:05 - 9. CLI - Claude Code 02:37 - 8. Vibe Coding - Lovable 03:03 - 8. Vibe Coding - Bolt (bolt.new) 03:31 - 7. AI Agent - VS Code Copilot 04:06 - 7. AI Agent - Cline 04:45 - 7. AI Agent - Cursor Agent 05:19 - 6. Framework - Tailwind CSS 05:50 - 6. Framework - Shadcn UI 06:19 - 6. Framework - Radix UI 06:49 - Bonus - Design Course 07:10 - 5. AI Design - v0 by Vercel 07:36 - 5. AI Design - Relume 0",
+      "author": "Adrian Twarog",
+      "timestamp": "2025-09-04T06:21:00+00:00",
+      "url": "https://www.youtube.com/watch?v=NpYiXVu1KCc",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "best website development tools",
+          "website development tools",
+          "development tools",
+          "coding tools",
+          "web tools",
+          "programming tools",
+          "coding",
+          "website",
+          "2025",
+          "best web development tools",
+          "best website development tools 2025",
+          "top website development tools",
+          "dev tools",
+          "tools developer 2025",
+          "tools coding 2025",
+          "tools web 2025",
+          "tools programmer 2025",
+          "tools programmer",
+          "tools coding",
+          "website tools",
+          "tools programming",
+          "vibe coding",
+          "ai",
+          "programming",
+          "vscode",
+          "cursor",
+          "bolt.new",
+          "lovable",
+          "lm studio"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NpYiXVu1KCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NpYiXVu1KCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NpYiXVu1KCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NpYiXVu1KCc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NpYiXVu1KCc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NpYiXVu1KCc",
+      "channel_id": "UCvM5YYWwfLwpcQgbRr68JLQ",
+      "view_count": 4977,
+      "like_count": 189,
+      "comment_count": 12,
+      "duration": "PT13M56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "iKTC0ftxNuY",
+      "title": "Trae Review - is it a better AI code editor than Cursor?",
+      "content": "Read our full feature by feature comparison: https://www.builder.io/blog/cursor-vs-trae?utm_source=steve-yt&utm_medium=social&utm_campaign=cursor-vs-trae",
+      "author": "Steve (Builder.io)",
+      "timestamp": "2025-02-20T11:13:15+00:00",
+      "url": "https://www.youtube.com/watch?v=iKTC0ftxNuY",
+      "metadata": {
+        "category_id": "24",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKTC0ftxNuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKTC0ftxNuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKTC0ftxNuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKTC0ftxNuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iKTC0ftxNuY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "iKTC0ftxNuY",
+      "channel_id": "UCGmR6lhKMlCkvrvb39vPtdA",
+      "view_count": 82743,
+      "like_count": 1277,
+      "comment_count": 178,
+      "duration": "PT14M5S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "lHh3RBjNdmw",
+      "title": "Custom Cursor Tutorial",
+      "content": "This is how I got my Hello Kitty cursor, hope this helps 💝 #cursor #tutorial #download #hellokitty #sanrio #valorant #gaming #harbour #chaddy #marshmallow #shorts",
+      "author": "Feina",
+      "timestamp": "2022-10-31T08:10:22+00:00",
+      "url": "https://www.youtube.com/watch?v=lHh3RBjNdmw",
+      "metadata": {
+        "category_id": "20",
+        "tags": [
+          "cursor",
+          "hellokitty",
+          "sanrio",
+          "valorant",
+          "tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lHh3RBjNdmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lHh3RBjNdmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lHh3RBjNdmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lHh3RBjNdmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lHh3RBjNdmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "lHh3RBjNdmw",
+      "channel_id": "UC1RXVKBx3iVHpj6bnbmzlnA",
+      "view_count": 497310,
+      "like_count": 17813,
+      "comment_count": 790,
+      "duration": "PT45S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "8aOq4pil5BA",
+      "title": "Lovable vs Cursor: Which AI Coding Tool Is Actually Better",
+      "content": "Should you chat your way to apps with Lovable or supercharge your coding with Cursor? I tested both extensively to give you the definitive answer. Lovable: https://lovable.dev/ Cursor: https://cursor.com/ What I cover: ✅ Platform philosophies and target users ✅ Live coding demos with both tools ✅ Strengths and limitations breakdown ✅ Pricing comparison and value analysis ✅ When to choose each platform ✅ My honest recommendation ⚡ Quick verdict: Lovable for rapid prototyping without coding, Cursor for enhanced development productivity. ⏰ Timestamps: 0:45 - Platform Overview 1:45 - Target Audiences 2:45 - How They Actually Work 4:00 - Strengths & Limitations 5:15 - Pricing Breakdown 5:45 - When to Choose Each 6:30 - Final Verdict",
+      "author": "Digyet",
+      "timestamp": "2025-06-20T21:53:49+00:00",
+      "url": "https://www.youtube.com/watch?v=8aOq4pil5BA",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8aOq4pil5BA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8aOq4pil5BA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8aOq4pil5BA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8aOq4pil5BA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8aOq4pil5BA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "8aOq4pil5BA",
+      "channel_id": "UCThlFpbkNK2L5I7r2m1mcpA",
+      "view_count": 1321,
+      "like_count": 21,
+      "comment_count": 4,
+      "duration": "PT8M39S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "7AImkA96mE8",
+      "title": "VSCode + Cline + Continue | NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative",
+      "content": "In this video, I will show you how to set up Visual Studio Code with specific extensions (Cline and Continue.dev) and local AI models (via Ollama) to create a powerful, free, open-source, and private alternative to the Cursor AI code editor. ⭐️ Resources: ************** VSCode website: https://code.visualstudio.com/ Ollama: https://ollama.com/ OpenRouter: https://openrouter.ai/ 🐙 GitHub: https://github.com/codewithnathan97 ✉️ Email course: https://g.codewithnathan.com/mindset ---- Key Takeaways: 💵 Cursor is a popular AI code editor, but its free tier is limited, and the Pro version costs money 🏆 You can replicate many Cursor features for free using VS Code combined with the Continue.dev and Cline extensions. 🦙 Ollama allows you to download and run powerful open-source AI models (like DeepSeek and Qwen) locally on your machine, ensuring privacy and offline capability. 🔥 Continue.dev provides features like AI chat, code completion, and inline code editing within VS Code, using configu",
+      "author": "Build With Nathan",
+      "timestamp": "2025-04-09T10:15:21+00:00",
+      "url": "https://www.youtube.com/watch?v=7AImkA96mE8",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "cursor ai",
+          "vscode",
+          "ai for coding"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7AImkA96mE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7AImkA96mE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7AImkA96mE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7AImkA96mE8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7AImkA96mE8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "7AImkA96mE8",
+      "channel_id": "UCvS59S24crXmGfIEiejcr9g",
+      "view_count": 269645,
+      "like_count": 7683,
+      "comment_count": 406,
+      "duration": "PT12M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "tDEFoBjrYnM",
+      "title": "Transform your PC Cursor 🔥💯 #shorts #pc",
+      "content": "",
+      "author": "Trick Pilot",
+      "timestamp": "2025-02-26T04:09:50+00:00",
+      "url": "https://www.youtube.com/watch?v=tDEFoBjrYnM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tDEFoBjrYnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tDEFoBjrYnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tDEFoBjrYnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tDEFoBjrYnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tDEFoBjrYnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "tDEFoBjrYnM",
+      "channel_id": "UCnEHEB_OFNNBQE_B5tPSpbw",
+      "view_count": 6042242,
+      "like_count": 261338,
+      "comment_count": 787,
+      "duration": "PT42S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "lypPoT8lZ2M",
+      "title": "普通人也可以看的 AI 编程指南 | Cursor 教程｜Cursor 使用技巧和思路｜如何免费使用 Cursor｜AI 编程",
+      "content": "章节： 00:00 Why 02:01 背景 04:35 下载、安装与汉化 07:23 核心功能 26:06 技巧与思路 41:54 免费白嫖 44:27 指纹检测",
+      "author": "不正经的前端",
+      "timestamp": "2025-01-15T07:45:02+00:00",
+      "url": "https://www.youtube.com/watch?v=lypPoT8lZ2M",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Cursor",
+          "Cursor教程",
+          "AI编程"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lypPoT8lZ2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lypPoT8lZ2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lypPoT8lZ2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lypPoT8lZ2M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lypPoT8lZ2M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "zh",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "lypPoT8lZ2M",
+      "channel_id": "UCmIf618hUz9oZLhRP8Dozsw",
+      "view_count": 123825,
+      "like_count": 3748,
+      "comment_count": 243,
+      "duration": "PT46M57S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "rJmjdGiZJ3U",
+      "title": "You Won't Believe What Cursor AI Just Did (NEW UPDATE)",
+      "content": "Work with me ⬇️ https://itsbyrob.in/rJmjdGiZJ3U 💡 CHECK OUT WISPR FLOW https://itsbyrob.in/wispr Thank you so much to Wispr Flow for sponsoring this video! 🛠️ TOOLS I BUILT MacroPulse: https://macropulse.ai My Linktree: https://itsbyrob.in/bio 🎥 IN THIS VIDEO Cursor just dropped another pricing update, and customers are NOT happy! I'm diving deep into the drama to uncover if the outrage is justified and what it means for your AI coding workflow. 0:00 - Intro: Cursor's Pricing Drama 0:50 - Cursor's Pricing Evolution & Controversies 2:19 - Sponsor: Wispr Flow 3:26 - Cursor's Fine Print: \"Unlimited\" Auto Mode 5:04 - CEO Admits Failure & Usage Refunds 8:34 - New Subscription Usage Summary (Cursor Dashboard) 10:13 - My Ultra Plan Test & Claude Opus 4 Usage 11:11 - Cursor Pricing & Limits Explained 15:31 - Cursor's Strategy: Forcing Auto Mode? 16:00 - Cursor vs. Claude Code 20:22 - Final Takeaways #aicoding #aieditor #cursorai #claudeai #aitools #aidevelopment #vibecoding #techr",
+      "author": "Robin Ebers",
+      "timestamp": "2025-07-05T10:59:13+00:00",
+      "url": "https://www.youtube.com/watch?v=rJmjdGiZJ3U",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ai",
+          "vibe coding",
+          "ml developer",
+          "cursor",
+          "windsurf",
+          "ai coding",
+          "cline",
+          "no code",
+          "cursor ai",
+          "cursor ultra",
+          "claude code",
+          "claude max",
+          "cursorai",
+          "cursor pro",
+          "ai coding tools",
+          "claude",
+          "anthropic claude"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rJmjdGiZJ3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rJmjdGiZJ3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJmjdGiZJ3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rJmjdGiZJ3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rJmjdGiZJ3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "rJmjdGiZJ3U",
+      "channel_id": "UCy71Sv5TVBbn5BYETRQV22Q",
+      "view_count": 86055,
+      "like_count": 1725,
+      "comment_count": 526,
+      "duration": "PT20M30S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "mm8cn53_pdU",
+      "title": "Master Cursor in 50 Minutes with Cursor's Head of AI Education (2025) | Lee Robinson",
+      "content": "Today, I want to share a new episode with Lee Robinson. Lee is the VP of Developer Experience at Cursor and a legend in his field. While most people are still vibe coding, Lee showed me how to build apps properly using planning, test-driven development, AI agent workflows, and more. This is a must-watch tutorial for beginners who want to learn how to build with AI the right way. Lee and I talked about: (00:00) How the way we build software is fundamentally changing (03:49) Live demo: Building a music tracking app with Cursor (5:17) The critical setup phase most people skip (tests, git, linting) (16:03) Foreground vs background agents and when to use each (27:34) How to create cursor rules that compound your workflows (37:31) Why experienced engineers shouldn't fear AI tools (42:19) Essential advice for PMs who want to learn technical skills (44:48) How Cursor builds products without any PM (47:18) The future of generalist engineers in an AI world Get the takeaways: https://creatorec",
+      "author": "Peter Yang",
+      "timestamp": "2025-08-17T13:01:20+00:00",
+      "url": "https://www.youtube.com/watch?v=mm8cn53_pdU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mm8cn53_pdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mm8cn53_pdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mm8cn53_pdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mm8cn53_pdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mm8cn53_pdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "mm8cn53_pdU",
+      "channel_id": "UCnpBg7yqNauHtlNSpOl5-cg",
+      "view_count": 36456,
+      "like_count": 941,
+      "comment_count": 34,
+      "duration": "PT50M22S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ZKk5biPk3S8",
+      "title": "🦎 Reptile-Style Interactive Cursor (Tail + Ripple) HTML/CSS/JS! #Shorts #viral #CodeWithLord",
+      "content": "Give your website a lively, reptile-tail cursor that follows your mouse with a smooth trailing effect, scales on interactive elements, and creates a ripple on click — all in pure HTML, CSS & JS. Perfect for portfolios, landing pages, and any site where you want instant “wow.” What you’ll build (in under 5 minutes): A custom circular cursor that replaces the default pointer A soft “reptile tail” of mini-orbs that ease toward your mouse Magnetic scale on links/buttons (hover to enlarge) Click ripple effect with automatic cleanup Lightweight, no dependencies, mobile-safe fallback #Shorts #viral #trending #CodeWithLord #webdesign #coding #frontend #javascript #css #uianimation #cursor #microinteraction",
+      "author": "CodeWithLord ",
+      "timestamp": "2025-05-15T08:18:08+00:00",
+      "url": "https://www.youtube.com/watch?v=ZKk5biPk3S8",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "website",
+          "design",
+          "devlopment",
+          "website design",
+          "website for beginner",
+          "how to create website using python",
+          "how to use python as backend",
+          "how to create animated website",
+          "animation tutorial",
+          "animation for beginner",
+          "how to create animated component in react js",
+          "how to create animated component in next js",
+          "CodewithLord",
+          "codewithlord",
+          "codewithharry",
+          "techno gamers",
+          "Jonathan gaming"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZKk5biPk3S8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZKk5biPk3S8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZKk5biPk3S8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZKk5biPk3S8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZKk5biPk3S8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ZKk5biPk3S8",
+      "channel_id": "UCDpwSLdj3lwIu-dN3f0Ir5A",
+      "view_count": 7701857,
+      "like_count": 100590,
+      "comment_count": 832,
+      "duration": "PT10S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0reUGiD5rIk",
+      "title": "cursor not working//shortcut key for shutting down laptop#viral#trending#2023",
+      "content": "",
+      "author": "smitha_anjali",
+      "timestamp": "2023-03-21T09:54:19+00:00",
+      "url": "https://www.youtube.com/watch?v=0reUGiD5rIk",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0reUGiD5rIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0reUGiD5rIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0reUGiD5rIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0reUGiD5rIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0reUGiD5rIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0reUGiD5rIk",
+      "channel_id": "UCV3o06xbMjCk_8Thtr1pgdw",
+      "view_count": 518693,
+      "like_count": 3350,
+      "comment_count": 139,
+      "duration": "PT25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "gA6r7iVzP6M",
+      "title": "AWS just released its Cursor killer…",
+      "content": "Try Brilliant free for 30 days https://brilliant.org/fireship and get 20% off a premium subscription Out of nowhere, Amazon just released its own AI IDE named Kiro. Powered by Claude 4.0, Kiro promises to bring structure to AI coding with an approach it calls 'spec-driven development'. But can it really convince developers to switch from the likes of Cursor, Copilot or Firebase Studio? #AI #AWS #Kiro #coding 💬 Chat with Me on Discord https://discord.gg/fireship 🔗 Resources https://kiro.dev/blog/introducing-kiro/ 🔥 Get More Content - Upgrade to PRO Upgrade at https://fireship.io/pro Use code YT25 for 25% off PRO access 🎨 My Editor Settings - Atom One Dark - vscode-icons - Fira Code Font 🔖 Topics Covered - What is Kiro - Existing AI IDE Limitations - Kiro First Impressions - Kiro vs Cursor",
+      "author": "Fireship",
+      "timestamp": "2025-07-16T15:16:58+00:00",
+      "url": "https://www.youtube.com/watch?v=gA6r7iVzP6M",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "webdev",
+          "app development",
+          "lesson",
+          "tutorial",
+          "ai ide",
+          "ai coding",
+          "ai coding agent",
+          "coding",
+          "programming",
+          "ai programming",
+          "vibe coding",
+          "kiro",
+          "kiro first impressions",
+          "kiro demo",
+          "kiro review",
+          "aws",
+          "amazon",
+          "kiro coding",
+          "cursor",
+          "claude code",
+          "claude",
+          "claude 4.0",
+          "windsurf",
+          "copilot",
+          "cursor killer",
+          "kiro vs cursor",
+          "kiro vs copilot",
+          "kiro vs windsurf",
+          "what is kiro",
+          "aws kiro",
+          "amazon kiro",
+          "jeff bezos",
+          "bezos",
+          "software developer"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gA6r7iVzP6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gA6r7iVzP6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gA6r7iVzP6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gA6r7iVzP6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gA6r7iVzP6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "gA6r7iVzP6M",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "view_count": 1034174,
+      "like_count": 32047,
+      "comment_count": 1298,
+      "duration": "PT4M7S"
+    }
+  ],
+  "total_posts": 49
+}

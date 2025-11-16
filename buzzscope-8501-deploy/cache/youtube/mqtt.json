@@ -1,0 +1,2998 @@
+{
+  "status": "success",
+  "data_source": "time_all",
+  "total_posts": 50,
+  "posts": [
+    {
+      "platform": "youtube",
+      "post_id": "0mlWIuPw34Y",
+      "title": "MQTT Broker and MQTT Client Explained",
+      "content": "Mosquitto is a popular MQTT Broker for Home Assistant and is used for communication by many IoT devices, including Tasmota, Shelly and many more. I explain how MQTT works, some of it's important settings and typical uses. MQTT is a messaging based communication system with one broker and many clients connecting to that broker to exchange information. MQTT Broker Benchmark: https://www.emqx.com/en/blog/open-mqtt-benchmarking-comparison-mqtt-brokers-in-2023 Victron Venus OS Docs: https://www.victronenergy.com/live/open_source:start Mikrotik MQTT Documentation: https://help.mikrotik.com/docs/display/ROS/MQTT 00:00 Intro 01:20 MQTT Brokers - Mosquitto, RabbitMQ & HiveMQ 02:05 Tasmota Open Source Firmware for ESP8266 & ESP32 Devices 02:50 Shelly Devices - Built-in MQTT Support 03:32 Victron & MQTT - CerboGX, Multiplus II, Charge Controllers etc 05:03 Blue Iris - Built-in MQTT Support for motion alerts 06:05 Mikrotik Routers and Switches Support MQTT! 06:43 MQTT Explanation 07:07 MQTT Ex",
+      "author": "Let's Automate",
+      "timestamp": "2023-11-26 18:42:39+00:00",
+      "url": "https://www.youtube.com/watch?v=0mlWIuPw34Y",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "mosquitto",
+          "victron",
+          "homeassistant",
+          "shelly",
+          "mqtt broker",
+          "mqtt tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0mlWIuPw34Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0mlWIuPw34Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0mlWIuPw34Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0mlWIuPw34Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0mlWIuPw34Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0mlWIuPw34Y",
+      "channel_id": "UCm-cVsRgJHChrEjeKENKJ-A",
+      "view_count": 16055,
+      "like_count": 254,
+      "comment_count": 13,
+      "duration": "PT12M59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fm4wqrh0LFw",
+      "title": "MQTT vs AMQP for IoT",
+      "content": "MQTT is a communication protocol designed for the Internet of Things, with publish-subscribe (pub/sub) messaging as its core. The MQTT server, also known as the broker, allows you to inspect and manage connected IoT devices and messages. AMQP is Advanced Message Queuing Protocol. Watch the video comparison of MQTT and AMQP and discover the difference between the two protocols and what is better for IoT. Head here for the full comparison article https://bit.ly/3MArrhd Timestamps: 0:00 Introduction 00:18 What is MQTT? 01:33 What is AMQP? 02:30 MQTT vs AMQP Comparison Summary 05:02 MQTT vs AMQP. Which is better for IoT? Resources: - MQTT vs AMQP Full Comparison Article https://bit.ly/3MArrhd - MQTT Essentials eBook https://bit.ly/3IMg3O7 - Learn more about HiveMQ MQTT Broker https://bit.ly/3N02uwU - Try HiveMQ Platform https://bit.ly/3ODBGDZ - IoT Protocols Comparison Video Playlist https://bit.ly/3q88j2x Music: bensound.com #MQTT #IoT #AMQP",
+      "author": "HiveMQ",
+      "timestamp": "2023-05-26 16:01:59+00:00",
+      "url": "https://www.youtube.com/watch?v=fm4wqrh0LFw",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "MQTT",
+          "AMQP",
+          "IoT",
+          "IoT protocols",
+          "mqtt protocol",
+          "amqp protocol",
+          "Internet of Things"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fm4wqrh0LFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fm4wqrh0LFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fm4wqrh0LFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fm4wqrh0LFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fm4wqrh0LFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fm4wqrh0LFw",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 14043,
+      "like_count": 164,
+      "comment_count": 10,
+      "duration": "PT5M59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6A2odGuPRus",
+      "title": "Radar monitoring with ESP32, MQTT and node-red",
+      "content": "\ud83d\ude80 New project: Radar monitoring with ESP32, MQTT and node-red\ud83d\ude80 I am happy to share my latest technical achievement! I developed a radar system utilizing an ultrasonic sensor, an ESP32 microcontroller, a servo motor, and an MQTT broker to measure and transmit distance and angle data in real-time. In this video, you can see the radar in action, with real-time visualization of the measured data. The system is able to scan an environment and communicate the results via MQTT for remote analysis. \ud83d\udd27 Technologies used: - ESP32 - MQTT - Ultrasonic sensor - Visualization Processing - Arduino IDE - Processing IDE - NODE-RED #ESP32 #Arduino #IoT #MQTT #esp32projects #ebokify",
+      "author": "Ebokify",
+      "timestamp": "2024-12-23 04:44:33+00:00",
+      "url": "https://www.youtube.com/watch?v=6A2odGuPRus",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ESP32",
+          "ESP32 project",
+          "Arduino",
+          "Arduino IDE",
+          "MQTT",
+          "Arduino Project",
+          "Robotics",
+          "Raspberry Pi"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6A2odGuPRus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6A2odGuPRus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6A2odGuPRus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6A2odGuPRus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6A2odGuPRus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6A2odGuPRus",
+      "channel_id": "UCIjM4L32Hgx7nfYz1awcmBQ",
+      "view_count": 49196,
+      "like_count": 428,
+      "comment_count": 12,
+      "duration": "PT12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NXyf7tVsi10",
+      "title": "What is MQTT Protocol ? How it works ? | 2022",
+      "content": "What is MQTT Protocol? How it works | 2022 #mqtt #2022 #protocol #industrial #iiot IIOT protocol MQTT What is MQTT broker? \ud83d\udcf8 Insta handle: /https://www.instagram.com/noumanofficialvlogs/ \ud83d\udcbb Linkedin: /https://www.linkedin.com/in/nomanitaa/ \ud83e\udd37 Facebook: /https://m.facebook.com/p/ITAutomation-Academy-100063821239160/ Join this channel to get access to perks and support channel: https://www.youtube.com/channel/UC7C8Rq8FTgNn5mcXr-MjYAw/join MQTT was developed and invented in 1999 by engineers Andy Stanford-Clark and Arlen Nipper MQTT is Protocol that works with low cost and low bandwidth over unstable connection With MQTT now you can get from these all remote sites using low bandwidth very quickly",
+      "author": "IT and Automation Academy",
+      "timestamp": "2022-04-09 14:08:29+00:00",
+      "url": "https://www.youtube.com/watch?v=NXyf7tVsi10",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NXyf7tVsi10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NXyf7tVsi10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NXyf7tVsi10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NXyf7tVsi10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NXyf7tVsi10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NXyf7tVsi10",
+      "channel_id": "UC7C8Rq8FTgNn5mcXr-MjYAw",
+      "view_count": 172132,
+      "like_count": 3183,
+      "comment_count": 73,
+      "duration": "PT7M19S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "MhNRDAhnJKY",
+      "title": "MQTT Broker Comparison for Your IoT Applications",
+      "content": "There are different types of MQTT brokers out there, such as open-source, commercial, cloud-managed, and general-purpose. How do you pick the right MQTT broker that fits the architectural requirements of your IoT or IIoT application? Watch this video to get a quick overview of common challenges and what to look for when choosing an MQTT broker for your IoT use case. To learn more, read this article: https://bit.ly/3QXegHn Timestamps: 00:00 - Introduction 00:25 - Common use cases for MQTT brokers 01:18 - What are the types of MQTT brokers? 01:38 - How to choose the best MQTT broker? 01:52 - What are the architectural requirements for MQTT broker comparisons? 03:46 - MQTT broker comparison Learn more about MQTT: \ud83d\udc49 MQTT Essentials eBook : https://bit.ly/3DDu3rS \ud83d\udc49 MQTT Essentials blog series https://bit.ly/3UkX5Cq \ud83d\udc49 MQTT Essentials video series https://bit.ly/3yIw8Qe Music by Bensound.com/royalty-free-music Subscribe to our channel by hitting the red subscribe button above to get video",
+      "author": "HiveMQ",
+      "timestamp": "2022-09-20 11:45:00+00:00",
+      "url": "https://www.youtube.com/watch?v=MhNRDAhnJKY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "mqtt broker",
+          "google iot core",
+          "GCP",
+          "Google Cloud Platform",
+          "IoT",
+          "Google Cloud",
+          "AWS IoT",
+          "IIoT",
+          "google pub/sub",
+          "Pub Sub"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MhNRDAhnJKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MhNRDAhnJKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MhNRDAhnJKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MhNRDAhnJKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MhNRDAhnJKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "MhNRDAhnJKY",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 7573,
+      "like_count": 45,
+      "comment_count": 6,
+      "duration": "PT4M48S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "ImBv2mtaRR0",
+      "title": "Setting Up MQTT for Home Assistant in under 5 Minutes in 2025!",
+      "content": "A simple tutorial on how to install and configure MQTT on Home Assistant Please support my channel by using my Amazon link: https://amzn.to/4jAqaVL Refurbished Lonovo Mini PC: https://amzn.to/3ZK7QCA GMKtec Mini PC: https://amzn.to/4jCVqnk Ali Express: https://s.click.aliexpress.com/e/_oo0ghpO Google Coral: https://www.amazon.com.au/dp/B07S214S5Y?ref_=mr_referred_us_au_nz Raspberry Pi: https://s.click.aliexpress.com/e/_Dkl1Pjp Kingston SSD RAM: https://s.click.aliexpress.com/e/_DFqCwIj SMLIGHT SLZB-06 Zigbee Co-Ordinator : Smlight https://s.click.aliexpress.com/e/_DlrC3hp Home Assistant Voice Preview Edition: https://s.click.aliexpress.com/e/_okGtnQL Sonoff ZMB5 Smart Light Switch : https://itead.cc/product/sonoff-switchman-zigbee-smart-wall-switch-zbm5/ref/226/ Schlage Encode WiFi Smart Lock : https://amzn.to/3W7wyLs Shelly Uni: https://s.click.aliexpress.com/e/_DE1gbq5 Reolink Trackmix POE : https://reolink.com/product/reolink-trackmix-poe/?aff=267 Apollo PLT1 Plant Moisture Sensor",
+      "author": "Simon Says Home Assistant",
+      "timestamp": "2025-06-08 02:02:59+00:00",
+      "url": "https://www.youtube.com/watch?v=ImBv2mtaRR0",
+      "metadata": {
+        "category_id": "24",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ImBv2mtaRR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ImBv2mtaRR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ImBv2mtaRR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ImBv2mtaRR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "ImBv2mtaRR0",
+      "channel_id": "UCk_pvW0ARNwn1lZgRmQFIzw",
+      "view_count": 18303,
+      "like_count": 293,
+      "comment_count": 43,
+      "duration": "PT5M20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fbQRF_IKuo4",
+      "title": "MQTT with ESP32 and DHT22 using Wokwi | Display on Node-Red Dashboard",
+      "content": "In this video, we will see how to Simulate ESP32 Integration with DHT22 with Wokwi and send the temperature and humidity values to the Node-RED Dashboard using MQTT. By the end of this video, you can see the real-time changes in Temperature and humidity of DHT22 on the Node-Red Dashboard using the MQTT publish and subscribe mechanism. 1. Setup ESP32 with DHT22 in Wokwi 2. Add the libraries needed 3. Upload the code 4. Setup the MQTT publish in code 5. Setup Node-Red 6. Create a Node-Red Dashboard to subscribe 7. View the Dashboard for the Temperature and Humidity values This can be used as IoT projects for final year students __________________________________________________________ \ud83d\udd17Important links: GitHub Tutorial Link: https://github.com/Hariharnath-Paduchuru/DHT22_Esp32_MQTT_NodeRED/tree/main Wokwi Home Page: https://wokwi.com/ ESP32 Pin Layout: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html#pin-layout Enrol in IoT Cours",
+      "author": "IoT Frontier",
+      "timestamp": "2024-01-15 09:35:43+00:00",
+      "url": "https://www.youtube.com/watch?v=fbQRF_IKuo4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "wokwi",
+          "mqtt wokwi",
+          "esp32 simulation",
+          "mqtt in esp32",
+          "simulating iot projects",
+          "ESP32 pubsub",
+          "ESP32 mqtt subscribe",
+          "mqtt publish",
+          "wokwi esp32 simulator",
+          "wokwi simulator",
+          "wokwi arduino simulator",
+          "wokwi esp32",
+          "wokwi projects",
+          "mqtt protocol in iot",
+          "mqtt tutorial",
+          "mqtt esp32 tutorial",
+          "mqtt esp32 arduino ide",
+          "mqtt with esp32",
+          "how to simulate esp32",
+          "integrate mqtt with esp32 and dht22",
+          "integrate esp32 with dht22",
+          "node red dashboard",
+          "esp32"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbQRF_IKuo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbQRF_IKuo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbQRF_IKuo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fbQRF_IKuo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fbQRF_IKuo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fbQRF_IKuo4",
+      "channel_id": "UCy4oKnwZ65jRIyYJpIo3opQ",
+      "view_count": 24009,
+      "like_count": 536,
+      "comment_count": 34,
+      "duration": "PT13M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "CCdSV7KVEWg",
+      "title": "\ud83d\udd10 Encrypted MQTT Communication with ESP8266 | AES128 + IoT LED Control Demo #iot #mqtt #esp32",
+      "content": "This short video shows a real-world MQTT IoT setup using two ESP8266 modules \u2014 one sends AES128-encrypted data, and a custom broker decrypts it using a secure key file. \u2705 Real-time LED control via MQTT Explorer \u2705 Visual confirmation with blinking blue LED \u2705 Data saved to CSV or database, viewable in Node-RED, Grafana, or Power BI \u2705 Built on MQTT features: \u2022 Lightweight protocol \u2022 Persistent connections \u2022 QoS reliability \u2022 Retained messages #mqtt #iot #esp8266 #encryptedmqtt #aes128 #mqttiot #smarthome #mqttprotocol #arduinoproject #iotcommunication #nodered #grafana #powerbi #iotsecurity #mqtttutorial #mqttbroker #mqttexplorer #realtimedata \ud83d\udd17 This is encrypted, efficient, and scalable communication \u2014 ideal for IoT, automation, and smart systems.",
+      "author": "Arduino4all",
+      "timestamp": "2025-05-25 12:44:45+00:00",
+      "url": "https://www.youtube.com/watch?v=CCdSV7KVEWg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "esp8266",
+          "mqtt iot",
+          "mqtt encryption",
+          "aes128 mqtt",
+          "mqtt explorer",
+          "mqtt with esp8266",
+          "encrypted mqtt arduino",
+          "mqtt tutorial",
+          "mqtt broker setup",
+          "mqtt led control",
+          "mqtt dashboard",
+          "real-time iot",
+          "secure iot communication",
+          "arduino mqtt",
+          "iot mqtt protocol",
+          "smart devices mqtt",
+          "node red dashboard",
+          "grafana mqtt",
+          "power bi mqtt integration",
+          "low power iot",
+          "mqtt retained messages",
+          "qos mqtt",
+          "publish subscribe protocol"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CCdSV7KVEWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CCdSV7KVEWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CCdSV7KVEWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CCdSV7KVEWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CCdSV7KVEWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "CCdSV7KVEWg",
+      "channel_id": "UCo1wdMtOgy01UwxVSh6G4Vw",
+      "view_count": 1863,
+      "like_count": 37,
+      "comment_count": 2,
+      "duration": "PT1M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "QD4AidKZPMg",
+      "title": "STM32 IoT with ESP8266 #5: MQTT Subscribe Tutorial | DMA + FreeRTOS with LCD & LED Demo",
+      "content": "Learn how to subscribe to MQTT topics on STM32 with ESP8266 using DMA and FreeRTOS, and control LCD & LED in this IoT demo. \ud83d\udcc1 Download project files & article: STM32 MQTT Subscribe \u261e https://controllerstech.com/mqtt-subscribe-stm32-esp8266/ \ud83d\udcc1 STM32 IoT Tutorials \u261e https://controllerstech.com/stm32-hal/iot-tutorials/ \ud83d\udcc1 ControllersTech Home \u261e https://controllerstech.com/ \u25b6\ufe0e Related Videos: 1\ufe0f\u20e3 STM32 ESP8266 Connect to Wifi (PART 1) \u2192 https://youtu.be/Y3SWPjzqJ3Y 2\ufe0f\u20e3 MQTT Connect and Publish Data (PART 3) \u2192 https://youtu.be/fiRR4Jinw0o 3\ufe0f\u20e3 MQTT Publish using FreeRTOS (PART 4) \u2192 https://youtu.be/gM7X2M1PeMY 4\ufe0f\u20e3 Tasks in STM32 FreeRTOS \u2192 https://youtu.be/muOL9SH0p9g \ud83d\udd14 Subscribe for more STM32 IoT tutorials! \ud83d\udc4d Like & share to help others. \ud83d\udca1 Share this video for STM32 MQTT tips! #STM32 #ESP8266 #MQTT #FreeRTOS #IoT #EmbeddedSystems #DMA #Microcontroller ________________________________________________________________________________________ ******* SUPPORT US ******* \ud83c\udf81 Donate:",
+      "author": "ControllersTech",
+      "timestamp": "2025-10-04 12:31:44+00:00",
+      "url": "https://www.youtube.com/watch?v=QD4AidKZPMg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "STM32 ESP8266 MQTT",
+          "STM32 MQTT tutorial",
+          "ESP8266 MQTT subscribe",
+          "STM32 DMA UART",
+          "FreeRTOS MQTT STM32",
+          "STM32 IoT project",
+          "ESP8266 with STM32",
+          "STM32 MQTT DMA FreeRTOS",
+          "MQTT subscribe STM32",
+          "STM32 LCD1602 MQTT",
+          "STM32 LED control MQTT",
+          "embedded systems tutorial",
+          "STM32 CubeMX MQTT",
+          "IoT project STM32"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QD4AidKZPMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QD4AidKZPMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QD4AidKZPMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QD4AidKZPMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QD4AidKZPMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "QD4AidKZPMg",
+      "channel_id": "UCkdqtSMnhYuMsJkyHOxiPZQ",
+      "view_count": 567,
+      "like_count": 28,
+      "comment_count": 1,
+      "duration": "PT17M17S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "2L9TLO0O4_c",
+      "title": "I FINALLY got WLED and MQTT to work!",
+      "content": "I have been converting my Christmas display over to smart LEDs using WLED and Home Assistant. This year, I wanted to try and improve the underlying electronics that I made custom last year, but getting WLED, MultiRelay, and Home Assistant to work was a pain. In the related video, I show you how I got MQTT to work. Amazon Affiliate Storefront! https://www.amazon.com/shop/thesleepycraftsman Wal-Mart Affiliate Storefront! https://www.walmart.com/global/storefront/thesleepycraftsman",
+      "author": "The Sleepy Craftsman",
+      "timestamp": "2024-12-18 19:26:41+00:00",
+      "url": "https://www.youtube.com/watch?v=2L9TLO0O4_c",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "wled",
+          "home assistant",
+          "led",
+          "pcb",
+          "mqtt"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2L9TLO0O4_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2L9TLO0O4_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2L9TLO0O4_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2L9TLO0O4_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2L9TLO0O4_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "2L9TLO0O4_c",
+      "channel_id": "UC329dZdY6QD4Z3PXC2sswpA",
+      "view_count": 1458,
+      "like_count": 15,
+      "comment_count": 0,
+      "duration": "PT20S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "qmmf4Lr9a0I",
+      "title": "Exploring MQTT Broker on FlowFuse",
+      "content": "\ud83d\ude80 New Video Alert: Simplifying MQTT Broker & Edge Device Communication with FlowFuse \ud83c\udf10 Curious about how FlowFuse's MQTT broker transforms data exchange between edge devices? Watch my latest video to dive into: \ud83d\udd17 Seamless Data Sharing Learn how devices publish and subscribe to MQTT topics, enabling real-time data flow between sensors, controllers, and HMI displays. \ud83d\udcca Practical Use Case See how a sensor sends data to the MQTT broker, empowering a controller to process and return results, creating a feedback loop of actionable insights. \ud83d\udd10 Enhanced Device Management Discover FlowFuse\u2019s fine-grained controls for client configuration, ensuring secure and precise access to MQTT topics for your devices. \ud83c\udf10 Centralized Remote Access Update and configure devices remotely with ease using FlowFuse\u2019s robust platform capabilities. \ud83d\udcc8 Topic Management Made Simple Experience the power of hierarchical topic visualization for efficient management of device data and client connections. \ud83c\udfa5 Watch the",
+      "author": "Rajvir Singh",
+      "timestamp": "2024-12-03 08:00:21+00:00",
+      "url": "https://www.youtube.com/watch?v=qmmf4Lr9a0I",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "cloud broker",
+          "flowfuse",
+          "iiot",
+          "mqtt",
+          "mqtt broker",
+          "mqtt cloud broker"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qmmf4Lr9a0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qmmf4Lr9a0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmmf4Lr9a0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qmmf4Lr9a0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qmmf4Lr9a0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "qmmf4Lr9a0I",
+      "channel_id": "UCuBdjy8v1OWTkbOZcHmCsqQ",
+      "view_count": 662,
+      "like_count": 8,
+      "comment_count": 0,
+      "duration": "PT6S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "p84HexbjdZo",
+      "title": "#MQTT for Raspberry Pi #Pico - #IoT #Microcontroller",
+      "content": "",
+      "author": "Core Electronics",
+      "timestamp": "2024-08-17 22:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=p84HexbjdZo",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p84HexbjdZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p84HexbjdZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p84HexbjdZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p84HexbjdZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p84HexbjdZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "p84HexbjdZo",
+      "channel_id": "UCp5ShPYJvi2EA4hLUERa86w",
+      "view_count": 3026,
+      "like_count": 101,
+      "comment_count": 1,
+      "duration": "PT42S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "fCYWrqoQh84",
+      "title": "Electricity Meter Protocol to Modbus Protocol Gateways with MQTT and LoRaWAN - REDZ LKM Series",
+      "content": "Hello everyone, LKM Series Electricity Meter to Modbus Protocol Gateways are designed to be used with electricity meters that communicates in IEC62056-21 or P1 Companion Standard. The meters that supports IEC62056-21 and P1 Companion Standard has read out tables that has several data such as import energy, export energy, phase voltages and currents. LKM Series Electricity Meter to Modbus Protocol Gateways automatically reads that values and maps to Modbus registers. Field devices or software systems can easily read data over Modbus RTU or Modbus TCP protocol based on device model so that energy meter reading can easily be integrated to field automation systems without need of IEC6056-21 protocol or P1 Companion Standard implementation. LKM Series 868MHz LoRaWAN Meter Reader with Electricity Meter Protocol to Modbus Protocol Gateways can read IEC62056-21 Energy Meters and convert its data to Modbus Registers so that field devices or remote applications can meter data via Modbus TCP. M",
+      "author": "REDZ Smart Communication Technologies",
+      "timestamp": "2024-12-13 09:27:56+00:00",
+      "url": "https://www.youtube.com/watch?v=fCYWrqoQh84",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fCYWrqoQh84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fCYWrqoQh84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fCYWrqoQh84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fCYWrqoQh84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fCYWrqoQh84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "fCYWrqoQh84",
+      "channel_id": "UCEhIpouXY8WpIZQfM5SG7-g",
+      "view_count": 310,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT12S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "RPlU2TBC2ww",
+      "title": "let's get you going on MQTT! Meshtastic! Update: Read second paragraph in description.",
+      "content": "let's get you up and running with MQTT on Meshtastic! Amazing long range, low powered communications! For anyone using mqtt, I've found that you don't have to set the LongFast channel to a specific number ie. 0, but can be added in or removed after your initial private channels are made... hope this helps.",
+      "author": "John Laird",
+      "timestamp": "2024-05-16 19:23:07+00:00",
+      "url": "https://www.youtube.com/watch?v=RPlU2TBC2ww",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "meshtastic",
+          "meshtastic, mqtt",
+          "getting started with mqtt",
+          "Lora radio"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPlU2TBC2ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPlU2TBC2ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPlU2TBC2ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RPlU2TBC2ww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RPlU2TBC2ww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "RPlU2TBC2ww",
+      "channel_id": "UCifx9bi71X_hcfDrii4UB8Q",
+      "view_count": 1661,
+      "like_count": 24,
+      "comment_count": 10,
+      "duration": "PT5M9S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "3hU7QAjavZg",
+      "title": "Open Automation Software MQTT Broker",
+      "content": "MQTT Broker for Open Automation Software to access Industry 4.0 data from third-party MQTT clients. Interface with Modbus, Allen Bradley PLCs, Siemens S7 controllers, OPC UA servers, OPC DA servers, MQTT, Sparkplug B, MTConnect, Kafka, AWS IoT Core, and databases. Data is provided in JSON payloads or as a Sparkplug B EoN. More information: https://openautomationsoftware.com/products/communications/mqtt-broker/",
+      "author": "Open Automation Software",
+      "timestamp": "2025-05-01 22:52:27+00:00",
+      "url": "https://www.youtube.com/watch?v=3hU7QAjavZg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "MQTT",
+          "Sparkplug B"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hU7QAjavZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hU7QAjavZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hU7QAjavZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hU7QAjavZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hU7QAjavZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "3hU7QAjavZg",
+      "channel_id": "UC-G_wFOvCVSz8PQqsbS61EA",
+      "view_count": 158,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT2M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "V0vuB7H0mlE",
+      "title": "New Feature: MQTT data collector for our Data Collection Module (DCM)",
+      "content": "\ud83d\udd0a Feature Update! \ud83c\udd95 The new MQTT data collector for our Data Collection Module (DCM) allows SiteManager users to collect data from any MQTT-compatible device or data source. \ud83e\udd29 Therefore, it extends your data collection options and reinforces your ability to connect Secomea with any OT equipment! \ud83d\udd0c The MQTT data collector can operate in two modes. \u27a1\ufe0f Client mode: where it acts as an MQTT client, collecting data by subscribing to data topics on an external broker or \u27a1\ufe0f Broker mode: where it acts as an MQTT broker, collecting data by allowing external clients to publish data directly to the SiteManager. Both Client and Broker modes can be configured to support different authentication and TLS encryption schemes, allowing Secomea users to tailor a secure solution to collect data from their particular MQTT scenario. \ud83c\udfac Have a look at our video where our Product Owner & Embedded Software Developer, Simon Nygaard Einfeldt, describes the feature in more detail! #remoteaccess #MQTT #OT",
+      "author": "Secomea",
+      "timestamp": "2025-03-20 09:10:25+00:00",
+      "url": "https://www.youtube.com/watch?v=V0vuB7H0mlE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V0vuB7H0mlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V0vuB7H0mlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V0vuB7H0mlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V0vuB7H0mlE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V0vuB7H0mlE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "V0vuB7H0mlE",
+      "channel_id": "UCbdr1q-V1-YRPUAH4xxX_Hw",
+      "view_count": 112,
+      "like_count": 2,
+      "comment_count": 0,
+      "duration": "PT1M51S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NOJozdFo7WI",
+      "title": "Control Stepper motor with MQTT",
+      "content": "",
+      "author": "Maker Tutor",
+      "timestamp": "2025-08-23 01:14:12+00:00",
+      "url": "https://www.youtube.com/watch?v=NOJozdFo7WI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOJozdFo7WI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOJozdFo7WI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOJozdFo7WI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NOJozdFo7WI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NOJozdFo7WI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NOJozdFo7WI",
+      "channel_id": "UCaDCwZpf36YyALB5D_LvWlA",
+      "view_count": 5666,
+      "like_count": 53,
+      "comment_count": 0,
+      "duration": "PT19S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bjrSmvW5gmU",
+      "title": "HiveMQ Enterprise MQTT Platform 4.9 Release",
+      "content": "Watch this video to find our what is new in HiveMQ Enterprise MQTT Platform 4.9. Download HiveMQ to try our reliable, scalable and fast MQTT broker. https://bit.ly/3DuzlW9 Time-stamps: 0:00 Introduction 0:28 Improved Observability for IoT applications with HiveMQ Distributed Tracing Extension 01:15 High flexibility with HiveMQ Enterprise Extension for Google Cloud Pub/Sub 01:59 Disaster Recovery and Controls Tool 02:27 Security Controls via the REST API Resources: \ud83d\udc49What's New in HiveMQ Enterprise MQTT Platform 4.9 [Full article] https://bit.ly/3TyJPcD \ud83d\udc49How to use Distributed Tracing to maximize the Observability of your IoT applications https://bit.ly/3SzBG6j \ud83d\udc49HiveMQ & Google Cloud - Enabling Bi-directional MQTT Data Movement https://bit.ly/3FeoiSj \ud83d\udc49Download HiveMQ 4.9 https://bit.ly/3DuzlW9 \ud83d\udc49HiveMQ Enterprise Extension for Google Pub/Sub https://bit.ly/3Ub05k7 \ud83d\udc49HiveMQ Distributed Tracing Extension https://bit.ly/3DuX0Wv Music credentials: bensound.com #HiveMQ #HiveMQ4.9 #mqtt",
+      "author": "HiveMQ",
+      "timestamp": "2022-10-25 12:23:33+00:00",
+      "url": "https://www.youtube.com/watch?v=bjrSmvW5gmU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bjrSmvW5gmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bjrSmvW5gmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bjrSmvW5gmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bjrSmvW5gmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bjrSmvW5gmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bjrSmvW5gmU",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 509,
+      "like_count": 4,
+      "comment_count": 0,
+      "duration": "PT3M24S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "eMJHnufXIqQ",
+      "title": "u-blox MQTT Anywhere",
+      "content": "MQTT Anywhere is a SIM-based communication solution supporting 2G, 3G, LTE, and LTE-M. MQTT Anywhere can be used within any type of IoT device to send and receive MQTT-SN (MQTT for sensor networks) messages. It provides an ultra-low-power, secure IoT communication service operating across 600+ cellular carriers in 190 countries around the world. Find out more here: https://www.u-blox.com/en/product/mqtt-anywhere Find answers, ask questions and connect with our community of u-blox users from around the world: https://portal.u-blox.com/s/ Check out our social media channels: Facebook: https://www.facebook.com/ublox/ Twitter: https://twitter.com/ublox?lang=en LinkedIn: https://linkedin.com/company/u-blox Instagram: https://www.instagram.com/ublox_/ #mqtt #lte #2G #3G #iot",
+      "author": "u-blox",
+      "timestamp": "2023-04-25 07:26:18+00:00",
+      "url": "https://www.youtube.com/watch?v=eMJHnufXIqQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMJHnufXIqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMJHnufXIqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMJHnufXIqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eMJHnufXIqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eMJHnufXIqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "eMJHnufXIqQ",
+      "channel_id": "UCH-UZZTxKHAVE230zY8mvxQ",
+      "view_count": 1628,
+      "like_count": 10,
+      "comment_count": 0,
+      "duration": "PT2M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Kwth--2iTGk",
+      "title": "C4 ESP32 MQTT WITH DASHBOARD JS | For Fun Guys #anakteknik #esp32 #tugasakhir",
+      "content": "",
+      "author": "Kerhor Tech",
+      "timestamp": "2025-04-28 13:49:53+00:00",
+      "url": "https://www.youtube.com/watch?v=Kwth--2iTGk",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kwth--2iTGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kwth--2iTGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kwth--2iTGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kwth--2iTGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kwth--2iTGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "id",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Kwth--2iTGk",
+      "channel_id": "UCSY0qnbfYSukhLMXiw1SxuA",
+      "view_count": 23506,
+      "like_count": 153,
+      "comment_count": 1,
+      "duration": "PT15S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "M86gnsbmLTY",
+      "title": "Top 5 Free MQTT Servers for IoT",
+      "content": "Here are the Top 5 Free MQTT Brokers which we can use in our IoT Projects. 1. Eclipse Mosquitto 2. Hive MQ 3. AdafruitIO 4. CloudMQTT 5. ThingsBoard Comment out, which one you choose for your IoT Project.",
+      "author": "IoT Users Club",
+      "timestamp": "2025-03-11 18:30:24+00:00",
+      "url": "https://www.youtube.com/watch?v=M86gnsbmLTY",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "iot",
+          "iot users club",
+          "iot tutorial",
+          "iot mqtt servers",
+          "iot mqtt broker"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M86gnsbmLTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M86gnsbmLTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M86gnsbmLTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M86gnsbmLTY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M86gnsbmLTY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "M86gnsbmLTY",
+      "channel_id": "UC0rm_Mtkc6l8bAa_7nrfryQ",
+      "view_count": 362,
+      "like_count": 14,
+      "comment_count": 0,
+      "duration": "PT41S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "30gNlOhK-ew",
+      "title": "ESP32C3 NeoPixel MQTT IoT Controlled.",
+      "content": "#iot #mqtt #embedded #esp32 #wifi",
+      "author": "Useful Electronics",
+      "timestamp": "2023-01-18 15:10:29+00:00",
+      "url": "https://www.youtube.com/watch?v=30gNlOhK-ew",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/30gNlOhK-ew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/30gNlOhK-ew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/30gNlOhK-ew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/30gNlOhK-ew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/30gNlOhK-ew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "30gNlOhK-ew",
+      "channel_id": "UC5zdou2_vz6rjpqMJ23UnQg",
+      "view_count": 654,
+      "like_count": 19,
+      "comment_count": 0,
+      "duration": "PT1M"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "dmV0_8vty5k",
+      "title": "Cheapest Cloud MQTT broker for Home Automation | How to use Reyax MQTT Broker using NodeMCU board",
+      "content": "This Video will guide you with how to use Reyax RYC1001 MQTT broker. I have demonstrated that by making my own Home Automation project using NodeMCU board and one MQTT client application. Purchase link - http://amzn.to/3hAY5zp Reyax Support - sales@reyax.com Thanks Altium for sponsoring this video, Altium Designer - https://www.altium.com/yt/techiesms JOIN techiesms membership for less than a Dollar - https://www.youtube.com/channel/UC7raRsx4ojx3cyXT3x9-PuQ/join You can support me\ud83d\ude4f\ud83c\udffb and also get benefitted on Patreon :- https://www.patreon.com/techiesms Subscribe now\ud83d\udcaa\ud83c\udffb to watch some amazing videos coming up soon. http://bit.ly/techiesms_youtube _________________________________________________________________ \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Important Links \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb Purchase link - http://amzn.to/3hAY5zp Reyax Support - sales@reyax.com MQTT Protocol Explained - https://youtu.be/oskVCBq8Fsk Android application - https://play.google.com/store/apps/details?id=goliath.mobile.device.iotonoff iOS applicatio",
+      "author": "techiesms",
+      "timestamp": "2021-01-02 22:15:01+00:00",
+      "url": "https://www.youtube.com/watch?v=dmV0_8vty5k",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Mqtt",
+          "reyax",
+          "reyax mqtt",
+          "Mqtt esp8266",
+          "Mqtt nodemcu",
+          "mqtt home automation",
+          "reyax ryc1001",
+          "iot",
+          "cloud mqtt",
+          "esp8266 projects",
+          "iot projects"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dmV0_8vty5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dmV0_8vty5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dmV0_8vty5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dmV0_8vty5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dmV0_8vty5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "dmV0_8vty5k",
+      "channel_id": "UC7raRsx4ojx3cyXT3x9-PuQ",
+      "view_count": 15432,
+      "like_count": 352,
+      "comment_count": 62,
+      "duration": "PT20M34S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "hW8MIyfwBeM",
+      "title": "Open Automation Software: MQTT Connector",
+      "content": "The OAS MQTT Connector is your complete solution for industrial data exchange. With a built-in MQTT gateway, you can easily connect to MQTT devices and software brokers. The OAS Platform functions as both an MQTT broker and an MQTT client, giving you maximum flexibility for real-time data handling. Publish Industry 4.0 data to MQTT Brokers and receive data from MQTT Brokers and parse JSON payloads. MQTT Connector: https://openautomationsoftware.com/products/communications/mqtt-connector/ All Device and Data Connectors: https://openautomationsoftware.com/products/device-data-connectors/ Subscribe for more industrial automation & IIoT videos!",
+      "author": "Open Automation Software",
+      "timestamp": "2025-04-26 20:59:09+00:00",
+      "url": "https://www.youtube.com/watch?v=hW8MIyfwBeM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "sparkplug b",
+          "mqtt connector",
+          "mqtt connect",
+          "connect mqtt data",
+          "industrial data exchange",
+          "mqtt gateway",
+          "mqtt devices and software brokers",
+          "mqtt broker",
+          "mqtt client",
+          "industrial automation",
+          "iiot",
+          "industrial internet of things",
+          "iiot automation",
+          "iiot software",
+          "iiot solutions",
+          "oas",
+          "open automation software",
+          "what is mqtt?",
+          "mqtt for beginners",
+          "mqtt protocol in iot",
+          "how to use mqtt",
+          "mqtt tutorial",
+          "mqtt protocol",
+          "internet of things",
+          "mqtt explained",
+          "what is mqtt"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hW8MIyfwBeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hW8MIyfwBeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hW8MIyfwBeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hW8MIyfwBeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hW8MIyfwBeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "hW8MIyfwBeM",
+      "channel_id": "UC-G_wFOvCVSz8PQqsbS61EA",
+      "view_count": 52,
+      "like_count": 0,
+      "comment_count": 0,
+      "duration": "PT2M56S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "AJ86H2IhHkc",
+      "title": "ESP32 with Raspberry pi 4B! It works! #raspberrypi #esp32 #mqtt",
+      "content": "",
+      "author": "AnalytiCode Projects",
+      "timestamp": "2025-07-18 21:19:15+00:00",
+      "url": "https://www.youtube.com/watch?v=AJ86H2IhHkc",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AJ86H2IhHkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AJ86H2IhHkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AJ86H2IhHkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AJ86H2IhHkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AJ86H2IhHkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "AJ86H2IhHkc",
+      "channel_id": "UCJjfCJQgUsK61RMrYRQ_47w",
+      "view_count": 2763,
+      "like_count": 45,
+      "comment_count": 2,
+      "duration": "PT40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "NQ0-f0azG8o",
+      "title": "MQTT Unit with RJ45 Port (APM32F103) | M5Stack September 2021 New Products Introduction",
+      "content": "UNIT MQTT is an Ethernet MQTT communication module with an embedded ARM Cortex-M3 processor, UART communication interface (AT command control), and integrated RJ45 adaptive 10/100M network port. It also supports 4 Topics subscriptions with extremely low network latency and is widely used in various industrial automation, security monitoring systems, automatic measurement and control systems, and equipment data on the cloud. FIND OUT MORE:https://bit.ly/3lObhmQ",
+      "author": "M5Stack",
+      "timestamp": "2021-09-24 11:12:11+00:00",
+      "url": "https://www.youtube.com/watch?v=NQ0-f0azG8o",
+      "metadata": {
+        "category_id": "28",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NQ0-f0azG8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NQ0-f0azG8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NQ0-f0azG8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NQ0-f0azG8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NQ0-f0azG8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "NQ0-f0azG8o",
+      "channel_id": "UCozgFVglWYQXbvTmGyS739w",
+      "view_count": 7688,
+      "like_count": 133,
+      "comment_count": 4,
+      "duration": "PT36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bmBN_pP5rWU",
+      "title": "Why use MQTT instead of HTTP in IoT applications?",
+      "content": "\ud83e\udd16\ud83d\udcf6 Why use MQTT instead of HTTP in IoT applications? MQTT is a lightweight, efficient protocol that's designed for low-power devices and unreliable networks. It's perfect for sending small packets of data quickly and reliably, making it ideal for IoT applications. Check out our latest blog post to learn more! \ud83d\ude80 #IoT #MQTT #HTTP",
+      "author": "CDEBYTE",
+      "timestamp": "2023-03-28 09:39:13+00:00",
+      "url": "https://www.youtube.com/watch?v=bmBN_pP5rWU",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "iot",
+          "mqtt",
+          "http"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bmBN_pP5rWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bmBN_pP5rWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bmBN_pP5rWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bmBN_pP5rWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bmBN_pP5rWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bmBN_pP5rWU",
+      "channel_id": "UClIoI77NzA2RasepWP1n4UA",
+      "view_count": 8575,
+      "like_count": 141,
+      "comment_count": 2,
+      "duration": "PT2M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "c_lfj8_ZHF8",
+      "title": "Bambu Lab Filament Tracking with MQTT \u2013 Work in Progress!",
+      "content": "\ud83d\ude80 Tracking Bambu Lab Filament with MQTT & AMS RFID! \ud83c\udfa5 Managing filament inventory across multiple Bambu Lab 3D printers can be a challenge. That\u2019s why I started working on a filament tracking system using MQTT and the RFID scanners inside the AMS. This project is still a work in progress, but I\u2019m already capturing real-time spool data and storing it for better filament management. \ud83d\udd25 What This Project Does (So Far): \u2705 Uses Bambu Lab AMS RFID to identify loaded spools \u2705 Captures filament data using MQTT \u2705 Stores & tracks filament usage automatically \u2705 Plans for web-based filament inventory tracking \ud83d\udee0\ufe0f Next Steps: Improving filament usage tracking \ud83d\udcca Creating a dashboard for real-time spool monitoring \ud83d\udcbb Automating spool stock updates \ud83d\udd04 \ud83d\udcac Have ideas or suggestions? Let me know in the comments! \ud83d\udc4d If you found this interesting, hit LIKE & SUBSCRIBE for updates as I refine this system! Using: Python Ha-Bambulab's pybambu: https://github.com/greghesp/ha-bambulab/tree/main/custom_components",
+      "author": "Ficking Games",
+      "timestamp": "2025-02-07 20:30:04+00:00",
+      "url": "https://www.youtube.com/watch?v=c_lfj8_ZHF8",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "Bambu Lab",
+          "3D printing",
+          "MQTT",
+          "filament tracking",
+          "AMS",
+          "Bambu Studio",
+          "RFID",
+          "3D printer automation",
+          "filament inventory",
+          "Bambu Lab AMS",
+          "smart filament management",
+          "tracking filament spools",
+          "automatic filament tracking",
+          "filament stock management",
+          "DIY 3D printing project",
+          "Bambu printer hacks",
+          "Bambu Lab AMS tracking",
+          "filament usage monitoring",
+          "RFID filament tracking",
+          "automation for 3D printing",
+          "open source 3D printing",
+          "custom 3D printing setup"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_lfj8_ZHF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_lfj8_ZHF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_lfj8_ZHF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c_lfj8_ZHF8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c_lfj8_ZHF8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-US",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "c_lfj8_ZHF8",
+      "channel_id": "UCcssabOPj5051PreABBcv9Q",
+      "view_count": 993,
+      "like_count": 16,
+      "comment_count": 12,
+      "duration": "PT2M52S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "IQ5au-XRL_s",
+      "title": "The Best Alternative to Google Cloud IoT Core for Integrating Your MQTT Data with GCP",
+      "content": "Google has announced deprecation plans for Google IoT Core. With less than a year left to migrate endpoints and applications, enterprises must now look for a viable alternative which is proven to work with the Google Cloud Platform. Check out HiveMQ, the leading MQTT Broker, primed for Google Cloud. https://bit.ly/3QbnUpb Watch this video to find out why HiveMQ is the best replacement to Google IoT Core. Time-stamps: 00:10 Google IoT Core is being retired on August 16, 2023 00:42 Why Choose HiveMQ, a full-feature MQTT broker, as a replacement to Google IoT Core 00:50 Reason 1. HiveMQ is based on open standards 01:24 Reason 2. Scalability and reliability of HiveMQ 02:04 Reason 3. Deep integration with Google Cloud. HiveMQ has an extension for Google PubSub. 02:33 What are the main capabilities of Google PubSub Extension from HiveMQ? More resources: \ud83d\udc49 The Leading MQTT Broker Primed for Google Cloud Article https://bit.ly/3AKJHPc \ud83d\udc49 MQTT Essentials eBook https://bit.ly/3Pbobsp \ud83d\udc49 MQTT E",
+      "author": "HiveMQ",
+      "timestamp": "2022-09-02 12:45:01+00:00",
+      "url": "https://www.youtube.com/watch?v=IQ5au-XRL_s",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt",
+          "mqtt broker",
+          "google iot core",
+          "GCP",
+          "Google Cloud Platform",
+          "IoT",
+          "Google Cloud"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQ5au-XRL_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQ5au-XRL_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQ5au-XRL_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IQ5au-XRL_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IQ5au-XRL_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "IQ5au-XRL_s",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 3580,
+      "like_count": 20,
+      "comment_count": 2,
+      "duration": "PT4M13S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "k5o0DiO6ny4",
+      "title": "What's MQTT? | Network Essentials",
+      "content": "Explore the basics of MQTT (Message Queuing Telemetry Transport) in the newest Network Essentials series. Understand its 'publish' and 'subscribe' model, the roles of Publisher, Subscriber, Broker, and Topic, and how MQTT facilitates data transmission and remote control. Discover how it powers remote monitoring, commands, and fosters flexible communication structures for IoT Website - https://teltonika-networks.com Wiki - https://wiki.teltonika-networks.com/ Crowd-Support Forum - https://community.teltonika-networks.com/ CONNECT WITH US: Subscribe to Our Newsletter - https://teltonika-networks.com/subscribe/ Linkedin - https://www.linkedin.com/company/teltonika-networks Facebook - https://www.facebook.com/teltonikanetworks Instagram - https://www.instagram.com/teltonikanetworksofficial Twitter - https://twitter.com/TeltonikaNET",
+      "author": "Teltonika Networks",
+      "timestamp": "2023-12-13 14:21:46+00:00",
+      "url": "https://www.youtube.com/watch?v=k5o0DiO6ny4",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Network Essentials",
+          "MQTT",
+          "Message Queuing Telemetry Transport",
+          "Publish Subscribe Model",
+          "Publisher",
+          "Subscriber",
+          "Broker",
+          "Topic",
+          "Telemetry Data Transmission",
+          "Communication Protocol",
+          "Remote Monitoring",
+          "Temperature Sensor",
+          "Data Transmission",
+          "Commands",
+          "Data Packets",
+          "Communication Structure",
+          "MQTT Protocol",
+          "Subscriber Topics",
+          "Logical Relationship",
+          "Data Sources",
+          "Remote Control",
+          "Internet of Things",
+          "IoT",
+          "Communication Flexibility",
+          "Information Retrieval"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k5o0DiO6ny4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k5o0DiO6ny4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5o0DiO6ny4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k5o0DiO6ny4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k5o0DiO6ny4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "k5o0DiO6ny4",
+      "channel_id": "UCNCdr8qUvlBZgG3sHaLtc-g",
+      "view_count": 6884,
+      "like_count": 148,
+      "comment_count": 8,
+      "duration": "PT3M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "_FSQEE0F3hY",
+      "title": "SMlight SLZB-MR1 \u2013 usage, ZHA + Zigbee2mqtt, Zigbee2mqtt + Zigbee2mqtt. Part 2",
+      "content": "The second part of the video about the SMlight SLZB-MR1 multiprotocol network gateway with two radio modules. In the first part of the video, I talked about its construction, showed the interface capabilities in detail, and demonstrated its built-in integration with Home Assistant. In this part, we will explore its usage in zigbee + zigbee mode \u2013 in the ZHA + Zigbee2mqtt and Zigbee2mqtt + Zigbee2mqtt scenarios. The installation of ZHA and Zigbee2mqtt is shown from the beginning, and in the case of Zigbee2mqtt \u2013 through the web interface, without editing configuration files, including the setup of the second instance of the add-on. \ud83c\udfa5 Part one of the video - https://youtu.be/p5gW_V5yIrg \ud83c\udfa5 Part two of the video - https://youtu.be/_FSQEE0F3hY \ud83c\udfa5 Part three of the video - https://youtu.be/zBwDFMliTq4 Templates \u2013 Mosquitto Broker Configuration username: mqtt password: mqtt Zigbee2mqtt repository address https://github.com/zigbee2mqtt/hassio-zigbee2mqtt \ud83d\udcb3Buy on Aliexpress (if the first li",
+      "author": "Alex Kvazis - \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0443\u043c\u043d\u043e\u0433\u043e \u0434\u043e\u043c\u0430",
+      "timestamp": "2025-06-14 17:55:38+00:00",
+      "url": "https://www.youtube.com/watch?v=_FSQEE0F3hY",
+      "metadata": {
+        "category_id": "22",
+        "tags": [
+          "kvazis",
+          "alex kvazis",
+          "home assistant",
+          "home assistant \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432",
+          "zigbee",
+          "zigbee home assistant",
+          "\u0443\u043c\u043d\u044b\u0439 \u0434\u043e\u043c",
+          "zigbee \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430",
+          "\u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 zigbee",
+          "zigbee hub",
+          "zigbee coordinator",
+          "zigbee \u0441\u0435\u0442\u044c",
+          "smart home",
+          "dom\u00f3tica",
+          "\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0456\u044f",
+          "\u0440\u043e\u0437\u0443\u043c\u043d\u0438\u0439 \u0434\u0456\u043c",
+          "\u0443\u043c\u043d\u044b\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430",
+          "smart home automation",
+          "home assistant tutorial",
+          "zigbee integration",
+          "\u0434\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f",
+          "zigbee \u0434\u043b\u044f \u043d\u043e\u0432\u0438\u0447\u043a\u043e\u0432",
+          "home assistant espa\u00f1ol",
+          "home assistant \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u044e",
+          "zigbee2mqtt",
+          "SMlight SLZB-MR1",
+          "SMlight",
+          "CC2652P7",
+          "EFR32MG21"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_FSQEE0F3hY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_FSQEE0F3hY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_FSQEE0F3hY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_FSQEE0F3hY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_FSQEE0F3hY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "_FSQEE0F3hY",
+      "channel_id": "UCcq9onYHbs6go3kDpfBoqhg",
+      "view_count": 8584,
+      "like_count": 262,
+      "comment_count": 34,
+      "duration": "PT23M58S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "Cou6PT8nF3E",
+      "title": "Use MQTT with Shelly Plus H&T",
+      "content": "I did my Shelly Plus H&T review 7 months ago, and I said to cover the MQTT part in the future. Well the future is now. So let's see how to configure it, and what information you can get out of the device. The flow: https://github.com/nygma2004/km/blob/main/shellyplusht_to_influx.json Original review: https://youtu.be/QlksKRtlUKg How to configure H&T as an external sensor for the TRV: https://youtu.be/moZotBzi628 Plus H&T: https://shelly.cloud/shelly_plus_h-t/ Chapters: 0:00 Intro 1:08 Settings recap 2:32 Setting up MQTT 4:21 MQTT structure 9:24 Process data in Node-Red 11:29 Data stored in Influx 14:45 Outro",
+      "author": "Csongor Varga",
+      "timestamp": "2023-03-30 14:13:13+00:00",
+      "url": "https://www.youtube.com/watch?v=Cou6PT8nF3E",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "shelly",
+          "temperature",
+          "humidity",
+          "sensor",
+          "smart home",
+          "home automation",
+          "scene",
+          "webhook",
+          "reading",
+          "app",
+          "monitoring",
+          "cloud",
+          "data storage",
+          "visuals",
+          "display",
+          "e-ink",
+          "measure temperature and humidity",
+          "shelly thermostat",
+          "how to control room temperature with shelly",
+          "use shelly as a thermostat",
+          "how to configure MQTT",
+          "mqtt data structure",
+          "RPC data structure",
+          "mqtt topic",
+          "mqtt communication",
+          "mqtt connection",
+          "read mqtt data"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cou6PT8nF3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cou6PT8nF3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cou6PT8nF3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cou6PT8nF3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cou6PT8nF3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "Cou6PT8nF3E",
+      "channel_id": "UCdRpPAsQbIaVpn_vS2_omPw",
+      "view_count": 14651,
+      "like_count": 78,
+      "comment_count": 11,
+      "duration": "PT15M36S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "OD2pxBN-MyI",
+      "title": "MQTT Explained: Basics, Components, Working, Methods, Advantages, and Applications",
+      "content": "MQTT - Message Queuing Telemetry Transport is explained with the following timecodes: 0:00 \u2013 MQTT - Message Queuing Telemetry Transport 0:31 \u2013 MQTT Basics 3:05 \u2013 MQTT Components 6:01 \u2013 Working of MQTT 7:40 \u2013 MQTT Methods 8:24 \u2013 Advantages of MQTT 9:01 \u2013 Applications of MQTT MQTT - Message Queuing Telemetry Transport is explained with the following outlines 1. IoT - Internet of Things 2. MQTT - Message Queuing Telemetry Transport 3. Message Queuing Telemetry Transport Basics 4. Message Queuing Telemetry Transport Components 5. Working of Message Queuing Telemetry Transport 6. Message Queuing Telemetry Transport Methods 7. Advantages of Message Queuing Telemetry Transport 8. Applications of Message Queuing Telemetry Transport Chapter-wise detailed Syllabus of the Internet of Things - IoT Course is as follows: Chapter-1 IoT Fundamentals: https://www.youtube.com/playlist?list=PLgwJf8NK-2e4_VQdy5Yd-tSHF2U8zu9pN IoT Introduction, IoT Components, Advantages and Disadvantages of IoT, Io",
+      "author": "Engineering Funda",
+      "timestamp": "2023-11-14 03:30:12+00:00",
+      "url": "https://www.youtube.com/watch?v=OD2pxBN-MyI",
+      "metadata": {
+        "category_id": "27",
+        "tags": [
+          "MQTT",
+          "Message Queuing Telemetry Transport",
+          "IoT",
+          "Internet of Things",
+          "Engineering Funda",
+          "Basics of MQTT",
+          "MQTT Components",
+          "Working of MQTT",
+          "MQTT Methods",
+          "Advantages of MQTT",
+          "Applications of MQTT",
+          "Basics of Message Queuing Telemetry Transport",
+          "Message Queuing Telemetry Transport Components",
+          "mqtt protocol in iot",
+          "mqtt in iot",
+          "IoT Tutorial",
+          "IoT Basics",
+          "IoT Devices",
+          "IoT Connectivity",
+          "IoT Playlist",
+          "IoT Hardware",
+          "IoT Software",
+          "IoT Security",
+          "IoT - Internet of Things"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OD2pxBN-MyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OD2pxBN-MyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OD2pxBN-MyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OD2pxBN-MyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OD2pxBN-MyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "OD2pxBN-MyI",
+      "channel_id": "UCdlnqMpRrMcClK2fT6z8EEw",
+      "view_count": 62887,
+      "like_count": 1058,
+      "comment_count": 38,
+      "duration": "PT9M25S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "jCzsN81Gvo0",
+      "title": "ESP32 MQTT in Action \u2013 How to Subscribe & Publish with ESP-IDF",
+      "content": "Learn how to implement MQTT communication on the ESP32 to enable seamless message exchange between IoT devices. \ud83d\udcc1 Download project files & article: ESP32 MQTT Tutorial \u261e https://controllerstech.com/esp32-mqtt-using-espressif-ide/ \ud83d\udcc1 ESP32 Tutorials \u261e https://controllerstech.com/esp32-tutorials/ \ud83d\udcc1 ControllersTech Home \u261e https://controllerstech.com/ \ud83d\udcdc MQTT Documentation \u261e https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/protocols/mqtt.html \u25b6\ufe0e Related Videos: 1\ufe0f\u20e3 ESP32 Wi-Fi STA Mode (PART 1) \u2192 https://youtu.be/N83e7d4oNlM \ud83d\udd14 Subscribe for more ESP32 tutorials! \ud83d\udc4d Like & share to help others. \ud83d\udca1 Share this video for ESP32 IoT tips! #ESP32 #MQTT #IoT #ESP32Tutorial #MQTTSubscribe #MQTTPublish #Controllerstech ________________________________________________________________________________________ ******* SUPPORT US ******* \ud83c\udf81 Donate: https://paypal.me/controllertech \ud83c\udf93 Join Membership: https://www.youtube.com/channel/UCkdqtSMnhYuMsJkyHOxiPZQ/join \ud83c\udf10",
+      "author": "ControllersTech",
+      "timestamp": "2025-08-16 12:33:37+00:00",
+      "url": "https://www.youtube.com/watch?v=jCzsN81Gvo0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "ESP32",
+          "ESP32 MQTT",
+          "ESP32 MQTT tutorial",
+          "MQTT ESP-IDF",
+          "ESP32 subscribe publish",
+          "ESP32 IoT project",
+          "MQTT tutorial",
+          "ESP-IDF MQTT",
+          "ESP32 MQTT subscribe",
+          "ESP32 MQTT publish",
+          "HiveMQ ESP32",
+          "MQTT broker ESP32",
+          "ESP32 MQTT example",
+          "ESP32 real time data",
+          "ESP32 IoT tutorial",
+          "MQTT protocol ESP32",
+          "IoT with ESP32",
+          "ESP32 projects",
+          "ESP32 MQTT communication",
+          "ESP32 MQTT code",
+          "ESP-IDF tutorial",
+          "ESP32 programming",
+          "ESP32 MQTT example code",
+          "MQTT for beginners",
+          "ESP32 cloud communication"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCzsN81Gvo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCzsN81Gvo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCzsN81Gvo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jCzsN81Gvo0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jCzsN81Gvo0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "jCzsN81Gvo0",
+      "channel_id": "UCkdqtSMnhYuMsJkyHOxiPZQ",
+      "view_count": 3271,
+      "like_count": 87,
+      "comment_count": 10,
+      "duration": "PT16M1S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "dqTn-Gk4Qeo",
+      "title": "Home Assistant MQTT Install and Setup - A Beginner's Guide",
+      "content": "MQTT and Home Assistant are extremely powerful when paired together and can be used on a wide range of applications, but what is MQTT and how does it work? How do we add it to our Home Assistant Installation? In this video I will show you how to install the Mosquitto Broker add-on in Home Assistant and install the MQTT integration so that you can be up and running with MQTT very quickly! We also discuss a MQTT topics, QoS (Quality of Service) and how to publish and subscribe as well as how to configure a Shelly smart home device with MQTT. If you'd like to support me and future projects: Patreon: https://www.patreon.com/everythingsmarthome Buy Me a Coffee: https://www.buymeacoffee.com/EverySmartHome Written Article: https://everythingsmarthome.co.uk/howto/how-to-install-an-mqtt-broker-mosquitto-install-config-on-debian-ubuntu-mint-fedora-raspbian/ EVERYWHERE YOU CAN FIND ME: Everything Smart Home Community Discord: https://discord.gg/Bgfvy2f Twitter: https://twitter.com/EverySmartH",
+      "author": "Everything Smart Home",
+      "timestamp": "2021-03-30 18:00:22+00:00",
+      "url": "https://www.youtube.com/watch?v=dqTn-Gk4Qeo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "home assistant mqtt",
+          "home assistant mqtt broker",
+          "home assistant mqtt setup",
+          "home assistant mqtt install",
+          "home assistant mqtt integration",
+          "home assistant mqtt addon",
+          "home assistant mosquitto",
+          "mqtt",
+          "smart home mqtt",
+          "mqtt smart home",
+          "shelly mqtt",
+          "home assistant shelly",
+          "home assistant shelly mqtt",
+          "shelly home assistant",
+          "shelly home assistant mqtt",
+          "home assistant",
+          "home automation",
+          "home assistant mqtt publish",
+          "home assistant mqtt subscribe"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dqTn-Gk4Qeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dqTn-Gk4Qeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dqTn-Gk4Qeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dqTn-Gk4Qeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dqTn-Gk4Qeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "dqTn-Gk4Qeo",
+      "channel_id": "UCrVLgIniVg6jW38uVqDRIiQ",
+      "view_count": 346849,
+      "like_count": 4664,
+      "comment_count": 224,
+      "duration": "PT10M44S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "KAYNg7meAdo",
+      "title": "What is MQTT? - Part I - The Foundation",
+      "content": "In this video, Walker Reynolds shares the basic architecture of MQTT, its background, and shows an example of a use case using MQTT 3.1.1 technology. Thank you EMQ for sponsoring this video. Learn more about EMQ-X the Enterprise Broker \ud83d\udc49 https://www.emqx.io Watch the rest of the 4-Part OPC & MQTT Series --------------------------------------------------------------------------- OPC Part I - https://youtu.be/ApxtnOTVbzY OPC Part II - https://youtu.be/6Fns92nrrYM MQTT Part I - https://youtu.be/KAYNg7meAdo MQTT Part II - https://youtu.be/epx1Y5p4jtU Thanks for watching! Subscribe! \ud83d\udc49 https://bit.ly/SubTo40Solutions LinkedIn \ud83d\udc49 https://bit.ly/40SolutionsLinkedIn Twitter \ud83d\udc49 https://bit.ly/40SolutionsTwitter Want to learn more? Join our community Discord Server \ud83d\udc49 https://bit.ly/Industry40DIscord Take the FREE IIoT Mini-Course \ud83d\udc49 https://bit.ly/iiotmini-course #IIoT #Industry40 #DigitalTransformation",
+      "author": "4.0 Solutions",
+      "timestamp": "2021-08-25 21:21:54+00:00",
+      "url": "https://www.youtube.com/watch?v=KAYNg7meAdo",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "intellic integration",
+          "walker reynolds",
+          "intellic",
+          "iiot",
+          "industry 4.0",
+          "digital factory",
+          "digital transformation",
+          "what is MQTT?",
+          "what is Sparkplug B?",
+          "sparkplugb",
+          "mqtt 5",
+          "mqtt 3.1.1",
+          "ignition mqtt",
+          "mqtt for industry",
+          "hivemq",
+          "emqx",
+          "mqtt broker explained",
+          "mqtt broker",
+          "mqtt explained"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KAYNg7meAdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KAYNg7meAdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KAYNg7meAdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KAYNg7meAdo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KAYNg7meAdo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "KAYNg7meAdo",
+      "channel_id": "UC0pqyal5bd2AUT8hTTJQq0Q",
+      "view_count": 46257,
+      "like_count": 949,
+      "comment_count": 48,
+      "duration": "PT12M42S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "iBn8KZpspQQ",
+      "title": "MQTT vs OPCUA | Differences and Similarities",
+      "content": "MQTT vs OPC UA , What are the differences and similarities , Read the full article on our Linkedin : https://www.linkedin.com/feed/update/urn:li:activity:7265019820855713795 #industrialautomation #automation #rtu #plcprogramming #mqtt #opcua",
+      "author": "INDAUTECH | Industrial Automation Technologies",
+      "timestamp": "2025-01-01 20:01:50+00:00",
+      "url": "https://www.youtube.com/watch?v=iBn8KZpspQQ",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "industrialautomation",
+          "plc",
+          "opcua",
+          "opc",
+          "mqtt",
+          "mqttvsopc",
+          "opcvsmqtt",
+          "what is mqtt",
+          "what is opc"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iBn8KZpspQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iBn8KZpspQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iBn8KZpspQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iBn8KZpspQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iBn8KZpspQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "iBn8KZpspQQ",
+      "channel_id": "UCXXErXVkZZbZx4_14UcT33A",
+      "view_count": 3252,
+      "like_count": 15,
+      "comment_count": 0,
+      "duration": "PT7S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "N9283BRI2ng",
+      "title": "Shelly Pro 4PM Home Assistant, MQTT & HTTP integration (HOW-TO)",
+      "content": "Shelly Amazon Store - https://amzn.to/34d88VR I\u2019m super excited, because In this video I will review one of the latest Shelly products called @Shelly_IoTPro 4PM then I will integrate it with Home Assistant and finally, I will show you how you can control the device using MQTT and HTTP. #Shelly #Pro #4PM is a Professional 4 channels relay with Wi-Fi, LAN, and Bluetooth connection, where the Bluetooth is only used during the initial inclusion and pairing. It has 4 outputs with up to 16A per output and up to 40A for the whole device. It also have several safety features like Overpower and over-voltage protection of the load as well as device temperature protection. The Shelly PRO 4PM is more than suitable for automations as it is compatible with the most used home automation platforms like Home Assistant as we will see later and allows remote control and precise power management. Shelly PRO 4PM DIN rail mountable inside a breaker box and it has a 1.8-inch color screen with navigation k",
+      "author": "KPeyanski",
+      "timestamp": "2021-11-03 16:15:00+00:00",
+      "url": "https://www.youtube.com/watch?v=N9283BRI2ng",
+      "metadata": {
+        "category_id": "26",
+        "tags": [
+          "shelly pro 4pm",
+          "shelly pro 4 pm",
+          "shelly pro 4pm review",
+          "shelly pro 4pm home assistant",
+          "shelly pro 4pm wiring",
+          "shelly pro 4pm mqtt",
+          "shelly pro 4pm http",
+          "shelly pro 4pm home assistant automations",
+          "what is shelly pro 4pm",
+          "shelly pro 4pm home assistant Device unsupported firmware version error",
+          "shelly pro 4pm pros and cons",
+          "shelly pro 4pm pros",
+          "shelly pro 4pm cons",
+          "Shelly Pro 4PM MQTT Integration How-to",
+          "Shelly Pro 4PM HTTP Integration How-to",
+          "kpeyanski",
+          "Peyanski",
+          "Kiril Peyanski"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9283BRI2ng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9283BRI2ng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9283BRI2ng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9283BRI2ng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9283BRI2ng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "N9283BRI2ng",
+      "channel_id": "UCiyU6otsAn6v2NbbtM85npg",
+      "view_count": 20857,
+      "like_count": 253,
+      "comment_count": 23,
+      "duration": "PT16M50S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "iorAGliJmuI",
+      "title": "Control an LED with MQTT & Ethernet?! | W5500-EVB-Pico2 + CircuitPython Demo",
+      "content": "Ever seen a light turn on just by sending a message? Watch how the W5500-EVB-Pico2 board from WIZnet uses CircuitPython + MQTT over Ethernet to control an LED \u2014 no WiFi needed! \ud83d\udccc What you\u2019ll see: Static IP setup with W5500 MQTT broker communication (Mosquitto) LED turns on/off by published messages \ud83d\ude80 Perfect for IoT beginners, Python fans, and smart home builders. \ud83d\udd17 Full project here: https://maker.wiznet.io/Grace_Koo/projects/circuitpython-mqtt-example-with-w5500-evb-pico2 #MQTT #CircuitPython #WIZnet #RaspberryPiPico #IoT #Shorts #Electronics #LEDControl #TechDemo #Ethernet",
+      "author": "WIZnet TV",
+      "timestamp": "2025-04-30 14:33:07+00:00",
+      "url": "https://www.youtube.com/watch?v=iorAGliJmuI",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "raspberry pi pico",
+          "pico ethernet",
+          "RP2040",
+          "raspberry pi",
+          "raspberry pi hat",
+          "ethernet hat",
+          "ethernet",
+          "wiznet",
+          "rp2040 ethernet",
+          "w5500",
+          "w5100",
+          "ethernet shield",
+          "MQTT",
+          "CircuitPython",
+          "WIZnet",
+          "W5500",
+          "W5500EVBPico2",
+          "RaspberryPiPico",
+          "IoT",
+          "LEDControl",
+          "TechDemo",
+          "Electronics",
+          "EmbeddedSystems",
+          "PythonProjects",
+          "Maker",
+          "DIYElectronics",
+          "EthernetNetworking",
+          "Microcontrollers",
+          "SmartHome",
+          "Automation",
+          "CircuitPythonMQTT",
+          "NoWiFi"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iorAGliJmuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iorAGliJmuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iorAGliJmuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iorAGliJmuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iorAGliJmuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "iorAGliJmuI",
+      "channel_id": "UCAxgCSp_xA2aQ1KA2Eknvqg",
+      "view_count": 371,
+      "like_count": 6,
+      "comment_count": 0,
+      "duration": "PT47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "AqpCiIf_XJM",
+      "title": "Super Simple ESPNow to Wi-Fi / MQTT Gateway & Why I Use Two ESP8266s",
+      "content": "A quick video on how to build the hub 3 at home with a simplified Hub3 source code. Get 10 PCBs for $5 USD at https://www.pcbway.com Buy the Hub3 PCB - https://store.mrdiy.ca/p/thehub_ver3_pcb Source code is available for download to my YouTube channel members as part of your membership benefits! Access it here: https://www.youtube.com/post/UgkxZlDKW6V7cyhRyWum5TqvAJJQRqyVgvyr Join the channel - https://www.youtube.com/channel/UCtfYdcn8F8wfRA2BXp2FPtg/join Shopping for D1 Mini? ================== \u25a0 Amazon - https://amzn.to/4kvBnbS \u25a0 AliExpress - https://s.click.aliexpress.com/e/_Af36zD Hub 3 - https://youtu.be/as6laOtSeNY Hub 2 - https://youtu.be/xPPdYvKbSFk Ultra Low Power Door Sensor - https://youtu.be/Oi3RwFTchig Music by Coma-Media from Pixabay The links above usually are affiliate links that support the channel (no additional cost for you).",
+      "author": "MrDIY",
+      "timestamp": "2022-02-21 20:27:16+00:00",
+      "url": "https://www.youtube.com/watch?v=AqpCiIf_XJM",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Ultra Low Power WiFi Trigger Sensor",
+          "Ultra Low Power WiFi Trigger Sensor using ESP8266",
+          "low power wifi door sensor",
+          "wifi door sensor",
+          "wifi motion sensor",
+          "wireless door sensor",
+          "wireless motion sensor",
+          "battery door sensor",
+          "esp8266 door sensor",
+          "esp8266 motion sensor",
+          "trigger sensor",
+          "design esp8266 sensor",
+          "espnow sensor",
+          "espnow sender",
+          "diy motion sensor",
+          "DIY Wifi door sensor",
+          "micro switch",
+          "MCP73831",
+          "ESP-12F",
+          "SPX3819",
+          "UCB-C 6 pins",
+          "ESPNow broadcast",
+          "ESPNow hub",
+          "ESPNow gateway"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqpCiIf_XJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqpCiIf_XJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqpCiIf_XJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AqpCiIf_XJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AqpCiIf_XJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "AqpCiIf_XJM",
+      "channel_id": "UCtfYdcn8F8wfRA2BXp2FPtg",
+      "view_count": 36431,
+      "like_count": 595,
+      "comment_count": 48,
+      "duration": "PT4M13S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "2S_kZo_ElxY",
+      "title": "Mosquitto MQTT Broker - Explanation and Setup",
+      "content": "Home Automation is a great way to add some quality of life features to your home. In this video I explain the basics of what MQTT is, and how to deploy a broker in Docker with Mosquitto. Deconz Docker Compose: https://github.com/JamesTurland/JimsGarage/blob/main/Mosquitto Hardware: Conbee III: https://amzn.to/3TRsmxk Conbee II: https://amzn.to/3xpbxm3 Hue Lights: https://amzn.to/3U7DmrM Sonoff: https://amzn.to/3PSczxk Recommended Hardware: https://github.com/JamesTurland/JimsGarage/blob/main/Homelab-Buyer's-Guide/Q3-2023.md Discord: https://discord.gg/qW5vEBekz5 Twitter: https://twitter.com/jimsgarage_ Reddit: https://www.reddit.com/user/Jims-Garage GitHub: https://github.com/JamesTurland/JimsGarage 00:00 - Introduction to MQTT & Mosquitto 03:50 - Docker Compose and Config File 10:40 - Checking Logs For Deployment 11:09 - Creating a User 13:10 - Outro",
+      "author": "Jim's Garage",
+      "timestamp": "2024-04-21 11:00:02+00:00",
+      "url": "https://www.youtube.com/watch?v=2S_kZo_ElxY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "home automation",
+          "home automation system",
+          "smart home automation",
+          "home automation project",
+          "alexa home automation",
+          "home automation ideas",
+          "home assistant automation",
+          "iot based home automation",
+          "home automation using esp32",
+          "home assistant",
+          "home assistant dashboard",
+          "philips hue",
+          "sonoff",
+          "automation",
+          "docker",
+          "deconz",
+          "zigbee",
+          "phoscon",
+          "mqtt",
+          "z2mqtt",
+          "alexa",
+          "ring",
+          "cctv",
+          "frigate",
+          "camera",
+          "homelab",
+          "linux",
+          "mosquitto",
+          "mqtt broker",
+          "what is mqtt",
+          "mqtt protocol in iot",
+          "mqtt tutorial",
+          "mqtt protocol"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2S_kZo_ElxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2S_kZo_ElxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2S_kZo_ElxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2S_kZo_ElxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2S_kZo_ElxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "2S_kZo_ElxY",
+      "channel_id": "UCUUTdohVElFLSP4NBnlPEwA",
+      "view_count": 39414,
+      "like_count": 689,
+      "comment_count": 35,
+      "duration": "PT14M39S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "0LBD0-gIA1I",
+      "title": "MQTT vs. HTTP for IoT",
+      "content": "Watch this video to understand the difference between MQTT and HTTP, and what is the best choice for IoT. Head to https://bit.ly/3ppZ7D5 for a full technologies comparison. Timestamps: 0:20 What is MQTT 0:58 What is HTTP 1:29 MQTT vs HTTP for IoT 3:49 What is better for IoT? MQTT or HTTP? Learn more about MQTT: \ud83d\udc49 MQTT Essentials eBook https://bit.ly/3Pbobsp \ud83d\udc49 MQTT Essentials blog series https://bit.ly/3nFglLM \ud83d\udc49 MQTT Essentials video series https://bit.ly/3yIw8Qe Music by Bensound.com/royalty-free-music Subscribe to our channel by hitting the red subscribe button above to get video updates. #MQTT #whatismqtt #HTTP #IoT",
+      "author": "HiveMQ",
+      "timestamp": "2022-08-17 15:07:56+00:00",
+      "url": "https://www.youtube.com/watch?v=0LBD0-gIA1I",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "MQTT",
+          "HTTP",
+          "MQTT vs HTTP",
+          "IoT",
+          "Internet of things",
+          "IoT messaging",
+          "IoT communication protocol"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0LBD0-gIA1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0LBD0-gIA1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LBD0-gIA1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0LBD0-gIA1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0LBD0-gIA1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "0LBD0-gIA1I",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 17245,
+      "like_count": 208,
+      "comment_count": 8,
+      "duration": "PT4M40S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "6n2wsKuO6o0",
+      "title": "Local API is Here! | MQTT x Home Assistant Integration Full Demo",
+      "content": "Learn how to connect Droplet to Home Assistant using Local API (via MQTT). With the latest update, Droplet now streams real-time water data directly over your local network to Home Assistant, or any MQTT-compatible smart home system. In this demo, we\u2019ll walk you through: \ud83d\udee0\ufe0f Setting up MQTT \ud83d\udcf2 Pairing Droplet with Home Assistant via the Droplet app Update your Droplet app to version 2.8 and take full control of your water monitoring: \u2705 Real-time flow rate \u2705 Network connection status \u2705 Signal quality received by the ultrasonic sensor \ud83d\udca7 Learn more about API set up: https://bit.ly/4lhinxP \ud83d\udd17 Get Droplet today: https://hydrificwater.com/droplet #Droplet #HomeAssistant #MQTT #SmartHome #LocalAPI #DropletSetup #HomeAutomation",
+      "author": "Hydrific, part of LIXIL",
+      "timestamp": "2025-07-08 13:32:03+00:00",
+      "url": "https://www.youtube.com/watch?v=6n2wsKuO6o0",
+      "metadata": {
+        "category_id": "22",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6n2wsKuO6o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6n2wsKuO6o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6n2wsKuO6o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6n2wsKuO6o0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6n2wsKuO6o0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "6n2wsKuO6o0",
+      "channel_id": "UCq4hRztcZaIlwQiUMGARDQw",
+      "view_count": 774,
+      "like_count": 14,
+      "comment_count": 2,
+      "duration": "PT1M37S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "CxG0UDAw_sg",
+      "title": "REST vs gRPC vs GraphQL vs SOAP vs WebSockets vs MQTT | Ultimate API Protocols Comparison 2025",
+      "content": "Confused about which API protocol to choose? In this video, we break down and compare the 6 most popular communication protocols: REST, gRPC, GraphQL, SOAP, WebSockets, and MQTT. You\u2019ll learn: \u2705 When to use each protocol \u2705 Benefits and risks of each \u2705 Ideal use cases for real-time apps, microservices, IoT, and more! Whether you're a frontend dev, backend engineer, or architect, this guide will help you choose the right protocol for your application needs in 2025 and beyond! Subscribe for more tech guides and architecture insights! #api #grpc #graphql #restapi #angular #webdevelopment #softwarearchitecture #mqtt #soap #websockets",
+      "author": "minor activity",
+      "timestamp": "2025-06-22 06:38:30+00:00",
+      "url": "https://www.youtube.com/watch?v=CxG0UDAw_sg",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "REST",
+          "gRPC",
+          "GraphQL",
+          "SOAP",
+          "WebSockets",
+          "MQTT",
+          "API protocols",
+          "Microservices",
+          "Angular",
+          "Real-time apps",
+          "IoT",
+          "Frontend development",
+          "Backend development",
+          "REST vs gRPC",
+          "GraphQL tutorial",
+          "API comparison 2025"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CxG0UDAw_sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CxG0UDAw_sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CxG0UDAw_sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CxG0UDAw_sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CxG0UDAw_sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en-IN",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "CxG0UDAw_sg",
+      "channel_id": "UCzsuniwwkYQdDlquWtTCoIg",
+      "view_count": 527,
+      "like_count": 18,
+      "comment_count": 2,
+      "duration": "PT15M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "bEE_EclcQNE",
+      "title": "HiveMQ MQTT Client Libraries",
+      "content": "HiveMQ MQTT Client Libraries are designed to simplify the deployment and implementation of MQTT clients and offer users top-notch functionality, performance, security, and reliability. Programming languages supported include C#, C++, Java, Websockets, Python, and more. These client libraries are freely available, open-sourced, developed, and maintained by a dedicated team of industry experts at HiveMQ. Learn more https://bit.ly/3Neo6Go Time-stamps: 0:00 Introduction 0:25 What are the HiveMQ MQTT Client Libraries? 00:55 Supercharge your app development cycle with HiveMQ MQTT Client Libraries 01:03 MQTT Clients are built, tested and maintained by industry experts at HiveMQ 01:15 The libraries support the most popular programming languages 01:22 The libraries are open-sourced 01:40 The libraries are flexible and platform independent 01:55 The list of featured MQTT Client Libraries Resources: - HiveMQ MQTT Client Libraries Page https://bit.ly/3Neo6Go - MQTT Essentials Series https://b",
+      "author": "HiveMQ",
+      "timestamp": "2023-04-26 13:00:26+00:00",
+      "url": "https://www.youtube.com/watch?v=bEE_EclcQNE",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "mqtt client",
+          "mqtt client libraries",
+          "mqtt",
+          "mqtt broker",
+          "IoT",
+          "iot devices",
+          "mqtt tutorial"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEE_EclcQNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEE_EclcQNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEE_EclcQNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bEE_EclcQNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bEE_EclcQNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "bEE_EclcQNE",
+      "channel_id": "UCiquDynjDdcSDuhdoE4vy1w",
+      "view_count": 847,
+      "like_count": 4,
+      "comment_count": 2,
+      "duration": "PT2M16S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "OtVdY95vwDY",
+      "title": "TM1638 Display with ESPHome and MQTT for Home Assistant",
+      "content": "The TM1638 7-segment display has just recently received support in ESPHome. I'll cover the board itself, wiring it up to a Wemos D1 Mini ESP8266 and then discuss using the display both with ESPHome or how it can be used with MQTT in Home Assistant. Written version of this project with diagrams and more: https://resinchemtech.blogspot.com/2022/10/tm1638.html Parts Used: ========== TM1638 7-Segment LED Display: https://amzn.to/3DEGliw Wemos D1 Mini: https://amzn.to/3MkOrA5 MicroUSB Cable: https://amzn.to/3emOPl5 Charger: https://amzn.to/3fVL2vu Some of these links may be Amazon affiliate links. Use of these links will not affect your pricing, but this channel may earn a small commission if you make a purchase. Use of these Amazon links is one the best ways to show your support for the channel... at absolutely no cost to you! Chapter Breaks: ============== 00:00 Intro 00:38 Board overview and components 01:26 Wiring connections and diagram 03:56 Initial testing 06:09 ESPHome TM163",
+      "author": "ResinChem Tech",
+      "timestamp": "2022-10-15 12:00:11+00:00",
+      "url": "https://www.youtube.com/watch?v=OtVdY95vwDY",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Home Assistant",
+          "7-segment",
+          "ESPHome",
+          "MQTT"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OtVdY95vwDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OtVdY95vwDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtVdY95vwDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OtVdY95vwDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OtVdY95vwDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "OtVdY95vwDY",
+      "channel_id": "UC3VW-yo-88jkrWYbyHBxYUg",
+      "view_count": 9340,
+      "like_count": 254,
+      "comment_count": 32,
+      "duration": "PT19M21S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "DJJjMvq2tOI",
+      "title": "Free Online MQTT Client | Ninety9post.com",
+      "content": "This video will help you to know how to use Free Online MQTT Client to test your mosquitto or MQTT broker. #ninety9post #bytesofgigabytes #mqtt #websockets Links: install mqtt broker on windows http://bytesofgigabytes.com/mqtt/installing-mqtt-broker-on-windows/ MQTT websockets https://bytesofgigabytes.com/mqtt/mqtt-websocket/",
+      "author": "bytesofgigabytes",
+      "timestamp": "2020-10-24 15:17:44+00:00",
+      "url": "https://www.youtube.com/watch?v=DJJjMvq2tOI",
+      "metadata": {
+        "category_id": "27",
+        "tags": [],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJJjMvq2tOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJJjMvq2tOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJJjMvq2tOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DJJjMvq2tOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DJJjMvq2tOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "DJJjMvq2tOI",
+      "channel_id": "UClc10LcMSf3fEONf01xyFFg",
+      "view_count": 1977,
+      "like_count": 19,
+      "comment_count": 0,
+      "duration": "PT7M47S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "aSuMrgfOV10",
+      "title": "MQTT Brokers Explained in 60 seconds",
+      "content": "Curious about how your smart devices stay connected? Meet the MQTT broker-the backbone of IoT communication! In this video, we'll explain what an MQTT broker is, how it works, and why it's essential for reliable smart device messaging. Plus, learn about popular MQTT brokers like Mosquitto, HiveMQ, AWS IoT Core, and EMQX. Unlock the secrets of seamless IoT communication today! Learn how MQTT brokers work and discover the top picks like EMQX, Mosquitto, and HiveMQ in this video. Explore the world of IoT and AWS IoT Core with MQTT protocol and make the right choice for your projects. #mqtt #mqttessentials #mosquitto #hivemq #emqx",
+      "author": "High Voltages",
+      "timestamp": "2024-12-24 20:00:00+00:00",
+      "url": "https://www.youtube.com/watch?v=aSuMrgfOV10",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "MQTT broker",
+          "what is MQTT broker",
+          "MQTT broker explained",
+          "Mosquitto broker",
+          "HiveMQ broker",
+          "AWS IoT Core",
+          "EMQX broker",
+          "MQTT messaging",
+          "IoT communication",
+          "smart device protocols",
+          "mqtt tutorial",
+          "mqtt",
+          "iot",
+          "iiot",
+          "mqtt broker",
+          "mqtt essentials",
+          "mqtt protocol"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aSuMrgfOV10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aSuMrgfOV10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aSuMrgfOV10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aSuMrgfOV10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aSuMrgfOV10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "aSuMrgfOV10",
+      "channel_id": "UCzOAiIISvLxNVdlf2suEZFw",
+      "view_count": 7630,
+      "like_count": 133,
+      "comment_count": 1,
+      "duration": "PT59S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "zdJvqzlgEy0",
+      "title": "MQTT Anywhere, LoRaWAN Sheep Tracking, More DOOM on everything!",
+      "content": "#maker #arduino #raspberrypi #diy Today we look at the MikroE MQTT Anywhere kit, an Arduino compatible cellular IoT development kit including a u-blox module and SIM. We'll also see some prize winning projects and a truly tiny nVME SSD! \u25ac Support us! \u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac We publish a new show every week. Subscribe here: https://www.youtube.com/channel/UCiMO2NHYWNiVTzyGsPYn4DA?sub_confirmation=1 We stock the latest products from Adafruit, Seeed Studio, Pimoroni, Sparkfun, and many more! Browse our shop: https://www.electromaker.io/shop Join us on Discord! https://discord.com/invite/w8d7mkCkxj Follow us on Twitter: https://twitter.com/ElectromakerIO Like us on Facebook: https://www.facebook.com/electromaker.io/ Follow us on TikTok: https://www.tiktok.com/@electromaker.io Follow us on Instagram: https://www.instagram.com/electromaker_io/ Don't have time to watch the show? Listen to the Electromaker Show in podcast format on your favourite podcast platform! https://directory.libsyn.com/sh",
+      "author": "Electromaker",
+      "timestamp": "2023-09-26 03:16:18+00:00",
+      "url": "https://www.youtube.com/watch?v=zdJvqzlgEy0",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Raspberry Pi",
+          "Raspberry Pi Projects",
+          "Arduino Projects",
+          "Raspberry Pi 4",
+          "RPi",
+          "RasPi",
+          "Maker",
+          "Tech",
+          "DIY",
+          "Do it Yourself",
+          "IoT",
+          "Internet of Things",
+          "Microcontrollers",
+          "Microcontroller",
+          "Arduino",
+          "Arduinos",
+          "Ubuntu",
+          "Linux",
+          "Crowdfunding",
+          "Crowdfunded",
+          "Crowdfund",
+          "STEM Learning",
+          "Open-source",
+          "Open Source",
+          "Dev Board",
+          "Development Board",
+          "Development Boards",
+          "Dev Boards",
+          "Maker Boards",
+          "Maker Board",
+          "SBC",
+          "Single-Board Computers",
+          "Single-board Computer",
+          "Single Board Computers",
+          "Single Board Computer"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdJvqzlgEy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdJvqzlgEy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdJvqzlgEy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zdJvqzlgEy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zdJvqzlgEy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "zdJvqzlgEy0",
+      "channel_id": "UCiMO2NHYWNiVTzyGsPYn4DA",
+      "view_count": 14758,
+      "like_count": 61,
+      "comment_count": 7,
+      "duration": "PT36M33S"
+    },
+    {
+      "platform": "youtube",
+      "post_id": "SMbexEAQZ9A",
+      "title": "Raspberry Pi Pico W MQTT garage indicator project overview and update",
+      "content": "More details: https://github.com/mrichardson23/garage-indicator",
+      "author": "Matt Richardson",
+      "timestamp": "2022-10-24 23:15:08+00:00",
+      "url": "https://www.youtube.com/watch?v=SMbexEAQZ9A",
+      "metadata": {
+        "category_id": "28",
+        "tags": [
+          "Matt Richardson"
+        ],
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SMbexEAQZ9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SMbexEAQZ9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SMbexEAQZ9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SMbexEAQZ9A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SMbexEAQZ9A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "default_language": "en",
+        "live_broadcast_content": "none"
+      },
+      "video_id": "SMbexEAQZ9A",
+      "channel_id": "UCzyj-fJji4hwggRGQh7pppw",
+      "view_count": 5451,
+      "like_count": 50,
+      "comment_count": 7,
+      "duration": "PT1M23S"
+    }
+  ],
+  "collection_time": "2025-10-06T11:54:53.211370",
+  "keyword": "mqtt",
+  "exact_match": true
+}

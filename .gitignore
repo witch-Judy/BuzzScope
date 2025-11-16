@@ -1,102 +1,40 @@
-# Environment variables
+# 大文件和数据目录
+data/Hackernews_raw/
+data/cache/discord/
+
+# 8501端口应用（不上传）
+app_simple_historical.py
+
+# 环境变量文件（敏感信息）
 .env
-.env.local
 .env.backup
 
-# Python
+# Python缓存
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
+*.pyc
+*.pyo
+*.pyd
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+*.so
 
-# Virtual environments
+# 虚拟环境
 venv/
 env/
 ENV/
-env.bak/
-venv.bak/
 
-# IDE
+# IDE文件
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
 
-# OS
+# 系统文件
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# Data files (keep structure but ignore large files)
-data/cache/*.json
-data/cache/*.parquet
-data/cache/*.csv
-data/cache/charts/*.json
-data/cache/charts/*.png
-data/cache/charts/*.jpg
-data/cache/charts/*.jpeg
-data/cache/charts/*.gif
-data/cache/charts/*.svg
-
-# Keep directory structure but ignore large data files
-!data/cache/
-!data/cache/charts/
-!data/cache/hackernews/
-!data/cache/reddit/
-!data/cache/youtube/
-!data/cache/discord/
-!data/cache/industry4.0TopContributers/
-
-# MQTT data
-mqtt-data/
-
-# Logs
+# 日志文件
 *.log
-logs/
 
-# Temporary files
+# 临时文件
 *.tmp
 *.temp
-temp/
-tmp/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# pytest
-.pytest_cache/
-
-# Coverage reports
-htmlcov/
-.coverage
-.coverage.*
-coverage.xml
-*.cover
-.hypothesis/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json

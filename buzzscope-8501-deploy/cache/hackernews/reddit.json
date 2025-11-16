@@ -1,0 +1,185 @@
+{
+  "keyword": "reddit",
+  "platform": "hackernews",
+  "data_source": "parquet",
+  "collected_at": "2025-10-07T15:23:53.812845",
+  "metrics": {
+    "platform": "hackernews",
+    "keyword": "reddit",
+    "total_posts": 31411,
+    "total_interactions": 40779,
+    "unique_authors": 13319,
+    "top_contributors": [
+      {
+        "author": "Aurornis",
+        "post_count": 113,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=Aurornis"
+      },
+      {
+        "author": "toomuchtodo",
+        "post_count": 92,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=toomuchtodo"
+      },
+      {
+        "author": "johnnyanmac",
+        "post_count": 86,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=johnnyanmac"
+      },
+      {
+        "author": "TMWNN",
+        "post_count": 84,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=TMWNN"
+      },
+      {
+        "author": "echelon",
+        "post_count": 80,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=echelon"
+      },
+      {
+        "author": "immibis",
+        "post_count": 74,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=immibis"
+      },
+      {
+        "author": "godelski",
+        "post_count": 62,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=godelski"
+      },
+      {
+        "author": "dredmorbius",
+        "post_count": 60,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=dredmorbius"
+      },
+      {
+        "author": "qingcharles",
+        "post_count": 56,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=qingcharles"
+      },
+      {
+        "author": "consumer451",
+        "post_count": 54,
+        "platform": "hackernews",
+        "profile_url": "https://news.ycombinator.com/user?id=consumer451"
+      }
+    ],
+    "top_posts": [
+      {
+        "title": "Cursor IDE support hallucinates lockout policy, causes user cancellations",
+        "interactions": 2117,
+        "author": "scaredpelican",
+        "created_at": "2025-04-14 16:24:28 UTC",
+        "url": "https://news.ycombinator.com/item?id=43683012",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Women dating safety app 'Tea' breached, users' IDs posted to 4chan",
+        "interactions": 1356,
+        "author": "gloxkiqcza",
+        "created_at": "2025-07-25 15:36:52 UTC",
+        "url": "https://news.ycombinator.com/item?id=44684373",
+        "platform": "hackernews"
+      },
+      {
+        "title": "A Reddit bot drove me insane",
+        "interactions": 1063,
+        "author": "erhmmmm",
+        "created_at": "2025-04-13 12:03:05 UTC",
+        "url": "https://news.ycombinator.com/item?id=43672139",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Show HN: I built an app to block Shorts and Reels",
+        "interactions": 995,
+        "author": "adrianhacar",
+        "created_at": "2025-08-16 14:01:38 UTC",
+        "url": "https://news.ycombinator.com/item?id=44923520",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Ask HN: What was the outcome of Reddit blackout?",
+        "interactions": 960,
+        "author": "thyrox",
+        "created_at": "2023-11-26 17:12:49 UTC",
+        "url": "https://news.ycombinator.com/item?id=38423167",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Tell HN: Hacker News now supports IPv6",
+        "interactions": 929,
+        "author": "p1mrx",
+        "created_at": "2024-01-23 03:00:15 UTC",
+        "url": "https://news.ycombinator.com/item?id=39099065",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Google is the only search engine that works on Reddit now, thanks to AI deal",
+        "interactions": 871,
+        "author": "turkeytotal",
+        "created_at": "2024-07-24 13:41:22 UTC",
+        "url": "https://news.ycombinator.com/item?id=41057033",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Tell HN: Reddit now blocks VPN access via browser, 'old' subdomain included",
+        "interactions": 715,
+        "author": "thih9",
+        "created_at": "2024-03-31 12:42:34 UTC",
+        "url": "https://news.ycombinator.com/item?id=39883747",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Reddit is full of bots: thread reposted comment by comment, 10 months later",
+        "interactions": 642,
+        "author": "SushiHippie",
+        "created_at": "2024-04-30 13:57:53 UTC",
+        "url": "https://news.ycombinator.com/item?id=40211010",
+        "platform": "hackernews"
+      },
+      {
+        "title": "Reddit is taking over Google",
+        "interactions": 594,
+        "author": "unclebucknasty",
+        "created_at": "2024-04-17 17:20:32 UTC",
+        "url": "https://news.ycombinator.com/item?id=40067605",
+        "platform": "hackernews"
+      }
+    ],
+    "monthly_mentions": {
+      "2025-10": 113,
+      "2025-09": 1413,
+      "2025-08": 1391,
+      "2025-07": 1244,
+      "2025-06": 973,
+      "2025-05": 1042,
+      "2025-04": 1404,
+      "2025-03": 1415,
+      "2025-02": 1338,
+      "2025-01": 1466,
+      "2024-12": 1084,
+      "2024-10": 1286,
+      "2024-09": 1121,
+      "2024-08": 1280,
+      "2024-06": 967,
+      "2024-05": 1352,
+      "2024-04": 1510,
+      "2024-07": 1041,
+      "2024-03": 2037,
+      "2024-02": 1649,
+      "2024-01": 1309,
+      "2023-12": 1289,
+      "2023-11": 1557,
+      "2024-11": 971,
+      "2023-10": 1159
+    }
+  },
+  "total_posts": 31411
+}
