@@ -1,7 +1,7 @@
 # 📧 快速邮件设置指南
 
 ## 🎯 目标
-设置Gmail邮件通知，当检测到热门帖子时自动发送邮件到 `bihanchen1123@gmail.com`
+设置Gmail邮件通知，当检测到热门帖子时自动发送邮件到你的邮箱
 
 ## 📋 步骤
 
@@ -30,10 +30,10 @@
 # Email Configuration
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
-EMAIL_USERNAME=bihanchen1123@gmail.com
-EMAIL_PASSWORD=你的16位应用密码
-FROM_EMAIL=bihanchen1123@gmail.com
-TO_EMAIL=bihanchen1123@gmail.com
+EMAIL_USERNAME=your_email@gmail.com
+EMAIL_PASSWORD=your_16_digit_app_password
+FROM_EMAIL=your_email@gmail.com
+TO_EMAIL=your_notification_email@gmail.com
 ```
 
 **重要**：将 `你的16位应用密码` 替换为步骤1中生成的实际密码。
