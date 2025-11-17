@@ -304,11 +304,16 @@ def main():
     # Configuration
     keywords = ['ai', 'iot', 'mqtt', 'unified_namespace']
     
+    # Get password and remove spaces (Gmail app passwords may have spaces)
+    password = os.getenv('EMAIL_PASSWORD', '')
+    if password:
+        password = password.replace(' ', '')  # Remove spaces from app password
+    
     email_config = {
         'smtp_server': os.getenv('SMTP_SERVER', 'smtp.gmail.com'),
         'smtp_port': int(os.getenv('SMTP_PORT', '587')),
         'username': os.getenv('EMAIL_USERNAME'),
-        'password': os.getenv('EMAIL_PASSWORD'),
+        'password': password,
         'from_email': os.getenv('FROM_EMAIL'),
         'to_email': os.getenv('TO_EMAIL')
     }

@@ -21,7 +21,9 @@ class EventDrivenService:
         self.smtp_server = os.getenv('SMTP_SERVER', 'smtp.gmail.com')
         self.smtp_port = int(os.getenv('SMTP_PORT', '587'))
         self.email_user = os.getenv('EMAIL_USER')
-        self.email_password = os.getenv('EMAIL_PASSWORD')
+        # Get password and remove spaces (Gmail app passwords may have spaces)
+        password = os.getenv('EMAIL_PASSWORD', '')
+        self.email_password = password.replace(' ', '') if password else ''
         self.notification_email = os.getenv('NOTIFICATION_EMAIL')
         
         # Initialize real-time collection service
