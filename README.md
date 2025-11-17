@@ -83,7 +83,7 @@ BuzzScope consists of multiple independent Streamlit applications, each running 
 
 ### Prerequisites
 - Python 3.8+
-- API keys for Reddit and YouTube (optional for demo)
+- API keys for YouTube and OpenAI (Reddit uses public API, no key needed)
 
 ### Installation
 
@@ -213,8 +213,8 @@ The application requires a 2-year Hacker News dataset for full functionality:
 
 ### Supported Platforms
 - **Hacker News**: Official API + 2-year historical dataset (7.6M+ records)
-- **Reddit**: Public JSON API (no authentication required)
-- **YouTube**: Data API v3 with quota management
+- **Reddit**: Public JSON API - **No API key required!** Uses `https://www.reddit.com/r/{subreddit}/new.json`
+- **YouTube**: Data API v3 with quota management (requires API key)
 - **Discord**: Community data (requires access to specific groups)
 
 ## Contributing
