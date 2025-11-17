@@ -149,7 +149,7 @@ The application comes with pre-analyzed data for:
 ### Reddit
 - Searches across all subreddits
 - Collects posts, comments, and metadata
-- Uses Reddit's public JSON API
+- Uses Reddit's public JSON API (no authentication required)
 
 ### YouTube
 - Searches video titles and descriptions
@@ -173,15 +173,11 @@ BuzzScope/
 
 ## API Setup
 
-### Reddit API
-1. Visit [Reddit App Preferences](https://www.reddit.com/prefs/apps)
-2. Create a new app (script type)
-3. Add credentials to `.env`:
-```env
-REDDIT_CLIENT_ID=your_client_id
-REDDIT_CLIENT_SECRET=your_client_secret
-REDDIT_USER_AGENT=your_app_name/1.0
-```
+### Reddit
+**No API key required!** Reddit uses a public JSON API that doesn't require authentication.
+- Accessible via: `https://www.reddit.com/r/{subreddit}/new.json`
+- No credentials needed
+- Rate limit: ~60 requests per minute (automatically handled)
 
 ### YouTube API
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)

@@ -56,15 +56,11 @@ python run.py --help
 4. Create API credentials
 5. Add to `.env`: `YOUTUBE_API_KEY=your_key_here`
 
-### Reddit API
-1. Go to [Reddit App Preferences](https://www.reddit.com/prefs/apps)
-2. Create a new app (script type)
-3. Add to `.env`:
-   ```
-   REDDIT_CLIENT_ID=your_client_id
-   REDDIT_CLIENT_SECRET=your_client_secret
-   REDDIT_USER_AGENT=your_app_name/1.0
-   ```
+### Reddit
+**No API setup required!** Reddit uses a public JSON API that doesn't require authentication.
+- Uses public endpoints: `https://www.reddit.com/r/{subreddit}/new.json`
+- No credentials needed in `.env`
+- Rate limiting is automatically handled in the code
 
 ### Discord Data
 1. Use [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
@@ -74,7 +70,7 @@ python run.py --help
 ## Quick Start
 
 1. **Install dependencies**: `pip install -r requirements.txt`
-2. **Configure APIs**: Edit `.env` with your API keys
+2. **Configure APIs**: Edit `.env` with your API keys (YouTube and OpenAI required, Reddit not needed)
 3. **Test setup**: `python test_setup.py`
 4. **Launch app**: `python run.py app`
 5. **Start tracking**: Enter a keyword like "UNS" and select platforms
