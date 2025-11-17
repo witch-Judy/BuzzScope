@@ -29,7 +29,7 @@ class Config:
             'enabled': True
         },
         'reddit': {
-            'enabled': bool(REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET),
+            'enabled': True,  # Reddit uses public JSON API, no authentication required
             'subreddits': ['technology', 'programming', 'MachineLearning', 'IoT', 'arduino']
         },
         'youtube': {
