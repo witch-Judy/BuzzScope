@@ -280,11 +280,26 @@ class HotPostDetector:
         
         # Send email
         try:
+            # Debug: Check password format
+            password = self.email_config['password']
+            if ' ' in password:
+                st.warning(f"⚠️ Password contains spaces! Removing them...")
+                password = password.replace(' ', '')
+                self.email_config['password'] = password
+            
             with smtplib.SMTP(self.email_config['smtp_server'], self.email_config['smtp_port']) as server:
                 server.starttls()
-                server.login(self.email_config['username'], self.email_config['password'])
+                server.login(self.email_config['username'], password)
                 server.send_message(msg)
             return True
+        except smtplib.SMTPAuthenticationError as e:
+            st.error(f"❌ Email authentication failed: {e}")
+            st.info("💡 Troubleshooting tips:")
+            st.info("1. Check if EMAIL_PASSWORD in .env is correct")
+            st.info("2. Ensure you're using Gmail App Password (not regular password)")
+            st.info("3. Make sure 2-factor authentication is enabled")
+            st.info("4. Try regenerating the app password")
+            return False
         except Exception as e:
             st.error(f"Error sending email: {e}")
             return False
@@ -377,6 +392,10 @@ def main():
     st.markdown("**Port 8503 - Real-time Hot Post Detection & Email Notifications**")
     
     # Initialize detector
+    # Force reload .env to ensure latest config (useful when .env is updated)
+    from dotenv import load_dotenv
+    load_dotenv(override=True)
+    
     detector = HotPostDetector()
     
     # Sidebar configuration
